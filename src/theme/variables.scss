@@ -1,2 +1,23 @@
 // For information on how to create your own theme, please refer to:
 // https://ionicframework.com/docs/theming/
+:root {
+  /* Головний фон додатка — глибокий різдвяний червоний із затишним відтінком */
+  --ion-background-color: #8B1E24;
+  --ion-background-color-rgb: 139, 30, 36;
+
+  /* Основні брендові кольори під референс */
+  --ion-color-primary: #7A1C2E;        /* Винно-бордовий */
+  --ion-color-primary-rgb: 122, 28, 46;
+  
+  --ion-color-secondary: #1B4332;      /* Хвойно-зелений */
+  --ion-color-secondary-rgb: 27, 67, 50;
+
+  --ion-color-tertiary: #E8DFD8;       /* Теплий кремово-бежевий */
+  --ion-color-tertiary-rgb: 232, 223, 216;
+
+  /* Додаткові унікальні кольори для карток Advent Tram */
+  --tram-card-bg: #F5EBE6;             /* Кремовий фон головного контейнера */
+  --tram-green: #1B4332;               /* Зелені елементи / картки */
+  --tram-burgundy: #7A1C2E;            /* Бордові елементи / картки */
+  --tram-beige: #E8DFD8;               /* Бежеві елементи */
+}
