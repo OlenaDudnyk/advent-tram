@@ -23,10 +23,15 @@
       </div>
     </div>
 
-    <!-- Main Content -->
-    <div class="content">
-      <!-- Decorative Image/Icon -->
-      <div class="illustration">🎄</div>
+    <!-- Main Container -->
+    <div class="container">
+      <!-- Tagline -->
+      <p class="tagline">{{ t().tagline }}</p>
+
+      <!-- Tram Illustration -->
+      <div class="illustration">
+        <img src="assets/tram.svg" alt="Advent Tram" class="tram-image" />
+      </div>
 
       <!-- Title & Subtitle -->
       <h1 class="title">{{ t().title }}</h1>
@@ -39,24 +44,20 @@
           {{ t().ageGroupDescription }}
         </p>
 
-        <ion-grid class="age-group-grid" fixed>
-          <ion-row>
-            @for (option of ageGroupOptions(); track option.id; let i = $index) {
-              <ion-col size="6" sizeMd="6" sizeLg="6">
-                <button
-                  class="age-group-btn"
-                  [class]="'color-' + option.color"
-                  [class.selected]="isAgeGroupSelected(option.id)"
-                  (click)="toggleAgeGroup(option.id)"
-                  type="button"
-                  attr.aria-label="Toggle {{ option.label }}"
-                >
-                  <span class="btn-text">{{ option.label }}</span>
-                </button>
-              </ion-col>
-            }
-          </ion-row>
-        </ion-grid>
+        <div class="age-group-grid">
+          @for (option of ageGroupOptions(); track option.id) {
+            <button
+              class="age-group-btn"
+              [class]="'color-' + option.color"
+              [class.selected]="isAgeGroupSelected(option.id)"
+              (click)="toggleAgeGroup(option.id)"
+              type="button"
+              attr.aria-label="Toggle {{ option.label }}"
+            >
+              <span class="btn-text">{{ option.label }}</span>
+            </button>
+          }
+        </div>
       </div>
 
       <!-- Error Message -->
@@ -71,10 +72,8 @@
       <p class="footer-text">
         {{ t().footerText }}
       </p>
-    </div>
 
-    <!-- Action Button -->
-    <div class="action-area">
+      <!-- Action Button - Inside Container -->
       <ion-button
         class="board-button"
         [disabled]="isLoading()"

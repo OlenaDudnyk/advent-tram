@@ -1,17 +1,12 @@
 import { Component, OnInit, inject, signal, computed } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Router } from '@angular/router';
-import {
-  IonContent,
-  IonButton,
-  IonGrid,
-  IonRow,
-  IonCol,
-} from '@ionic/angular';
+import { IonContent, IonButton } from '@ionic/angular';
 import { StorageService } from '../../core/services';
 import { AppSettings, AgeGroup } from '../../core/models';
 
 interface Translation {
+  tagline: string;
   title: string;
   subtitle: string;
   ageGroupLabel: string;
@@ -28,7 +23,8 @@ interface Translation {
 
 const TRANSLATIONS: Record<'ua' | 'en', Translation> = {
   en: {
-    title: 'A Little Wonder, Every Day',
+    tagline: 'A LITTLE WONDER, EVERY DAY',
+    title: 'Advent Tram',
     subtitle: 'Your ticket to a slower, sweeter Christmas.',
     ageGroupLabel: "Who's riding?",
     ageGroupDescription: 'Make room for your favorite people.',
@@ -42,7 +38,8 @@ const TRANSLATIONS: Record<'ua' | 'en', Translation> = {
     selectLanguage: 'Language',
   },
   ua: {
-    title: 'Трохи чуда щодня',
+    tagline: 'ТРОХИ ЧУДА ЩОДНЯ',
+    title: 'Advent Tram',
     subtitle: 'Ваш квиток до повільнішого, слідшого Різдва.',
     ageGroupLabel: 'Хто їде?',
     ageGroupDescription: 'Зроби місце для своїх близьких.',
@@ -64,9 +61,6 @@ const TRANSLATIONS: Record<'ua' | 'en', Translation> = {
     CommonModule,
     IonContent,
     IonButton,
-    IonGrid,
-    IonRow,
-    IonCol,
   ],
   templateUrl: './onboarding.component.html',
   styleUrls: ['./onboarding.component.scss'],
