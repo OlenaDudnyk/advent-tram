@@ -1,0 +1,51 @@
+{
+  "id": "task_002",
+  "slug": "a-little-mess-a-lot-of-joy",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "gingerbread.svg",
+  "tags": [],
+  "inspiration": {
+    "url": "https://www.youtube.com/results?search_query=gingerbread+cookies+decorating+tutorial"
+  },
+  "text": {
+    "en": {
+      "title": "A little mess, a lot of joy",
+      "shortDesc": "Bake and decorate gingerbread cookies",
+      "fullDesc": "Gather around the kitchen for a festive baking session. Mix the dough, roll it out, cut festive shapes, and decorate with icing, sprinkles, and colorful toppings. The imperfect bits are the best bits—embrace the messy, joyful process of creating together."
+    },
+    "ua": {
+      "title": "Трохи безладу, багато радості",
+      "shortDesc": "Випічіть і прикрасьте імбирне печиво",
+      "fullDesc": "Зберіться на кухні для святкового печива. Замісіть тісто, розкачайте, виріжте фігурки й прикрасьте глазур'ю, посипкою та кольоровими цукерками. Недосконалі шматочки — найсмачніші: насолоджуйтеся веселим безладом разом."
+    },
+    "pl": {
+      "title": "Odrobina bałaganu, mnóstwo radości",
+      "shortDesc": "Upieczcie i udekorujcie pierniczki",
+      "fullDesc": "Zbierzcie się w kuchni na świąteczne pieczenie. Zagniećcie ciasto, rozwałkujcie je, wytnijcie świąteczne kształty i udekorujcie lukrem, posypką i kolorowymi dodatkami. Niedoskonałe chwile są najlepsze, więc cieszcie się wspólnym, radosnym bałaganem."
+    },
+    "es": {
+      "title": "Un poco de desorden, mucha alegría",
+      "shortDesc": "Hornea y decora galletas de jengibre",
+      "fullDesc": "Reúnanse en la cocina para una sesión de repostería navideña. Mezclen la masa, extiéndanla, corten figuras festivas y decórenlas con glaseado, grageas y toppings de colores. Lo imperfecto es lo mejor: disfruten del proceso desordenado y alegre de crear juntos."
+    },
+    "de": {
+      "title": "Ein bisschen Chaos, ganz viel Freude",
+      "shortDesc": "Lebkuchenplätzchen backen und verzieren",
+      "fullDesc": "Versammelt euch in der Küche zum festlichen Backen. Knetet den Teig, rollt ihn aus, stecht weihnachtliche Formen aus und verziert sie mit Zuckerguss, Streuseln und bunten Dekorationen. Das Unperfekte ist oft das Schönste – genießt das fröhliche Durcheinander beim gemeinsamen Werkeln."
+    },
+    "fr": {
+      "title": "Un peu de désordre, beaucoup de joie",
+      "shortDesc": "Préparez et décorez des biscuits au pain d'épices",
+      "fullDesc": "Réunissez-vous dans la cuisine pour une séance de pâtisserie de fête. Mélangez la pâte, étalez-la, découpez des formes de saison et décorez avec du glaçage, des vermicelles et des garnitures colorées. Les petites imperfections sont les plus belles : savourez ce moment joyeux et un peu brouillon à créer ensemble."
+    }
+  }
+}

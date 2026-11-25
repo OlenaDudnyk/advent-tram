@@ -1,0 +1,60 @@
+<ion-content>
+  <main class="saved-shell">
+    <app-frame-nav />
+    <header>
+      <app-back-button [path]="backPath()" [queryParams]="backParams()" [label]="'saved.back' | translate: language()" />
+      <h1>{{ 'home.savedIdeas' | translate: language() }}</h1>
+    </header>
+
+    @if (loading()) {
+      <p class="status" role="status">...</p>
+    } @else if (error()) {
+      <p class="status" role="alert">{{ 'saved.error' | translate: language() }}</p>
+      <button type="button" class="btn btn-primary" (click)="loadIdeas()">{{ 'deck.retry' | translate: language() }}</button>
+    } @else {
+      @if (missing()) {
+        <p class="status" role="status">{{ 'saved.missing' | translate: language() }}</p>
+      } @else if (!ideas().length) {
+        <p class="status">{{ 'saved.empty' | translate: language() }}</p>
+      }
+      @if (message(); as key) { <p class="status" role="alert">{{ key | translate: language() }}</p> }
+      <div class="ideas">
+        @for (idea of ideas(); track idea.id) {
+          <article>
+            <button type="button" class="btn-icon remove-btn" (click)="remove(idea)" [attr.aria-label]="'saved.remove' | translate: language()" [title]="'saved.remove' | translate: language()">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M9 7V4h6v3m-8 0 1 13h8l1-13M10 11v6m4-6v6" /></svg>
+            </button>
+            <div class="idea-head">
+              <img class="idea-art" [src]="artFor(idea)" alt="" draggable="false" />
+              <div class="idea-title">
+                <h2 class="title-card">{{ idea.title }}</h2>
+                <span class="meta">{{ (idea.location === 'in' ? 'filter.atHome' : 'filter.outdoors') | translate: language() }} · {{ idea.duration }} {{ 'filter.minutes' | translate: language() }}</span>
+              </div>
+            </div>
+            <p>{{ idea.fullDesc }}</p>
+            <div class="actions">
+              <button type="button" class="btn btn-primary" (click)="scheduleIdea(idea)">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3" /><path d="M8 3v4m8-4v4M3 10h18" /></svg>
+                {{ 'route.scheduleToDay' | translate: language() }}
+              </button>
+              <button type="button" class="btn btn-success" (click)="memoryTask.set(idea)">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5" /></svg>
+                {{ 'saved.complete' | translate: language() }}
+              </button>
+            </div>
+          </article>
+        }
+      </div>
+    }
+    <app-frame-footer />
+  </main>
+  <ion-modal class="sheet-modal" [isOpen]="memoryTask() !== null" [canDismiss]="!saving()" (didDismiss)="memoryTask.set(null)">
+    <ng-template>
+      <div class="sheet">
+        @if (memoryTask(); as task) {
+          <app-memory-form [task]="task" [title]="task.title" [language]="language()" (finished)="finishMemory(task)" (cancelled)="memoryTask.set(null)" (busyChange)="saving.set($event)" />
+        }
+      </div>
+    </ng-template>
+  </ion-modal>
+</ion-content>

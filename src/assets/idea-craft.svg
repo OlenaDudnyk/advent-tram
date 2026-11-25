@@ -1,0 +1,15 @@
+<svg width="86" height="86" viewBox="0 0 86 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="r-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F6DDD3"/><stop offset="1" stop-color="#EBBFB0"/></linearGradient>
+    <linearGradient id="r-star" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E5A93A"/></linearGradient>
+    <linearGradient id="r-flake" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFDF9"/><stop offset="1" stop-color="#DCCFC6"/></linearGradient>
+  </defs>
+  <rect width="86" height="86" rx="20" fill="url(#r-bg)"/>
+  <ellipse cx="38" cy="74" rx="22" ry="3.500" fill="#7A1C2E" opacity=".18"/>
+  <path d="M38 12l7.500 15.500 17 2.300-12.400 11.900 3 16.800L38 49.700 22.900 58.500l3-16.800L13.500 29.800l17-2.300L38 12Z" fill="url(#r-star)"/>
+  <path d="M38 12l7.500 15.500 17 2.300" stroke="#fff" stroke-width="2.400" stroke-linecap="round" opacity=".5"/>
+  <g transform="translate(60 58)" stroke="url(#r-flake)" stroke-width="3.400" stroke-linecap="round">
+    <path d="M0-13V13M-11.300-6.500L11.300 6.500M-11.300 6.500L11.300-6.500"/>
+    <path d="M-3.500-10L0-6.500l3.500-3.500M-3.500 10L0 6.500l3.500 3.500" stroke-width="2.400"/>
+  </g>
+</svg>

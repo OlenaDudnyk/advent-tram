@@ -1,0 +1,51 @@
+{
+  "id": "task_015",
+  "slug": "a-slow-baking-afternoon",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "gingerbread.svg",
+  "tags": [],
+  "inspiration": {
+    "url": "https://www.youtube.com/results?search_query=easy+christmas+baking+recipes"
+  },
+  "text": {
+    "en": {
+      "title": "A slow baking afternoon",
+      "shortDesc": "Bake a favorite seasonal treat",
+      "fullDesc": "Choose a familiar recipe, gather the ingredients, and bake together at your own pace. While your treats cool, set the table and make time to enjoy them together."
+    },
+    "ua": {
+      "title": "Неспішне печення",
+      "shortDesc": "Спечіть улюблені сезонні смаколики",
+      "fullDesc": "Оберіть знайомий рецепт, приготуйте продукти й пеките разом у своєму темпі. Поки випічка стигне, накрийте на стіл і знайдіть час насолодитися нею разом."
+    },
+    "pl": {
+      "title": "Powolne popołudnie z pieczeniem",
+      "shortDesc": "Upieczcie ulubiony sezonowy smakołyk",
+      "fullDesc": "Wybierzcie znany przepis, przygotujcie składniki i pieczcie razem we własnym tempie. Gdy wypieki stygną, nakryjcie do stołu i znajdźcie czas, by cieszyć się nimi razem."
+    },
+    "es": {
+      "title": "Una tarde de repostería sin prisa",
+      "shortDesc": "Hornea tu dulce de temporada favorito",
+      "fullDesc": "Elijan una receta conocida, reúnan los ingredientes y horneen juntos a su ritmo. Mientras se enfrían, pongan la mesa y dediquen tiempo a disfrutarlos juntos."
+    },
+    "de": {
+      "title": "Ein gemütlicher Backnachmittag",
+      "shortDesc": "Backt eure liebste Weihnachtsleckerei",
+      "fullDesc": "Wählt ein vertrautes Rezept, stellt die Zutaten bereit und backt gemeinsam in aller Ruhe. Während das Gebäck abkühlt, deckt ihr den Tisch und nehmt euch Zeit, es zusammen zu genießen."
+    },
+    "fr": {
+      "title": "Un après-midi pâtisserie en douceur",
+      "shortDesc": "Préparez une gourmandise de saison préférée",
+      "fullDesc": "Choisissez une recette familière, rassemblez les ingrédients et cuisinez ensemble à votre rythme. Pendant que vos gourmandises refroidissent, mettez la table et prenez le temps de les savourer ensemble."
+    }
+  }
+}

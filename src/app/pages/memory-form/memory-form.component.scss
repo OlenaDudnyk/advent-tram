@@ -1,0 +1,68 @@
+$wine: #7a1c2e;
+$green: #1b4332;
+$cream: #f7f0ec;
+$sand: #ebe2dc;
+$muted: #6b5f58;
+
+:host { display: block; font-family: 'Inter Variable', sans-serif; color: #2f2622; }
+.memory-form { position: relative; padding-top: 14px; }
+.form-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.eyebrow { margin: 0; color: $wine; font-size: 11px; font-weight: 700; letter-spacing: .08em; }
+.top-actions { display: flex; align-items: center; margin-right: -10px; }
+.close-btn { color: #5b4f48; }
+h2 { margin: 14px 0 10px; }
+.subtitle { margin: 0 0 20px; color: #5b4f48; font-size: 15px; line-height: 1.4; }
+
+// Square dashed photo drop, centred.
+.photo-drop {
+  position: relative;
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  gap: 6px;
+  box-sizing: border-box;
+  width: min(260px, 100%);
+  aspect-ratio: 1;
+  margin: 0 auto;
+  overflow: hidden;
+  border: 2px dashed #b7a99f;
+  border-radius: 36px;
+  background: #ebe2dc;
+  color: $green;
+  cursor: pointer;
+  transition: border-color .15s, background .15s;
+
+  input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+  .camera { width: 44px; height: 44px; margin-bottom: 8px; }
+  .photo-title { font: 700 16px 'Inter Variable', sans-serif; }
+  .photo-hint { color: #5b4f48; font-size: 13px; }
+  &:focus-within, &:hover { border-color: $wine; }
+  &.has-photo { border-style: solid; border-color: transparent; box-shadow: 0 6px 18px rgba(92, 48, 38, .16); }
+  .replace { position: absolute; right: 12px; bottom: 12px; padding: 8px 14px; border-radius: 18px; background: rgba(255, 252, 248, .95); color: $wine; font: 700 12px 'Inter Variable', sans-serif; }
+}
+.preview { display: block; width: 100%; height: 100%; object-fit: cover; }
+
+.note-label { display: block; margin: 24px 0 8px; color: #2f2622; font-size: 15px; font-weight: 700; }
+.note-box { position: relative; }
+textarea {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-height: 104px;
+  padding: 14px 16px 34px;
+  border: 1.5px solid #e3d7ce;
+  border-radius: 22px;
+  background: #fffcf8;
+  color: #2f2622;
+  font: 15px/1.45 'Inter Variable', sans-serif;
+  resize: none;
+  &::placeholder { color: #8a7d75; }
+  &:focus { outline: 0; border-color: $wine; box-shadow: 0 0 0 3px rgba(122, 28, 46, .12); }
+}
+.counter { position: absolute; right: 16px; bottom: 10px; color: #6b5f58; font-size: 12px; }
+.counter.over { color: $wine; font-weight: 700; }
+.privacy { display: flex; align-items: center; justify-content: center; gap: 8px; margin: 14px 0 0; color: #5b4f48; font-size: 13px; }
+.privacy svg { width: 16px; height: 16px; }
+.error { margin: 10px 0 0; color: $wine; font-size: 12px; }
+
+

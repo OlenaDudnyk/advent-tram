@@ -17,6 +17,15 @@ export default defineConfig({
       name: 'Mobile Chrome',
       use: { ...devices['Pixel 7'] },
     },
+    // Tablet layouts (portrait = wider single column, landscape = two-pane calendar and home).
+    {
+      name: 'Tablet portrait',
+      use: { ...devices['iPad Pro 11'], browserName: 'chromium' },
+    },
+    {
+      name: 'Tablet landscape',
+      use: { ...devices['iPad Pro 11 landscape'], browserName: 'chromium' },
+    },
   ],
   webServer: {
     command: 'npm start -- --port 4200',

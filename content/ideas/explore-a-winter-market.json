@@ -1,0 +1,47 @@
+{
+  "id": "task_023",
+  "slug": "explore-a-winter-market",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Explore a winter market",
+      "shortDesc": "Visit a local festive market",
+      "fullDesc": "Visit a nearby winter market or seasonal fair together. Wander at your own pace, look at handmade decorations, and enjoy the atmosphere without needing to buy anything."
+    },
+    "ua": {
+      "title": "Відвідайте зимовий ярмарок",
+      "shortDesc": "Зазирніть на місцевий святковий ринок",
+      "fullDesc": "Відвідайте найближчий зимовий ярмарок разом. Гуляйте у своєму темпі, розглядайте прикраси ручної роботи й насолоджуйтеся атмосферою — купувати зовсім не обов'язково."
+    },
+    "pl": {
+      "title": "Odkryjcie zimowy jarmark",
+      "shortDesc": "Odwiedźcie lokalny świąteczny jarmark",
+      "fullDesc": "Odwiedźcie razem pobliski zimowy jarmark lub sezonowy kiermasz. Spacerujcie we własnym tempie, oglądajcie ręcznie robione ozdoby i chłońcie atmosferę, bez żadnego przymusu kupowania."
+    },
+    "es": {
+      "title": "Explora un mercadillo navideño",
+      "shortDesc": "Visita un mercado festivo local",
+      "fullDesc": "Visiten juntos un mercadillo de invierno o una feria de temporada cercana. Paseen a su ritmo, miren las decoraciones artesanales y disfruten del ambiente sin necesidad de comprar nada."
+    },
+    "de": {
+      "title": "Den Weihnachtsmarkt erkunden",
+      "shortDesc": "Einen Markt in der Nähe besuchen",
+      "fullDesc": "Besucht zusammen einen Weihnachtsmarkt in der Nähe. Schlendert in eurem eigenen Tempo, bestaunt handgemachte Dekoration und genießt die Stimmung, ohne etwas kaufen zu müssen."
+    },
+    "fr": {
+      "title": "Explorer un marché de Noël",
+      "shortDesc": "Visitez un marché de fête près de chez vous",
+      "fullDesc": "Visitez ensemble un marché d'hiver ou une fête de saison près de chez vous. Flânez à votre rythme, admirez les décorations faites main et profitez de l'ambiance sans avoir besoin d'acheter quoi que ce soit."
+    }
+  }
+}

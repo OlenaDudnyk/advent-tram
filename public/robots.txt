@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /saved
+Disallow: /settings
+Disallow: /tram-route
+Disallow: /adventure
+Disallow: /onboarding
+
+Sitemap: __SITE_URL__/sitemap.xml

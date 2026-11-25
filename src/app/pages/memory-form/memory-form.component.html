@@ -1,0 +1,55 @@
+<section class="memory-form">
+  <div class="form-top">
+    <p class="eyebrow">{{ 'memory.eyebrow' | translate: language }}</p>
+    <div class="top-actions">
+      @if (entry) {
+        <button class="btn-icon" type="button" [disabled]="saving()" (click)="confirmingDelete.set(true)" [attr.aria-label]="'memory.delete' | translate: language" [title]="'memory.delete' | translate: language">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M9 7V4h6v3m-8 0 1 13h8l1-13M10 11v6m4-6v6" /></svg>
+        </button>
+      }
+      <button class="btn-icon close-btn" type="button" [disabled]="saving()" (click)="cancelled.emit()" [attr.aria-label]="'filter.close' | translate: language">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" /></svg>
+      </button>
+    </div>
+  </div>
+  <h2 class="title-display">{{ (entry ? 'memory.editTitle' : 'route.photoTitle') | translate: language }}</h2>
+  <p class="subtitle">{{ entry ? title : ('memory.subtitle' | translate: language) }}</p>
+
+  <label class="photo-drop" [class.has-photo]="photo()">
+    @if (photo()) {
+      <img class="preview" [src]="photo()" alt="" />
+      <span class="replace">{{ 'memory.replacePhoto' | translate: language }}</span>
+    } @else {
+      <svg class="camera" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8.500A1.500 1.500 0 0 1 5.500 7H8l1.200-2h5.600L16 7h2.500A1.500 1.500 0 0 1 20 8.500v9a1.500 1.500 0 0 1-1.500 1.500h-13A1.500 1.500 0 0 1 4 17.500v-9Z" /><circle cx="12" cy="13" r="3.600" /></svg>
+      <span class="photo-title">{{ 'memory.addPhoto' | translate: language }}</span>
+      <span class="photo-hint">{{ 'memory.addPhotoHint' | translate: language }}</span>
+    }
+    <input type="file" accept="image/*" (change)="choosePhoto($event)" />
+  </label>
+
+  <label class="note-label" for="memory-note">{{ 'memory.noteLabel' | translate: language }}</label>
+  <div class="note-box">
+    <textarea id="memory-note" rows="3" [maxLength]="maxNote" [placeholder]="'memory.notePlaceholder' | translate: language" [value]="note()" (input)="updateNote($event)"></textarea>
+    <span class="counter" [class.over]="note().length > maxNote" aria-hidden="true">{{ note().length }} / {{ maxNote }}</span>
+  </div>
+  @if (error(); as key) { <p class="error" role="alert">{{ key | translate: language }}</p> }
+
+  <button class="btn btn-primary" type="button" [disabled]="!photo() || saving()" (click)="save()">{{ (entry ? 'memory.saveChanges' : 'route.saveMemory') | translate: language }}</button>
+  <p class="privacy">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="11" width="14" height="9" rx="2" /><path d="M8 11V8a4 4 0 0 1 8 0v3" /></svg>
+    {{ 'memory.privacy' | translate: language }}
+  </p>
+
+  <ion-modal class="confirm-modal" [isOpen]="confirmingDelete()" [canDismiss]="!saving()" (didDismiss)="confirmingDelete.set(false)">
+    <ng-template>
+      <div class="confirm-content" role="alertdialog" aria-labelledby="delete-title" aria-describedby="delete-text">
+        <div class="confirm-card">
+          <h2 id="delete-title" class="title-section">{{ 'memory.delete' | translate: language }}</h2>
+          <p id="delete-text">{{ 'memory.deleteConfirm' | translate: language }}</p>
+          <button class="btn btn-primary" type="button" [disabled]="saving()" (click)="delete()">{{ 'memory.deleteYes' | translate: language }}</button>
+          <button class="btn btn-secondary" type="button" [disabled]="saving()" (click)="confirmingDelete.set(false)">{{ 'saved.back' | translate: language }}</button>
+        </div>
+      </div>
+    </ng-template>
+  </ion-modal>
+</section>

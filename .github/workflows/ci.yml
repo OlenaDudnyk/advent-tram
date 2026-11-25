@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # Fails on invalid ideas (schema, duplicate ids/slugs, bad links). Missing translations are warnings;
+      # set CONTENT_STRICT=1 to make them errors once every language is complete.
+      - name: Content check
+        run: npm run content:check
+        env:
+          CONTENT_STRICT: ${{ vars.CONTENT_STRICT }}
+      - run: npm run lint
+      - run: npm run test:unit
+      - name: Build (with SEO pages)
+        run: npm run build
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}

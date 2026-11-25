@@ -1,14 +1,9 @@
-// ============================================================================
-// Typography & Fonts
-// ============================================================================
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;700&family=Nunito:wght@400;500;600;700&display=swap');
-
 // Color Palette
 $color-background: #8b1e24;
-$color-container: #f5ebe6;
+$color-container: #f7f0ec;
 $color-evergreen: #1b4332;
 $color-burgundy: #7a1c2e;
-$color-sand: #e8dfd8;
+$color-sand: #ebe2dc;
 $color-text-dark: #2c2c2c;
 $color-text-light: #666666;
 $color-border: #d4c5bd;
@@ -24,15 +19,6 @@ $shadow-medium: 0 12px 32px rgba(0, 0, 0, 0.15);
 // Transitions
 $transition-normal: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
-// Snowy dot pattern background
-@mixin snowy-pattern() {
-  background-image:
-    radial-gradient(circle, rgba(255, 255, 255, 0.1) 1px, transparent 1px),
-    radial-gradient(circle, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
-  background-size: 50px 50px, 80px 80px;
-  background-position: 0 0, 25px 25px;
-}
-
 // ============================================================================
 // Component Styles
 // ============================================================================
@@ -44,12 +30,7 @@ $transition-normal: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 ion-content {
-  --background: #{$color-background};
-  --ion-background-color: #{$color-background};
-
-  &.onboarding-content {
-    @include snowy-pattern();
-  }
+  --background: transparent;
 }
 
 .onboarding-wrapper {
@@ -64,63 +45,10 @@ ion-content {
 }
 
 // ============================================================================
-// Header & Language Switcher
+// Header (Removed - Language switcher now inside container)
 // ============================================================================
 
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 16px;
-  gap: 16px;
-}
-
-.tram-logo {
-  font-size: 32px;
-  line-height: 1;
-  animation: gentle-bounce 2s ease-in-out infinite;
-}
-
-@keyframes gentle-bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-4px);
-  }
-}
-
-.language-switcher {
-  display: flex;
-  gap: 8px;
-  background: rgba(255, 255, 255, 0.9);
-  padding: 6px;
-  border-radius: $border-radius-sm;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-}
-
-.lang-btn {
-  background: transparent;
-  border: none;
-  color: $color-text-light;
-  font-size: 13px;
-  font-weight: 600;
-  padding: 8px 12px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: $transition-normal;
-  letter-spacing: 0.5px;
-
-  &:hover {
-    color: $color-burgundy;
-  }
-
-  &.active {
-    background: $color-sand;
-    color: $color-burgundy;
-    font-weight: 700;
-  }
-}
+// (Header styles removed - no longer needed)
 
 // ============================================================================
 // Container - Encompasses all content including button
@@ -134,7 +62,6 @@ ion-content {
   box-shadow: $shadow-medium;
   display: flex;
   flex-direction: column;
-  gap: 20px;
   overflow-y: auto;
 
   @media (min-width: 768px) {
@@ -150,7 +77,7 @@ ion-content {
 // ============================================================================
 
 .tagline {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter Variable', sans-serif;
   font-size: 10px;
   font-weight: 500;
   letter-spacing: 1.6px;
@@ -168,7 +95,6 @@ ion-content {
 .illustration {
   text-align: center;
   margin-bottom: 8px;
-  animation: gentle-float 3s ease-in-out infinite;
 
   .tram-image {
     width: 100%;
@@ -193,18 +119,13 @@ ion-content {
 // ============================================================================
 
 .title {
-  font-family: 'Outfit', sans-serif;
-  font-size: 35px;
-  font-weight: 700;
-  line-height: 1.2;
-  letter-spacing: -0.3px;
   color: $color-text-dark;
   margin: 0;
   text-align: center;
 }
 
 .subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter Variable', sans-serif;
   font-size: 11px;
   font-weight: 400;
   color: $color-text-light;
@@ -222,17 +143,13 @@ ion-content {
 }
 
 .age-group-label {
-  font-family: 'Outfit', sans-serif;
-  font-size: 23px;
-  font-weight: 700;
-  letter-spacing: -0.3px;
   color: $color-text-dark;
   margin: 0 0 8px 0;
   text-align: center;
 }
 
 .age-group-description {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter Variable', sans-serif;
   font-size: 11px;
   font-weight: 400;
   color: $color-text-light;
@@ -253,14 +170,15 @@ ion-content {
   height: 42px;
   border: 2px solid transparent;
   border-radius: 21px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter Variable', sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 1.4;
   cursor: pointer;
   transition: $transition-normal;
   text-transform: none;
-  color: white;
+  color: $color-text-dark;
+  background: $color-sand;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -285,12 +203,13 @@ ion-content {
     z-index: 0;
   }
 
-  &:hover {
+  &:hover:not(.selected) {
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    background: rgba($color-sand, 0.85);
 
     &::before {
-      background: rgba(255, 255, 255, 0.1);
+      background: rgba($color-evergreen, 0.08);
     }
   }
 
@@ -298,44 +217,20 @@ ion-content {
     transform: translateY(0);
   }
 
-  // Color variants
-  &.color-evergreen {
-    background: linear-gradient(135deg, $color-evergreen 0%, rgba($color-evergreen, 0.92) 100%);
+  // Selected state (radio button active)
+  &.selected {
+    background: $color-evergreen;
+    color: white;
+    font-weight: 700;
+    border-color: $color-evergreen;
+    box-shadow: 0 4px 12px rgba($color-evergreen, 0.2);
 
-    &.selected {
-      border-color: white;
-      box-shadow: 0 0 0 3px rgba($color-evergreen, 0.3), $shadow-soft;
-
-      &::before {
-        background: rgba(255, 255, 255, 0.15);
-      }
+    &::before {
+      background: rgba(255, 255, 255, 0.1);
     }
-  }
 
-  &.color-burgundy {
-    background: linear-gradient(135deg, $color-burgundy 0%, rgba($color-burgundy, 0.92) 100%);
-
-    &.selected {
-      border-color: white;
-      box-shadow: 0 0 0 3px rgba($color-burgundy, 0.3), $shadow-soft;
-
-      &::before {
-        background: rgba(255, 255, 255, 0.15);
-      }
-    }
-  }
-
-  &.color-sand {
-    background: linear-gradient(135deg, $color-sand 0%, rgba($color-sand, 0.94) 100%);
-    color: $color-text-dark;
-
-    &.selected {
-      border-color: $color-burgundy;
-      box-shadow: 0 0 0 3px rgba($color-sand, 0.4), $shadow-soft;
-
-      &::before {
-        background: rgba(0, 0, 0, 0.08);
-      }
+    &:hover {
+      box-shadow: 0 6px 16px rgba($color-evergreen, 0.3);
     }
   }
 }
@@ -383,7 +278,7 @@ ion-content {
   font-weight: 400;
   color: $color-text-light;
   text-align: center;
-  margin: 4px 0;
+  margin: 20px 0 5px;
   line-height: 1.6;
 }
 
@@ -398,14 +293,14 @@ ion-content {
   --padding-end: 24px;
   --padding-top: 0;
   --padding-bottom: 0;
+  --border-radius: 27px;
   height: 54px;
-  border-radius: 27px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter Variable', sans-serif;
   font-size: 16px;
   font-weight: 700;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-  margin-top: auto;
+  margin-top: 0;
   transition: $transition-normal;
 
   &:hover {
@@ -427,3 +322,5 @@ ion-content {
     font-style: italic;
   }
 }
+
+app-language-switcher { margin-top: 8px; }

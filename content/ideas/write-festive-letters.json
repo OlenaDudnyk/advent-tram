@@ -1,0 +1,47 @@
+{
+  "id": "task_007",
+  "slug": "write-festive-letters",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "idea-craft.svg",
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Write festive letters",
+      "shortDesc": "Create handwritten cards for loved ones",
+      "fullDesc": "Sit down with pen and paper to write heartfelt messages to friends and family. Share your wishes for the season, memories you cherish, or simple words of appreciation. Personalize envelopes and prepare to send joy through the mail."
+    },
+    "ua": {
+      "title": "Напишімо святкові листи",
+      "shortDesc": "Створіть листівки від руки для рідних",
+      "fullDesc": "Сядьте з ручкою й папером і напишіть щирі слова друзям та родині. Поділіться побажаннями на свята, дорогими спогадами чи простою подякою. Прикрасьте конверти й надішліть радість поштою."
+    },
+    "pl": {
+      "title": "Napiszcie świąteczne listy",
+      "shortDesc": "Stwórzcie odręczne kartki dla bliskich",
+      "fullDesc": "Usiądźcie z długopisem i papierem i napiszcie serdeczne słowa do przyjaciół i rodziny. Podzielcie się życzeniami na święta, wspomnieniami, które cenicie, albo po prostu słowami wdzięczności. Ozdóbcie koperty i wyślijcie odrobinę radości pocztą."
+    },
+    "es": {
+      "title": "Escribe cartas navideñas",
+      "shortDesc": "Crea tarjetas escritas a mano para tus seres queridos",
+      "fullDesc": "Siéntate con papel y pluma para escribir mensajes sinceros a amigos y familiares. Comparte tus deseos para estas fiestas, recuerdos que atesoras o simples palabras de agradecimiento. Personaliza los sobres y prepárate para enviar alegría por correo."
+    },
+    "de": {
+      "title": "Weihnachtsbriefe schreiben",
+      "shortDesc": "Handgeschriebene Karten für Liebste",
+      "fullDesc": "Setzt euch mit Stift und Papier hin und schreibt herzliche Zeilen an Freunde und Familie. Teilt eure Wünsche für die Jahreszeit, Erinnerungen, die ihr in Ehren haltet, oder einfach ein Dankeschön. Gestaltet die Umschläge persönlich und schickt etwas Freude mit der Post."
+    },
+    "fr": {
+      "title": "Écrire des lettres de fête",
+      "shortDesc": "Créez des cartes manuscrites pour vos proches",
+      "fullDesc": "Installez-vous avec un stylo et du papier pour écrire des mots sincères à vos amis et à votre famille. Partagez vos vœux pour la saison, les souvenirs qui vous sont chers ou de simples mots de remerciement. Personnalisez les enveloppes et préparez-vous à envoyer de la joie par la poste."
+    }
+  }
+}

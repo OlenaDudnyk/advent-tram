@@ -1,0 +1,15 @@
+// Responsive layout tokens.
+//   phone   < 600px    one column, 430px shell
+//   tablet  600-899px  wider shell (720px), multi-column content inside
+//   wide    >= 1024px   landscape tablets / desktop: two-pane layouts (calendar + day panel, home)
+:root {
+  --shell-max: 430px; // page card width
+  --sheet-max: 430px; // bottom sheets (day, memory)
+  --dialog-max: 340px; // small centred dialogs
+}
+@media (min-width: 600px) {
+  :root { --shell-max: 860px; --sheet-max: 680px; --dialog-max: 420px; }
+}
+@media (min-width: 1024px) {
+  :root { --shell-max: 1080px; --sheet-max: 680px; }
+}

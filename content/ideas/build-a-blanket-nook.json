@@ -1,0 +1,48 @@
+{
+  "id": "task_013",
+  "slug": "build-a-blanket-nook",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "coffee-cappuccino.png",
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Build a blanket nook",
+      "shortDesc": "Make a cozy spot for a story",
+      "fullDesc": "Gather blankets and cushions to make a cozy nook. Bring in a favorite book and read together with a small lamp or battery-powered lights."
+    },
+    "ua": {
+      "title": "Побудуйте ковдряний куточок",
+      "shortDesc": "Облаштуйте затишне місце для історії",
+      "fullDesc": "Зберіть ковдри та подушки й зробіть затишний куточок. Візьміть улюблену книжку й читайте разом при маленькій лампі чи гірлянді на батарейках."
+    },
+    "pl": {
+      "title": "Zbudujcie kocowy kącik",
+      "shortDesc": "Stwórzcie przytulne miejsce na historię",
+      "fullDesc": "Zbierzcie koce i poduszki, by zbudować przytulny kącik. Przynieście ulubioną książkę i czytajcie razem przy małej lampce lub lampkach na baterie."
+    },
+    "es": {
+      "title": "Construye un rincón de mantas",
+      "shortDesc": "Crea un lugar acogedor para un cuento",
+      "fullDesc": "Reúne mantas y cojines para hacer un rincón acogedor. Lleva un libro favorito y lean juntos con una lamparita o luces de pilas."
+    },
+    "de": {
+      "title": "Eine Kuschelhöhle bauen",
+      "shortDesc": "Ein gemütlicher Platz für eine Geschichte",
+      "fullDesc": "Sammelt Decken und Kissen und baut eine gemütliche Höhle. Bringt ein liebstes Buch mit und lest gemeinsam bei einer kleinen Lampe oder Lichterkette."
+    },
+    "fr": {
+      "title": "Construire un coin douillet sous les couvertures",
+      "shortDesc": "Aménagez un coin confortable pour une histoire",
+      "fullDesc": "Rassemblez des couvertures et des coussins pour former un petit nid douillet. Apportez un livre préféré et lisez ensemble à la lueur d'une petite lampe ou de guirlandes à piles."
+    }
+  }
+}

@@ -1,60 +1,40 @@
 <ion-content class="onboarding-content">
   <div class="onboarding-wrapper">
-    <!-- Header with Language Switcher -->
-    <div class="header">
-      <div class="tram-logo">🚊</div>
-      <div class="language-switcher">
-        <button
-          class="lang-btn"
-          [class.active]="language() === 'en'"
-          (click)="toggleLanguage('en')"
-          type="button"
-        >
-          EN
-        </button>
-        <button
-          class="lang-btn"
-          [class.active]="language() === 'ua'"
-          (click)="toggleLanguage('ua')"
-          type="button"
-        >
-          УК
-        </button>
-      </div>
-    </div>
-
     <!-- Main Container -->
     <div class="container">
       <!-- Tagline -->
-      <p class="tagline">{{ t().tagline }}</p>
+      <p class="tagline">{{ 'onboarding.tagline' | translate: language() }}</p>
 
       <!-- Tram Illustration -->
       <div class="illustration">
-        <img src="assets/tram.svg" alt="Advent Tram" class="tram-image" />
+        <img src="assets/tram.svg" alt="" class="tram-image" />
       </div>
 
       <!-- Title & Subtitle -->
-      <h1 class="title">{{ t().title }}</h1>
-      <p class="subtitle">{{ t().subtitle }}</p>
+      <h1 class="title title-display">{{ 'onboarding.title' | translate: language() }}</h1>
+      <p class="subtitle">{{ 'onboarding.subtitle' | translate: language() }}</p>
+
+      <app-language-switcher [(language)]="language" />
 
       <!-- Age Group Selection -->
       <div class="age-group-section">
-        <h2 class="age-group-label">{{ t().ageGroupLabel }}</h2>
+        <h2 class="age-group-label">{{ 'onboarding.ageGroupLabel' | translate: language() }}</h2>
         <p class="age-group-description">
-          {{ t().ageGroupDescription }}
+          {{ 'onboarding.ageGroupDescription' | translate: language() }}
         </p>
 
         <div class="age-group-grid">
-          @for (option of ageGroupOptions(); track option.id) {
+          @for (option of ageGroupOptions; track option.id) {
             <button
               class="age-group-btn"
-              [class]="'color-' + option.color"
               [class.selected]="isAgeGroupSelected(option.id)"
-              (click)="toggleAgeGroup(option.id)"
+              (click)="selectAgeGroup(option.id)"
               type="button"
-              attr.aria-label="Toggle {{ option.label }}"
+              role="radio"
+              [attr.aria-checked]="isAgeGroupSelected(option.id)"
+              [attr.aria-label]="('onboarding.selectAgeGroup' | translate: language()) + ': ' + (option.labelKey | translate: language())"
             >
-              <span class="btn-text">{{ option.label }}</span>
+              <span class="btn-text">{{ option.labelKey | translate: language() }}</span>
             </button>
           }
         </div>
@@ -64,13 +44,13 @@
       @if (error()) {
         <div class="error-message">
           <span class="error-icon">⚠️</span>
-          {{ error() }}
+          {{ 'onboarding.saveError' | translate: language() }}
         </div>
       }
 
       <!-- Footer Text -->
       <p class="footer-text">
-        {{ t().footerText }}
+        {{ 'onboarding.footerText' | translate: language() }}
       </p>
 
       <!-- Action Button - Inside Container -->
@@ -82,9 +62,9 @@
         type="button"
       >
         @if (isLoading()) {
-          <span class="loading-text">{{ t().buttonText }}...</span>
+          <span class="loading-text">{{ 'onboarding.buttonText' | translate: language() }}...</span>
         } @else {
-          <span>{{ t().buttonText }}</span>
+          <span>{{ 'onboarding.buttonText' | translate: language() }}</span>
         }
       </ion-button>
     </div>

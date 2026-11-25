@@ -1,0 +1,47 @@
+{
+  "id": "task_020",
+  "slug": "spot-winter-colors",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Spot winter colors",
+      "shortDesc": "Look for colors on a short walk",
+      "fullDesc": "Head outside and search for three colors in the winter landscape. Take turns pointing out what you find, from evergreen branches to bright coats."
+    },
+    "ua": {
+      "title": "Зимові кольори",
+      "shortDesc": "Шукайте кольори на короткій прогулянці",
+      "fullDesc": "Вийдіть надвір і знайдіть у зимовому краєвиді три кольори. По черзі показуйте знахідки — від вічнозелених гілок до яскравих курток."
+    },
+    "pl": {
+      "title": "Wypatrujcie zimowych kolorów",
+      "shortDesc": "Szukajcie kolorów podczas krótkiego spaceru",
+      "fullDesc": "Wyjdźcie na dwór i poszukajcie trzech kolorów w zimowym krajobrazie. Wskazujcie po kolei, co znaleźliście, od zielonych gałązek po jaskrawe kurtki."
+    },
+    "es": {
+      "title": "Descubre los colores del invierno",
+      "shortDesc": "Busca colores en un paseo corto",
+      "fullDesc": "Salgan y busquen tres colores en el paisaje invernal. Túrnense para señalar lo que encuentren, desde ramas de hoja perenne hasta abrigos brillantes."
+    },
+    "de": {
+      "title": "Winterfarben entdecken",
+      "shortDesc": "Auf einem kurzen Spaziergang Farben suchen",
+      "fullDesc": "Geht nach draußen und sucht drei Farben in der Winterlandschaft. Zeigt abwechselnd, was ihr findet, von grünen Tannenzweigen bis zu knallbunten Jacken."
+    },
+    "fr": {
+      "title": "Repérer les couleurs de l'hiver",
+      "shortDesc": "Cherchez des couleurs lors d'une courte balade",
+      "fullDesc": "Sortez et cherchez trois couleurs dans le paysage d'hiver. Montrez-vous chacun à son tour ce que vous trouvez, des branches de sapin aux manteaux éclatants."
+    }
+  }
+}

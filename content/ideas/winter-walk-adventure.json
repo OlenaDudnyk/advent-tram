@@ -1,0 +1,46 @@
+{
+  "id": "task_004",
+  "slug": "winter-walk-adventure",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Winter walk adventure",
+      "shortDesc": "Take a nature walk to collect seasonal treasures",
+      "fullDesc": "Bundle up and venture outdoors to explore winter landscapes. Collect fallen branches, interesting stones, and seasonal foliage. Observe the quiet beauty of the season and take photos of your discoveries. A chance to slow down and notice the little wonders around you."
+    },
+    "ua": {
+      "title": "Зимова пригода на прогулянці",
+      "shortDesc": "Прогуляйтеся природою й зберіть сезонні скарби",
+      "fullDesc": "Тепло вдягніться й вирушайте досліджувати зимові краєвиди. Збирайте гілочки, цікаве каміння та осіннє листя. Помічайте тиху красу сезону й фотографуйте знахідки. Нагода сповільнитися й побачити маленькі дива навколо."
+    },
+    "pl": {
+      "title": "Zimowy spacer pełen przygód",
+      "shortDesc": "Wybierzcie się na spacer po sezonowe skarby",
+      "fullDesc": "Ciepło się ubierzcie i wyruszcie na zimowe krajobrazy. Zbierajcie opadłe gałęzie, ciekawe kamyki i sezonowe liście. Wsłuchajcie się w ciche piękno tej pory roku i róbcie zdjęcia swoim odkryciom. To okazja, by zwolnić i dostrzec małe cuda wokół siebie."
+    },
+    "es": {
+      "title": "Aventura de paseo invernal",
+      "shortDesc": "Sal a la naturaleza a reunir tesoros de temporada",
+      "fullDesc": "Abríguense y salgan a explorar los paisajes de invierno. Recojan ramas caídas, piedras curiosas y follaje de temporada. Observen la belleza tranquila de la estación y hagan fotos de sus hallazgos. Una oportunidad para ir más despacio y fijarse en las pequeñas maravillas que los rodean."
+    },
+    "de": {
+      "title": "Winterspaziergang",
+      "shortDesc": "Ein Naturspaziergang mit Schätzen zum Sammeln",
+      "fullDesc": "Zieht euch warm an und erkundet die Winterlandschaft. Sammelt heruntergefallene Zweige, besondere Steine und winterliches Grün. Nehmt die stille Schönheit der Jahreszeit wahr und fotografiert eure Entdeckungen. Eine Gelegenheit, langsamer zu werden und die kleinen Wunder um euch zu bemerken."
+    },
+    "fr": {
+      "title": "Aventure d'une promenade d'hiver",
+      "shortDesc": "Faites une balade nature pour ramasser des trésors de saison",
+      "fullDesc": "Couvrez-vous bien et sortez explorer les paysages d'hiver. Ramassez des branches tombées, des pierres intéressantes et du feuillage de saison. Observez la beauté tranquille de la saison et prenez des photos de vos trouvailles. L'occasion de ralentir et de remarquer les petites merveilles autour de vous."
+    }
+  }
+}

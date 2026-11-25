@@ -1,0 +1,17 @@
+<ion-content>
+  <main class="privacy-shell">
+    <app-frame-nav />
+    <header>
+      <app-back-button path="/settings" [label]="'deck.back' | translate: language()" />
+      <h1>{{ 'privacy.title' | translate: language() }}</h1>
+    </header>
+    <p class="intro">{{ 'privacy.intro' | translate: language() }}</p>
+    @for (section of sections; track section.title) {
+      <section>
+        <h2 class="title-section">{{ section.title | translate: language() }}</h2>
+        <p>{{ section.text | translate: language() }}</p>
+      </section>
+    }
+    <app-frame-footer />
+  </main>
+</ion-content>

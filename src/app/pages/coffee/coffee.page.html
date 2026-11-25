@@ -1,0 +1,45 @@
+<ion-content>
+  <main class="coffee-shell">
+    <app-frame-nav />
+    <header>
+      <app-back-button [label]="'coffee.back' | translate: language()" />
+      <p class="eyebrow">{{ 'coffee.eyebrow' | translate: language() }}</p>
+    </header>
+
+    <h1 class="title-hero">{{ 'coffee.title' | translate: language() }}</h1>
+    <p class="subtitle">{{ 'coffee.subtitle' | translate: language() }}</p>
+
+    <div class="coffee-layout">
+    <div class="coffee-main">
+    <div class="tiers" role="radiogroup" [attr.aria-label]="'coffee.choose' | translate: language()">
+      @for (tier of tiers; track tier.id) {
+        <button type="button" class="tier" role="radio" [class.selected]="selectedTier() === tier.id" [attr.aria-checked]="selectedTier() === tier.id" (click)="selectedTier.set(tier.id)">
+          <span class="tier-art"><img [src]="'assets/coffee-' + tier.id + '.png'" alt="" /></span>
+          <span class="tier-text">
+            <span class="tier-name">{{ tier.labelKey | translate: language() }}</span>
+            <span class="tier-desc">{{ tier.descKey | translate: language() }}</span>
+            <span class="amount">€{{ tier.amount }}</span>
+          </span>
+          <svg class="tier-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12.500 4.500 4.500L19 7.500" /></svg>
+        </button>
+      }
+    </div>
+
+    <a class="btn btn-primary cta" [attr.href]="supportUrl()" [attr.aria-disabled]="supportUrl() ? null : true" target="_blank" rel="noopener noreferrer">{{ 'coffee.support' | translate: language() }} €{{ selectedAmount() }}</a>
+    <p class="note">{{ 'coffee.oneTime' | translate: language() }}</p>
+    <p class="via">{{ (provider() === 'monobank' ? 'coffee.viaMonobank' : 'coffee.viaPayPal') | translate: language() }}</p>
+    <button type="button" class="btn btn-ghost share" (click)="shareApp()">{{ 'coffee.share' | translate: language() }}</button>
+    </div>
+    <aside class="kind-card">
+      <img [src]="'assets/coffee-' + selectedTier() + '.png'" alt="" />
+      <p class="kind-eyebrow">{{ 'coffee.eyebrow' | translate: language() }}</p>
+      <h2 class="kind-title">{{ 'coffee.kindTitle' | translate: language() }}</h2>
+      <p class="kind-body">{{ 'coffee.kindBody' | translate: language() }}</p>
+      <p class="kind-thanks">{{ 'coffee.thanks' | translate: language() }}</p>
+    </aside>
+    </div>
+    <p class="footer">{{ 'coffee.footer' | translate: language() }}</p>
+    <app-frame-footer />
+  </main>
+  <ion-toast [isOpen]="toastOpen()" [message]="'coffee.copied' | translate: language()" [duration]="2200" position="bottom" (didDismiss)="toastOpen.set(false)" />
+</ion-content>

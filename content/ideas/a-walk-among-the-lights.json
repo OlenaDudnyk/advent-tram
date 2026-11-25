@@ -1,0 +1,47 @@
+{
+  "id": "task_019",
+  "slug": "a-walk-among-the-lights",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "A walk among the lights",
+      "shortDesc": "Find festive lights nearby",
+      "fullDesc": "Take a short walk along a familiar route and look for seasonal lights. Pick a favorite display and talk about what makes it special."
+    },
+    "ua": {
+      "title": "Прогулянка серед вогнів",
+      "shortDesc": "Знайдіть святкові вогні поруч",
+      "fullDesc": "Пройдіться знайомим маршрутом і пошукайте святкові вогні. Оберіть улюблену ілюмінацію й поговоріть, чим вона особлива."
+    },
+    "pl": {
+      "title": "Spacer wśród świateł",
+      "shortDesc": "Znajdźcie świąteczne iluminacje w okolicy",
+      "fullDesc": "Wybierzcie się na krótki spacer znaną trasą i szukajcie świątecznych świateł. Wybierzcie ulubioną dekorację i porozmawiajcie o tym, co czyni ją wyjątkową."
+    },
+    "es": {
+      "title": "Un paseo entre luces",
+      "shortDesc": "Encuentren luces festivas cerca de casa",
+      "fullDesc": "Den un paseo corto por un camino conocido y busquen luces de temporada. Elijan su decoración favorita y hablen de lo que la hace especial."
+    },
+    "de": {
+      "title": "Ein Spaziergang durch die Lichter",
+      "shortDesc": "Festliche Lichter in der Nähe entdecken",
+      "fullDesc": "Macht einen kurzen Spaziergang auf einer vertrauten Strecke und haltet nach weihnachtlichen Lichtern Ausschau. Sucht euch eine liebste Dekoration aus und sprecht darüber, was sie so besonders macht."
+    },
+    "fr": {
+      "title": "Une promenade parmi les lumières",
+      "shortDesc": "Trouvez des illuminations de fête près de chez vous",
+      "fullDesc": "Faites une courte promenade sur un parcours familier et cherchez les lumières de saison. Choisissez votre décoration préférée et parlez de ce qui la rend si spéciale."
+    }
+  }
+}

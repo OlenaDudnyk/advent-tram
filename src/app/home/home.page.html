@@ -1,21 +1,136 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title> Blank </ion-title>
-  </ion-toolbar>
-</ion-header>
+<ion-content class="home-content">
+  <main class="home-shell">
+    <app-frame-nav />
+    <header class="home-header">
+      <div>
+        <h1 class="title-display">{{ 'onboarding.title' | translate: language() }}</h1>
+        <p>{{ 'home.subtitle' | translate: language() }}</p>
+      </div>
+      <div class="header-actions">
+        <app-saved-link [language]="language()" [count]="savedCount()" [params]="{ from: 'home' }" />
+        <a class="header-icon" routerLink="/coffee" [attr.aria-label]="'home.coffee' | translate: language()" [title]="'home.coffee' | translate: language()">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M4 8h13v6a5 5 0 0 1-5 5h-3a5 5 0 0 1-5-5V8Zm13 1h2a3 3 0 0 1 0 6h-2M3 21h16M8 3v2m4-2v2" />
+          </svg>
+        </a>
+        <a class="header-icon" routerLink="/settings" [attr.aria-label]="'home.settings' | translate: language()" [title]="'home.settings' | translate: language()">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+            <path d="M12 2h2l.5 2.4c.6.2 1.2.5 1.7.9l2.3-.8 2 3.5-1.8 1.6c.1.7.1 1.3 0 1.9l1.8 1.6-2 3.5-2.3-.8c-.5.4-1.1.7-1.7.9L14 19h-4l-.5-2.3c-.6-.2-1.2-.5-1.7-.9l-2.3.8-2-3.5 1.8-1.6a7 7 0 0 1 0-1.9L3.5 8l2-3.5 2.3.8c.5-.4 1.1-.7 1.7-.9L10 2h2Z" transform="translate(0 1.5)" />
+            <circle cx="12" cy="12" r="3" />
+          </svg>
+        </a>
+      </div>
+    </header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
+    <section class="idea-grid">
+      <button class="idea-card new-idea" type="button" (click)="openFilters()">
+        <svg class="idea-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+          <path d="M11 3c1 5 2 6 7 7-5 1-6 2-7 7-1-5-2-6-7-7 5-1 6-2 7-7Zm8-2v5m-2.5-2.5h5" />
+        </svg>
+        <img src="assets/gingerbread.svg" alt="" />
+        <span>{{ 'home.newIdea' | translate: language() }}</span>
+      </button>
+      <a class="idea-card route-tile" routerLink="/tram-route">
 
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>
-      Start with Ionic
-      <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a>
-    </p>
-  </div>
+        <img src="assets/calendar.svg" alt="" />
+        <span>{{ 'route.homeLink' | translate: language() }}</span>
+      </a>
+    </section>
+
+    <section class="memories" aria-labelledby="memories-heading">
+      <div class="section-heading">
+        <h2 id="memories-heading">{{ 'home.december' | translate: language() }} {{ year }}</h2>
+        <span>{{ entries().length.toString().padStart(2, '0') }} {{ 'home.memories' | translate: language() }}</span>
+      </div>
+      @if (entries().length === 0) {
+        <p class="empty-state">{{ 'home.empty' | translate: language() }}</p>
+      } @else {
+        <div class="timeline">
+          @for (entry of entries(); track entry.id) {
+            <article class="memory-card">
+              <div class="memory-main" role="button" tabindex="0" (click)="editEntry(entry)" (keydown.enter)="editEntry(entry)" (keydown.space)="$event.preventDefault(); editEntry(entry)" [attr.aria-label]="('memory.edit' | translate: language()) + ': ' + displayTitle(entry)">
+                @if (entry.photo) {
+                  <img class="memory-photo" [src]="entry.photo" [alt]="" />
+                }
+                <div class="memory-content">
+                  <p class="memory-meta">
+                    {{ dateFor(entry.completedAt) }}
+                    @if (taskFor(entry); as task) {
+                      · {{ (task.location === 'in' ? 'home.atHome' : 'home.outdoors') | translate: language() }}
+                    }
+                  </p>
+                  <h3>{{ displayTitle(entry) }}</h3>
+                  @if (entry.editedAt) { <p class="memory-edited">{{ 'memory.edited' | translate: language() }}</p> }
+                  @if (entry.note) {
+                    <p class="memory-note">{{ entry.note }}</p>
+                  }
+                  @if (taskFor(entry); as task) {
+                    <p class="memory-duration">{{ task.duration }} {{ 'home.together' | translate: language() }}</p>
+                  }
+                </div>
+              </div>
+              <button class="btn-icon memory-share" type="button" (click)="shareEntry(entry)" [attr.aria-label]="('home.share' | translate: language()) + ': ' + displayTitle(entry)" [title]="'home.share' | translate: language()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 16V3m-4 4 4-4 4 4M5 14v6h14v-6" /></svg>
+              </button>
+            </article>
+          }
+        </div>
+      }
+    </section>
+    <app-frame-footer />
+  </main>
+  <ion-modal #filterModal class="filter-modal" [isOpen]="filterOpen()" (didDismiss)="filterDismissed()">
+    <ng-template>
+      <div class="filter-content">
+        <div class="filter-card">
+          <button class="btn-icon filter-close" type="button" (click)="filterOpen.set(false)" [attr.aria-label]="'filter.close' | translate: language()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" /></svg></button>
+          <p class="filter-eyebrow">{{ 'filter.eyebrow' | translate: language() }}</p>
+          <h2 class="title-display">{{ 'filter.title' | translate: language() }}</h2>
+          <p class="filter-description">{{ 'filter.description' | translate: language() }}</p>
+          @if (calendarDay(); as day) { <p class="filter-description">{{ 'route.selectDayContext' | translate: language() }} {{ calendarDateFor(day) }}</p> }
+
+          <fieldset>
+            <legend>{{ 'filter.location' | translate: language() }}</legend>
+            <div class="filter-options">
+              <label [class.selected]="location() === 'in'">
+                <input type="radio" name="location" value="in" [checked]="location() === 'in'" (change)="location.set('in')" />
+                {{ 'filter.atHome' | translate: language() }}
+              </label>
+              <label [class.selected]="location() === 'out'">
+                <input type="radio" name="location" value="out" [checked]="location() === 'out'" (change)="location.set('out')" />
+                {{ 'filter.outdoors' | translate: language() }}
+              </label>
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>{{ 'filter.duration' | translate: language() }}</legend>
+            <div class="filter-options time-options">
+              @for (time of durations; track time) {
+                <label [class.selected]="duration() === time">
+                  <input type="radio" name="duration" [value]="time" [checked]="duration() === time" (change)="duration.set(time)" />
+                  @if (time === 60) {
+                    {{ 'filter.hour' | translate: language() }}
+                  } @else {
+                    {{ time }} {{ 'filter.minutes' | translate: language() }}
+                  }
+                </label>
+              }
+            </div>
+          </fieldset>
+          <button class="btn btn-primary" type="button" (click)="findCards(filterModal)">{{ 'filter.find' | translate: language() }}</button>
+        </div>
+        <p class="filter-caption">{{ 'filter.caption' | translate: language() }}</p>
+      </div>
+    </ng-template>
+  </ion-modal>
+<ion-modal class="sheet-modal" [isOpen]="editing() !== null" [canDismiss]="!editBusy()" (didDismiss)="editing.set(null)">
+    <ng-template>
+      <div class="memory-sheet">
+        @if (editing(); as entry) {
+          <app-memory-form [entry]="entry" [task]="editTask()" [title]="displayTitle(entry)" [language]="language()" (finished)="editFinished()" (deleted)="deleteFinished()" (cancelled)="editing.set(null)" (busyChange)="editBusy.set($event)" />
+        }
+      </div>
+    </ng-template>
+  </ion-modal>
+  <ion-toast [isOpen]="toast() !== null" [message]="toast() ?? ''" [duration]="2200" position="bottom" (didDismiss)="toast.set(null)" />
 </ion-content>

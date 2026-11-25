@@ -1,0 +1,68 @@
+// Shared button system. Shape and type come from the "Find Cards" button in the
+// filter modal. Use `.btn` plus one variant, e.g. `class="btn btn-primary"`.
+//   .btn-primary   wine (main action)
+//   .btn-success   pine green (positive / completing action)
+//   .btn-secondary warm sand (secondary action, like the filter chips)
+//   .btn-outline   transparent with a soft border (tertiary action)
+//   .btn-ghost     text only (low-emphasis / destructive-link action)
+// Works on <button> and <a>. Put an inline <svg> before the label for an icon.
+$btn-wine: #7a1c2e;
+$btn-green: #1b4332;
+$btn-cream: #f7f0ec;
+$btn-sand: #ebe2dc;
+
+.btn {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  min-height: 50px;
+  margin-top: 10px;
+  padding: 0 20px;
+  border: 1.5px solid transparent;
+  border-radius: 25px;
+  font: 600 12px 'Inter Variable', sans-serif;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform .1s, opacity .15s;
+
+  svg { flex: none; width: 18px; height: 18px; }
+  &:active:not(:disabled) { transform: scale(.98); }
+  &:focus-visible { outline: 2px solid $btn-wine; outline-offset: 2px; }
+  &:disabled { opacity: .55; cursor: default; }
+}
+.btn-primary { background: $btn-wine; color: $btn-cream; }
+.btn-success { background: $btn-green; color: $btn-cream; }
+.btn-secondary { background: $btn-sand; color: #2f2622; }
+.btn-outline { background: transparent; border-color: #d4c5bd; color: $btn-green; }
+.btn-surface { background: $btn-sand; color: $btn-wine; }
+.btn-ghost { background: none; color: $btn-wine; }
+// Side-by-side buttons: wrap them in `.btn-row`.
+.btn-row { display: flex; gap: 8px; margin-top: 10px; .btn { flex: 1; margin-top: 0; } }
+// Round 44px icon-only button (back arrow, remove, edit, share). Always give it an aria-label.
+.btn-icon {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  color: $btn-wine;
+  cursor: pointer;
+  svg { display: block; width: 22px; height: 22px; }
+  &:active:not(:disabled) { background: rgba(122, 28, 46, .1); }
+  &:focus-visible { outline: 2px solid $btn-wine; outline-offset: 2px; }
+}
+.btn[aria-disabled='true'] { opacity: .55; pointer-events: none; }
+
+// Pointer devices: gentle hover feedback (touch screens are unaffected).
+@media (hover: hover) {
+  .btn:hover:not(:disabled):not([aria-disabled='true']) { filter: brightness(1.06); }
+  .btn-ghost:hover:not(:disabled) { background: rgba(122, 28, 46, .08); }
+  .btn-icon:hover:not(:disabled) { background: rgba(122, 28, 46, .08); }
+}

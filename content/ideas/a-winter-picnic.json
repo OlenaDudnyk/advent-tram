@@ -1,0 +1,47 @@
+{
+  "id": "task_022",
+  "slug": "a-winter-picnic",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "A winter picnic",
+      "shortDesc": "Bring a warm drink outside",
+      "fullDesc": "Dress for the weather and take a warm drink and a small snack to a nearby bench or garden. Sit together, watch the world, and enjoy an unhurried break."
+    },
+    "ua": {
+      "title": "Зимовий пікнік",
+      "shortDesc": "Візьміть гарячий напій надвір",
+      "fullDesc": "Одягніться за погодою й візьміть гарячий напій та невеликий перекус до найближчої лавки чи саду. Посидьте разом, поспостерігайте за світом і насолодіться неспішною перервою."
+    },
+    "pl": {
+      "title": "Zimowy piknik",
+      "shortDesc": "Zabierzcie ciepły napój na świeże powietrze",
+      "fullDesc": "Ubierzcie się stosownie do pogody i zabierzcie ciepły napój oraz małą przekąskę na pobliską ławkę lub do ogrodu. Usiądźcie razem, obserwujcie świat i cieszcie się niespieszną przerwą."
+    },
+    "es": {
+      "title": "Un picnic de invierno",
+      "shortDesc": "Lleva una bebida caliente al aire libre",
+      "fullDesc": "Abrígate bien y lleva una bebida caliente y un pequeño tentempié a un banco o jardín cercano. Siéntense juntos, miren el mundo pasar y disfruten de una pausa sin prisas."
+    },
+    "de": {
+      "title": "Ein Winterpicknick",
+      "shortDesc": "Ein warmes Getränk mit nach draußen nehmen",
+      "fullDesc": "Zieht euch dem Wetter entsprechend an und nehmt ein warmes Getränk und einen kleinen Snack mit zu einer Bank oder in einen Garten in der Nähe. Sitzt zusammen, schaut der Welt zu und genießt eine Pause ohne Eile."
+    },
+    "fr": {
+      "title": "Un pique-nique d'hiver",
+      "shortDesc": "Emportez une boisson chaude dehors",
+      "fullDesc": "Habillez-vous selon la météo et emportez une boisson chaude et une petite collation jusqu'à un banc ou un jardin tout proche. Asseyez-vous ensemble, regardez le monde passer et savourez une pause sans se presser."
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "task_012",
+  "slug": "a-tiny-gratitude-garland",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "idea-craft.svg",
+  "tags": [],
+  "inspiration": {
+    "url": "https://www.pinterest.com/search/pins/?q=gratitude%20garland%20kids"
+  },
+  "text": {
+    "en": {
+      "title": "A tiny gratitude garland",
+      "shortDesc": "Turn thankful thoughts into a garland",
+      "fullDesc": "Write or draw a few things you are thankful for on small paper shapes. String them together and hang your garland somewhere everyone can see it."
+    },
+    "ua": {
+      "title": "Маленька гірлянда вдячності",
+      "shortDesc": "Перетворіть вдячні думки на гірлянду",
+      "fullDesc": "Напишіть або намалюйте кілька речей, за які ви вдячні, на маленьких паперових формах. З'єднайте їх ниткою й повісьте гірлянду там, де її бачать усі."
+    },
+    "pl": {
+      "title": "Maleńka girlanda wdzięczności",
+      "shortDesc": "Zamieńcie wdzięczne myśli w girlandę",
+      "fullDesc": "Napiszcie lub narysujcie kilka rzeczy, za które jesteście wdzięczni, na małych papierowych kształtach. Nanizajcie je na sznurek i powieście girlandę tam, gdzie wszyscy ją zobaczą."
+    },
+    "es": {
+      "title": "Una pequeña guirnalda de gratitud",
+      "shortDesc": "Convierte pensamientos de agradecimiento en una guirnalda",
+      "fullDesc": "Escribe o dibuja algunas cosas por las que estás agradecido en pequeñas formas de papel. Únelas con un hilo y cuelga tu guirnalda en un lugar donde todos puedan verla."
+    },
+    "de": {
+      "title": "Eine kleine Dankbarkeitsgirlande",
+      "shortDesc": "Verwandle Dankbarkeit in eine Girlande",
+      "fullDesc": "Schreibt oder malt ein paar Dinge, für die ihr dankbar seid, auf kleine Papierformen. Fädelt sie auf und hängt eure Girlande dorthin, wo alle sie sehen können."
+    },
+    "fr": {
+      "title": "Une petite guirlande de gratitude",
+      "shortDesc": "Transformez vos pensées reconnaissantes en guirlande",
+      "fullDesc": "Écrivez ou dessinez quelques choses pour lesquelles vous êtes reconnaissants sur de petites formes en papier. Enfilez-les ensemble et accrochez votre guirlande à un endroit où tout le monde peut la voir."
+    }
+  }
+}

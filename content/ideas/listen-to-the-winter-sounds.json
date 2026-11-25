@@ -1,0 +1,47 @@
+{
+  "id": "task_018",
+  "slug": "listen-to-the-winter-sounds",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Listen to the winter sounds",
+      "shortDesc": "Pause and listen outdoors",
+      "fullDesc": "Find a comfortable spot outside and pause for a few minutes. Listen for birds, footsteps, wind, or distant voices, then share the sounds you noticed."
+    },
+    "ua": {
+      "title": "Послухаймо звуки зими",
+      "shortDesc": "Зупиніться й послухайте надворі",
+      "fullDesc": "Знайдіть зручне місце надворі й зупиніться на кілька хвилин. Прислухайтеся до птахів, кроків, вітру чи далеких голосів, а потім поділіться тим, що почули."
+    },
+    "pl": {
+      "title": "Posłuchajcie zimowych dźwięków",
+      "shortDesc": "Zatrzymajcie się i posłuchajcie na dworze",
+      "fullDesc": "Znajdźcie wygodne miejsce na zewnątrz i zatrzymajcie się na kilka minut. Nasłuchujcie ptaków, kroków, wiatru lub odległych głosów, a potem podzielcie się dźwiękami, które usłyszeliście."
+    },
+    "es": {
+      "title": "Escucha los sonidos del invierno",
+      "shortDesc": "Haz una pausa y escucha al aire libre",
+      "fullDesc": "Busca un lugar cómodo afuera y haz una pausa de unos minutos. Escucha los pájaros, los pasos, el viento o voces lejanas, y luego comparte los sonidos que notaste."
+    },
+    "de": {
+      "title": "Den Geräuschen des Winters lauschen",
+      "shortDesc": "Innehalten und draußen zuhören",
+      "fullDesc": "Sucht euch einen bequemen Platz draußen und haltet ein paar Minuten inne. Lauscht auf Vögel, Schritte, Wind oder ferne Stimmen und erzählt dann, welche Geräusche ihr bemerkt habt."
+    },
+    "fr": {
+      "title": "Écouter les sons de l'hiver",
+      "shortDesc": "Faites une pause et écoutez dehors",
+      "fullDesc": "Trouvez un endroit confortable dehors et faites une pause de quelques minutes. Tendez l'oreille : oiseaux, pas, vent ou voix lointaines, puis partagez les sons que vous avez remarqués."
+    }
+  }
+}

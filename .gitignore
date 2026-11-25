@@ -74,3 +74,8 @@ Thumbs.db
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Generated from content/ideas by `npm run content:build`
+/src/assets/data/tasks.json
+/src/assets/data/tasks.*.json
+/content/.todo

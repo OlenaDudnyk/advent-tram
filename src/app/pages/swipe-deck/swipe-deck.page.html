@@ -1,0 +1,86 @@
+<ion-content class="deck-content">
+  <main
+    #deckShell
+    class="deck-shell"
+  >
+    <app-frame-nav />
+    <header>
+      <app-back-button [queryParams]="scheduledDay() ? { day: scheduledDay() } : {}" [label]="'deck.back' | translate: language()" />
+      <h1>{{ 'deck.title' | translate: language() }}</h1>
+      @if (current()) {
+        <button type="button" class="btn-icon heart-toggle" [class.saved]="isSaved()" [attr.aria-pressed]="isSaved()" [disabled]="animating()" (click)="toggleSaved()"
+          [attr.aria-label]="(isSaved() ? 'saved.remove' : 'deck.save') | translate: language()"
+          [title]="(isSaved() ? 'saved.remove' : 'deck.save') | translate: language()">
+          <svg viewBox="0 0 24 24" [attr.fill]="isSaved() ? 'currentColor' : 'none'" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20S3 15 3 8.5a4.5 4.5 0 0 1 9-1 4.5 4.5 0 0 1 9 1C21 15 12 20 12 20Z" /></svg>
+        </button>
+      }
+    </header>
+
+    <div class="deck-heading">
+      <span>{{ 'deck.eyebrow' | translate: language() }}</span>
+      @if (current()) { <span class="counter" aria-hidden="true">{{ counter() }}</span> }
+    </div>
+
+    @if (loading()) {
+      <p class="status" role="status">...</p>
+    } @else if (error(); as errorKey) {
+      <p class="status" role="alert">{{ errorKey | translate: language() }}</p>
+      @if (errorKey === 'deck.error') {
+        <button class="btn btn-primary" type="button" (click)="loadCards()">{{ 'deck.retry' | translate: language() }}</button>
+      }
+    } @else if (current(); as card) {
+      <div class="card-stage">
+      <button type="button" class="side-arrow prev" [disabled]="!canMove(-1)" (click)="step(-1)" [attr.aria-label]="'deck.prev' | translate: language()">‹</button>
+      <button type="button" class="side-arrow next" [disabled]="!canMove(1)" (click)="step(1)" [attr.aria-label]="'deck.next' | translate: language()">›</button>
+      <div class="card-wrap" [class.dragging]="dragging()" [style.transform]="'translateX(' + dragX() + 'px)'">
+        <article class="card" role="button" tabindex="0"
+          [attr.aria-label]="card.title + '. ' + ((flipped() ? 'deck.showFront' : 'deck.showBack') | translate: language())"
+          [attr.aria-pressed]="flipped()"
+          [attr.aria-describedby]="flipped() ? 'card-back-description' : 'card-front-description'"
+          (click)="flipCard($event)"
+          (keydown.enter)="flipCard($event)"
+          (keydown.space)="$event.preventDefault(); flipCard($event)">
+          <div class="card-faces" [class.flipped]="flipped()">
+            <div class="card-face card-front" [attr.aria-hidden]="flipped()">
+              <div class="face-inner">
+                <img [src]="artFor(card)" alt="" draggable="false" />
+                <div class="face-text">
+                <p class="card-eyebrow">{{ (card.location === 'in' ? 'deck.eyebrowIn' : 'deck.eyebrowOut') | translate: language() }}</p>
+                <h2>{{ card.title }}</h2>
+                <span class="card-meta">{{ card.duration }} {{ 'filter.minutes' | translate: language() }} · {{ ageLabels[ageGroup()] | translate: language() }}</span>
+                <p id="card-front-description" class="clamped">{{ card.fullDesc }}</p>
+                </div>
+              </div>
+            </div>
+            <div class="card-face card-back" [attr.aria-hidden]="!flipped()">
+              <div class="face-inner">
+                <h2>{{ card.title }}</h2>
+                <p id="card-back-description">{{ card.fullDesc }}</p>
+                <app-inspiration-link [task]="card" [language]="language()" [tabbable]="flipped()" />
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
+      </div>
+      @if (scheduledDay() !== null) {
+        <button type="button" class="btn btn-primary schedule-cta" [disabled]="animating()" (click)="scheduleHere()">{{ 'deck.scheduleFor' | translate: language() }} {{ dayLabel() }}</button>
+      }
+      <button type="button" class="howto" (click)="flipCard($event)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14-4.500L4 9m0-5v5h5M4 13a8 8 0 0 0 14 4.500L20 15m0 5v-5h-5" /></svg>
+        <span><strong>{{ 'deck.howto' | translate: language() }}</strong><small>{{ 'deck.howtoText' | translate: language() }}</small></span>
+      </button>
+      <p class="flip-hint">{{ 'deck.flipHint' | translate: language() }}</p>
+      <div class="pager">
+        <button type="button" class="btn-icon" [disabled]="!canMove(-1)" (click)="step(-1)" [attr.aria-label]="'deck.prev' | translate: language()">‹</button>
+        <span aria-live="polite">{{ position() }}</span>
+        <button type="button" class="btn-icon" [disabled]="!canMove(1)" (click)="step(1)" [attr.aria-label]="'deck.next' | translate: language()">›</button>
+      </div>
+      <p class="hint">⟳ &nbsp; {{ 'deck.hint' | translate: language() }}</p>
+    } @else {
+      <p class="status">{{ (cards().length ? 'deck.finished' : 'deck.empty') | translate: language() }}</p>
+    }
+    <p class="footer">{{ 'deck.footer' | translate: language() }}</p>
+    <app-frame-footer />
+  </main>
+</ion-content>

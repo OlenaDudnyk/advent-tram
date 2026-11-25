@@ -1,0 +1,52 @@
+{
+  "id": "task_016",
+  "slug": "make-a-memory-scrapbook",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "idea-craft.svg",
+  "tags": [],
+  "inspiration": {
+    "url": "https://en.wikipedia.org/wiki/Scrapbooking",
+    "type": "link"
+  },
+  "text": {
+    "en": {
+      "title": "Make a memory scrapbook",
+      "shortDesc": "Collect favorite moments on paper",
+      "fullDesc": "Gather photos, drawings, and little paper keepsakes. Arrange them on a few pages and add notes about the moments you want to remember."
+    },
+    "ua": {
+      "title": "Скрапбук спогадів",
+      "shortDesc": "Зберіть улюблені моменти на папері",
+      "fullDesc": "Зберіть фото, малюнки та маленькі паперові пам'ятки. Розмістіть їх на кількох сторінках і додайте нотатки про миті, які хочете запам'ятати."
+    },
+    "pl": {
+      "title": "Zróbcie album wspomnień",
+      "shortDesc": "Zbierzcie ulubione chwile na papierze",
+      "fullDesc": "Zgromadźcie zdjęcia, rysunki i małe papierowe pamiątki. Ułóżcie je na kilku stronach i dopiszcie notatki o chwilach, które chcecie zapamiętać."
+    },
+    "es": {
+      "title": "Haz un álbum de recuerdos",
+      "shortDesc": "Reúne tus momentos favoritos en papel",
+      "fullDesc": "Reúne fotos, dibujos y pequeños recuerdos de papel. Colócalos en unas cuantas páginas y añade notas sobre los momentos que quieres recordar."
+    },
+    "de": {
+      "title": "Ein Erinnerungsalbum gestalten",
+      "shortDesc": "Sammelt Lieblingsmomente auf Papier",
+      "fullDesc": "Sammelt Fotos, Zeichnungen und kleine Erinnerungsstücke aus Papier. Ordnet sie auf ein paar Seiten an und schreibt dazu, woran ihr euch erinnern möchtet."
+    },
+    "fr": {
+      "title": "Créer un album de souvenirs",
+      "shortDesc": "Rassemblez vos moments préférés sur papier",
+      "fullDesc": "Réunissez des photos, des dessins et de petits souvenirs en papier. Disposez-les sur quelques pages et ajoutez des notes sur les moments que vous voulez garder en mémoire."
+    }
+  }
+}

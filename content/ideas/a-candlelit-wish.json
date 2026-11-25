@@ -1,0 +1,48 @@
+{
+  "id": "task_009",
+  "slug": "a-candlelit-wish",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "idea-candle.svg",
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "A candlelit wish",
+      "shortDesc": "Share a small wish for the season",
+      "fullDesc": "Switch on a battery-powered candle, gather close, and take turns sharing one small wish for the days ahead. Let everyone pass if they prefer to listen."
+    },
+    "ua": {
+      "title": "Бажання при свічці",
+      "shortDesc": "Поділіться маленьким бажанням на сезон",
+      "fullDesc": "Увімкніть свічку на батарейках, сядьте ближче й по черзі скажіть одне маленьке бажання на найближчі дні. Хто хоче — може просто послухати."
+    },
+    "pl": {
+      "title": "Życzenie przy świecy",
+      "shortDesc": "Podzielcie się małym życzeniem na te dni",
+      "fullDesc": "Włączcie świecę na baterie, usiądźcie blisko siebie i po kolei powiedzcie jedno małe życzenie na nadchodzące dni. Jeśli ktoś woli tylko słuchać, niech po prostu pominie swoją kolej."
+    },
+    "es": {
+      "title": "Un deseo a la luz de una vela",
+      "shortDesc": "Comparte un pequeño deseo para estas fiestas",
+      "fullDesc": "Enciende una vela de pilas, acérquense y túrnense para compartir un pequeño deseo para los próximos días. Cada quien puede pasar su turno si prefiere escuchar."
+    },
+    "de": {
+      "title": "Ein Wunsch im Kerzenschein",
+      "shortDesc": "Teilt einen kleinen Wunsch für die Adventszeit",
+      "fullDesc": "Schaltet eine batteriebetriebene Kerze an, rückt eng zusammen und erzählt reihum einen kleinen Wunsch für die kommenden Tage. Wer lieber zuhört, darf gern aussetzen."
+    },
+    "fr": {
+      "title": "Un vœu à la bougie",
+      "shortDesc": "Partagez un petit vœu pour la saison",
+      "fullDesc": "Allumez une bougie à piles, serrez-vous les uns contre les autres et confiez chacun à son tour un petit vœu pour les jours à venir. Chacun peut passer son tour s'il préfère écouter."
+    }
+  }
+}

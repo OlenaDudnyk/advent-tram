@@ -1,0 +1,45 @@
+{
+  "id": "task_006",
+  "slug": "outdoor-scavenger-hunt",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Outdoor scavenger hunt",
+      "shortDesc": "Search for seasonal items in nature",
+      "fullDesc": "Create a list of winter and holiday items to find: red berries, pinecones, specific leaf shapes, animal tracks, etc. Challenge yourself and family to find as many as possible. Perfect for encouraging observation and appreciation of the natural world."
+    },
+    "ua": {
+      "title": "Пошуки скарбів надворі",
+      "shortDesc": "Шукайте сезонні речі в природі",
+      "fullDesc": "Складіть список зимових і святкових знахідок: червоні ягоди, шишки, листя певної форми, сліди тварин тощо. Позмагайтеся з родиною, хто знайде більше. Чудово розвиває уважність і повагу до природи."
+    },
+    "pl": {
+      "title": "Terenowa gra w poszukiwanie skarbów",
+      "shortDesc": "Szukajcie sezonowych skarbów w przyrodzie",
+      "fullDesc": "Stwórzcie listę zimowych i świątecznych rzeczy do znalezienia: czerwone jagody, szyszki, liście o określonych kształtach, ślady zwierząt i inne. Spróbujcie z rodziną znaleźć jak najwięcej. Świetny sposób, by zachęcić do uważnej obserwacji i docenić świat przyrody."
+    },
+    "es": {
+      "title": "Búsqueda del tesoro al aire libre",
+      "shortDesc": "Busca objetos de temporada en la naturaleza",
+      "fullDesc": "Hagan una lista de cosas de invierno y de Navidad que encontrar: bayas rojas, piñas, hojas de formas concretas, huellas de animales, etc. Reta a tu familia y a ti mismo a encontrar cuantas más mejor. Ideal para fomentar la observación y el aprecio por el mundo natural."
+    },
+    "de": {
+      "title": "Schnitzeljagd im Freien",
+      "shortDesc": "Auf der Suche nach Winterschätzen in der Natur",
+      "fullDesc": "Schreibt eine Liste mit Dingen aus Winter und Weihnachtszeit, die ihr finden wollt: rote Beeren, Tannenzapfen, bestimmte Blattformen, Tierspuren und mehr. Fordert euch und eure Familie heraus, möglichst viele zu entdecken. So schärft ihr den Blick und lernt die Natur wertzuschätzen."
+    },
+    "fr": {
+      "title": "Chasse au trésor en plein air",
+      "shortDesc": "Cherchez des objets de saison dans la nature",
+      "fullDesc": "Dressez une liste d'éléments de l'hiver et des fêtes à trouver : baies rouges, pommes de pin, formes de feuilles particulières, traces d'animaux, etc. Lancez-vous et lancez votre famille le défi d'en trouver le plus possible. Parfait pour encourager l'observation et l'émerveillement devant la nature."
+    }
+  }
+}

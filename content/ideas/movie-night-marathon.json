@@ -1,0 +1,48 @@
+{
+  "id": "task_008",
+  "slug": "movie-night-marathon",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "coffee-cappuccino.png",
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Movie night marathon",
+      "shortDesc": "Enjoy a festive film together",
+      "fullDesc": "Pick a favorite holiday or family film, prepare cozy seating with blankets and pillows, and gather for a special movie moment. Make it extra special with homemade snacks and no interruptions. Create a tradition of seasonal movie nights."
+    },
+    "ua": {
+      "title": "Кіномарафон вечора",
+      "shortDesc": "Насолодіться святковим фільмом разом",
+      "fullDesc": "Оберіть улюблений святковий чи сімейний фільм, приготуйте затишні місця з пледами та подушками й зберіться на особливий кіновечір. Додайте домашні смаколики й жодних перешкод. Створіть традицію сезонних кіновечорів."
+    },
+    "pl": {
+      "title": "Wieczór filmowy",
+      "shortDesc": "Obejrzyjcie razem świąteczny film",
+      "fullDesc": "Wybierzcie ulubiony świąteczny lub rodzinny film, przygotujcie wygodne miejsca z kocami i poduszkami i usiądźcie razem do wyjątkowego seansu. Dodajcie domowe przekąski i dbajcie, by nikt Wam nie przeszkadzał. Zacznijcie tradycję świątecznych wieczorów filmowych."
+    },
+    "es": {
+      "title": "Maratón de cine en casa",
+      "shortDesc": "Disfruten juntos de una película navideña",
+      "fullDesc": "Elijan una película favorita de Navidad o familiar, preparen un rincón cómodo con mantas y cojines y reúnanse para un momento de cine especial. Háganlo aún más especial con aperitivos caseros y sin interrupciones. Creen la tradición de las noches de cine de temporada."
+    },
+    "de": {
+      "title": "Filmabend zum Kuscheln",
+      "shortDesc": "Gemeinsam einen Weihnachtsfilm genießen",
+      "fullDesc": "Sucht euch einen liebsten Weihnachts- oder Familienfilm aus, macht es euch mit Decken und Kissen gemütlich und genießt einen besonderen Filmabend. Mit selbstgemachten Snacks und ohne Störungen wird er noch schöner. Vielleicht entsteht so eine kleine Tradition."
+    },
+    "fr": {
+      "title": "Soirée cinéma maison",
+      "shortDesc": "Savourez ensemble un film de fête",
+      "fullDesc": "Choisissez un film de Noël ou un film familial préféré, installez-vous confortablement avec des couvertures et des coussins, et réunissez-vous pour une séance spéciale. Rendez-la encore plus belle avec des gourmandises maison et sans interruptions. Faites-en une tradition de saison."
+    }
+  }
+}

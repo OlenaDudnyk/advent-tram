@@ -1,0 +1,48 @@
+{
+  "id": "task_010",
+  "slug": "a-favorite-winter-song",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "idea-candle.svg",
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "A favorite winter song",
+      "shortDesc": "Listen to a festive song together",
+      "fullDesc": "Choose a favorite winter song and listen together. Sing along, dance around the room, or simply enjoy a quiet musical pause."
+    },
+    "ua": {
+      "title": "Улюблена зимова пісня",
+      "shortDesc": "Послухайте святкову пісню разом",
+      "fullDesc": "Оберіть улюблену зимову пісню й послухайте її разом. Підспівуйте, танцюйте по кімнаті або просто насолодіться тихою музичною паузою."
+    },
+    "pl": {
+      "title": "Ulubiona zimowa piosenka",
+      "shortDesc": "Posłuchajcie razem świątecznej piosenki",
+      "fullDesc": "Wybierzcie ulubioną zimową piosenkę i posłuchajcie jej razem. Śpiewajcie, tańczcie po pokoju albo po prostu cieszcie się cichą muzyczną chwilą."
+    },
+    "es": {
+      "title": "Una canción de invierno favorita",
+      "shortDesc": "Escuchen juntos una canción navideña",
+      "fullDesc": "Elijan una canción de invierno favorita y escúchenla juntos. Canten, bailen por la habitación o simplemente disfruten de una tranquila pausa musical."
+    },
+    "de": {
+      "title": "Ein liebes Winterlied",
+      "shortDesc": "Hört gemeinsam ein festliches Lied",
+      "fullDesc": "Sucht euch ein liebstes Winterlied aus und hört es zusammen an. Singt mit, tanzt durchs Zimmer oder genießt einfach eine stille Pause mit Musik."
+    },
+    "fr": {
+      "title": "Une chanson d'hiver préférée",
+      "shortDesc": "Écoutez ensemble une chanson de fête",
+      "fullDesc": "Choisissez une chanson d'hiver que vous aimez et écoutez-la ensemble. Chantez en chœur, dansez dans la pièce ou savourez simplement une pause musicale tranquille."
+    }
+  }
+}

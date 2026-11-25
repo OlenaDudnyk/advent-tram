@@ -1,0 +1,85 @@
+<ion-content>
+  <main class="settings-shell">
+    <app-frame-nav />
+    <header>
+      <app-back-button [label]="'deck.back' | translate: language()" />
+      <h1 class="title-hero">{{ 'settings.title' | translate: language() }}</h1>
+    </header>
+    <p class="subtitle">{{ 'settings.subtitle' | translate: language() }}</p>
+
+    <section class="panel" aria-labelledby="lang-heading">
+      <h2 id="lang-heading" class="title-section lang-title">{{ 'settings.language' | translate: language() }}</h2>
+      <p class="hint panel-hint">{{ 'settings.langHint' | translate: language() }}</p>
+      <app-language-switcher variant="pills" [language]="language()" (languageChange)="setLanguage($event)" />
+      <p class="lang-name">{{ languageName() }}</p>
+    </section>
+
+    <section class="panel" aria-labelledby="age-heading">
+      <h2 id="age-heading" class="title-section">{{ 'settings.ageGroups' | translate: language() }}</h2>
+      <p class="hint">{{ 'onboarding.ageGroupDescription' | translate: language() }}</p>
+      <div class="chips" role="group" [attr.aria-labelledby]="'age-heading'">
+        @for (option of ageGroupOptions; track option.id) {
+          <button type="button" class="chip" [class.selected]="isSelected(option.id)" [attr.aria-pressed]="isSelected(option.id)" (click)="toggleAgeGroup(option.id)">
+            {{ option.labelKey | translate: language() }}
+          </button>
+        }
+      </div>
+    </section>
+
+    <section class="advent-section" aria-labelledby="advent-heading">
+      <h2 id="advent-heading" class="title-section">{{ 'settings.advent' | translate: language() }}</h2>
+      <div class="options" role="radiogroup" [attr.aria-labelledby]="'advent-heading'">
+        @for (option of adventOptions; track option.id) {
+          <button type="button" class="option" role="radio" [class.selected]="adventStyle() === option.id" [attr.aria-checked]="adventStyle() === option.id" (click)="setAdventStyle(option.id)">
+            <span class="option-tag" aria-hidden="true">{{ option.id === 'church' ? '✦' : '☆' }}</span>
+            <svg class="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12.500 4.500 4.500L19 7.500" /></svg>
+            <strong>{{ option.titleKey | translate: language() }}</strong>
+            <small>{{ option.hintKey | translate: language() }}</small>
+          </button>
+        }
+      </div>
+    </section>
+
+    <section class="panel" aria-labelledby="data-heading">
+      <h2 id="data-heading" class="title-section">{{ 'settings.data' | translate: language() }}</h2>
+      <p class="hint">{{ 'settings.dataHint' | translate: language() }}</p>
+      <button type="button" class="btn btn-secondary" (click)="exportData()">{{ 'settings.export' | translate: language() }}</button>
+      <button type="button" class="btn btn-ghost" (click)="confirmDelete.set(true)">{{ 'settings.deleteAll' | translate: language() }}</button>
+    </section>
+
+    @if (installer.canInstall()) {
+      <section class="panel" aria-labelledby="install-heading">
+        <h2 id="install-heading" class="title-section">{{ 'settings.installTitle' | translate: language() }}</h2>
+        <button type="button" class="btn btn-primary" (click)="installer.install()">{{ 'settings.install' | translate: language() }}</button>
+      </section>
+    }
+
+    <aside class="banner">
+      <img src="assets/tram.svg" alt="" />
+      <div>
+        <p class="banner-title">{{ 'settings.bannerTitle' | translate: language() }}</p>
+        <p class="banner-text">{{ 'settings.bannerText' | translate: language() }}</p>
+      </div>
+      <button type="button" class="btn btn-primary banner-save" (click)="savePreferences()">{{ 'settings.savePrefs' | translate: language() }}</button>
+    </aside>
+
+    <a class="btn btn-ghost privacy-link" routerLink="/privacy">{{ 'settings.privacy' | translate: language() }}</a>
+
+    <p class="status" [class.error]="isError()" role="status" aria-live="polite">
+      @if (message(); as key) { {{ key | translate: language() }} }
+    </p>
+    <app-frame-footer />
+  </main>
+  <ion-modal class="confirm-modal" [isOpen]="confirmDelete()" (didDismiss)="confirmDelete.set(false)">
+    <ng-template>
+      <div class="confirm-content" role="alertdialog" aria-labelledby="wipe-title" aria-describedby="wipe-text">
+        <div class="confirm-card">
+          <h2 id="wipe-title" class="title-section">{{ 'settings.deleteTitle' | translate: language() }}</h2>
+          <p id="wipe-text">{{ 'settings.deleteText' | translate: language() }}</p>
+          <button class="btn btn-primary" type="button" (click)="deleteAll()">{{ 'settings.deleteYes' | translate: language() }}</button>
+          <button class="btn btn-secondary" type="button" (click)="confirmDelete.set(false)">{{ 'saved.back' | translate: language() }}</button>
+        </div>
+      </div>
+    </ng-template>
+  </ion-modal>
+</ion-content>

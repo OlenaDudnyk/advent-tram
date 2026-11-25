@@ -1,0 +1,50 @@
+{
+  "id": "task_003",
+  "slug": "stars-for-our-window",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "image": "idea-craft.svg",
+  "tags": [],
+  "inspiration": {
+    "url": "https://www.pinterest.com/search/pins/?q=paper%203d%20stars%20window%20diy"
+  },
+  "text": {
+    "en": {
+      "title": "Stars for our window",
+      "shortDesc": "Create paper star decorations for your windows",
+      "fullDesc": "Fold and cut colored paper to create beautiful 3D stars. Arrange them in your windows to catch the light and create a magical display. A galaxy of stars before bedtime brings wonder and joy to the household."
+    },
+    "ua": {
+      "title": "Зорі для нашого вікна",
+      "shortDesc": "Зробіть паперові зірки на вікна",
+      "fullDesc": "Складайте й вирізайте кольоровий папір, щоб вийшли об'ємні зірки. Розмістіть їх на вікнах, щоб вони ловили світло. Галактика зірок перед сном дарує дому подив і радість."
+    },
+    "pl": {
+      "title": "Gwiazdy do naszego okna",
+      "shortDesc": "Zróbcie papierowe gwiazdy na okna",
+      "fullDesc": "Złóżcie i powycinajcie kolorowy papier, by powstały piękne trójwymiarowe gwiazdy. Rozwieście je w oknach, by łapały światło i tworzyły magiczną dekorację. Galaktyka gwiazd przed snem wnosi do domu zachwyt i radość."
+    },
+    "es": {
+      "title": "Estrellas para nuestra ventana",
+      "shortDesc": "Crea estrellas de papel para decorar las ventanas",
+      "fullDesc": "Dobla y corta papel de colores para crear bonitas estrellas en 3D. Colócalas en las ventanas para que atrapen la luz y formen una exhibición mágica. Una galaxia de estrellas antes de dormir trae asombro y alegría a toda la casa."
+    },
+    "de": {
+      "title": "Sterne fürs Fenster",
+      "shortDesc": "Bastle Papiersterne als Fensterschmuck",
+      "fullDesc": "Faltet und schneidet buntes Papier zu schönen 3D-Sternen. Hängt sie in eure Fenster, wo sie das Licht einfangen und zauberhaft glitzern. Ein ganzer Sternenhimmel vor dem Schlafengehen bringt Staunen und Freude ins Haus."
+    },
+    "fr": {
+      "title": "Des étoiles pour notre fenêtre",
+      "shortDesc": "Fabriquez des étoiles en papier pour vos fenêtres",
+      "fullDesc": "Pliez et découpez du papier coloré pour réaliser de jolies étoiles en 3D. Disposez-les à vos fenêtres pour qu'elles captent la lumière et créent un décor féerique. Une galaxie d'étoiles avant le coucher apporte émerveillement et joie à la maison."
+    }
+  }
+}

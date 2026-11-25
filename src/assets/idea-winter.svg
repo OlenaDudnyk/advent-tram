@@ -1,0 +1,16 @@
+<svg width="86" height="86" viewBox="0 0 86 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="w-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6EAE1"/><stop offset="1" stop-color="#BFD0C6"/></linearGradient>
+    <linearGradient id="w-tree" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2C6A4E"/><stop offset="1" stop-color="#1B4332"/></linearGradient>
+    <linearGradient id="w-snow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E4E8E4"/></linearGradient>
+  </defs>
+  <rect width="86" height="86" rx="20" fill="url(#w-bg)"/>
+  <circle cx="66" cy="20" r="8" fill="#F2CF6A"/>
+  <path d="M0 62c14-8 30-10 46-4 14 5 26 3 40-3v31H0V62Z" fill="url(#w-snow)"/>
+  <rect x="24" y="52" width="5" height="10" rx="2" fill="#7A4A2A"/>
+  <path d="M26.500 18l12 17h-6.500l9 13H12.500l9-13H15l11.500-17Z" fill="url(#w-tree)"/>
+  <path d="M26.500 18l-4 6 4-1.500 4 1.500-4-6ZM21.500 36l5 -2 5 2-2 3-3-1.500-3 1.500-2-3Z" fill="#fff" opacity=".85"/>
+  <rect x="55" y="54" width="4.500" height="9" rx="2" fill="#7A4A2A"/>
+  <path d="M57.200 34l9 12.500h-5l6.500 9.500H47l6.500-9.500h-5l8.700-12.500Z" fill="url(#w-tree)"/>
+  <circle cx="14" cy="14" r="1.800" fill="#fff"/><circle cx="44" cy="10" r="1.400" fill="#fff"/><circle cx="76" cy="44" r="1.600" fill="#fff"/>
+</svg>

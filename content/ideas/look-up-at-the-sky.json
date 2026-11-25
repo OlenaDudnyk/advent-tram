@@ -1,0 +1,47 @@
+{
+  "id": "task_017",
+  "slug": "look-up-at-the-sky",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Look up at the sky",
+      "shortDesc": "Notice the winter sky together",
+      "fullDesc": "Step outside together and look up. Notice the clouds, stars, or colors in the sky, then share one thing each person can see."
+    },
+    "ua": {
+      "title": "Подивімося на небо",
+      "shortDesc": "Помітьте зимове небо разом",
+      "fullDesc": "Вийдіть разом надвір і подивіться вгору. Помітьте хмари, зорі чи кольори неба, а потім кожен розкаже, що саме бачить."
+    },
+    "pl": {
+      "title": "Spójrzcie w niebo",
+      "shortDesc": "Zauważcie razem zimowe niebo",
+      "fullDesc": "Wyjdźcie razem na zewnątrz i spójrzcie w górę. Zwróćcie uwagę na chmury, gwiazdy lub kolory nieba, a potem niech każdy powie jedną rzecz, którą widzi."
+    },
+    "es": {
+      "title": "Mira al cielo",
+      "shortDesc": "Fíjense juntos en el cielo de invierno",
+      "fullDesc": "Salgan juntos y miren hacia arriba. Fíjense en las nubes, las estrellas o los colores del cielo y luego compartan una cosa que cada uno pueda ver."
+    },
+    "de": {
+      "title": "Schau hinauf zum Himmel",
+      "shortDesc": "Den Winterhimmel gemeinsam bestaunen",
+      "fullDesc": "Geht zusammen nach draußen und schaut nach oben. Achtet auf Wolken, Sterne oder die Farben des Himmels und erzählt dann reihum, was jeder von euch sieht."
+    },
+    "fr": {
+      "title": "Lever les yeux vers le ciel",
+      "shortDesc": "Observez ensemble le ciel d'hiver",
+      "fullDesc": "Sortez ensemble et levez les yeux. Remarquez les nuages, les étoiles ou les couleurs du ciel, puis partagez chacun une chose que vous voyez."
+    }
+  }
+}

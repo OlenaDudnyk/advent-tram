@@ -1,0 +1,203 @@
+<ion-content>
+  <main class="route-shell">
+    <app-frame-nav />
+    <header>
+      <app-back-button [label]="'deck.back' | translate: language()" />
+      <h1>{{ 'route.title' | translate: language() }}</h1>
+      <svg class="sparkle" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2c.9 5.600 3.400 8.100 10 10-6.600 1.900-9.100 4.400-10 10-.9-5.600-3.400-8.100-10-10 6.600-1.900 9.100-4.400 10-10Z" /></svg>
+    </header>
+    <p class="subtitle">{{ 'route.subtitle' | translate: language() }}</p>
+    <div class="route-layout">
+      <div class="route-main">
+      @if (loading()) {
+        <p class="status" role="status">...</p>
+      } @else if (loadError()) {
+        <p class="status" role="alert">{{ 'route.loadError' | translate: language() }}</p>
+        <button class="btn btn-primary" type="button" (click)="load()">{{ 'deck.retry' | translate: language() }}</button>
+      } @else {
+        @if (pendingTask(); as task) {
+          <p class="notice">{{ 'route.selectDay' | translate: language() }} <strong>{{ task.title }}</strong></p>
+        }
+        @if (message(); as key) { <p class="notice" role="alert">{{ key | translate: language() }}</p> }
+
+        <section class="month-card" [attr.aria-label]="monthTitle()">
+          <div class="month-head">
+            @if (tablet()) {
+              <button type="button" class="month-nav" [disabled]="!canPrev()" (click)="prevMonth()" [attr.aria-label]="'route.prevMonth' | translate: language()">‹</button>
+            }
+            <h2 class="month-title">{{ monthTitle() }}</h2>
+            @if (tablet()) {
+              <button type="button" class="month-nav" [disabled]="!canNext()" (click)="nextMonth()" [attr.aria-label]="'route.nextMonth' | translate: language()">›</button>
+            }
+          </div>
+          @if (tablet()) {
+            <div class="weekdays" aria-hidden="true">
+              @for (name of monthWeekdays(); track $index) { <span>{{ name }}</span> }
+            </div>
+          } @else if (isChurch()) {
+            <div class="weekdays" aria-hidden="true">
+              @for (name of weekdayHeaders(); track $index) { <span>{{ name }}</span> }
+            </div>
+          }
+          <div class="advent-grid" [class.church]="isChurch() && !tablet()" [class.month]="tablet()">
+            @for (cell of cells(); track cell.day) {
+              <button
+                type="button"
+                class="advent-cell"
+                [class.scheduled]="cell.scheduled"
+                [class.completed]="cell.completed"
+                [class.magic]="cell.magic && !cell.completed"
+                [class.today]="cell.today"
+                [class.selected]="cell.day === selectedDay()"
+                [class.candle]="cell.candle"
+                [class.muted]="cell.muted"
+                [disabled]="cell.muted"
+                [attr.aria-label]="date(cell.day)"
+                (click)="openDay(cell.day)"
+              >
+                <span class="cell-number">{{ cell.num }}</span>
+                <span class="cell-mark" aria-hidden="true">
+                  @if (cell.completed) {
+                    <svg class="mark-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12.500 4.500 4.500L19 7.500" /></svg>
+                  } @else if (cell.candle) {
+                    <svg class="mark-candle" viewBox="0 0 24 24"><path d="M12 1.500c1.800 2.200 2.600 3.600 2.600 4.800a2.600 2.600 0 0 1-5.200 0c0-1.200.8-2.600 2.600-4.800Z" fill="#d4a62f" /><rect x="9.500" y="9" width="5" height="12" rx="1.500" fill="#1b4332" /><rect x="7" y="20" width="10" height="2.500" rx="1.200" fill="#1b4332" /></svg>
+                  } @else if (cell.magic) {
+                    <svg class="mark-star" viewBox="0 0 24 24" fill="currentColor"><path d="m12 2.500 2.700 6 6.500.6-4.900 4.300 1.500 6.400L12 16.500l-5.800 3.300 1.500-6.400-4.900-4.300 6.500-.6L12 2.500Z" /></svg>
+                  } @else if (cell.christmas) {
+                    <svg class="mark-tree" viewBox="0 0 24 24"><path d="M12 2.500 7.200 9.500h2.300L5 16h4.300L5 21.500h14L14.700 16H19l-4.500-6.500h2.300L12 2.500Z" fill="#1b4332" /><rect x="10.800" y="20" width="2.400" height="2.500" fill="#7a4a2a" /></svg>
+                  } @else if (cell.scheduled) {
+                    <span class="mark-dot"></span>
+                  }
+                </span>
+                @if (cell.extra > 0) { <span class="cell-extra" aria-hidden="true">+{{ cell.extra }}</span> }
+              </button>
+            }
+          </div>
+        </section>
+
+        <div class="legend">
+          <span><i class="lg-dot"></i>{{ 'route.legendScheduled' | translate: language() }}</span>
+          <span><svg class="lg-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12.500 4.500 4.500L19 7.500" /></svg>{{ 'route.legendCompleted' | translate: language() }}</span>
+          <span><svg class="lg-magic" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2c.9 5.600 3.400 8.100 10 10-6.600 1.900-9.100 4.400-10 10-.9-5.600-3.400-8.100-10-10 6.600-1.900 9.100-4.400 10-10Z" /></svg>{{ 'route.legendMagic' | translate: language() }}</span>
+          @if (isChurch()) { <span>🕯️ {{ 'route.silence' | translate: language() }}</span> }
+        </div>
+
+        @if (nextStop(); as stop) {
+          @if (!pendingTask()) {
+            <button type="button" class="next-stop" (click)="openDay(stop.day)">
+              <span class="next-eyebrow">{{ 'route.nextStop' | translate: language() }} · {{ nextStopDate() }}</span>
+              <span class="next-title">{{ stop.title }}</span>
+              <span class="next-plans">{{ plansText() }} <span aria-hidden="true">→</span></span>
+            </button>
+          }
+        }
+      }
+      </div>
+      @if (wide()) {
+        <aside class="day-panel" aria-live="polite">
+          @if (selectedDay()) {
+            <ng-container [ngTemplateOutlet]="dayContent" />
+          } @else {
+            <p class="panel-hint">{{ 'route.pickDay' | translate: language() }}</p>
+          }
+        </aside>
+      }
+    </div>
+    <app-frame-footer />
+  </main>
+  <ion-modal class="confirm-modal" [isOpen]="confirmDay() !== null" (didDismiss)="cancelSchedule()">
+    <ng-template>
+      <div class="confirm-content" role="alertdialog" aria-labelledby="schedule-title" aria-describedby="schedule-text">
+        <div class="confirm-card">
+          <h2 id="schedule-title" class="title-section">{{ 'route.confirmTitle' | translate: language() }}</h2>
+          <p id="schedule-text">{{ confirmText() }}</p>
+          <button class="btn btn-primary" type="button" (click)="confirmSchedule()">{{ 'route.confirmYes' | translate: language() }}</button>
+          <button class="btn btn-secondary" type="button" (click)="cancelSchedule()">{{ 'saved.back' | translate: language() }}</button>
+        </div>
+      </div>
+    </ng-template>
+  </ion-modal>
+  <ion-modal class="confirm-modal" [isOpen]="scheduledInfo() !== null" (didDismiss)="viewScheduledDay()">
+    <ng-template>
+      <div class="confirm-content" role="alertdialog" aria-labelledby="done-title" aria-describedby="done-text">
+        <div class="confirm-card">
+          <h2 id="done-title" class="title-section">{{ 'route.scheduledTitle' | translate: language() }}</h2>
+          <p id="done-text">{{ scheduledText() }}</p>
+          <button class="btn btn-primary" type="button" (click)="backToSaved()">{{ 'route.backToSaved' | translate: language() }}</button>
+          <button class="btn btn-secondary" type="button" (click)="viewScheduledDay()">{{ 'route.viewDay' | translate: language() }}</button>
+        </div>
+      </div>
+    </ng-template>
+  </ion-modal>
+  <ion-modal #dayModal class="sheet-modal" [isOpen]="selectedDay() !== null && !wide()" [canDismiss]="!saving()" (didDismiss)="closeDay()">
+    <ng-template>
+      <div class="sheet">
+        <ng-container [ngTemplateOutlet]="dayContent" />
+      </div>
+    </ng-template>
+  </ion-modal>
+<ng-template #dayContent>
+  @if (selectedDay(); as day) {
+    @if (mode() === 'memory') {
+      @if (memoryTask(); as task) {
+        <app-memory-form [task]="task" [entry]="memoryEntry()" [title]="taskTitle(task)" [language]="language()" (finished)="memoryDone()" (deleted)="memoryDone()" (cancelled)="mode.set('list')" (busyChange)="saving.set($event)" />
+      }
+    } @else {
+      <div class="sheet-head">
+        <div>
+          <p class="eyebrow">{{ (dayTasks().length ? stopCount(dayTasks().length) : ('route.yourLine' | translate: language())) }}</p>
+          <h2 class="title-display">{{ stopTitle(day) }}</h2>
+        </div>
+        <button class="btn-icon close-btn" type="button" [disabled]="saving()" (click)="closeDay()" [attr.aria-label]="'filter.close' | translate: language()">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" /></svg>
+        </button>
+      </div>
+      @if (hasMissing(day)) { <p class="description" role="status">{{ 'route.missing' | translate: language() }}</p> }
+      @if (dayTasks().length === 0) {
+        <div class="empty-stop">
+          <img class="empty-art" src="assets/tram.svg" alt="" draggable="false" />
+          <h3 class="empty-title">{{ 'route.emptyTitle' | translate: language() }}</h3>
+          <p class="empty-text">{{ 'route.emptyStop' | translate: language() }}</p>
+        </div>
+        <button type="button" class="btn btn-primary" (click)="addIdea(day)">{{ 'route.addIdea' | translate: language() }}</button>
+        <p class="day-caption">{{ 'route.dayCaption' | translate: language() }}</p>
+      } @else {
+        <div class="day-feed">
+          @for (task of dayTasks(); track task.id) {
+            <article class="feed-item">
+              <div class="item-top">
+                <img class="item-art" [src]="artFor(task)" alt="" draggable="false" />
+                <div class="item-main">
+                  <h3 class="title-card">{{ taskTitle(task) }}</h3>
+                  <p class="item-sub">
+                    @if (hasMemory(task)) { <span class="kept">✓ {{ 'memory.kept' | translate: language() }}</span> } @else { {{ task.shortDesc }} }
+                  </p>
+                </div>
+                @if (canRemove(task)) {
+                  <button type="button" class="btn-icon" (click)="remove(task)" [attr.aria-label]="('route.removeFromDay' | translate: language()) + ': ' + taskTitle(task)" [title]="'route.removeFromDay' | translate: language()">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M9 7V4h6v3m-8 0 1 13h8l1-13M10 11v6m4-6v6" /></svg>
+                  </button>
+                }
+              </div>
+              <p class="item-meta">{{ task.duration }} {{ 'filter.minutes' | translate: language() }} · {{ (task.location === 'in' ? 'filter.atHome' : 'filter.outdoors') | translate: language() }} · {{ ageLabelKey() | translate: language() }}</p>
+              @if (task.category === 'sunday_silence') {
+                <p class="description">{{ taskDescription(task) }}</p>
+                @if (reflection(task); as text) { <p class="reflection-text">♡ {{ text }}</p> }
+              }
+              <app-inspiration-link [task]="task" [language]="language()" />
+              @if (isCompleted(task)) {
+                <button type="button" class="btn btn-surface" (click)="openMemory(task)">{{ (hasMemory(task) ? 'memory.edit' : 'route.addMemory') | translate: language() }}</button>
+              } @else {
+                <button type="button" class="btn btn-success" (click)="complete(task)">{{ 'route.complete' | translate: language() }}</button>
+              }
+            </article>
+          }
+        </div>
+        <button type="button" class="btn btn-primary" (click)="addIdea(day)">{{ 'route.addAnother' | translate: language() }}</button>
+        <p class="day-caption">{{ 'route.dayCaption' | translate: language() }}</p>
+      }
+    }
+    @if (message(); as key) { <p class="error" role="alert">{{ key | translate: language() }}</p> }
+  }
+</ng-template>
+</ion-content>

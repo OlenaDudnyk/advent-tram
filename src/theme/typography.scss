@@ -1,0 +1,30 @@
+// Display font: Outfit for Latin; it has no Cyrillic, so Ukrainian text falls through to Nunito
+// (rounded, friendly, full Ukrainian support) automatically.
+:root { --font-display: 'Outfit Variable', 'Nunito Variable', sans-serif; }
+
+// One heading scale for the whole app. Style headings here only; components add spacing and
+// colour, never font-family, size, weight or line-height.
+//   h1 / .title-hero / .title-display   page & hero titles   32px
+//   h2 / .title-section                 section & sheet titles 22px
+//   h3 / .title-card                    card & item titles   20px
+//   h4 / .title-label                   block labels         15px
+// The utility classes give any tag the same size when the semantic level and visual level differ.
+h1, h2, h3, h4,
+.title-hero, .title-display, .title-section, .title-card, .title-label {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -.3px;
+}
+h1, .title-hero, .title-display { font-size: 32px; line-height: 1.1; letter-spacing: -.5px; }
+h2, .title-section { font-size: 22px; }
+h3, .title-card { font-size: 20px; line-height: 1.2; }
+h4, .title-label { font-size: 15px; letter-spacing: 0; }
+
+// Tablet and up: every level steps up once, still one shared scale.
+@media (min-width: 600px) {
+  h1, .title-hero, .title-display { font-size: 38px; }
+  h2, .title-section { font-size: 24px; }
+  h3, .title-card { font-size: 22px; }
+}

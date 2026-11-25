@@ -1,0 +1,20 @@
+{
+  "languages": ["en", "ua", "pl", "es", "de", "fr"],
+  "durations": [5, 15, 30, 60],
+  "ageGroups": ["kids_3_6", "kids_7_12", "adults", "family"],
+  "categories": ["activity", "heart_deed"],
+  "limits": {
+    "title": 60,
+    "shortDesc": 90,
+    "fullDescMin": 30,
+    "fullDesc": 700
+  },
+  "allowedInspirationHosts": [
+    "pinterest.com",
+    "youtube.com",
+    "youtu.be",
+    "wikipedia.org",
+    "bbcgoodfood.com"
+  ],
+  "pageSize": 24
+}

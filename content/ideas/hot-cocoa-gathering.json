@@ -1,0 +1,48 @@
+{
+  "id": "task_005",
+  "slug": "hot-cocoa-gathering",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "coffee-cappuccino.png",
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Hot cocoa gathering",
+      "shortDesc": "Prepare a cozy hot chocolate moment",
+      "fullDesc": "Brew warm hot chocolate and gather the family for a cozy break. Top with marshmallows, whipped cream, and cinnamon. Share stories, jokes, or favorite memories while warming up together. A simple, intimate moment that brings people closer."
+    },
+    "ua": {
+      "title": "Зустріч за гарячим какао",
+      "shortDesc": "Влаштуйте затишну мить із гарячим шоколадом",
+      "fullDesc": "Приготуйте гарячий шоколад і зберіть родину на затишну перерву. Додайте маршмелоу, збиті вершки й корицю. Діліться історіями, жартами чи улюбленими спогадами. Проста й тепла мить, що зближує."
+    },
+    "pl": {
+      "title": "Spotkanie przy gorącym kakao",
+      "shortDesc": "Przygotujcie przytulną chwilę z gorącą czekoladą",
+      "fullDesc": "Zaparzcie gorącą czekoladę i zbierzcie rodzinę na przytulną przerwę. Dodajcie pianki, bitą śmietanę i cynamon. Dzielcie się opowieściami, żartami lub ulubionymi wspomnieniami, grzejąc się razem. Prosta, serdeczna chwila, która zbliża ludzi."
+    },
+    "es": {
+      "title": "Reunión con chocolate caliente",
+      "shortDesc": "Prepara un momento acogedor con chocolate caliente",
+      "fullDesc": "Prepara un chocolate caliente y reúne a la familia para una pausa acogedora. Cúbrelo con malvaviscos, nata montada y canela. Compartan historias, chistes o recuerdos favoritos mientras entran en calor. Un momento sencillo e íntimo que acerca a las personas."
+    },
+    "de": {
+      "title": "Heiße Schokolade zu zweit, zu dritt oder zu viert",
+      "shortDesc": "Eine gemütliche Trinkschokoladen-Pause",
+      "fullDesc": "Kocht heiße Schokolade und holt die Familie zu einer gemütlichen Pause zusammen. Garniert sie mit Marshmallows, Sahne und Zimt. Erzählt Geschichten, Witze oder liebste Erinnerungen und wärmt euch gemeinsam auf. Ein einfacher, vertrauter Moment, der Menschen näher zusammenbringt."
+    },
+    "fr": {
+      "title": "Rendez-vous chocolat chaud",
+      "shortDesc": "Préparez un moment douillet autour d'un chocolat chaud",
+      "fullDesc": "Préparez un bon chocolat chaud et réunissez la famille pour une pause réconfortante. Ajoutez des guimauves, de la chantilly et de la cannelle. Partagez des histoires, des blagues ou vos souvenirs préférés en vous réchauffant ensemble. Un moment simple et intime qui rapproche."
+    }
+  }
+}

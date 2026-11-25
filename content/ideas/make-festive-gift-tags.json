@@ -1,0 +1,51 @@
+{
+  "id": "task_014",
+  "slug": "make-festive-gift-tags",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "idea-craft.svg",
+  "tags": [],
+  "inspiration": {
+    "url": "https://www.pinterest.com/search/pins/?q=handmade%20christmas%20gift%20tags"
+  },
+  "text": {
+    "en": {
+      "title": "Make festive gift tags",
+      "shortDesc": "Decorate handmade tags",
+      "fullDesc": "Cut tags from scrap paper or card, then decorate them with drawings, stamps, or simple messages. Save them for gifts or attach one to a note for someone you love."
+    },
+    "ua": {
+      "title": "Святкові бирки для подарунків",
+      "shortDesc": "Прикрасьте бирки власноруч",
+      "fullDesc": "Виріжте бирки зі шматочків паперу чи картону й прикрасьте малюнками, штампами або короткими побажаннями. Збережіть їх для подарунків або додайте до листівки для коханої людини."
+    },
+    "pl": {
+      "title": "Zróbcie świąteczne zawieszki na prezenty",
+      "shortDesc": "Ozdóbcie ręcznie robione zawieszki",
+      "fullDesc": "Wytnijcie zawieszki z resztek papieru lub kartonu, a potem ozdóbcie je rysunkami, pieczątkami albo prostymi życzeniami. Schowajcie je na prezenty albo dołączcie jedną do liściku dla kogoś bliskiego."
+    },
+    "es": {
+      "title": "Haz etiquetas para regalos",
+      "shortDesc": "Decora etiquetas hechas a mano",
+      "fullDesc": "Corta etiquetas de papel reciclado o cartulina y decóralas con dibujos, sellos o mensajes sencillos. Guárdalas para regalos o pega una en una nota para alguien a quien quieres."
+    },
+    "de": {
+      "title": "Weihnachtliche Geschenkanhänger",
+      "shortDesc": "Handgemachte Anhänger verzieren",
+      "fullDesc": "Schneidet Anhänger aus Papierresten oder Karton und verziert sie mit Zeichnungen, Stempeln oder kleinen Botschaften. Hebt sie für Geschenke auf oder legt einen zu einer Notiz für einen lieben Menschen."
+    },
+    "fr": {
+      "title": "Fabriquer des étiquettes de cadeaux",
+      "shortDesc": "Décorez des étiquettes faites main",
+      "fullDesc": "Découpez des étiquettes dans des chutes de papier ou de carton, puis décorez-les avec des dessins, des tampons ou de petits messages. Gardez-les pour vos cadeaux ou joignez-en une à un mot pour quelqu'un que vous aimez."
+    }
+  }
+}

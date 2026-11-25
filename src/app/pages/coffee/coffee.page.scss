@@ -1,0 +1,91 @@
+$wine: #7a1c2e;
+$green: #1b4332;
+$cream: #f7f0ec;
+$ink: #2f2622;
+$ink-soft: #6b5f58;
+
+ion-content {
+  --color: #{$ink};
+}
+.coffee-shell {
+  box-sizing: border-box;
+  min-height: calc(100dvh - 48px - var(--nav-h, 0px) - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+  width: calc(100% - 24px);
+  max-width: min(var(--shell-max), 720px);
+  margin: calc(24px + env(safe-area-inset-top)) auto calc(24px + env(safe-area-inset-bottom));
+  padding: 22px 20px 24px;
+  border-radius: 32px;
+  background: #f7f0ec;
+  font-family: 'Inter Variable', sans-serif;
+}
+header { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.eyebrow { margin: 0; color: $green; font-size: 11px; font-weight: 700; letter-spacing: .14em; }
+h1 { margin: 22px 0 14px; color: $wine; }
+.subtitle { margin: 0 0 22px; color: $ink-soft; font-size: 16px; line-height: 1.5; }
+
+.tiers { display: grid; gap: 14px; }
+.tier {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  box-sizing: border-box;
+  padding: 14px;
+  border: 2px solid transparent;
+  border-radius: 30px;
+  background: #ebe2dc;
+  color: $ink;
+  text-align: left;
+  cursor: pointer;
+  transition: transform .12s, border-color .15s, background .15s;
+  &:active { transform: scale(.985); }
+  &:focus-visible { outline: 2px solid $green; outline-offset: 2px; }
+  &.selected { border-color: $green; background: #dfe9df; }
+}
+.tier-art {
+  flex: none;
+  width: 112px;
+  height: 112px;
+  overflow: hidden;
+  border-radius: 26px;
+  background: #ebe2dc;
+  img { display: block; width: 100%; height: 100%; object-fit: cover; }
+}
+.tier-text { display: grid; gap: 2px; min-width: 0; }
+.tier-name { font: 700 20px/1.2 'Inter Variable', sans-serif; }
+.tier-desc { color: $ink-soft; font: 14px/1.35 'Inter Variable', sans-serif; }
+.amount { margin-top: 4px; color: $wine; font: 700 28px/1.1 var(--font-display); }
+
+.cta { margin-top: 22px; min-height: 58px; font-size: 17px; font-weight: 700; }
+.note { margin: 14px 0 0; color: $ink-soft; font-size: 13px; text-align: center; }
+.via { margin: 4px 0 0; color: $ink-soft; font-size: 11px; text-align: center; }
+.share { min-height: 44px; margin-top: 6px; font-size: 13px; }
+.footer { margin: 14px 0 0; color: $green; font-size: 13px; text-align: center; }
+
+// ---- Tablet / desktop (designs: Coffee) ----
+.kind-card, .tier-check { display: none; }
+@media (min-width: 600px) {
+  .coffee-shell { padding: 30px; }
+  header { display: none; }
+  .title-hero { margin-top: 18px; }
+  .subtitle { margin-bottom: 24px; font-size: 15px; }
+  .coffee-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start; }
+  .tiers { gap: 12px; }
+  .tier { position: relative; padding: 14px 18px 14px 14px; border-radius: 24px; background: #fffdfb; box-shadow: 0 6px 18px rgba(92, 48, 38, .08); }
+  .tier.selected { background: #dfe9df; box-shadow: none; }
+  .tier-art { width: 92px; height: 92px; border-radius: 20px; }
+  .tier-name { font-size: 20px; }
+  .tier-check { position: absolute; top: 16px; right: 18px; width: 18px; height: 18px; color: $green; }
+  .tier.selected .tier-check { display: block; }
+  .cta { width: auto; min-width: 280px; max-width: none; margin: 22px 0 0; }
+  .note, .via { text-align: left; }
+  .kind-card { display: block; padding: 22px 24px 28px; border-radius: 28px; background: #fffdfb; box-shadow: 0 8px 22px rgba(92, 48, 38, .08); }
+  .kind-card img { display: block; width: min(100%, 300px); aspect-ratio: 4 / 3; margin: 0 auto 22px; border-radius: 22px; object-fit: cover; }
+  .kind-eyebrow { margin: 0 0 8px; color: $wine; font: 700 11px 'Inter Variable', sans-serif; letter-spacing: .08em; }
+  .kind-title { margin: 0 0 14px; color: $green; font-size: 28px; line-height: 1.2; }
+  .kind-body { margin: 0 0 22px; color: #6b5f58; font-size: 15px; line-height: 1.6; }
+  .kind-thanks { margin: 0; color: $wine; font-weight: 700; font-size: 15px; }
+  .footer { margin-top: 24px; }
+}
+@media (hover: hover) {
+  .tier:not(.selected):hover { background: #e3d7ce; }
+}

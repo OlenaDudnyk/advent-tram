@@ -1,0 +1,47 @@
+{
+  "id": "task_021",
+  "slug": "photograph-little-wonders",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Photograph little wonders",
+      "shortDesc": "Capture details on a neighborhood walk",
+      "fullDesc": "Walk around your neighborhood and take photos of little things that catch your eye. Later, choose a favorite picture and share why you picked it."
+    },
+    "ua": {
+      "title": "Фотографуємо маленькі дива",
+      "shortDesc": "Зловіть деталі на прогулянці районом",
+      "fullDesc": "Прогуляйтеся районом і фотографуйте дрібниці, що привернули увагу. Потім оберіть улюблене фото й розкажіть, чому саме його."
+    },
+    "pl": {
+      "title": "Fotografujcie małe cuda",
+      "shortDesc": "Uchwyćcie szczegóły podczas spaceru po okolicy",
+      "fullDesc": "Przejdźcie się po okolicy i fotografujcie drobiazgi, które przyciągają Wasz wzrok. Potem wybierzcie ulubione zdjęcie i opowiedzcie, dlaczego je wybraliście."
+    },
+    "es": {
+      "title": "Fotografía pequeñas maravillas",
+      "shortDesc": "Captura detalles en un paseo por el barrio",
+      "fullDesc": "Paseen por su barrio y hagan fotos de las pequeñas cosas que les llamen la atención. Después, elijan una foto favorita y cuenten por qué la escogieron."
+    },
+    "de": {
+      "title": "Kleine Wunder fotografieren",
+      "shortDesc": "Details auf einem Spaziergang durchs Viertel einfangen",
+      "fullDesc": "Lauft durch eure Nachbarschaft und fotografiert kleine Dinge, die euch ins Auge fallen. Wählt später euer liebstes Bild aus und erzählt, warum ihr es gewählt habt."
+    },
+    "fr": {
+      "title": "Photographier les petites merveilles",
+      "shortDesc": "Capturez des détails lors d'une balade dans le quartier",
+      "fullDesc": "Promenez-vous dans votre quartier et photographiez les petites choses qui attirent votre regard. Plus tard, choisissez votre photo préférée et expliquez pourquoi vous l'avez choisie."
+    }
+  }
+}

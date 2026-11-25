@@ -1,0 +1,47 @@
+{
+  "id": "task_024",
+  "slug": "a-longer-nature-walk",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "A longer nature walk",
+      "shortDesc": "Explore a local park together",
+      "fullDesc": "Choose a familiar park or nature trail and set aside time for an unhurried walk. Bring a warm drink, take breaks as needed, and notice how the landscape changes in winter."
+    },
+    "ua": {
+      "title": "Довша прогулянка природою",
+      "shortDesc": "Дослідіть місцевий парк разом",
+      "fullDesc": "Оберіть знайомий парк чи стежку й виділіть час на неспішну прогулянку. Візьміть теплий напій, робіть перерви й помічайте, як змінюється краєвид узимку."
+    },
+    "pl": {
+      "title": "Dłuższy spacer wśród natury",
+      "shortDesc": "Odkryjcie razem lokalny park",
+      "fullDesc": "Wybierzcie znany park lub ścieżkę przyrodniczą i zarezerwujcie czas na niespieszny spacer. Zabierzcie ciepły napój, róbcie przerwy, gdy trzeba, i zauważcie, jak zimą zmienia się krajobraz."
+    },
+    "es": {
+      "title": "Un paseo más largo por la naturaleza",
+      "shortDesc": "Exploren juntos un parque cercano",
+      "fullDesc": "Elijan un parque o sendero conocido y reserven tiempo para un paseo sin prisas. Lleven una bebida caliente, hagan pausas cuando haga falta y fíjense en cómo cambia el paisaje en invierno."
+    },
+    "de": {
+      "title": "Ein längerer Naturspaziergang",
+      "shortDesc": "Gemeinsam einen Park in der Nähe erkunden",
+      "fullDesc": "Sucht euch einen vertrauten Park oder Naturpfad aus und nehmt euch Zeit für einen entspannten Spaziergang. Nehmt ein warmes Getränk mit, macht Pausen, wann immer ihr mögt, und beobachtet, wie sich die Landschaft im Winter verändert."
+    },
+    "fr": {
+      "title": "Une plus longue balade nature",
+      "shortDesc": "Explorez ensemble un parc près de chez vous",
+      "fullDesc": "Choisissez un parc ou un sentier nature que vous connaissez et prévoyez du temps pour une balade sans se presser. Emportez une boisson chaude, faites des pauses si besoin et observez comment le paysage change en hiver."
+    }
+  }
+}

@@ -1,3 +1,4 @@
+import { isDevMode } from '@angular/core';
 import { bootstrapApplication } from '@angular/platform-browser';
 import {
   RouteReuseStrategy,
@@ -6,12 +7,11 @@ import {
   withPreloading,
   PreloadAllModules,
 } from '@angular/router';
+import { provideServiceWorker } from '@angular/service-worker';
 import { IonicRouteStrategy, provideIonicAngular } from '@ionic/angular';
 
 import { AppComponent } from './app/app.component';
 import { routes } from './app/app.routes';
-import { isDevMode } from '@angular/core';
-import { provideServiceWorker } from '@angular/service-worker';
 
 bootstrapApplication(AppComponent, {
   providers: [

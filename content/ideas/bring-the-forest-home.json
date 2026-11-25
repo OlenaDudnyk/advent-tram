@@ -1,0 +1,48 @@
+{
+  "id": "task_001",
+  "slug": "bring-the-forest-home",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "forest-centerpiece.svg",
+  "tags": [],
+  "text": {
+    "en": {
+      "title": "Bring the forest home",
+      "shortDesc": "Decorate your space with festive greenery",
+      "fullDesc": "Transform your home into a winter wonderland by gathering branches, pinecones, and greenery. Create a beautiful natural centerpiece or wreath that brings the essence of the forest indoors. Perfect for creating a cozy, seasonal atmosphere while enjoying time together."
+    },
+    "ua": {
+      "title": "Принесімо ліс додому",
+      "shortDesc": "Прикрасьте оселю святковим зеленим гіллям",
+      "fullDesc": "Перетворіть дім на зимову казку: зберіть гілочки, шишки та зелень. Складіть гарну природну композицію або вінок, що принесе подих лісу до кімнати. Чудово створює затишну святкову атмосферу, поки ви разом."
+    },
+    "pl": {
+      "title": "Przynieście las do domu",
+      "shortDesc": "Ozdóbcie dom świątecznymi gałązkami",
+      "fullDesc": "Zamieńcie dom w zimową krainę czarów, zbierając gałęzie, szyszki i zielone gałązki. Stwórzcie piękną naturalną kompozycję albo wieniec, który wniesie do wnętrza zapach lasu. Idealne na przytulną, świąteczną atmosferę i wspólnie spędzony czas."
+    },
+    "es": {
+      "title": "Trae el bosque a casa",
+      "shortDesc": "Decora tu espacio con ramas y verdor festivo",
+      "fullDesc": "Convierte tu casa en un paisaje invernal reuniendo ramas, piñas y verdor. Crea un bonito centro de mesa o una corona natural que traiga la esencia del bosque al interior. Perfecto para lograr un ambiente acogedor y navideño mientras disfrutan del tiempo juntos."
+    },
+    "de": {
+      "title": "Hol den Wald nach Hause",
+      "shortDesc": "Schmücke dein Zuhause mit festlichem Grün",
+      "fullDesc": "Verwandle dein Zuhause in ein Winterwunderland: Sammelt Zweige, Tannenzapfen und Grünes. Bastelt daraus ein schönes Gesteck oder einen Kranz, der den Duft des Waldes ins Haus holt. So wird es gemütlich und weihnachtlich, und ihr genießt die Zeit zusammen."
+    },
+    "fr": {
+      "title": "Rapportons la forêt à la maison",
+      "shortDesc": "Décorez votre intérieur avec de la verdure de saison",
+      "fullDesc": "Transformez votre maison en pays des merveilles hivernal en ramassant des branches, des pommes de pin et du feuillage. Créez un joli centre de table ou une couronne naturelle qui fait entrer l'esprit de la forêt chez vous. Idéal pour une ambiance douillette et de saison, tout en passant du temps ensemble."
+    }
+  }
+}

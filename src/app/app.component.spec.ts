@@ -1,5 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { provideRouter } from '@angular/router';
+import { SwUpdate } from '@angular/service-worker';
 
 import { AppComponent } from './app.component';
 
@@ -7,7 +8,7 @@ describe('AppComponent', () => {
   it('should create the app', async () => {
     await TestBed.configureTestingModule({
       imports: [AppComponent],
-      providers: [provideRouter([])],
+      providers: [provideRouter([]), { provide: SwUpdate, useValue: { isEnabled: false } }],
     }).compileComponents();
 
     const fixture = TestBed.createComponent(AppComponent);

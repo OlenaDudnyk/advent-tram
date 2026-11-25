@@ -1,0 +1,51 @@
+{
+  "id": "task_011",
+  "slug": "paper-snowflake-window",
+  "status": "published",
+  "addedAt": "2026-11-01",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "image": "idea-craft.svg",
+  "tags": [],
+  "inspiration": {
+    "url": "https://www.pinterest.com/search/pins/?q=paper%20snowflakes%20for%20windows"
+  },
+  "text": {
+    "en": {
+      "title": "Paper snowflake window",
+      "shortDesc": "Make snowflakes for the window",
+      "fullDesc": "Fold paper and cut simple shapes along the edges. Open each snowflake and tape your little snowfall to a window. An adult can help younger children with scissors."
+    },
+    "ua": {
+      "title": "Паперові сніжинки на вікні",
+      "shortDesc": "Зробіть сніжинки на вікно",
+      "fullDesc": "Складіть папір і виріжте прості форми по краях. Розгорніть кожну сніжинку та приклейте свій маленький снігопад до вікна. Дорослі можуть допомогти малюкам із ножицями."
+    },
+    "pl": {
+      "title": "Okno z papierowych śnieżynek",
+      "shortDesc": "Zróbcie śnieżynki na okno",
+      "fullDesc": "Złóżcie papier i wytnijcie proste wzory wzdłuż brzegów. Rozłóżcie każdą śnieżynkę i przyklejcie swój mały śnieg do okna. Dorosły może pomóc młodszym dzieciom z nożyczkami."
+    },
+    "es": {
+      "title": "Ventana de copos de papel",
+      "shortDesc": "Haz copos de nieve para la ventana",
+      "fullDesc": "Dobla papel y corta formas sencillas en los bordes. Abre cada copo y pega tu pequeña nevada en una ventana. Un adulto puede ayudar con las tijeras a los niños más pequeños."
+    },
+    "de": {
+      "title": "Schneeflocken am Fenster",
+      "shortDesc": "Bastle Schneeflocken fürs Fenster",
+      "fullDesc": "Faltet Papier und schneidet einfache Muster in die Kanten. Faltet jede Schneeflocke auf und klebt euren kleinen Schneefall ans Fenster. Jüngeren Kindern hilft ein Erwachsener beim Schneiden."
+    },
+    "fr": {
+      "title": "Fenêtre aux flocons de papier",
+      "shortDesc": "Fabriquez des flocons de neige pour la fenêtre",
+      "fullDesc": "Pliez du papier et découpez de petites formes sur les bords. Dépliez chaque flocon et collez votre petite chute de neige sur une fenêtre. Un adulte peut aider les plus jeunes avec les ciseaux."
+    }
+  }
+}
