@@ -79,3 +79,6 @@ Thumbs.db
 /src/assets/data/tasks.json
 /src/assets/data/tasks.*.json
 /content/.todo
+
+# Cloudflare
+.wrangler/

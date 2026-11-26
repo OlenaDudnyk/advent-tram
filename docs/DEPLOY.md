@@ -22,6 +22,22 @@
 Інші варіанти: **Netlify** (так само читає `_headers`; додайте файл `public/_redirects` з рядком `/* /index.html 200`),
 **Firebase Hosting**. GitHub Pages **не рекомендую**: він не вміє заголовків безпеки.
 
+
+## 1a. Cloudflare Workers (так зараз задеплоєно: `…workers.dev`)
+Cloudflare тепер за замовчуванням створює проєкт як **Worker зі статичними файлами**. Це теж безкоштовно й працює так само
+(`_headers` читається, SEO-сторінки віддаються як є). Головне — щоб віддавалась папка **`www/`**, а не `src/`.
+Для цього в репозиторії лежить `wrangler.jsonc` (папка `./www`, невідомі адреси → `index.html`).
+
+Налаштування в Cloudflare (Workers & Pages → `advent-tram` → **Settings → Build**):
+- **Build command:** `npm run build`
+- **Deploy command:** `npx wrangler deploy` (**без** прапорців `--assets …`: папку бере з `wrangler.jsonc`)
+- **Root directory:** порожньо
+- **Build variables and secrets** (саме в цьому розділі, не в «Variables and Secrets» для коду):
+  `NODE_VERSION` = `22`, `SITE_URL` = `https://advent-tram.olenadudnyk24.workers.dev`
+
+Після пуш у `main` Cloudflare сам збере й розгорне. Якщо повернулась помилка 404 на `manifest.webmanifest` або в коді видно `__SITE_URL__`,
+значить віддається не `www/` — перевірте Deploy command.
+
 ## 2. Власний домен (коли захочете)
 - Домен купується окремо, орієнтовно 10–20 € на рік (`.com`, `.app`, `.eu`; для України ще `.com.ua`). Реєстратори:
   Cloudflare Registrar (за собівартістю), Namecheap, Porkbun, Hostpro (для `.ua`). Назва: коротка, без дефісів, наприклад `adventtram.app`.

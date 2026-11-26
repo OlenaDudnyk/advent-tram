@@ -1,6 +1,7 @@
 import { Component, inject, signal } from '@angular/core';
 import { IonContent } from '@ionic/angular';
 
+import { CONTACT_EMAIL } from '../../../environments/site';
 import type { TranslationKey } from '../../core/i18n/en';
 import { TranslatePipe } from '../../core/i18n/translate.pipe';
 import { DEFAULT_SETTINGS } from '../../core/models';
@@ -18,6 +19,7 @@ import { FrameFooterComponent, FrameNavComponent } from '../../shared/frame/fram
 export class PrivacyPage {
   private readonly storage = inject(StorageService);
 
+  readonly email = CONTACT_EMAIL;
   readonly language = signal<Language>(DEFAULT_SETTINGS.language);
   readonly sections: { title: TranslationKey; text: TranslationKey }[] = [
     { title: 'privacy.localTitle', text: 'privacy.local' },

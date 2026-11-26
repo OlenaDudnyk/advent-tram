@@ -1,0 +1,12 @@
+{
+  // Cloudflare Workers (static assets) deployment. Build first: `npm run build` writes the site to ./www.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "advent-tram",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./www",
+    // unknown paths (e.g. /tram-route) get index.html so the app router can handle them;
+    // real files and the generated /{lang}/ideas/... pages are served as they are
+    "not_found_handling": "single-page-application"
+  }
+}

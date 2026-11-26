@@ -165,6 +165,8 @@ export const ua: Record<TranslationKey, string> = {
   'deck.howtoText': "Переверніть картку для повільнішої, солодшої миті.",
   'settings.langHint': "Ваші маленькі миті — вашими словами.",
   'settings.savePrefs': "Зберегти налаштування",
+  'privacy.contactTitle': "Контакти",
+  'privacy.contact': "Питання про ваші дані чи цю політику? Напишіть на",
   'settings.saved': 'Збережено',
   'settings.saveError': 'Не вдалося зберегти налаштування. Спробуйте ще раз.',
   'coffee.eyebrow': "ТРОХИ ДОБРОТИ",

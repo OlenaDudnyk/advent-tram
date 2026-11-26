@@ -166,6 +166,8 @@ export const pl: Record<TranslationKey, string> = {
   'deck.howtoText': "Odwróć kartę, by spędzić chwilę wolniej i słodziej.",
   'settings.langHint': "Twoje małe chwile, Twoimi słowami.",
   'settings.savePrefs': "Zapisz ustawienia",
+  'privacy.contactTitle': "Kontakt",
+  'privacy.contact': "Pytania o Twoje dane lub tę politykę? Napisz na",
   'settings.saved': 'Zapisano',
   'settings.saveError': 'Nie udało się zapisać ustawień. Spróbuj ponownie.',
   'coffee.eyebrow': 'ODROBINA ŻYCZLIWOŚCI',

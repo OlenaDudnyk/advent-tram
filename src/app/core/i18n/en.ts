@@ -164,6 +164,8 @@ export const en = {
   'deck.howtoText': "Flip the card for a slower, sweeter moment.",
   'settings.langHint': "Your little moments, in your words.",
   'settings.savePrefs': "Save preferences",
+  'privacy.contactTitle': "Contact",
+  'privacy.contact': "Questions about your data or this policy? Write to",
   'settings.saved': 'Saved',
   'settings.saveError': 'Unable to save settings. Please try again.',
   'coffee.eyebrow': "A LITTLE KINDNESS",

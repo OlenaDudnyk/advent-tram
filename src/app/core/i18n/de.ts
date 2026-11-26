@@ -166,6 +166,8 @@ export const de: Record<TranslationKey, string> = {
   'deck.howtoText': "Dreh die Karte um für einen langsameren, süßeren Moment.",
   'settings.langHint': "Deine kleinen Momente, in deinen Worten.",
   'settings.savePrefs': "Einstellungen speichern",
+  'privacy.contactTitle': "Kontakt",
+  'privacy.contact': "Fragen zu deinen Daten oder dieser Richtlinie? Schreib an",
   'settings.saved': 'Gespeichert',
   'settings.saveError': 'Einstellungen konnten nicht gespeichert werden. Bitte versuche es noch einmal.',
   'coffee.eyebrow': 'EINE KLEINE GESTE',

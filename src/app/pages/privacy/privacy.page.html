@@ -12,6 +12,10 @@
         <p>{{ section.text | translate: language() }}</p>
       </section>
     }
+    <section>
+      <h2 class="title-section">{{ 'privacy.contactTitle' | translate: language() }}</h2>
+      <p>{{ 'privacy.contact' | translate: language() }} <a [href]="'mailto:' + email">{{ email }}</a></p>
+    </section>
     <app-frame-footer />
   </main>
 </ion-content>
