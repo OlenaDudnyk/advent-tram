@@ -43,5 +43,11 @@
       "shortDesc": "Explorez ensemble un parc près de chez vous",
       "fullDesc": "Choisissez un parc ou un sentier nature que vous connaissez et prévoyez du temps pour une balade sans se presser. Emportez une boisson chaude, faites des pauses si besoin et observez comment le paysage change en hiver."
     }
+  },
+  "image": "ideas/a-longer-nature-walk.jpg",
+  "photo": {
+    "id": "jeB_soGOhpw",
+    "author": "Artur Stanulevich",
+    "url": "https://unsplash.com/photos/jeB_soGOhpw"
   }
 }

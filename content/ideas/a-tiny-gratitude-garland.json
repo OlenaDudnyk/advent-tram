@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "idea-craft.svg",
+  "image": "ideas/a-tiny-gratitude-garland.jpg",
   "tags": [],
   "inspiration": {
     "url": "https://www.pinterest.com/search/pins/?q=gratitude%20garland%20kids"
@@ -47,5 +47,10 @@
       "shortDesc": "Transformez vos pensées reconnaissantes en guirlande",
       "fullDesc": "Écrivez ou dessinez quelques choses pour lesquelles vous êtes reconnaissants sur de petites formes en papier. Enfilez-les ensemble et accrochez votre guirlande à un endroit où tout le monde peut la voir."
     }
+  },
+  "photo": {
+    "id": "HrDHeVDzgR8",
+    "author": "Emily Irene Photo Co.",
+    "url": "https://unsplash.com/photos/HrDHeVDzgR8"
   }
 }

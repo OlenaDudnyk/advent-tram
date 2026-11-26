@@ -43,5 +43,11 @@
       "shortDesc": "Observez ensemble le ciel d'hiver",
       "fullDesc": "Sortez ensemble et levez les yeux. Remarquez les nuages, les étoiles ou les couleurs du ciel, puis partagez chacun une chose que vous voyez."
     }
+  },
+  "image": "ideas/look-up-at-the-sky.jpg",
+  "photo": {
+    "id": "gHyXzKS-Hd4",
+    "author": "Juho Luomala",
+    "url": "https://unsplash.com/photos/a-snow-covered-field-with-trees-in-the-background-gHyXzKS-Hd4"
   }
 }

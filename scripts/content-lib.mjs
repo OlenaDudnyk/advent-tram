@@ -70,6 +70,11 @@ export function validate(ideas = loadIdeas()) {
     if (data.category !== undefined && !config.categories.includes(data.category)) errors.push(at(`"category" must be one of ${config.categories.join(', ')}`));
     if (data.tags !== undefined && (!Array.isArray(data.tags) || data.tags.some((t) => typeof t !== 'string' || !SLUG_RE.test(t)))) errors.push(at('"tags" must be lowercase-with-dashes strings'));
     if (data.image !== undefined && !existsSync(join(ASSETS_DIR, data.image))) errors.push(at(`"image" ${data.image} not found in src/assets`));
+    if (data.photo !== undefined) {
+      const ph = data.photo;
+      if (!ph || typeof ph.id !== 'string' || typeof ph.author !== 'string' || !ph.author.trim()) errors.push(at('photo needs "id" and "author"'));
+      else if (typeof ph.url !== 'string' || !/^https:\/\/unsplash\.com\/photos\//.test(ph.url)) errors.push(at('photo.url must be an https://unsplash.com/photos/ link'));
+    }
     if (data.inspiration !== undefined) {
       try {
         const url = new URL(data.inspiration.url);

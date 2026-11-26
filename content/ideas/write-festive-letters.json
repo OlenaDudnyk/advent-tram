@@ -10,7 +10,7 @@
     "adults",
     "family"
   ],
-  "image": "idea-craft.svg",
+  "image": "ideas/write-festive-letters.jpg",
   "tags": [],
   "text": {
     "en": {
@@ -43,5 +43,10 @@
       "shortDesc": "Créez des cartes manuscrites pour vos proches",
       "fullDesc": "Installez-vous avec un stylo et du papier pour écrire des mots sincères à vos amis et à votre famille. Partagez vos vœux pour la saison, les souvenirs qui vous sont chers ou de simples mots de remerciement. Personnalisez les enveloppes et préparez-vous à envoyer de la joie par la poste."
     }
+  },
+  "photo": {
+    "id": "1OhvIAXU0zI",
+    "author": "Kelly Sikkema",
+    "url": "https://unsplash.com/photos/red-ornament-1OhvIAXU0zI"
   }
 }

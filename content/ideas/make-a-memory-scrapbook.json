@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "idea-craft.svg",
+  "image": "ideas/make-a-memory-scrapbook.jpg",
   "tags": [],
   "inspiration": {
     "url": "https://en.wikipedia.org/wiki/Scrapbooking",
@@ -48,5 +48,10 @@
       "shortDesc": "Rassemblez vos moments préférés sur papier",
       "fullDesc": "Réunissez des photos, des dessins et de petits souvenirs en papier. Disposez-les sur quelques pages et ajoutez des notes sur les moments que vous voulez garder en mémoire."
     }
+  },
+  "photo": {
+    "id": "MUf7Ly04sOI",
+    "author": "Estée Janssens",
+    "url": "https://unsplash.com/photos/journal-with-collage-art-and-supplies-MUf7Ly04sOI"
   }
 }

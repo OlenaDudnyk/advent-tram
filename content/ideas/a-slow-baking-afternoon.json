@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "gingerbread.svg",
+  "image": "ideas/a-slow-baking-afternoon.jpg",
   "tags": [],
   "inspiration": {
     "url": "https://www.youtube.com/results?search_query=easy+christmas+baking+recipes"
@@ -47,5 +47,10 @@
       "shortDesc": "Préparez une gourmandise de saison préférée",
       "fullDesc": "Choisissez une recette familière, rassemblez les ingrédients et cuisinez ensemble à votre rythme. Pendant que vos gourmandises refroidissent, mettez la table et prenez le temps de les savourer ensemble."
     }
+  },
+  "photo": {
+    "id": "cZaUWl1Lse4",
+    "author": "Diliara Garifullina",
+    "url": "https://unsplash.com/photos/cZaUWl1Lse4"
   }
 }

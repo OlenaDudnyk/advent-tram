@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "idea-candle.svg",
+  "image": "ideas/a-candlelit-wish.jpg",
   "tags": [],
   "text": {
     "en": {
@@ -44,5 +44,10 @@
       "shortDesc": "Partagez un petit vœu pour la saison",
       "fullDesc": "Allumez une bougie à piles, serrez-vous les uns contre les autres et confiez chacun à son tour un petit vœu pour les jours à venir. Chacun peut passer son tour s'il préfère écouter."
     }
+  },
+  "photo": {
+    "id": "Vg_B61t8EFs",
+    "author": "Laura Nyhuis",
+    "url": "https://unsplash.com/photos/Vg_B61t8EFs"
   }
 }

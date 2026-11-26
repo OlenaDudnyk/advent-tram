@@ -3,7 +3,7 @@ ion-content { --color: #2f2622; }
   box-sizing: border-box;
   min-height: calc(100dvh - 48px - var(--nav-h, 0px) - env(safe-area-inset-top) - env(safe-area-inset-bottom));
   width: calc(100% - 24px);
-  max-width: min(var(--shell-max), 640px);
+  max-width: var(--shell-max);
   margin: calc(24px + env(safe-area-inset-top)) auto calc(24px + env(safe-area-inset-bottom));
   padding: 22px 20px 26px;
   border-radius: 32px;
@@ -17,3 +17,10 @@ section h2 { margin-bottom: 8px; color: #1b4332; }
 section p { margin: 0; color: #5b4f48; font-size: 14px; line-height: 1.6; }
 
 @media (min-width: 600px) { .privacy-shell { padding: 28px; } }
+// The page card has the same width as every other page; the text sits in readable columns.
+@media (min-width: 600px) {
+  .intro { max-width: 720px; }
+  .privacy-shell { display: grid; grid-template-columns: 1fr 1fr; gap: 0 20px; align-content: start; }
+  .privacy-shell > app-frame-nav, .privacy-shell > header, .privacy-shell > .intro, .privacy-shell > app-frame-footer { grid-column: 1 / -1; }
+  section { margin-bottom: 20px; }
+}

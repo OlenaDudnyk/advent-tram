@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "coffee-cappuccino.png",
+  "image": "ideas/build-a-blanket-nook.jpg",
   "tags": [],
   "text": {
     "en": {
@@ -44,5 +44,10 @@
       "shortDesc": "Aménagez un coin confortable pour une histoire",
       "fullDesc": "Rassemblez des couvertures et des coussins pour former un petit nid douillet. Apportez un livre préféré et lisez ensemble à la lueur d'une petite lampe ou de guirlandes à piles."
     }
+  },
+  "photo": {
+    "id": "rlX-SEqCZ6s",
+    "author": "Julia Peretiatko",
+    "url": "https://unsplash.com/photos/open-book-beside-throw-pillow-rlX-SEqCZ6s"
   }
 }

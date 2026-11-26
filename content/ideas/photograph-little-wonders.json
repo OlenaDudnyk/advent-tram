@@ -43,5 +43,11 @@
       "shortDesc": "Capturez des détails lors d'une balade dans le quartier",
       "fullDesc": "Promenez-vous dans votre quartier et photographiez les petites choses qui attirent votre regard. Plus tard, choisissez votre photo préférée et expliquez pourquoi vous l'avez choisie."
     }
+  },
+  "image": "ideas/photograph-little-wonders.jpg",
+  "photo": {
+    "id": "lJjvxLBZqAk",
+    "author": "Brayden Prato",
+    "url": "https://unsplash.com/photos/a-yellow-and-white-leaf-covered-in-frost-lJjvxLBZqAk"
   }
 }

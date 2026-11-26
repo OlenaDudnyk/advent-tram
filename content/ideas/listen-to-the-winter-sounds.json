@@ -43,5 +43,11 @@
       "shortDesc": "Faites une pause et écoutez dehors",
       "fullDesc": "Trouvez un endroit confortable dehors et faites une pause de quelques minutes. Tendez l'oreille : oiseaux, pas, vent ou voix lointaines, puis partagez les sons que vous avez remarqués."
     }
+  },
+  "image": "ideas/listen-to-the-winter-sounds.jpg",
+  "photo": {
+    "id": "OxTT6kZs_gU",
+    "author": "Annie Spratt",
+    "url": "https://unsplash.com/photos/tall-pine-trees-covered-with-snow-during-winter-OxTT6kZs_gU"
   }
 }

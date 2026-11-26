@@ -20,7 +20,7 @@ ion-content {
   height: calc(100dvh - 32px - var(--nav-h, 0px) - env(safe-area-inset-top) - env(safe-area-inset-bottom));
   min-height: 0;
   width: calc(100% - 24px);
-  max-width: min(var(--shell-max), 820px);
+  max-width: var(--shell-max);
   margin: calc(16px + env(safe-area-inset-top)) auto calc(16px + env(safe-area-inset-bottom));
   padding: 16px 18px 12px;
   border-radius: 32px;

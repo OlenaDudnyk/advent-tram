@@ -39,7 +39,8 @@ hreflang, JSON-LD, запис у sitemap і блок «Більше ідей».
   "duration": 30,                // 5 | 15 | 30 | 60
   "ageGroups": ["family"],       // kids_3_6 | kids_7_12 | adults | family
   "category": "activity",        // необов'язково: activity | heart_deed
-  "image": "idea-winter.svg",    // необов'язково, файл у src/assets; без нього — запасна картинка за місцем
+  "image": "ideas/<slug>.jpg",   // необов'язково, файл у src/assets; без нього — запасна картинка за місцем
+  "photo": { "id": "…", "author": "Ім'я автора", "url": "https://unsplash.com/photos/…" },  // кредит фото (Unsplash)
   "tags": ["craft"],             // необов'язково; для майбутніх підбірок
   "inspiration": { "url": "https://www.pinterest.com/…", "type": "pinterest" },  // необов'язково
   "text": {
@@ -74,3 +75,11 @@ hreflang, JSON-LD, запис у sitemap і блок «Більше ідей».
 | `npm run content:build` | генерує `src/assets/data/tasks*.json` (автоматично перед `start`, `build`, `test:unit`) |
 | `npm run content:todo -- --lang pl` | експорт ідей без перекладу |
 | `npm run content:import -- --lang pl file.json` | імпорт перекладів і повторна перевірка |
+
+
+## Фото ідей (Unsplash)
+Картинки ідей — безкоштовні фото з Unsplash (ліцензія Unsplash дозволяє комерційне використання; атрибуція не обов'язкова, але ми її показуємо на сторінках ідей і в `docs/CREDITS.md`).
+1. Знайдіть **безкоштовне** фото (не Unsplash+) без текстів, логотипів і впізнаваних облич.
+2. Додайте в `content/photos.json`: `"task_025": { "photoId": "XXXX", "author": "Ім'я", "pageUrl": "https://unsplash.com/photos/…" }`.
+3. `node scripts/import-photos.mjs --width 800` — завантажить фото, стисне до `src/assets/ideas/<slug>.jpg` і впише `image` + `photo` в файл ідеї.
+4. `npm run content:check` перевіряє кредит і посилання; `docs/CREDITS.md` оновіть за потреби.

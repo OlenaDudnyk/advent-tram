@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "coffee-cappuccino.png",
+  "image": "ideas/hot-cocoa-gathering.jpg",
   "tags": [],
   "text": {
     "en": {
@@ -44,5 +44,10 @@
       "shortDesc": "Préparez un moment douillet autour d'un chocolat chaud",
       "fullDesc": "Préparez un bon chocolat chaud et réunissez la famille pour une pause réconfortante. Ajoutez des guimauves, de la chantilly et de la cannelle. Partagez des histoires, des blagues ou vos souvenirs préférés en vous réchauffant ensemble. Un moment simple et intime qui rapproche."
     }
+  },
+  "photo": {
+    "id": "z4RgJD-UQSc",
+    "author": "Sixteen Miles Out",
+    "url": "https://unsplash.com/photos/a-cup-of-hot-chocolate-and-marshmallows-on-a-cutting-board-z4RgJD-UQSc"
   }
 }

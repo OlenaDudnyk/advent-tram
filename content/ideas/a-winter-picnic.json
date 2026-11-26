@@ -43,5 +43,11 @@
       "shortDesc": "Emportez une boisson chaude dehors",
       "fullDesc": "Habillez-vous selon la météo et emportez une boisson chaude et une petite collation jusqu'à un banc ou un jardin tout proche. Asseyez-vous ensemble, regardez le monde passer et savourez une pause sans se presser."
     }
+  },
+  "image": "ideas/a-winter-picnic.jpg",
+  "photo": {
+    "id": "Hx4bTRalnjM",
+    "author": "Raphael GB",
+    "url": "https://unsplash.com/photos/thermos-cup-of-coffee-and-snack-on-snow-covered-rock-Hx4bTRalnjM"
   }
 }

@@ -42,5 +42,11 @@
       "shortDesc": "Faites une balade nature pour ramasser des trésors de saison",
       "fullDesc": "Couvrez-vous bien et sortez explorer les paysages d'hiver. Ramassez des branches tombées, des pierres intéressantes et du feuillage de saison. Observez la beauté tranquille de la saison et prenez des photos de vos trouvailles. L'occasion de ralentir et de remarquer les petites merveilles autour de vous."
     }
+  },
+  "image": "ideas/winter-walk-adventure.jpg",
+  "photo": {
+    "id": "Cy_R2NXwUJk",
+    "author": "Hanna Shapovalova",
+    "url": "https://unsplash.com/photos/a-path-in-the-woods-covered-in-snow-Cy_R2NXwUJk"
   }
 }

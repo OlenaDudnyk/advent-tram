@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "idea-craft.svg",
+  "image": "ideas/paper-snowflake-window.jpg",
   "tags": [],
   "inspiration": {
     "url": "https://www.pinterest.com/search/pins/?q=paper%20snowflakes%20for%20windows"
@@ -47,5 +47,10 @@
       "shortDesc": "Fabriquez des flocons de neige pour la fenêtre",
       "fullDesc": "Pliez du papier et découpez de petites formes sur les bords. Dépliez chaque flocon et collez votre petite chute de neige sur une fenêtre. Un adulte peut aider les plus jeunes avec les ciseaux."
     }
+  },
+  "photo": {
+    "id": "EYjVtxc_LdM",
+    "author": "Kelly Sikkema",
+    "url": "https://unsplash.com/photos/a-paper-snowflake-hanging-from-a-book-shelf-EYjVtxc_LdM"
   }
 }

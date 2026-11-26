@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "idea-craft.svg",
+  "image": "ideas/make-festive-gift-tags.jpg",
   "tags": [],
   "inspiration": {
     "url": "https://www.pinterest.com/search/pins/?q=handmade%20christmas%20gift%20tags"
@@ -47,5 +47,10 @@
       "shortDesc": "Décorez des étiquettes faites main",
       "fullDesc": "Découpez des étiquettes dans des chutes de papier ou de carton, puis décorez-les avec des dessins, des tampons ou de petits messages. Gardez-les pour vos cadeaux ou joignez-en une à un mot pour quelqu'un que vous aimez."
     }
+  },
+  "photo": {
+    "id": "4cDjb_aoh1g",
+    "author": "Natalia Arkusha",
+    "url": "https://unsplash.com/photos/a-present-wrapped-in-brown-paper-and-tied-with-twine-4cDjb_aoh1g"
   }
 }

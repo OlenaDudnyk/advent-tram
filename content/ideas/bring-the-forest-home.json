@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "forest-centerpiece.svg",
+  "image": "ideas/bring-the-forest-home.jpg",
   "tags": [],
   "text": {
     "en": {
@@ -44,5 +44,10 @@
       "shortDesc": "Décorez votre intérieur avec de la verdure de saison",
       "fullDesc": "Transformez votre maison en pays des merveilles hivernal en ramassant des branches, des pommes de pin et du feuillage. Créez un joli centre de table ou une couronne naturelle qui fait entrer l'esprit de la forêt chez vous. Idéal pour une ambiance douillette et de saison, tout en passant du temps ensemble."
     }
+  },
+  "photo": {
+    "id": "l_QssMVzmBU",
+    "author": "Joanna Kosinska",
+    "url": "https://unsplash.com/photos/green-christmas-tree-with-pinecones-l_QssMVzmBU"
   }
 }

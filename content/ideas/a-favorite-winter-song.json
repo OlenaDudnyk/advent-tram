@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "idea-candle.svg",
+  "image": "ideas/a-favorite-winter-song.jpg",
   "tags": [],
   "text": {
     "en": {
@@ -44,5 +44,10 @@
       "shortDesc": "Écoutez ensemble une chanson de fête",
       "fullDesc": "Choisissez une chanson d'hiver que vous aimez et écoutez-la ensemble. Chantez en chœur, dansez dans la pièce ou savourez simplement une pause musicale tranquille."
     }
+  },
+  "photo": {
+    "id": "o7r_VxIsW-0",
+    "author": "Thibault Lam Tran",
+    "url": "https://unsplash.com/photos/o7r_VxIsW-0"
   }
 }

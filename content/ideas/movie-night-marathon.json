@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "coffee-cappuccino.png",
+  "image": "ideas/movie-night-marathon.jpg",
   "tags": [],
   "text": {
     "en": {
@@ -44,5 +44,10 @@
       "shortDesc": "Savourez ensemble un film de fête",
       "fullDesc": "Choisissez un film de Noël ou un film familial préféré, installez-vous confortablement avec des couvertures et des coussins, et réunissez-vous pour une séance spéciale. Rendez-la encore plus belle avec des gourmandises maison et sans interruptions. Faites-en une tradition de saison."
     }
+  },
+  "photo": {
+    "id": "Rfp1oIfFzwI",
+    "author": "Eugenia Pan'kiv",
+    "url": "https://unsplash.com/photos/white-and-red-throw-pillow-on-white-bed-Rfp1oIfFzwI"
   }
 }

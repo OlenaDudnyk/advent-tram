@@ -65,7 +65,7 @@ dl{display:grid;grid-template-columns:auto 1fr;gap:6px 16px;margin:16px 0;paddin
 .hint{color:#5b4f48;font-size:14px;margin:6px 0 0}ul.ideas{list-style:none;margin:20px 0 0;padding:0;display:grid;gap:12px}
 ul.ideas a{display:flex;gap:14px;align-items:center;padding:12px;border-radius:22px;background:#ebe2dc;text-decoration:none;color:#2f2622}
 ul.ideas img{width:72px;height:72px;border-radius:16px;object-fit:cover;flex:none}ul.ideas strong{display:block}ul.ideas span{color:#5b4f48;font-size:14px}
-nav.crumbs{font-size:14px;margin-top:20px}nav.pager{display:flex;gap:16px;justify-content:center;align-items:center;margin-top:20px}nav.pager a{padding:8px 16px;border-radius:18px;background:#ebe2dc;text-decoration:none}`;
+nav.crumbs{font-size:14px;margin-top:20px}.credit{margin:6px 4px 0;color:#6b5f58;font-size:12px}nav.pager{display:flex;gap:16px;justify-content:center;align-items:center;margin-top:20px}nav.pager a{padding:8px 16px;border-radius:18px;background:#ebe2dc;text-decoration:none}`;
 
 function layout({ lang, site, path, title, description, body, jsonLd, alternates, availableLangs = LANGS.map((l) => l.code), robots = 'index,follow' }) {
   const abs = (p) => (site ? `${site}${p}` : null);
@@ -187,6 +187,7 @@ export function generateSeoPages({ out, src, site }) {
         body: `<nav class="crumbs"><a href="${landingPath(lang)}">${esc(ui.all)}</a></nav>
 <h1>${esc(x.title)}</h1><p class="lead">${esc(x.shortDesc)}</p>
 <img class="art" src="${image}" alt="${esc(x.title)}" width="720" height="320">
+${idea.photo ? `<p class="credit">Photo: <a href="${esc(idea.photo.url)}?utm_source=advent_tram&amp;utm_medium=referral" rel="noopener">${esc(idea.photo.author)}</a> / <a href="https://unsplash.com/?utm_source=advent_tram&amp;utm_medium=referral" rel="noopener">Unsplash</a></p>` : ''}
 <p>${esc(x.fullDesc)}</p>
 <dl><dt>${esc(ui.time)}</dt><dd>${idea.duration} ${esc(ui.min)}</dd><dt>${esc(ui.where)}</dt><dd>${esc(idea.location === 'in' ? ui.home : ui.out)}</dd><dt>${esc(ui.age)}</dt><dd>${esc(ages)}</dd></dl>
 <a class="cta" href="/">${esc(ui.cta)}</a><p class="hint">${esc(ui.ctaHint)}</p>

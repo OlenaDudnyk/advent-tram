@@ -43,5 +43,11 @@
       "shortDesc": "Visitez un marché de fête près de chez vous",
       "fullDesc": "Visitez ensemble un marché d'hiver ou une fête de saison près de chez vous. Flânez à votre rythme, admirez les décorations faites main et profitez de l'ambiance sans avoir besoin d'acheter quoi que ce soit."
     }
+  },
+  "image": "ideas/explore-a-winter-market.jpg",
+  "photo": {
+    "id": "JJV2fzJ-6OA",
+    "author": "Yuri Krupenin",
+    "url": "https://unsplash.com/photos/christmas-lights-and-ornaments-hanging-outdoors-JJV2fzJ-6OA"
   }
 }

@@ -10,7 +10,7 @@
     "kids_7_12",
     "family"
   ],
-  "image": "idea-craft.svg",
+  "image": "ideas/stars-for-our-window.jpg",
   "tags": [],
   "inspiration": {
     "url": "https://www.pinterest.com/search/pins/?q=paper%203d%20stars%20window%20diy"
@@ -46,5 +46,10 @@
       "shortDesc": "Fabriquez des étoiles en papier pour vos fenêtres",
       "fullDesc": "Pliez et découpez du papier coloré pour réaliser de jolies étoiles en 3D. Disposez-les à vos fenêtres pour qu'elles captent la lumière et créent un décor féerique. Une galaxie d'étoiles avant le coucher apporte émerveillement et joie à la maison."
     }
+  },
+  "photo": {
+    "id": "9IsGDEmJmQQ",
+    "author": "Artur Opala",
+    "url": "https://unsplash.com/photos/a-lit-paper-star-lantern-glows-warmly-9IsGDEmJmQQ"
   }
 }

@@ -11,7 +11,7 @@
     "adults",
     "family"
   ],
-  "image": "gingerbread.svg",
+  "image": "ideas/a-little-mess-a-lot-of-joy.jpg",
   "tags": [],
   "inspiration": {
     "url": "https://www.youtube.com/results?search_query=gingerbread+cookies+decorating+tutorial"
@@ -47,5 +47,10 @@
       "shortDesc": "Préparez et décorez des biscuits au pain d'épices",
       "fullDesc": "Réunissez-vous dans la cuisine pour une séance de pâtisserie de fête. Mélangez la pâte, étalez-la, découpez des formes de saison et décorez avec du glaçage, des vermicelles et des garnitures colorées. Les petites imperfections sont les plus belles : savourez ce moment joyeux et un peu brouillon à créer ensemble."
     }
+  },
+  "photo": {
+    "id": "9e5dfq_v6Sw",
+    "author": "Roma Durkin",
+    "url": "https://unsplash.com/photos/9e5dfq_v6Sw"
   }
 }
