@@ -1,0 +1,70 @@
+{
+  "id": "task_027",
+  "slug": "bulochky-z-korytseyu",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "baking",
+    "cozy"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Булочки з корицею на живих дріжджах — Євген Клопотенко",
+        "url": "https://klopotenko.com/drizhdzhovi-bulochky-z-koryczeyu-za-reczeptom-yevgena-klopotenka/"
+      },
+      {
+        "text": "Синабони з корицею та глазур’ю",
+        "url": "https://klopotenko.com/bylochky-z-koriceu/"
+      },
+      {
+        "text": "Easy cinnamon rolls — BBC Good Food",
+        "url": "https://www.bbcgoodfood.com/recipes/cinnamon-rolls"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Булочки з корицею",
+      "shortDesc": "Солодкі спіралі, від яких пахне цілою хатою",
+      "fullDesc": "Розкачайте тісто, змастіть маслом із цукром і корицею, згорніть рулетом та наріжте кружальцями. Випікайте, поки не зарум’яняться. Це неспішна справа для вихідного вечора, а результат варто чекати разом із чаєм."
+    },
+    "en": {
+      "title": "Cinnamon Rolls",
+      "shortDesc": "Sweet spirals that make the whole house smell wonderful",
+      "fullDesc": "Roll out the dough, spread it with butter, sugar and cinnamon, roll it up and slice into rounds. Bake until golden. It is an unhurried job for a weekend evening, and the result is worth waiting for together with a cup of tea."
+    },
+    "pl": {
+      "title": "Bułeczki cynamonowe",
+      "shortDesc": "Słodkie spirale, od których pachnie w całym domu",
+      "fullDesc": "Rozwałkujcie ciasto, posmarujcie masłem z cukrem i cynamonem, zwińcie w rulon i pokrójcie w krążki. Pieczcie, aż się zarumienią. To niespieszna robota na weekendowy wieczór, a na efekt warto poczekać razem z herbatą."
+    },
+    "es": {
+      "title": "Rollitos de canela",
+      "shortDesc": "Espirales dulces que perfuman toda la casa",
+      "fullDesc": "Extended la masa, untadla con mantequilla, azúcar y canela, enrollad y cortad en rodajas. Hornead hasta que se doren. Es una tarea tranquila para una tarde libre, y el resultado merece la espera junto a una taza de té."
+    },
+    "de": {
+      "title": "Zimtschnecken",
+      "shortDesc": "Süße Spiralen, die das ganze Haus duften lassen",
+      "fullDesc": "Rolle den Teig aus, bestreiche ihn mit Butter, Zucker und Zimt, rolle ihn auf und schneide Scheiben ab. Backe sie goldbraun. Das ist eine gemütliche Beschäftigung für einen freien Abend, und das Ergebnis ist die Wartezeit mit einer Tasse Tee wert."
+    },
+    "fr": {
+      "title": "Brioches à la cannelle",
+      "shortDesc": "Des spirales sucrées qui parfument toute la maison",
+      "fullDesc": "Étalez la pâte, enduisez-la de beurre, de sucre et de cannelle, roulez-la et coupez des rondelles. Faites cuire jusqu'à ce qu'elles soient dorées. C'est une activité tranquille pour une soirée de congé, et le résultat vaut l'attente en buvant un thé."
+    }
+  },
+  "image": "ideas/bulochky-z-korytseyu.jpg",
+  "photo": {
+    "id": "3IZq0613Llw",
+    "author": "Kamilla Isalieva",
+    "url": "https://unsplash.com/photos/3IZq0613Llw"
+  }
+}

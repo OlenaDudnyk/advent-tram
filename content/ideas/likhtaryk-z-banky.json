@@ -1,0 +1,54 @@
+{
+  "id": "task_034",
+  "slug": "likhtaryk-z-banky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Ліхтарик з банки",
+      "shortDesc": "Тепле світло з банки та батарейкової свічки",
+      "fullDesc": "Обклейте банку клаптиками серветки чи кольорового паперу, а всередину поставте безпечну свічку на батарейках. Можна додати гілочку ялини або стрічку. Увечері такий ліхтарик створить затишок на підвіконні чи столі."
+    },
+    "en": {
+      "title": "Jar Lantern",
+      "shortDesc": "Warm light from a jar and a battery candle",
+      "fullDesc": "Cover a jar with scraps of napkin or coloured paper and put a safe battery-powered candle inside. You can add a sprig of fir or a ribbon. In the evening, such a lantern brings cosiness to a windowsill or table."
+    },
+    "pl": {
+      "title": "Latarenka ze słoika",
+      "shortDesc": "Ciepłe światło ze słoika i świeczki na baterie",
+      "fullDesc": "Oklejcie słoik kawałkami serwetki lub kolorowego papieru, a w środku postawcie bezpieczną świeczkę na baterie. Można dodać gałązkę jodły lub wstążkę. Wieczorem taka latarenka stworzy przytulny klimat na parapecie albo stole."
+    },
+    "es": {
+      "title": "Farolillo de tarro",
+      "shortDesc": "Luz cálida de un tarro y una vela de pilas",
+      "fullDesc": "Forrad un tarro con trocitos de servilleta o papel de colores y poned dentro una vela segura de pilas. Podéis añadir una ramita de abeto o una cinta. Por la tarde, este farolillo dará un ambiente acogedor en el alféizar o sobre la mesa."
+    },
+    "de": {
+      "title": "Laterne aus dem Glas",
+      "shortDesc": "Warmes Licht aus Glas und batteriebetriebener Kerze",
+      "fullDesc": "Beklebe ein Glas mit Serviettenstückchen oder buntem Papier und stelle eine sichere Kerze mit Batterie hinein. Du kannst einen Tannenzweig oder ein Band ergänzen. Am Abend sorgt so eine Laterne für Gemütlichkeit auf der Fensterbank oder dem Tisch."
+    },
+    "fr": {
+      "title": "Lanterne en bocal",
+      "shortDesc": "Une lumière chaleureuse venue d'un bocal et d'une bougie à piles",
+      "fullDesc": "Recouvrez un bocal de morceaux de serviette ou de papier coloré et placez à l'intérieur une bougie sûre à piles. Vous pouvez ajouter une branche de sapin ou un ruban. Le soir, cette lanterne créera une ambiance douillette sur le rebord de la fenêtre ou sur la table."
+    }
+  },
+  "image": "ideas/likhtaryk-z-banky.jpg",
+  "photo": {
+    "id": "OX6E6f7FrTw",
+    "author": "Erik Mclean",
+    "url": "https://unsplash.com/photos/OX6E6f7FrTw"
+  }
+}

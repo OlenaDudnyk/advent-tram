@@ -1,0 +1,54 @@
+{
+  "id": "task_133",
+  "slug": "khto-ya-tvaryny-y-ptakhy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Хто я? Тварини й птахи",
+      "shortDesc": "Вгадайте тварину чи птаха, якого вам загадали",
+      "fullDesc": "Один гравець загадує тварину чи птаха й відповідає лише «так» або «ні». Решта ставлять запитання про розмір, колір, місце проживання й звички. Хто вгадав, загадує наступним. Для найменших можна давати підказки звуком."
+    },
+    "en": {
+      "title": "Who Am I? Animals and Birds",
+      "shortDesc": "Guess the animal or bird someone has picked",
+      "fullDesc": "One player thinks of an animal or bird and answers only \"yes\" or \"no\". The others ask about its size, colour, home and habits. Whoever guesses picks next. For the youngest, you can give hints with sounds."
+    },
+    "pl": {
+      "title": "Kim jestem? Zwierzęta i ptaki",
+      "shortDesc": "Odgadnijcie zwierzę lub ptaka, którego ktoś wymyślił",
+      "fullDesc": "Jeden gracz wymyśla zwierzę lub ptaka i odpowiada tylko „tak\" lub „nie\". Pozostali pytają o wielkość, kolor, miejsce życia i zwyczaje. Kto odgadnie, wymyśla następne. Dla najmłodszych można podpowiadać dźwiękami."
+    },
+    "es": {
+      "title": "¿Quién soy? Animales y aves",
+      "shortDesc": "Adivinad el animal o el ave que han pensado",
+      "fullDesc": "Un jugador piensa en un animal o un ave y responde solo «sí» o «no». Los demás preguntan por el tamaño, el color, dónde vive y sus costumbres. Quien acierta elige el siguiente. Para los más pequeños se pueden dar pistas con sonidos."
+    },
+    "de": {
+      "title": "Wer bin ich? Tiere und Vögel",
+      "shortDesc": "Errate das Tier oder den Vogel, an den gedacht wurde",
+      "fullDesc": "Ein Spieler denkt sich ein Tier oder einen Vogel aus und antwortet nur mit „ja“ oder „nein“. Die anderen fragen nach Größe, Farbe, Lebensraum und Gewohnheiten. Wer es errät, ist als Nächster dran. Für die Kleinsten kannst du Tipps mit Geräuschen geben."
+    },
+    "fr": {
+      "title": "Qui suis-je ? Animaux et oiseaux",
+      "shortDesc": "Devinez l'animal ou l'oiseau auquel on a pensé",
+      "fullDesc": "Un joueur pense à un animal ou à un oiseau et ne répond que par « oui » ou « non ». Les autres posent des questions sur la taille, la couleur, l'habitat et les habitudes. Celui qui devine choisit à son tour. Pour les plus petits, on peut donner des indices avec des sons."
+    }
+  },
+  "image": "ideas/khto-ya-tvaryny-y-ptakhy.jpg",
+  "photo": {
+    "id": "D-pMRqXsxgA",
+    "author": "Chris Chow",
+    "url": "https://unsplash.com/photos/D-pMRqXsxgA"
+  }
+}

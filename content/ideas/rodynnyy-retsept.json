@@ -1,0 +1,66 @@
+{
+  "id": "task_061",
+  "slug": "rodynnyy-retsept",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "tradition",
+    "kitchen"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Домашній хліб — Євген Клопотенко (як приклад родинної випічки)",
+        "url": "https://klopotenko.com/domashniy-hlib/"
+      },
+      {
+        "text": "Рецепти від Євгена Клопотенка",
+        "url": "https://klopotenko.com/reczepti/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Родинний рецепт",
+      "shortDesc": "Спільно приготуйте страву з історією",
+      "fullDesc": "Запитайте в бабусі, дідуся чи мами про страву, яку готували у вашій родині. Якщо родинного рецепта немає, придумайте його разом: оберіть продукти, змішайте, спробуйте та дайте страві назву. Запишіть рецепт і спогади до нього: це стане початком вашої кулінарної книги."
+    },
+    "en": {
+      "title": "Family Recipe",
+      "shortDesc": "Cook a dish with a story together",
+      "fullDesc": "Ask grandma, grandpa or mum about a dish your family used to make. If there is no family recipe, invent one together: choose the ingredients, mix, taste and give the dish a name. Write down the recipe and the memories that go with it: it will be the start of your own cookbook."
+    },
+    "pl": {
+      "title": "Rodzinny przepis",
+      "shortDesc": "Przygotujcie razem potrawę z historią",
+      "fullDesc": "Zapytajcie babcię, dziadka lub mamę o potrawę, którą gotowano w waszej rodzinie. Jeśli nie ma rodzinnego przepisu, wymyślcie go razem: wybierzcie produkty, wymieszajcie, spróbujcie i nadajcie potrawie nazwę. Zapiszcie przepis i związane z nim wspomnienia: to będzie początek waszej własnej książki kucharskiej."
+    },
+    "es": {
+      "title": "Receta familiar",
+      "shortDesc": "Cocinad juntos un plato con historia",
+      "fullDesc": "Preguntad a la abuela, al abuelo o a mamá por un plato que se preparaba en vuestra familia. Si no hay receta familiar, inventadla juntos: elegid los ingredientes, mezclad, probad y poned nombre al plato. Anotad la receta y los recuerdos que la acompañan: será el comienzo de vuestro libro de cocina."
+    },
+    "de": {
+      "title": "Familienrezept",
+      "shortDesc": "Kocht gemeinsam ein Gericht mit Geschichte",
+      "fullDesc": "Frag Oma, Opa oder Mama nach einem Gericht, das in eurer Familie gekocht wurde. Gibt es kein Familienrezept, erfindet gemeinsam eins: Wählt die Zutaten, mischt, probiert und gebt dem Gericht einen Namen. Schreibt das Rezept und die Erinnerungen dazu auf: Das wird der Anfang eures Kochbuchs."
+    },
+    "fr": {
+      "title": "Recette de famille",
+      "shortDesc": "Préparez ensemble un plat qui a une histoire",
+      "fullDesc": "Demandez à mamie, à papi ou à maman un plat qu'on préparait dans votre famille. S'il n'y a pas de recette familiale, inventez-en une ensemble : choisissez les ingrédients, mélangez, goûtez et donnez un nom au plat. Notez la recette et les souvenirs qui l'accompagnent : ce sera le début de votre livre de cuisine."
+    }
+  },
+  "image": "ideas/rodynnyy-retsept.jpg",
+  "photo": {
+    "id": "4vkEwpfm36I",
+    "author": "Duncan Kidd",
+    "url": "https://unsplash.com/photos/4vkEwpfm36I"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "task_060",
+  "slug": "kazka-po-cherzi",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "reading",
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Казка по черзі",
+      "shortDesc": "Кожен додає по одному реченню",
+      "fullDesc": "Один починає історію одним реченням, наступний продовжує, і так по колу. Не бійтеся недоречних поворотів: найсмішніші сюжети вигадуються випадково. Запишіть найкращий уривок і прочитайте його ще раз ввечері."
+    },
+    "en": {
+      "title": "Take-Turns Story",
+      "shortDesc": "Everyone adds one sentence",
+      "fullDesc": "One person starts a story with a single sentence, the next continues, and so on around the circle. Do not fear silly twists: the funniest plots are born by accident. Write down the best part and read it again in the evening."
+    },
+    "pl": {
+      "title": "Bajka z kolejnych zdań",
+      "shortDesc": "Każdy dodaje po jednym zdaniu",
+      "fullDesc": "Jedna osoba zaczyna historię jednym zdaniem, następna ją kontynuuje i tak w kółko. Nie bójcie się nieoczekiwanych zwrotów: najzabawniejsze fabuły rodzą się przypadkiem. Zapiszcie najlepszy fragment i przeczytajcie go jeszcze raz wieczorem."
+    },
+    "es": {
+      "title": "Cuento por turnos",
+      "shortDesc": "Cada uno añade una frase",
+      "fullDesc": "Uno empieza la historia con una frase, el siguiente la continúa, y así en círculo. No temáis los giros disparatados: las tramas más divertidas surgen por casualidad. Anotad el mejor fragmento y volved a leerlo por la noche."
+    },
+    "de": {
+      "title": "Geschichte reihum",
+      "shortDesc": "Jeder fügt einen Satz hinzu",
+      "fullDesc": "Einer beginnt die Geschichte mit einem Satz, der Nächste setzt sie fort, und so geht es reihum. Habt keine Angst vor unpassenden Wendungen: Die lustigsten Geschichten entstehen zufällig. Schreibt den besten Abschnitt auf und lest ihn abends noch einmal vor."
+    },
+    "fr": {
+      "title": "Une histoire à tour de rôle",
+      "shortDesc": "Chacun ajoute une phrase",
+      "fullDesc": "L'un commence l'histoire par une phrase, le suivant la continue, et ainsi de suite en cercle. N'ayez pas peur des rebondissements saugrenus : les intrigues les plus drôles naissent par hasard. Notez le meilleur passage et relisez-le le soir."
+    }
+  },
+  "image": "ideas/kazka-po-cherzi.jpg",
+  "photo": {
+    "id": "uWNxBHCCQs4",
+    "author": "Ana Markovych",
+    "url": "https://unsplash.com/photos/uWNxBHCCQs4"
+  }
+}

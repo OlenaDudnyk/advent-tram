@@ -1,0 +1,79 @@
+{
+  "id": "task_120",
+  "slug": "rizdvyana-istoriya-vholos",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "reading",
+    "cozy"
+  ],
+  "list": {
+    "kind": "book",
+    "items": [
+      {
+        "text": "Різдвяна пісня в прозі — Чарльз Дікенс (безкоштовна електронна книга, англійською)",
+        "url": "https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol"
+      },
+      {
+        "text": "Дари волхвів — О. Генрі (оригінал, Wikisource)",
+        "url": "https://en.wikisource.org/wiki/The_Four_Million/The_Gift_of_the_Magi"
+      },
+      {
+        "text": "The Velveteen Rabbit — Margery Williams (оригінал, Wikisource)",
+        "url": "https://en.wikisource.org/wiki/The_Velveteen_Rabbit"
+      },
+      {
+        "text": "The Snow Queen — Hans Christian Andersen (оригінал, Wikisource)",
+        "url": "https://en.wikisource.org/wiki/The_Snow_Queen"
+      },
+      "Різдвяні листи — Дж. Р. Р. Толкін (теплі листи від Санти, які автор писав своїм дітям)",
+      "Одного разу на Різдво — Надійка Гербіш (затишна різдвяна казка про родину їжаків)",
+      "Чарлі і шоколадна фабрика — Роальд Дал"
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Різдвяна історія вголос",
+      "shortDesc": "Прочитайте разом казку чи оповідання про Різдво",
+      "fullDesc": "Влаштуйтеся під пледом із чаєм і читайте по черзі чи слухайте одного читця. Оберіть із добірки історію на 15–30 хвилин і поговоріть, що найбільше запам’яталось. Деякі книжки є безкоштовними електронними текстами, інші можна знайти в бібліотеці чи книгарні."
+    },
+    "en": {
+      "title": "Christmas Story Read Aloud",
+      "shortDesc": "Read a Christmas tale or story together",
+      "fullDesc": "Settle under a blanket with tea and read in turns, or listen to one reader. Pick a story from a collection that takes 15–30 minutes and talk about what stayed with you most. Some books are free e-texts, others can be found at a library or bookshop."
+    },
+    "pl": {
+      "title": "Świąteczna opowieść na głos",
+      "shortDesc": "Przeczytajcie razem bajkę lub opowiadanie o Bożym Narodzeniu",
+      "fullDesc": "Usiądźcie się pod pledem z herbatą i czytajcie na zmianę albo słuchajcie jednego lektora. Wybierzcie z zestawienia historię na 15–30 minut i porozmawiajcie o tym, co zapadło wam w pamięć najbardziej. Niektóre książki są darmowymi e-tekstami, inne znajdziecie w bibliotece lub księgarni."
+    },
+    "es": {
+      "title": "Historia navideña en voz alta",
+      "shortDesc": "Leed juntos un cuento o relato sobre la Navidad",
+      "fullDesc": "Acomodaos bajo una manta con un té y leed por turnos o escuchad a un lector. Elegid de una selección una historia de 15–30 minutos y hablad de lo que más os quedó en la memoria. Algunos libros son textos electrónicos gratuitos y otros se encuentran en la biblioteca o la librería."
+    },
+    "de": {
+      "title": "Weihnachtsgeschichte zum Vorlesen",
+      "shortDesc": "Lest gemeinsam ein Märchen oder eine Erzählung über Weihnachten",
+      "fullDesc": "Macht es euch unter einer Decke mit Tee gemütlich und lest abwechselnd oder lauscht einem Vorleser. Such aus einer Auswahl eine Geschichte von 15–30 Minuten aus und sprecht darüber, was euch am meisten im Gedächtnis geblieben ist. Manche Bücher gibt es kostenlos als E-Text, andere findest du in der Bibliothek oder im Buchladen."
+    },
+    "fr": {
+      "title": "Une histoire de Noël à voix haute",
+      "shortDesc": "Lisez ensemble un conte ou un récit sur Noël",
+      "fullDesc": "Installez-vous sous un plaid avec du thé et lisez à tour de rôle ou écoutez un seul lecteur. Choisissez dans une sélection une histoire de 15 à 30 minutes et parlez de ce qui vous a le plus marqué. Certains livres sont des textes électroniques gratuits, d'autres se trouvent à la bibliothèque ou en librairie."
+    }
+  },
+  "image": "ideas/rizdvyana-istoriya-vholos.jpg",
+  "photo": {
+    "id": "Ms5OR9RMjPU",
+    "author": "Valentina Ivanova",
+    "url": "https://unsplash.com/photos/Ms5OR9RMjPU"
+  }
+}

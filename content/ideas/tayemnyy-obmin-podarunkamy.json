@@ -1,0 +1,64 @@
+{
+  "id": "task_116",
+  "slug": "tayemnyy-obmin-podarunkamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "gift",
+    "kindness"
+  ],
+  "list": {
+    "kind": "links",
+    "items": [
+      {
+        "text": "Обмін подарунками в Україні — Secret Santa",
+        "url": "https://secretsanta.in.ua/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Таємний обмін подарунками",
+      "shortDesc": "Подаруйте комусь незнайомому маленьку радість",
+      "fullDesc": "Зареєструйтесь на сайті анонімного обміну подарунками й надішліть комусь невеликий подарунок. Разом оберіть, що покласти в посилку, напишіть теплу записку й віднесіть на пошту. Отримати подарунок від незнайомця теж приємно."
+    },
+    "en": {
+      "title": "Secret Santa",
+      "shortDesc": "Give a stranger a little joy",
+      "fullDesc": "Sign up on an anonymous gift exchange site such as Secret Santa and send a small gift to someone. Choose together what to put in the parcel, write a warm note and take it to the post office. Receiving a gift from a stranger is lovely too."
+    },
+    "pl": {
+      "title": "Secret Santa",
+      "shortDesc": "Podarujcie nieznajomemu odrobinę radości",
+      "fullDesc": "Zarejestrujcie się na stronie anonimowej wymiany prezentów, takiej jak Secret Santa, i wyślijcie komuś mały upominek. Wybierzcie razem, co włożyć do paczki, napiszcie ciepły liścik i zanieście na pocztę. Dostać prezent od nieznajomego jest równie miło."
+    },
+    "es": {
+      "title": "Intercambio secreto de regalos",
+      "shortDesc": "Regalad una pequeña alegría a un desconocido",
+      "fullDesc": "Registraos en un sitio de intercambio anónimo de regalos y enviad un pequeño regalo a alguien. Elegid juntos qué meter en el paquete, escribid una nota cálida y llevadlo a correos. Recibir un regalo de un desconocido también es muy bonito."
+    },
+    "de": {
+      "title": "Secret Santa",
+      "shortDesc": "Schenke einem Fremden eine kleine Freude",
+      "fullDesc": "Registriere dich auf einer Seite für anonymen Geschenketausch und schicke jemandem ein kleines Geschenk. Sucht gemeinsam aus, was ins Paket kommt, schreibt eine warme Notiz und bringt es zur Post. Auch ein Geschenk von einem Fremden zu bekommen ist schön."
+    },
+    "fr": {
+      "title": "Échange secret de cadeaux",
+      "shortDesc": "Offrez une petite joie à un inconnu",
+      "fullDesc": "Inscrivez-vous sur un site d'échange de cadeaux anonyme et envoyez un petit cadeau à quelqu'un. Choisissez ensemble ce que vous mettez dans le colis, écrivez un mot chaleureux et portez-le à la poste. Recevoir un cadeau d'un inconnu est aussi très agréable."
+    }
+  },
+  "image": "ideas/tayemnyy-obmin-podarunkamy.jpg",
+  "photo": {
+    "id": "0O58LvoYdHk",
+    "author": "Eugene Zhyvchik",
+    "url": "https://unsplash.com/photos/assorted-color-gift-box-under-christmas-tree-0O58LvoYdHk"
+  }
+}

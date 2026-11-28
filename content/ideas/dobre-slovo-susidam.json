@@ -1,0 +1,57 @@
+{
+  "id": "task_094",
+  "slug": "dobre-slovo-susidam",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "neighbors"
+  ],
+  "text": {
+    "ua": {
+      "title": "Добре слово сусідам",
+      "shortDesc": "Залиште біля дверей сусіда листівку з теплим словом",
+      "fullDesc": "Напишіть кілька слів на листівці: побажання, подяку чи просто усмішку. Тихо залиште її біля дверей сусіда чи просуньте в поштову скриньку. Такий дрібний жест здатен зігріти цілий день."
+    },
+    "en": {
+      "title": "A Kind Word for Neighbours",
+      "shortDesc": "Leave a card with a warm word by a neighbour's door",
+      "fullDesc": "Write a few words on a card: a wish, a thank-you or just a smile. Quietly leave it by a neighbour's door or slip it into their mailbox. A small gesture like this can warm a whole day."
+    },
+    "pl": {
+      "title": "Miłe słowo dla sąsiadów",
+      "shortDesc": "Zostawcie pod drzwiami sąsiada kartkę z ciepłym słowem",
+      "fullDesc": "Napiszcie kilka słów na kartce: życzenia, podziękowanie albo po prostu uśmiech. Zostawcie ją cicho pod drzwiami sąsiada lub wrzućcie do skrzynki. Taki drobny gest potrafi ogrzać cały dzień."
+    },
+    "es": {
+      "title": "Una palabra amable para los vecinos",
+      "shortDesc": "Dejad junto a la puerta del vecino una postal con unas palabras cálidas",
+      "fullDesc": "Escribid unas palabras en una postal: un deseo, un agradecimiento o simplemente una sonrisa. Dejadla sin hacer ruido junto a la puerta del vecino o metedla en su buzón. Un gesto tan pequeño puede dar calor a todo un día."
+    },
+    "de": {
+      "title": "Ein nettes Wort für die Nachbarn",
+      "shortDesc": "Legt eine Karte mit lieben Worten vor die Tür des Nachbarn",
+      "fullDesc": "Schreibe ein paar Worte auf eine Karte: einen Wunsch, ein Dankeschön oder einfach ein Lächeln. Lege sie leise vor die Tür des Nachbarn oder wirf sie in seinen Briefkasten. Eine so kleine Geste kann einen ganzen Tag wärmen."
+    },
+    "fr": {
+      "title": "Un mot gentil pour les voisins",
+      "shortDesc": "Déposez devant la porte d'un voisin une carte avec un mot chaleureux",
+      "fullDesc": "Écrivez quelques mots sur une carte : un souhait, un remerciement ou simplement un sourire. Déposez-la discrètement devant la porte du voisin ou glissez-la dans sa boîte aux lettres. Un geste si petit peut réchauffer toute une journée."
+    }
+  },
+  "image": "ideas/dobre-slovo-susidam.jpg",
+  "photo": {
+    "id": "ywn0qiQEFso",
+    "author": "Annie Spratt",
+    "url": "https://unsplash.com/photos/ywn0qiQEFso"
+  }
+}

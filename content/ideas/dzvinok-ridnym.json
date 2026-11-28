@@ -1,0 +1,54 @@
+{
+  "id": "task_069",
+  "slug": "dzvinok-ridnym",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "tradition"
+  ],
+  "text": {
+    "ua": {
+      "title": "Дзвінок рідним",
+      "shortDesc": "Подзвоніть тим, хто далеко",
+      "fullDesc": "Усією родиною зателефонуйте бабусі, дідусеві чи далеким близьким, про кого давно не чули. Розкажіть новини, покажіть малюнки чи зимові прикраси. Кілька теплих слів можуть зробити чийсь день набагато світлішим."
+    },
+    "en": {
+      "title": "Call Your Loved Ones",
+      "shortDesc": "Phone the ones who live far away",
+      "fullDesc": "Call grandma, grandpa or faraway relatives you have not heard from in a while, all together as a family. Share your news, show drawings or winter decorations. A few warm words can make someone's day much brighter."
+    },
+    "pl": {
+      "title": "Telefon do bliskich",
+      "shortDesc": "Zadzwońcie do tych, którzy są daleko",
+      "fullDesc": "Zadzwońcie całą rodziną do babci, dziadka albo dalekich bliskich, o których dawno nic nie słyszeliście. Opowiedzcie nowiny, pokażcie rysunki lub zimowe ozdoby. Kilka ciepłych słów może rozjaśnić komuś cały dzień."
+    },
+    "es": {
+      "title": "Llamada a la familia",
+      "shortDesc": "Llamad a los que están lejos",
+      "fullDesc": "Llamad todos juntos a la abuela, al abuelo o a seres queridos lejanos de los que hace tiempo no sabéis nada. Contad las novedades, enseñad dibujos o adornos de invierno. Unas palabras cálidas pueden iluminar mucho el día de alguien."
+    },
+    "de": {
+      "title": "Anruf bei den Lieben",
+      "shortDesc": "Ruft die an, die weit weg sind",
+      "fullDesc": "Ruft als ganze Familie Oma, Opa oder ferne Verwandte an, von denen ihr lange nichts gehört habt. Erzählt Neuigkeiten, zeigt Bilder oder Winterschmuck. Ein paar warme Worte können jemandem den Tag viel heller machen."
+    },
+    "fr": {
+      "title": "Un appel aux proches",
+      "shortDesc": "Appelez ceux qui sont loin",
+      "fullDesc": "Appelez en famille mamie, papi ou des proches éloignés dont vous n'avez pas eu de nouvelles depuis longtemps. Racontez ce qui se passe, montrez des dessins ou des décorations d'hiver. Quelques mots chaleureux peuvent éclairer beaucoup la journée de quelqu'un."
+    }
+  },
+  "image": "ideas/dzvinok-ridnym.jpg",
+  "photo": {
+    "id": "EjJ7ffSd8iA",
+    "author": "Javier Balseiro",
+    "url": "https://unsplash.com/photos/EjJ7ffSd8iA"
+  }
+}

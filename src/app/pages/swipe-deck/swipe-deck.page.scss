@@ -92,7 +92,7 @@ header { display: flex; align-items: center; gap: 12px; }
 .face-text { display: contents; }
 @media (min-width: 600px) {
   app-frame-nav + header { margin-top: 12px; }
-  .deck-shell { height: auto; min-height: calc(100dvh - 48px - var(--nav-h, 0px) - env(safe-area-inset-top) - env(safe-area-inset-bottom)); padding: 30px; }
+  .deck-shell { margin-top: calc(24px + env(safe-area-inset-top)); margin-bottom: calc(24px + env(safe-area-inset-bottom)); height: auto; min-height: calc(100dvh - 48px - var(--nav-h, 0px) - env(safe-area-inset-top) - env(safe-area-inset-bottom)); padding: 30px; }
   header .heart-toggle { margin-left: auto; }
   .deck-heading { margin: 4px 2px 20px; font-size: 12px; }
   .deck-heading .counter { display: inline; color: $wine; font-size: 15px; font-weight: 700; letter-spacing: 0; }
@@ -123,3 +123,13 @@ header { display: flex; align-items: center; gap: 12px; }
   .howto small { color: #6b5f58; font-size: 14px; }
   .schedule-cta { max-width: 360px; align-self: center; }
 }
+
+// Loading skeleton: a new <img> is created for every card, so until its picture arrives a soft shimmer shows
+// (instead of the previous card's picture).
+.card img.art {
+  background: linear-gradient(100deg, #ebe2dc 30%, #f7f0ec 50%, #ebe2dc 70%) 0 0 / 200% 100%;
+  animation: art-shimmer 1.2s linear infinite;
+}
+@keyframes art-shimmer { from { background-position: 200% 0; } to { background-position: -200% 0; } }
+@media (prefers-reduced-motion: reduce) { .card img.art { animation: none; } }
+

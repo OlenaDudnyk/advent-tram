@@ -42,6 +42,7 @@ describe('TasksService filtering', () => {
   it('filters by exact duration, keeps saved ideas at the very end and skips excluded / completed ones', async () => {
     storage.isTaskCompleted.mockImplementation((id: string) => id === 'completed');
     const service = TestBed.inject(TasksService);
+    service.orderSeed = null;
     await service.loadTasks();
     const ids = (options: Parameters<TasksService['filterTasks']>[0]): string[] =>
       service.filterTasks(options).map((t) => t.id);

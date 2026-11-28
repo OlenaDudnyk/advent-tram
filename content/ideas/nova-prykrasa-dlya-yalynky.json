@@ -1,0 +1,53 @@
+{
+  "id": "task_119",
+  "slug": "nova-prykrasa-dlya-yalynky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "decor",
+    "tradition"
+  ],
+  "text": {
+    "ua": {
+      "title": "Нова прикраса для ялинки",
+      "shortDesc": "Оберіть разом символ цього Різдва й прикрасьте ялинку",
+      "fullDesc": "Поїдьте до крамниці чи ярмарку й виберіть кожному по одній новій прикрасі. Вдома розставте їх на ялинці й розкажіть, чому ви обрали саме її. Щороку збирайте колекцію, щоб згодом згадувати, як ви росли."
+    },
+    "en": {
+      "title": "New Tree Ornament",
+      "shortDesc": "Choose this Christmas's symbol together and decorate the tree",
+      "fullDesc": "Go to a shop or a fair and pick one new ornament for each person. At home, hang them on the tree and tell why you chose yours. Build a collection every year, so you can later remember how you grew."
+    },
+    "pl": {
+      "title": "Nowa ozdoba choinkowa",
+      "shortDesc": "Wybierzcie razem symbol tych świąt i udekorujcie choinkę",
+      "fullDesc": "Pojedźcie do sklepu lub na jarmark i wybierzcie każdemu po jednej nowej ozdobie. W domu zawieście je na choince i opowiedzcie, dlaczego wybraliście właśnie tę. Co roku powiększajcie kolekcję, by z czasem wspominać, jak dorastaliście."
+    },
+    "es": {
+      "title": "Un adorno nuevo para el árbol",
+      "shortDesc": "Elegid juntos el símbolo de esta Navidad y decorad el árbol",
+      "fullDesc": "Id a una tienda o a un mercadillo y elegid un adorno nuevo para cada uno. En casa colocadlos en el árbol y contad por qué elegisteis ese. Cada año id formando una colección para recordar después cómo crecisteis."
+    },
+    "de": {
+      "title": "Neuer Baumschmuck",
+      "shortDesc": "Wählt gemeinsam das Symbol dieses Weihnachtsfestes und schmückt den Baum",
+      "fullDesc": "Fahrt in ein Geschäft oder auf einen Markt und sucht für jeden einen neuen Schmuck aus. Hängt sie zu Hause an den Baum und erzählt, warum ihr genau diesen gewählt habt. Sammelt jedes Jahr eine Kollektion, um euch später daran zu erinnern, wie ihr gewachsen seid."
+    },
+    "fr": {
+      "title": "Une nouvelle décoration pour le sapin",
+      "shortDesc": "Choisissez ensemble le symbole de ce Noël et décorez le sapin",
+      "fullDesc": "Allez dans une boutique ou sur un marché et choisissez une nouvelle décoration pour chacun. À la maison, accrochez-les au sapin et racontez pourquoi vous avez choisi celle-ci. Chaque année, constituez une collection pour vous rappeler plus tard comment vous avez grandi."
+    }
+  },
+  "image": "ideas/nova-prykrasa-dlya-yalynky.jpg",
+  "photo": {
+    "id": "vjoEeLBz9KY",
+    "author": "Annie Spratt",
+    "url": "https://unsplash.com/photos/vjoEeLBz9KY"
+  }
+}

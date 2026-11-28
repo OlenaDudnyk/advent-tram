@@ -1,0 +1,59 @@
+{
+  "id": "task_113",
+  "slug": "banka-zaspokiylyvka",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "cozy"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/1108096683353873826/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Банка-заспокійливка",
+      "shortDesc": "Блискітки повільно падають, а думки вщухають",
+      "fullDesc": "Наповніть пластикову пляшку чи банку теплою водою з ложкою прозорого клею, додайте блискітки й кольоровий барвник і закрийте кришку. Струсніть і спостерігайте, як блискітки опускаються. Коли хочеться тиші чи заспокоїтись, дивіться на банку й дихайте повільно."
+    },
+    "en": {
+      "title": "Calm-Down Jar",
+      "shortDesc": "Glitter slowly falls and thoughts grow quiet",
+      "fullDesc": "Fill a plastic bottle or a jar with warm water and a spoonful of clear glue, add glitter and food colouring, and close the lid. Shake it and watch the glitter slowly sink. When you need quiet or a moment to settle, look at the jar and breathe slowly."
+    },
+    "pl": {
+      "title": "Słoik uspokajający",
+      "shortDesc": "Brokat powoli opada, a myśli cichną",
+      "fullDesc": "Napełnijcie plastikową butelkę lub słoik ciepłą wodą z łyżką przezroczystego kleju, dodajcie brokat i barwnik, po czym zakręćcie. Potrząśnijcie i patrzcie, jak brokat opada. Gdy zapragniecie ciszy albo chwili wytchnienia, patrzcie na słoik i oddychajcie powoli."
+    },
+    "es": {
+      "title": "Tarro de la calma",
+      "shortDesc": "Las purpurinas caen despacio y los pensamientos se aquietan",
+      "fullDesc": "Llenad una botella de plástico o un tarro con agua tibia y una cucharada de pegamento transparente, añadid purpurina y colorante y cerrad la tapa. Agitad y mirad cómo baja la purpurina. Cuando necesitéis calma, mirad el tarro y respirad despacio."
+    },
+    "de": {
+      "title": "Beruhigungsglas",
+      "shortDesc": "Das Glitzer sinkt langsam, die Gedanken werden still",
+      "fullDesc": "Fülle eine Plastikflasche oder ein Glas mit warmem Wasser und einem Löffel durchsichtigem Kleber, gib Glitzer und Farbe dazu und schließe den Deckel. Schüttle es und sieh zu, wie der Glitzer sinkt. Wenn du Ruhe brauchst, schau das Glas an und atme langsam."
+    },
+    "fr": {
+      "title": "Le bocal apaisant",
+      "shortDesc": "Les paillettes tombent doucement, les pensées s'apaisent",
+      "fullDesc": "Remplissez une bouteille en plastique ou un bocal d'eau tiède avec une cuillère de colle transparente, ajoutez des paillettes et du colorant, puis fermez le couvercle. Secouez et regardez les paillettes descendre. Quand vous avez besoin de calme, regardez le bocal et respirez lentement."
+    }
+  },
+  "image": "ideas/banka-zaspokiylyvka.jpg",
+  "photo": {
+    "id": "4jLj-GdRn_A",
+    "author": "Alexander Grey",
+    "url": "https://unsplash.com/photos/4jLj-GdRn_A"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "task_122",
+  "slug": "svyatkove-kafe",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "cozy",
+    "market"
+  ],
+  "text": {
+    "ua": {
+      "title": "Святкове кафе",
+      "shortDesc": "Сходіть у затишний заклад випити гарячого й з’їсти десерт",
+      "fullDesc": "Оберіть кав’ярню чи кондитерську, де пахне корицею, й зробіть невелику святкову перерву. Замовте по десерту й гарячому напою, розгляньте декор. Не поспішайте: головне, що ви разом."
+    },
+    "en": {
+      "title": "Festive Café",
+      "shortDesc": "Visit a cosy place for a hot drink and dessert",
+      "fullDesc": "Pick a café or pastry shop that smells of cinnamon and take a little festive break. Order a dessert and a hot drink each and look around at the decor. Do not hurry: what matters is that you are together."
+    },
+    "pl": {
+      "title": "Świąteczna kawiarnia",
+      "shortDesc": "Wybierzcie się do przytulnego miejsca na gorący napój i deser",
+      "fullDesc": "Wybierzcie kawiarnię lub cukiernię, w której pachnie cynamonem, i zróbcie sobie małą świąteczną przerwę. Zamówcie po deserze i gorącym napoju, rozejrzyjcie się po wystroju. Nie śpieszcie się: najważniejsze, że jesteście razem."
+    },
+    "es": {
+      "title": "Cafetería festiva",
+      "shortDesc": "Id a un sitio acogedor a tomar algo caliente y un postre",
+      "fullDesc": "Elegid una cafetería o pastelería que huela a canela y haced una pequeña pausa festiva. Pedid un postre y una bebida caliente para cada uno y mirad la decoración. No tengáis prisa: lo importante es estar juntos."
+    },
+    "de": {
+      "title": "Festliches Café",
+      "shortDesc": "Geht in ein gemütliches Lokal für ein heißes Getränk und ein Dessert",
+      "fullDesc": "Wähle ein Café oder eine Konditorei, wo es nach Zimt duftet, und mach eine kleine festliche Pause. Bestellt je ein Dessert und ein heißes Getränk und schaut euch die Deko an. Lasst euch Zeit: Die Hauptsache ist, dass ihr zusammen seid."
+    },
+    "fr": {
+      "title": "Café de fête",
+      "shortDesc": "Allez dans un lieu douillet boire quelque chose de chaud et goûter un dessert",
+      "fullDesc": "Choisissez un café ou une pâtisserie où ça sent la cannelle et faites une petite pause de fête. Commandez chacun un dessert et une boisson chaude et regardez la décoration. Ne vous pressez pas : l'essentiel est d'être ensemble."
+    }
+  },
+  "image": "ideas/svyatkove-kafe.jpg",
+  "photo": {
+    "id": "MMfdZpex6uU",
+    "author": "Oksana Lysenko",
+    "url": "https://unsplash.com/photos/outdoor-seating-area-with-barrel-table-and-christmas-trees-MMfdZpex6uU"
+  }
+}

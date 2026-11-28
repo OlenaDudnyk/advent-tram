@@ -1,0 +1,62 @@
+{
+  "id": "task_030",
+  "slug": "mlyntsi-z-syurpryzom",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "kitchen",
+    "cozy"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Пишні млинці на кефірі — Євген Клопотенко",
+        "url": "https://klopotenko.com/davnya-ukrayinska-tradycziya-pyshni-mlynczi-na-kefiri-vid-yevgena-klopotenka/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Млинці з сюрпризом",
+      "shortDesc": "Тонкі млинці й купа різних начинок на вибір",
+      "fullDesc": "Спечіть тонкі млинці й викладіть на стіл різні начинки: сир, фрукти, варення, шоколадну пасту. Кожен загортає собі млинець на свій смак і ділиться враженнями. Неквапний сімейний сніданок чи вечеря з відчуттям свята."
+    },
+    "en": {
+      "title": "Surprise Pancakes",
+      "shortDesc": "Thin pancakes and plenty of fillings to choose from",
+      "fullDesc": "Make thin pancakes and set out different fillings on the table: cheese, fruit, jam, chocolate spread. Everyone wraps their own pancake to taste and shares their impressions. An unhurried family breakfast or dinner with a festive feel."
+    },
+    "pl": {
+      "title": "Naleśniki z niespodzianką",
+      "shortDesc": "Cienkie naleśniki i mnóstwo nadzień do wyboru",
+      "fullDesc": "Usmażcie cienkie naleśniki i wyłóżcie na stół różne nadzienia: ser, owoce, dżem, krem czekoladowy. Każdy zawija naleśnik po swojemu i dzieli się wrażeniami. Niespieszne rodzinne śniadanie albo kolacja z odrobiną świątecznego nastroju."
+    },
+    "es": {
+      "title": "Crepes sorpresa",
+      "shortDesc": "Crepes finas y muchos rellenos para elegir",
+      "fullDesc": "Preparad crepes finas y poned sobre la mesa distintos rellenos: queso, fruta, mermelada, crema de chocolate. Cada uno envuelve su crepe a su gusto y comparte lo que le parece. Un desayuno o cena familiar sin prisa y con aire de fiesta."
+    },
+    "de": {
+      "title": "Pfannkuchen mit Überraschung",
+      "shortDesc": "Dünne Pfannkuchen und viele Füllungen zur Auswahl",
+      "fullDesc": "Backe dünne Pfannkuchen und stelle verschiedene Füllungen auf den Tisch: Käse, Obst, Marmelade, Schokocreme. Jeder rollt sich seinen Pfannkuchen nach Geschmack ein und erzählt, wie er schmeckt. Ein gemütliches Familienfrühstück oder -abendessen mit Festgefühl."
+    },
+    "fr": {
+      "title": "Crêpes surprise",
+      "shortDesc": "De fines crêpes et plein de garnitures au choix",
+      "fullDesc": "Préparez de fines crêpes et disposez sur la table différentes garnitures : fromage, fruits, confiture, pâte à tartiner au chocolat. Chacun roule sa crêpe à son goût et partage ses impressions. Un petit-déjeuner ou un dîner en famille, sans se presser, avec un air de fête."
+    }
+  },
+  "image": "ideas/mlyntsi-z-syurpryzom.jpg",
+  "photo": {
+    "id": "Ji2l0GNVmBk",
+    "author": "Stephanie Klepacki",
+    "url": "https://unsplash.com/photos/Ji2l0GNVmBk"
+  }
+}

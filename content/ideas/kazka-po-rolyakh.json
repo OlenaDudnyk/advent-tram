@@ -1,0 +1,55 @@
+{
+  "id": "task_059",
+  "slug": "kazka-po-rolyakh",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "reading",
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Казка по ролях",
+      "shortDesc": "Кожен озвучує свого героя",
+      "fullDesc": "Оберіть коротку казку та розподіліть ролі, змінюючи голоси: грізний вовк, лагідна мама, тоненька мишка. Читайте з виразом і жестами. Діти люблять, коли дорослі кумедно грають, а дорослі згадують власне дитинство."
+    },
+    "en": {
+      "title": "Fairy Tale with Voices",
+      "shortDesc": "Everyone voices their own character",
+      "fullDesc": "Choose a short fairy tale and assign roles, changing your voices: a fierce wolf, a gentle mother, a squeaky mouse. Read with expression and gestures. Children love it when grown-ups play along, and grown-ups remember their own childhood."
+    },
+    "pl": {
+      "title": "Bajka w rolach",
+      "shortDesc": "Każdy podkłada głos pod swojego bohatera",
+      "fullDesc": "Wybierzcie krótką bajkę i rozdzielcie role, zmieniając głosy: groźny wilk, łagodna mama, piskliwa myszka. Czytajcie z uczuciem i gestami. Dzieci uwielbiają, gdy dorośli zabawnie się wcielają, a dorośli przypominają sobie własne dzieciństwo."
+    },
+    "es": {
+      "title": "Cuento con personajes",
+      "shortDesc": "Cada uno pone voz a su personaje",
+      "fullDesc": "Elegid un cuento corto y repartid los papeles cambiando la voz: el lobo feroz, la mamá cariñosa, el ratoncito de vocecilla fina. Leed con expresión y gestos. A los niños les encanta que los adultos hagan el payaso, y los adultos recuerdan su infancia."
+    },
+    "de": {
+      "title": "Märchen mit verteilten Rollen",
+      "shortDesc": "Jeder spricht seine eigene Figur",
+      "fullDesc": "Wählt ein kurzes Märchen und verteilt die Rollen, mit wechselnden Stimmen: der grimmige Wolf, die liebe Mama, die piepsige Maus. Lest mit Ausdruck und Gesten. Kinder lieben es, wenn Erwachsene komisch spielen, und Erwachsene erinnern sich an ihre Kindheit."
+    },
+    "fr": {
+      "title": "Un conte en rôles",
+      "shortDesc": "Chacun donne sa voix à son personnage",
+      "fullDesc": "Choisissez un conte court et répartissez les rôles en changeant de voix : le loup menaçant, la maman tendre, la petite souris aiguë. Lisez avec expression et gestes. Les enfants adorent voir les adultes jouer les drôles, et les adultes retrouvent leur enfance."
+    }
+  },
+  "image": "ideas/kazka-po-rolyakh.jpg",
+  "photo": {
+    "id": "A9W4Nor4QT8",
+    "author": "Sixteen Miles Out",
+    "url": "https://unsplash.com/photos/A9W4Nor4QT8"
+  }
+}

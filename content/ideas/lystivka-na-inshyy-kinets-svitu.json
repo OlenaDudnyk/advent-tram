@@ -1,0 +1,65 @@
+{
+  "id": "task_117",
+  "slug": "lystivka-na-inshyy-kinets-svitu",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "gift",
+    "tradition"
+  ],
+  "list": {
+    "kind": "links",
+    "items": [
+      {
+        "text": "Postcrossing — обмін листівками",
+        "url": "https://www.postcrossing.com/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Листівка на інший кінець світу",
+      "shortDesc": "Надішліть листівку незнайомцю й отримайте свою",
+      "fullDesc": "Зареєструйтесь на сайті обміну листівками, отримайте адресу й надішліть листівку людині з іншої країни. Разом оберіть листівку, напишіть кілька теплих слів і наклейте марку. Згодом вам прийде листівка від когось іще."
+    },
+    "en": {
+      "title": "Postcard to the Other Side of the World",
+      "shortDesc": "Send a postcard to a stranger and get one back",
+      "fullDesc": "Sign up on a postcard exchange site such as Postcrossing, get an address and send a postcard to someone in another country. Choose the card together, write a few warm words and stick on a stamp. Before long, a postcard will arrive from someone else."
+    },
+    "pl": {
+      "title": "Kartka na drugi koniec świata",
+      "shortDesc": "Wyślijcie kartkę nieznajomemu i dostańcie własną",
+      "fullDesc": "Zarejestrujcie się na stronie wymiany pocztówek, takiej jak Postcrossing, otrzymajcie adres i wyślijcie kartkę do osoby z innego kraju. Wybierzcie pocztówkę razem, napiszcie kilka ciepłych słów i przyklejcie znaczek. Po jakimś czasie przyjdzie do was kartka od kogoś innego."
+    },
+    "es": {
+      "title": "Postal al otro lado del mundo",
+      "shortDesc": "Enviad una postal a un desconocido y recibid la vuestra",
+      "fullDesc": "Registraos en un sitio de intercambio de postales, conseguid una dirección y enviad una postal a alguien de otro país. Elegid juntos la postal, escribid unas palabras cálidas y pegad el sello. Con el tiempo os llegará una postal de otra persona."
+    },
+    "de": {
+      "title": "Postkarte ans andere Ende der Welt",
+      "shortDesc": "Schicke einem Fremden eine Karte und bekomme selbst eine",
+      "fullDesc": "Registriere dich auf einer Postkarten-Tauschseite, erhalte eine Adresse und schicke eine Karte an jemanden in einem anderen Land. Sucht zusammen die Karte aus, schreibt ein paar warme Worte und klebt die Briefmarke auf. Später kommt eine Karte von jemand anderem bei euch an."
+    },
+    "fr": {
+      "title": "Une carte à l'autre bout du monde",
+      "shortDesc": "Envoyez une carte à un inconnu et recevez la vôtre",
+      "fullDesc": "Inscrivez-vous sur un site d'échange de cartes postales, obtenez une adresse et envoyez une carte à une personne d'un autre pays. Choisissez la carte ensemble, écrivez quelques mots chaleureux et collez le timbre. Avec le temps, vous recevrez une carte de quelqu'un d'autre."
+    }
+  },
+  "image": "ideas/lystivka-na-inshyy-kinets-svitu.jpg",
+  "photo": {
+    "id": "XVVSAH2CTKI",
+    "author": "Fiona Murray-deGraaff",
+    "url": "https://unsplash.com/photos/XVVSAH2CTKI"
+  }
+}

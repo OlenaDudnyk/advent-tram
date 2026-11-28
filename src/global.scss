@@ -132,3 +132,19 @@ ion-modal.sheet-modal .memory-sheet {
   ion-modal.sheet-modal .sheet, ion-modal.sheet-modal .memory-sheet { background: #fffdfb; padding: 26px 28px 28px; }
   ion-modal.sheet-modal { --background: #fffdfb; }
 }
+
+// Tablet and up: the card, header and footer of every page sit in the same place, so switching pages only swaps
+// the content. The content fades in; the header (app-frame-nav) and footer never animate.
+@media (min-width: 600px) {
+  main[class$='-shell'] > :not(app-frame-nav):not(app-frame-footer) { animation: page-content-in .24s ease-out both; }
+}
+@keyframes page-content-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  main[class$='-shell'] > :not(app-frame-nav):not(app-frame-footer) { animation: none; }
+}
+
+// Same card position on every tablet / desktop page: the scrollbar space is always reserved,
+// so pages with and without a scrollbar do not shift the header sideways.
+@media (min-width: 600px) {
+  ion-content::part(scroll) { scrollbar-gutter: stable; }
+}

@@ -11,10 +11,10 @@ export enum Language {
 export const LANGUAGE_OPTIONS: readonly { value: Language; label: string }[] = [
   { value: Language.English, label: 'EN' },
   { value: Language.Ukrainian, label: 'УК' },
-  { value: Language.Polish, label: 'PL' },
-  { value: Language.Spanish, label: 'ES' },
-  { value: Language.German, label: 'DE' },
-  { value: Language.French, label: 'FR' },
+  // { value: Language.Polish, label: 'PL' },
+  // { value: Language.Spanish, label: 'ES' },
+  // { value: Language.German, label: 'DE' },
+  // { value: Language.French, label: 'FR' },
 ];
 
 /** BCP 47 locale per app language, for Intl date formatting. */

@@ -1,0 +1,67 @@
+{
+  "id": "task_028",
+  "slug": "tryufeli-bez-vypikannya",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "kitchen",
+    "gift"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Easy chocolate truffles — BBC Good Food",
+        "url": "https://www.bbcgoodfood.com/recipes/easy-chocolate-truffles"
+      },
+      {
+        "text": "Цукерки Рафаело — Євген Клопотенко",
+        "url": "https://klopotenko.com/klasyka-po-domashnomu-czukerky-rafaelo-vid-yevgena-klopotenka/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Трюфелі без випікання",
+      "shortDesc": "Шоколадні кульки, які ліплять усі разом",
+      "fullDesc": "Розтоплений дорослим шоколад змішайте з вершками, остудіть і скачайте маленькі кульки. Обваляйте їх у какао, кокосовій стружці чи подрібнених горіхах. Вийде маленька коробка солодощів, які не соромно подарувати рідним."
+    },
+    "en": {
+      "title": "No-Bake Truffles",
+      "shortDesc": "Chocolate balls everyone rolls together",
+      "fullDesc": "Mix the chocolate, melted by a grown-up, with cream, let it cool and roll small balls. Coat them in cocoa, coconut or chopped nuts. You get a little box of sweets that are lovely to give to family."
+    },
+    "pl": {
+      "title": "Trufle bez pieczenia",
+      "shortDesc": "Czekoladowe kuleczki, które lepią wszyscy razem",
+      "fullDesc": "Wymieszajcie rozpuszczoną przez dorosłego czekoladę ze śmietanką, ostudźcie i zwińcie małe kuleczki. Obtoczcie je w kakao, wiórkach kokosowych lub posiekanych orzechach. Powstanie małe pudełko słodyczy, które z dumą podarujecie bliskim."
+    },
+    "es": {
+      "title": "Trufas sin horno",
+      "shortDesc": "Bolitas de chocolate que se hacen entre todos",
+      "fullDesc": "Mezclad el chocolate derretido por un adulto con nata, dejad enfriar y formad bolitas pequeñas. Rebozadlas en cacao, coco rallado o frutos secos picados. Saldrá una cajita de dulces que da gusto regalar a la familia."
+    },
+    "de": {
+      "title": "Trüffel ohne Backen",
+      "shortDesc": "Schokokugeln, die alle gemeinsam formen",
+      "fullDesc": "Vermische die von einem Erwachsenen geschmolzene Schokolade mit Sahne, lass sie abkühlen und rolle kleine Kugeln. Wälze sie in Kakao, Kokosraspeln oder gehackten Nüssen. So entsteht ein Schächtelchen mit Süßigkeiten, die man gern der Familie schenkt."
+    },
+    "fr": {
+      "title": "Truffes sans cuisson",
+      "shortDesc": "Des boules de chocolat que l'on façonne tous ensemble",
+      "fullDesc": "Mélangez le chocolat fondu par un adulte avec de la crème, laissez refroidir et formez de petites boules. Roulez-les dans du cacao, de la noix de coco râpée ou des noix concassées. Vous obtiendrez une petite boîte de douceurs que l'on offre avec fierté à la famille."
+    }
+  },
+  "image": "ideas/tryufeli-bez-vypikannya.jpg",
+  "photo": {
+    "id": "JSw7LIOwKeo",
+    "author": "Ines Iachelini",
+    "url": "https://unsplash.com/photos/chocolate-truffles-dusted-with-cocoa-powder-on-a-plate-JSw7LIOwKeo"
+  }
+}

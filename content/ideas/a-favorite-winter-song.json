@@ -49,5 +49,23 @@
     "id": "o7r_VxIsW-0",
     "author": "Thibault Lam Tran",
     "url": "https://unsplash.com/photos/o7r_VxIsW-0"
-  }
+  },
+  "list": {
+    "kind": "music",
+    "items": [
+      "All I Want for Christmas Is You — Mariah Carey",
+      "Last Christmas — Wham!",
+      "White Christmas — Bing Crosby",
+      "Have Yourself a Merry Little Christmas — Judy Garland",
+      "Let It Snow! Let It Snow! Let It Snow! — Dean Martin",
+      "Jingle Bell Rock — Bobby Helms",
+      "It's the Most Wonderful Time of the Year — Andy Williams",
+      "Driving Home for Christmas — Chris Rea",
+      "Merry Christmas Everyone — Shakin' Stevens",
+      "Щедрик / Carol of the Bells — Микола Леонтович",
+      "Тиха ніч / Silent Night",
+      "Jingle Bells"
+    ]
+  },
+  "topic": "cozy"
 }

@@ -1,0 +1,59 @@
+{
+  "id": "task_109",
+  "slug": "vesela-hra-z-marshmelou",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "cozy"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/464504149087877022/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Весела гра з маршмелоу",
+      "shortDesc": "Сімейна гра з маленькими пухнастими цукерками",
+      "fullDesc": "Приготуйте маршмелоу та просту гру з ними за прикладом за посиланням: розіграйте її всією родиною, по черзі й за таймером. Переможець отримує право першим з’їсти кілька маршмелоу. Гра весела для всіх віків."
+    },
+    "en": {
+      "title": "Fun Marshmallow Game",
+      "shortDesc": "A family game with little fluffy sweets",
+      "fullDesc": "Prepare marshmallows and a simple game to play with them, following the example at the link: play it as a whole family, taking turns and using a timer. The winner gets to eat a few marshmallows first. The game is fun for all ages."
+    },
+    "pl": {
+      "title": "Wesoła gra z piankami",
+      "shortDesc": "Rodzinna gra z małymi puszystymi cukierkami",
+      "fullDesc": "Przygotujcie pianki marshmallow i prostą grę z ich użyciem według przykładu pod linkiem: zagrajcie w nią całą rodziną, po kolei i z minutnikiem. Zwycięzca zyskuje prawo, by pierwszy zjeść kilka pianek. Gra jest zabawna dla każdego wieku."
+    },
+    "es": {
+      "title": "Juego divertido con nubes de azúcar",
+      "shortDesc": "Un juego familiar con pequeñas golosinas esponjosas",
+      "fullDesc": "Preparad nubes de azúcar y un juego sencillo con ellas, siguiendo el ejemplo del enlace: jugadlo toda la familia, por turnos y con temporizador. El ganador tiene derecho a comerse primero unas cuantas nubes. Es un juego divertido para todas las edades."
+    },
+    "de": {
+      "title": "Lustiges Marshmallow-Spiel",
+      "shortDesc": "Ein Familienspiel mit kleinen flauschigen Süßigkeiten",
+      "fullDesc": "Bereite Marshmallows und ein einfaches Spiel damit vor, nach dem Beispiel über den Link: Spielt es als ganze Familie, abwechselnd und mit Timer. Der Gewinner darf als Erster ein paar Marshmallows essen. Das Spiel macht allen Altersgruppen Spaß."
+    },
+    "fr": {
+      "title": "Jeu rigolo avec des guimauves",
+      "shortDesc": "Un jeu en famille avec de petites friandises moelleuses",
+      "fullDesc": "Préparez des guimauves et un jeu simple avec elles, d'après l'exemple du lien : jouez-y en famille, chacun son tour et avec un minuteur. Le gagnant a le droit de manger le premier quelques guimauves. C'est un jeu amusant pour tous les âges."
+    }
+  },
+  "image": "ideas/vesela-hra-z-marshmelou.jpg",
+  "photo": {
+    "id": "NtmNhrdfs-o",
+    "author": "Elena Leya",
+    "url": "https://unsplash.com/photos/a-cup-of-hot-chocolate-with-marshmallows-on-a-saucer-NtmNhrdfs-o"
+  }
+}

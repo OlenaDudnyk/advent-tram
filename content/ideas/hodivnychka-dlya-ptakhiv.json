@@ -1,0 +1,57 @@
+{
+  "id": "task_100",
+  "slug": "hodivnychka-dlya-ptakhiv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "birds",
+    "kindness",
+    "nature"
+  ],
+  "text": {
+    "ua": {
+      "title": "Годівничка для птахів",
+      "shortDesc": "Змайструйте годівничку з картону чи пляшки",
+      "fullDesc": "Візьміть чисту пластикову пляшку, картонну пачку з-під молока чи стару миску. Виріжте віконечко (це робить дорослий), прикріпіть мотузку та насипте насіння. Повісьте годівничку на гілку чи балкон і чекайте перших гостей."
+    },
+    "en": {
+      "title": "Bird Feeder",
+      "shortDesc": "Build a feeder from cardboard or a bottle",
+      "fullDesc": "Take a clean plastic bottle, a cardboard milk carton or an old bowl. Cut out a little window (a grown-up does this), attach a string and fill it with seeds. Hang the feeder on a branch or balcony and wait for the first guests."
+    },
+    "pl": {
+      "title": "Karmnik dla ptaków",
+      "shortDesc": "Zmajstrujcie karmnik z kartonu lub butelki",
+      "fullDesc": "Weźcie czystą plastikową butelkę, karton po mleku lub starą miskę. Wytnijcie okienko (robi to dorosły), przymocujcie sznurek i nasypcie ziaren. Powieście karmnik na gałęzi lub balkonie i czekajcie na pierwszych gości."
+    },
+    "es": {
+      "title": "Comedero para pájaros",
+      "shortDesc": "Haced un comedero con cartón o una botella",
+      "fullDesc": "Coged una botella de plástico limpia, un cartón de leche o un cuenco viejo. Recortad una ventanita (esto lo hace un adulto), atad una cuerda y echad semillas. Colgad el comedero de una rama o en el balcón y esperad a los primeros visitantes."
+    },
+    "de": {
+      "title": "Vogelfutterhaus",
+      "shortDesc": "Bastle ein Futterhaus aus Karton oder einer Flasche",
+      "fullDesc": "Nimm eine saubere Plastikflasche, einen Milchkarton oder eine alte Schüssel. Schneide ein kleines Fenster aus (das macht ein Erwachsener), befestige eine Schnur und fülle Samen ein. Häng das Futterhaus an einen Ast oder auf den Balkon und warte auf die ersten Gäste."
+    },
+    "fr": {
+      "title": "Mangeoire pour les oiseaux",
+      "shortDesc": "Fabriquez une mangeoire avec du carton ou une bouteille",
+      "fullDesc": "Prenez une bouteille en plastique propre, un carton de lait ou un vieux bol. Découpez une petite fenêtre (c'est un adulte qui s'en charge), attachez une ficelle et versez des graines. Accrochez la mangeoire à une branche ou au balcon et attendez les premiers visiteurs."
+    }
+  },
+  "image": "ideas/hodivnychka-dlya-ptakhiv.jpg",
+  "photo": {
+    "id": "uEf8sr7njWY",
+    "author": "Matthew Ball",
+    "url": "https://unsplash.com/photos/uEf8sr7njWY"
+  }
+}

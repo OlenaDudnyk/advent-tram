@@ -1,0 +1,54 @@
+{
+  "id": "task_035",
+  "slug": "hirlyanda-iz-paperovykh-serdechok",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Гірлянда із паперових сердечок",
+      "shortDesc": "Простий спосіб додати тепла до стіни чи вікна",
+      "fullDesc": "Складіть кольоровий папір гармошкою, виріжте половинку серця й розгорніть ланцюжок. Склейте кілька смужок разом і повісьте над ліжком чи диваном. Робота спокійна, її приємно робити під тиху музику."
+    },
+    "en": {
+      "title": "Paper Heart Garland",
+      "shortDesc": "A simple way to add warmth to a wall or window",
+      "fullDesc": "Fold coloured paper like an accordion, cut out half a heart and unfold the chain. Glue several strips together and hang them above a bed or sofa. It is calm work, lovely to do with soft music playing."
+    },
+    "pl": {
+      "title": "Girlanda z papierowych serduszek",
+      "shortDesc": "Prosty sposób na odrobinę ciepła na ścianie czy w oknie",
+      "fullDesc": "Złóżcie kolorowy papier jak harmonijkę, wytnijcie połówkę serca i rozłóżcie łańcuszek. Sklejcie kilka pasków razem i powieście nad łóżkiem lub kanapą. To spokojna praca, którą miło wykonywać przy cichej muzyce."
+    },
+    "es": {
+      "title": "Guirnalda de corazones de papel",
+      "shortDesc": "Una forma sencilla de dar calidez a una pared o ventana",
+      "fullDesc": "Doblad papel de colores en acordeón, recortad medio corazón y desplegad la tira. Pegad varias tiras juntas y colgadlas sobre la cama o el sofá. Es un trabajo sereno, agradable con música suave de fondo."
+    },
+    "de": {
+      "title": "Girlande aus Papierherzen",
+      "shortDesc": "Ein einfacher Weg, Wand oder Fenster Wärme zu geben",
+      "fullDesc": "Falte buntes Papier wie eine Ziehharmonika, schneide ein halbes Herz aus und falte die Kette auf. Klebe mehrere Streifen zusammen und hänge sie über das Bett oder das Sofa. Die Arbeit ist ruhig und macht bei leiser Musik besonders Freude."
+    },
+    "fr": {
+      "title": "Guirlande de cœurs en papier",
+      "shortDesc": "Une façon simple d'apporter de la chaleur à un mur ou à une fenêtre",
+      "fullDesc": "Pliez du papier coloré en accordéon, découpez un demi-cœur et dépliez la chaîne. Collez plusieurs bandes ensemble et accrochez-les au-dessus du lit ou du canapé. C'est un travail paisible, agréable en écoutant une musique douce."
+    }
+  },
+  "image": "ideas/hirlyanda-iz-paperovykh-serdechok.jpg",
+  "photo": {
+    "id": "5g8exOobDjg",
+    "author": "Kelly Sikkema",
+    "url": "https://unsplash.com/photos/5g8exOobDjg"
+  }
+}

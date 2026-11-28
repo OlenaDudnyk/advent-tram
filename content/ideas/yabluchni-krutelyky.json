@@ -1,0 +1,71 @@
+{
+  "id": "task_106",
+  "slug": "yabluchni-krutelyky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "baking",
+    "kitchen"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/147070744076132198/",
+    "type": "pinterest"
+  },
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Австрійський штрудель з яблуками — Євген Клопотенко",
+        "url": "https://klopotenko.com/vizytivka-vidnya-shtrudel-z-yablukamy-vid-yevgena-klopotenka/"
+      },
+      {
+        "text": "Штрудель з яблуками й горіхами з лаваша",
+        "url": "https://klopotenko.com/z-yablukamy-ta-gorihamy-shtrudel-z-lavasha-vid-yevgena-klopotenka/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Яблучні крутелики",
+      "shortDesc": "Солодкі спіральки з яблуком і корицею",
+      "fullDesc": "Розкачайте тісто, посипте його цукром із корицею й викладіть шматочки яблука. Згорніть, наріжте колечками й випікайте до золотистого кольору. Дім наповниться запахом осені й Різдва. Порівняйте з прикладом за посиланням."
+    },
+    "en": {
+      "title": "Apple Swirls",
+      "shortDesc": "Sweet spirals with apple and cinnamon",
+      "fullDesc": "Roll out the dough, sprinkle with cinnamon sugar and scatter apple pieces over it. Roll up, slice into rings and bake until golden. The house fills with the scent of autumn and Christmas. Compare with the example at the link."
+    },
+    "pl": {
+      "title": "Jabłkowe ślimaczki",
+      "shortDesc": "Słodkie spirale z jabłkiem i cynamonem",
+      "fullDesc": "Rozwałkujcie ciasto, posypcie cukrem z cynamonem i rozłóżcie kawałki jabłka. Zwińcie, pokrójcie w kółka i pieczcie na złoto. Dom wypełni się zapachem jesieni i świąt. Porównajcie z przykładem pod linkiem."
+    },
+    "es": {
+      "title": "Espirales de manzana",
+      "shortDesc": "Espiralitas dulces con manzana y canela",
+      "fullDesc": "Extended la masa, espolvoread azúcar con canela y colocad trozos de manzana. Enrollad, cortad en rodajas y hornead hasta que se doren. La casa se llenará del olor del otoño y la Navidad. Comparad con el ejemplo del enlace."
+    },
+    "de": {
+      "title": "Apfelschnecken",
+      "shortDesc": "Süße Spiralen mit Apfel und Zimt",
+      "fullDesc": "Rolle den Teig aus, bestreue ihn mit Zimtzucker und verteile Apfelstücke darauf. Roll ihn auf, schneide Scheiben ab und backe sie goldbraun. Das Haus füllt sich mit dem Duft von Herbst und Weihnachten. Vergleiche mit dem Beispiel über den Link."
+    },
+    "fr": {
+      "title": "Roulés aux pommes",
+      "shortDesc": "De douces spirales à la pomme et à la cannelle",
+      "fullDesc": "Étalez la pâte, saupoudrez-la de sucre à la cannelle et répartissez des morceaux de pomme. Roulez, coupez en rondelles et faites cuire jusqu'à ce que ce soit doré. La maison se remplira du parfum de l'automne et de Noël. Comparez avec l'exemple du lien."
+    }
+  },
+  "image": "ideas/yabluchni-krutelyky.jpg",
+  "photo": {
+    "id": "c07YNJmNfaE",
+    "author": "Anisa Cakesandbakes",
+    "url": "https://unsplash.com/photos/a-pan-filled-with-cinnamon-rolls-covered-in-icing-c07YNJmNfaE"
+  }
+}

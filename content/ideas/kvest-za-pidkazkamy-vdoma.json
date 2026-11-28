@@ -1,0 +1,64 @@
+{
+  "id": "task_050",
+  "slug": "kvest-za-pidkazkamy-vdoma",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "tradition"
+  ],
+  "list": {
+    "kind": "links",
+    "items": [
+      "1. Вигадайте скарб (мішечок цукерок, нова книжка чи гра) і сховайте його в останньому місці",
+      "2. Запишіть 6 підказок на окремих папірцях і сховайте кожну в потрібному місці: наступна підказка веде до наступного місця",
+      "3. Дайте дітям першу підказку й підкажіть тільки тоді, коли вони справді застрягли",
+      "4. Для найменших підказки можна малювати, для старших складати як загадки"
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Квест за підказками вдома",
+      "shortDesc": "Скарб захований, підказки ведуть крок за кроком",
+      "fullDesc": "Складіть 6 підказок і сховайте їх у кімнатах. Приклад: 1) «Я там, де гріється чай» — під чайником; 2) «Я там, де спить ведмедик» — під подушкою; 3) «Я там, де сніг у холодильнику» — на дверцятах; 4) «Я там, де сохнуть шкарпетки» — у шафі; 5) «Я там, де висить ялинка» — під ялинкою; 6) скарб у мішечку. Діти шукають, дорослі підказують за потреби."
+    },
+    "en": {
+      "title": "Home Treasure Hunt",
+      "shortDesc": "The treasure is hidden, clues lead the way",
+      "fullDesc": "Write 6 clues and hide them around the rooms. For example: 1) \"I am where tea gets warm\", under the kettle; 2) \"I am where teddy sleeps\", under the pillow; 3) \"I am where snow lives in the fridge\", on the door; 4) \"I am where socks dry\", in the wardrobe; 5) \"I am where the tree stands\", under the tree; 6) the treasure in a little bag. Children search, grown-ups hint if needed."
+    },
+    "pl": {
+      "title": "Domowy quest z podpowiedziami",
+      "shortDesc": "Skarb jest ukryty, a wskazówki prowadzą krok po kroku",
+      "fullDesc": "Przygotujcie 6 wskazówek i ukryjcie je w pokojach. Przykład: 1) „Jestem tam, gdzie grzeje się herbata\" — pod czajnikiem; 2) „Jestem tam, gdzie śpi miś\" — pod poduszką; 3) „Jestem tam, gdzie śnieg w lodówce\" — na drzwiczkach; 4) „Jestem tam, gdzie schną skarpetki\" — w szafie; 5) „Jestem tam, gdzie stoi choinka\" — pod choinką; 6) skarb w woreczku. Dzieci szukają, dorośli w razie potrzeby podpowiadają."
+    },
+    "es": {
+      "title": "Gymkana de pistas en casa",
+      "shortDesc": "El tesoro está escondido y las pistas guían paso a paso",
+      "fullDesc": "Preparad 6 pistas y escondedlas por las habitaciones. Ejemplo: 1) «Estoy donde se calienta el té» — bajo la tetera; 2) «Estoy donde duerme el osito» — bajo la almohada; 3) «Estoy donde hay nieve en la nevera» — en la puerta; 4) «Estoy donde se secan los calcetines» — en el armario; 5) «Estoy donde cuelga el árbol» — bajo el árbol; 6) el tesoro en una bolsita. Los niños buscan y los adultos ayudan si hace falta."
+    },
+    "de": {
+      "title": "Schnitzeljagd mit Hinweisen zu Hause",
+      "shortDesc": "Der Schatz ist versteckt, die Hinweise führen Schritt für Schritt",
+      "fullDesc": "Schreibe 6 Hinweise und verstecke sie in den Zimmern. Beispiel: 1) „Ich bin da, wo der Tee warm wird“ – unter dem Wasserkocher; 2) „Ich bin da, wo der Teddy schläft“ – unter dem Kissen; 3) „Ich bin da, wo im Kühlschrank Schnee ist“ – an der Tür; 4) „Ich bin da, wo Socken trocknen“ – im Schrank; 5) „Ich bin da, wo der Tannenbaum steht“ – unter dem Baum; 6) der Schatz im Beutelchen. Die Kinder suchen, die Erwachsenen helfen bei Bedarf."
+    },
+    "fr": {
+      "title": "Chasse au trésor à la maison",
+      "shortDesc": "Le trésor est caché, les indices guident pas à pas",
+      "fullDesc": "Préparez 6 indices et cachez-les dans les pièces. Exemple : 1) « Je suis là où le thé chauffe » — sous la bouilloire ; 2) « Je suis là où dort l'ourson » — sous l'oreiller ; 3) « Je suis là où il y a de la neige dans le frigo » — sur la porte ; 4) « Je suis là où sèchent les chaussettes » — dans l'armoire ; 5) « Je suis là où se dresse le sapin » — sous le sapin ; 6) le trésor dans un petit sac. Les enfants cherchent, les adultes aident si besoin."
+    }
+  },
+  "image": "ideas/kvest-za-pidkazkamy-vdoma.jpg",
+  "photo": {
+    "id": "RFId0_7kep4",
+    "author": "Natalie",
+    "url": "https://unsplash.com/photos/RFId0_7kep4"
+  }
+}

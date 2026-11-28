@@ -1,0 +1,55 @@
+{
+  "id": "task_074",
+  "slug": "fotopolyuvannya-na-vizerunky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "winter",
+    "nature"
+  ],
+  "text": {
+    "ua": {
+      "title": "Фотополювання на візерунки",
+      "shortDesc": "Знайдіть і сфотографуйте найцікавіші візерунки",
+      "fullDesc": "Вийдіть надвір і пошукайте тонкі крижинки на калюжах, іній на траві та візерунки на склі. Сфотографуйте найцікавіші, а потім розгляньте знімки й виберіть найкращий. Кожен візерунок єдиний у своєму роді."
+    },
+    "en": {
+      "title": "Pattern Photo Hunt",
+      "shortDesc": "Find and photograph the most interesting patterns",
+      "fullDesc": "Go outside and look for thin ice on puddles, frost on the grass and patterns on windows. Photograph the most interesting ones, then look through the pictures and pick the best. Every pattern is one of a kind."
+    },
+    "pl": {
+      "title": "Polowanie na wzory",
+      "shortDesc": "Znajdźcie i sfotografujcie najciekawsze wzory",
+      "fullDesc": "Wyjdźcie na dwór i poszukajcie cienkiego lodu na kałużach, szronu na trawie i wzorów na szybach. Sfotografujcie te najciekawsze, a potem obejrzyjcie zdjęcia i wybierzcie najlepsze. Każdy wzór jest jedyny w swoim rodzaju."
+    },
+    "es": {
+      "title": "Caza fotográfica de patrones",
+      "shortDesc": "Buscad y fotografiad los dibujos más curiosos",
+      "fullDesc": "Salid fuera y buscad finas capas de hielo en los charcos, escarcha en la hierba y dibujos en los cristales. Fotografiad los más curiosos y luego mirad las fotos y elegid la mejor. Cada dibujo es único."
+    },
+    "de": {
+      "title": "Fotojagd nach Mustern",
+      "shortDesc": "Findet und fotografiert die schönsten Muster",
+      "fullDesc": "Geh nach draußen und suche dünnes Eis auf Pfützen, Raureif auf dem Gras und Muster auf Glas. Fotografiere die schönsten, schau dir danach die Bilder an und wähle das beste aus. Jedes Muster ist einzigartig."
+    },
+    "fr": {
+      "title": "Chasse photo aux motifs",
+      "shortDesc": "Trouvez et photographiez les plus beaux motifs",
+      "fullDesc": "Sortez et cherchez de fines plaques de glace sur les flaques, du givre sur l'herbe et des motifs sur les vitres. Photographiez les plus beaux, puis regardez les images et choisissez la meilleure. Chaque motif est unique."
+    }
+  },
+  "image": "ideas/fotopolyuvannya-na-vizerunky.jpg",
+  "photo": {
+    "id": "O33-KoTfYXc",
+    "author": "Eugene Golovesov",
+    "url": "https://unsplash.com/photos/O33-KoTfYXc"
+  }
+}

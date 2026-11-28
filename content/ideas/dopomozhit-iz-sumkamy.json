@@ -1,0 +1,56 @@
+{
+  "id": "task_097",
+  "slug": "dopomozhit-iz-sumkamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "neighbors",
+    "kindness"
+  ],
+  "text": {
+    "ua": {
+      "title": "Допоможіть із сумками",
+      "shortDesc": "Запропонуйте сусідці чи сусідові допомогу з покупками",
+      "fullDesc": "Помітьте, кому важко нести сумки чи відчиняти двері, і просто запропонуйте допомогу. Занесіть покупки до під’їзду чи піднесіть до дверей. Не треба гучних слів: достатньо усмішки та спокійної готовності допомогти."
+    },
+    "en": {
+      "title": "Help with the Bags",
+      "shortDesc": "Offer a neighbour a hand with their shopping",
+      "fullDesc": "Notice who struggles to carry bags or open doors, and simply offer your help. Carry the shopping to the entrance or up to their door. No big words needed: a smile and calm readiness to help are enough."
+    },
+    "pl": {
+      "title": "Pomóżcie z torbami",
+      "shortDesc": "Zaproponujcie sąsiadce lub sąsiadowi pomoc z zakupami",
+      "fullDesc": "Zauważcie, komu trudno nieść torby albo otwierać drzwi, i po prostu zaproponujcie pomoc. Zanieście zakupy do klatki schodowej lub pod same drzwi. Nie trzeba wielkich słów: wystarczy uśmiech i spokojna gotowość do pomocy."
+    },
+    "es": {
+      "title": "Ayuda con las bolsas",
+      "shortDesc": "Ofreced ayuda con la compra a vuestros vecinos",
+      "fullDesc": "Fijaos en quién tiene dificultad para llevar bolsas o abrir puertas y ofreced vuestra ayuda sin más. Llevad la compra hasta el portal o hasta la puerta. No hacen falta grandes palabras: basta una sonrisa y una tranquila disposición a ayudar."
+    },
+    "de": {
+      "title": "Hilf beim Tragen",
+      "shortDesc": "Biete Nachbarn Hilfe beim Einkaufen an",
+      "fullDesc": "Achte darauf, wem das Tragen von Taschen oder das Türöffnen schwerfällt, und biete einfach deine Hilfe an. Trage die Einkäufe bis zum Hauseingang oder zur Wohnungstür. Große Worte braucht es nicht: Ein Lächeln und ruhige Hilfsbereitschaft genügen."
+    },
+    "fr": {
+      "title": "Un coup de main avec les sacs",
+      "shortDesc": "Proposez de l'aide pour les courses à vos voisins",
+      "fullDesc": "Repérez les personnes qui ont du mal à porter leurs sacs ou à ouvrir les portes, et proposez simplement votre aide. Portez les courses jusqu'à l'entrée de l'immeuble ou jusqu'à la porte. Pas besoin de grands mots : un sourire et une disponibilité tranquille suffisent."
+    }
+  },
+  "image": "ideas/dopomozhit-iz-sumkamy.jpg",
+  "photo": {
+    "id": "8RaUEd8zD-U",
+    "author": "Maria Lin Kim",
+    "url": "https://unsplash.com/photos/8RaUEd8zD-U"
+  }
+}

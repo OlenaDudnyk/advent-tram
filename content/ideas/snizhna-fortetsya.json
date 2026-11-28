@@ -1,0 +1,55 @@
+{
+  "id": "task_093",
+  "slug": "snizhna-fortetsya",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "winter",
+    "nature"
+  ],
+  "text": {
+    "ua": {
+      "title": "Сніжна фортеця",
+      "shortDesc": "Побудуйте фортецю чи сніговика з усієї родини",
+      "fullDesc": "Коли сніг липкий, зліпіть із нього стіни, вежі чи цілого сніговика. Розподіліть ролі: хтось качає кулі, хтось будує, хтось прикрашає гілками та шишками. Потім зігрійтеся чаєм і помилуйтеся результатом."
+    },
+    "en": {
+      "title": "Snow Fortress",
+      "shortDesc": "Build a fortress or a snowman as a family",
+      "fullDesc": "When the snow is sticky, build walls, towers or a whole snowman. Share the roles: someone rolls the balls, someone builds, someone decorates with twigs and pine cones. Then warm up with tea and admire the result."
+    },
+    "pl": {
+      "title": "Śnieżna forteca",
+      "shortDesc": "Zbudujcie fortecę lub bałwana całą rodziną",
+      "fullDesc": "Gdy śnieg jest lepki, ulepcie z niego mury, wieże albo całego bałwana. Rozdzielcie role: ktoś toczy kule, ktoś buduje, ktoś ozdabia gałązkami i szyszkami. Potem ogrzejcie się herbatą i podziwiajcie efekt."
+    },
+    "es": {
+      "title": "Fortaleza de nieve",
+      "shortDesc": "Construid con toda la familia una fortaleza o un muñeco de nieve",
+      "fullDesc": "Cuando la nieve sea pegajosa, formad con ella muros, torres o un muñeco entero. Repartid los papeles: unos hacen las bolas, otros construyen y otros decoran con ramitas y piñas. Luego entrad en calor con un té y admirad el resultado."
+    },
+    "de": {
+      "title": "Schneefestung",
+      "shortDesc": "Baut mit der ganzen Familie eine Festung oder einen Schneemann",
+      "fullDesc": "Wenn der Schnee klebrig ist, formt daraus Mauern, Türme oder einen ganzen Schneemann. Verteilt die Rollen: Einer rollt Kugeln, einer baut, einer verziert mit Zweigen und Zapfen. Wärmt euch danach mit Tee auf und bewundert das Ergebnis."
+    },
+    "fr": {
+      "title": "Forteresse de neige",
+      "shortDesc": "Construisez en famille une forteresse ou un bonhomme de neige",
+      "fullDesc": "Quand la neige est collante, façonnez-en des murs, des tours ou un bonhomme entier. Répartissez les rôles : l'un roule les boules, l'autre construit, un autre décore avec des branches et des pommes de pin. Réchauffez-vous ensuite avec un thé et admirez le résultat."
+    }
+  },
+  "image": "ideas/snizhna-fortetsya.jpg",
+  "photo": {
+    "id": "-aIh-H6Hs8k",
+    "author": "Anna Spoljar",
+    "url": "https://unsplash.com/photos/-aIh-H6Hs8k"
+  }
+}

@@ -22,11 +22,12 @@ ion-content {
 header { display: flex; align-items: center; gap: 12px; }
 article h2 { margin-bottom: 8px; }
 .ideas { display: grid; gap: 12px; margin-top: 24px; }
-article { position: relative; padding: 18px; border-radius: 20px; background: $sand; }
+article { position: relative; display: flex; flex-direction: column; padding: 18px; border-radius: 20px; background: $sand; }
 .meta { color: $wine; font-size: 11px; }
 article p { margin: 12px 0 0; color: $muted; font-size: 12px; line-height: 1.5; }
 .status { margin: 40px 0; color: $muted; font-size: 14px; }
-.actions { display: flex; flex-direction: column; gap: 10px; margin-top: 16px; .btn { margin-top: 0; } }
+.actions { display: flex; flex-direction: column; gap: 10px; margin-top: auto; padding-top: 16px; .btn { margin-top: 0; } }
+article > p { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 6; line-clamp: 6; overflow: hidden; }
 article h2 { margin-bottom: 4px; }
 .idea-head { display: flex; align-items: center; gap: 14px; padding-right: 40px; }
 .idea-art { flex: none; width: 64px; height: 64px; border-radius: 18px; object-fit: cover; box-shadow: 0 4px 0 rgba(0, 0, 0, .04); }
@@ -34,8 +35,8 @@ article h2 { margin-bottom: 4px; }
 .remove-btn { position: absolute; top: 8px; right: 8px; }
 
 @media (min-width: 600px) {
-  .saved-shell { padding: 28px; }
-  .ideas { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: 16px; }
+  .saved-shell { padding: 30px; }
+  .ideas { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: stretch; grid-auto-rows: 1fr; gap: 16px; }
 }
 @media (min-width: 1024px) {
   .ideas { grid-template-columns: repeat(3, minmax(0, 1fr)); }

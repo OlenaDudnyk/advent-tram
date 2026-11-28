@@ -1,0 +1,54 @@
+{
+  "id": "task_125",
+  "slug": "svyatkova-vecherya-zi-svichkamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family",
+    "adults"
+  ],
+  "tags": [
+    "tradition",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Святкова вечеря зі свічками",
+      "shortDesc": "Накрийте стіл, ніби до великого свята",
+      "fullDesc": "Прикрасьте стіл скатертиною, ялинковими гілочками й свічками (безпечними, на батарейках, якщо поруч діти). Приготуйте щось особливе й сядьте до столу всією родиною без телефонів. Нехай кожен розкаже про свою улюблену мить року."
+    },
+    "en": {
+      "title": "Candlelit Festive Dinner",
+      "shortDesc": "Set the table as if for a great celebration",
+      "fullDesc": "Dress the table with a tablecloth, fir sprigs and candles (safe battery ones if there are children around). Prepare something special and sit down together as a family without phones. Let everyone tell about their favourite moment of the year."
+    },
+    "pl": {
+      "title": "Świąteczna kolacja przy świecach",
+      "shortDesc": "Nakryjcie stół, jakby to była wielka uroczystość",
+      "fullDesc": "Ozdóbcie stół obrusem, gałązkami choinki i świecami (bezpiecznymi, na baterie, jeśli w pobliżu są dzieci). Przygotujcie coś wyjątkowego i usiądźcie do stołu całą rodziną bez telefonów. Niech każdy opowie o swojej ulubionej chwili tego roku."
+    },
+    "es": {
+      "title": "Cena festiva a la luz de las velas",
+      "shortDesc": "Poned la mesa como para una gran fiesta",
+      "fullDesc": "Decorad la mesa con mantel, ramitas de abeto y velas (seguras, de pilas, si hay niños cerca). Preparad algo especial y sentaos a la mesa toda la familia sin móviles. Que cada uno cuente su momento favorito del año."
+    },
+    "de": {
+      "title": "Festliches Abendessen bei Kerzenschein",
+      "shortDesc": "Deckt den Tisch wie für ein großes Fest",
+      "fullDesc": "Schmücke den Tisch mit Tischdecke, Tannenzweigen und Kerzen (sicheren, mit Batterie, wenn Kinder in der Nähe sind). Koche etwas Besonderes und setzt euch als ganze Familie ohne Handys an den Tisch. Jeder erzählt von seinem liebsten Moment des Jahres."
+    },
+    "fr": {
+      "title": "Dîner de fête aux chandelles",
+      "shortDesc": "Dressez la table comme pour une grande fête",
+      "fullDesc": "Décorez la table avec une nappe, des branches de sapin et des bougies (sûres, à piles, si des enfants sont près). Préparez quelque chose de spécial et installez-vous à table en famille, sans téléphones. Que chacun raconte son moment préféré de l'année."
+    }
+  },
+  "image": "ideas/svyatkova-vecherya-zi-svichkamy.jpg",
+  "photo": {
+    "id": "IKGYHwbWhPQ",
+    "author": "Dragon White Munthe",
+    "url": "https://unsplash.com/photos/IKGYHwbWhPQ"
+  }
+}

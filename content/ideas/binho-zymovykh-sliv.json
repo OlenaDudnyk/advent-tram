@@ -1,0 +1,53 @@
+{
+  "id": "task_048",
+  "slug": "binho-zymovykh-sliv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Бінго зимових слів",
+      "shortDesc": "Свято, у якому вгадує кожен",
+      "fullDesc": "Накресліть картки з клітинками й напишіть у них зимові слова: сніг, какао, шарф, ялинка. Ведучий називає слово чи показує картинку, гравці закреслюють. Перший із повним рядком кричить «Бінго!»."
+    },
+    "en": {
+      "title": "Winter Word Bingo",
+      "shortDesc": "A game where everyone gets to guess",
+      "fullDesc": "Draw cards with squares and fill them with winter words: snow, cocoa, scarf, Christmas tree. The host calls out a word or shows a picture, and players cross it off. The first to fill a whole row shouts \"Bingo!\""
+    },
+    "pl": {
+      "title": "Bingo zimowych słów",
+      "shortDesc": "Zabawa, w której każdy zgaduje",
+      "fullDesc": "Narysujcie karty z kratkami i wpiszcie w nie zimowe słowa: śnieg, kakao, szalik, choinka. Prowadzący wywołuje słowo lub pokazuje obrazek, a gracze skreślają. Kto pierwszy zapełni cały rząd, woła „Bingo!\"."
+    },
+    "es": {
+      "title": "Bingo de palabras de invierno",
+      "shortDesc": "Una fiesta en la que todos tienen opciones de ganar",
+      "fullDesc": "Dibujad cartones con casillas y escribid en ellas palabras de invierno: nieve, cacao, bufanda, abeto. Quien dirige dice una palabra o enseña una imagen y los jugadores la tachan. ¡El primero con una fila completa grita «¡Bingo!»!"
+    },
+    "de": {
+      "title": "Winterwörter-Bingo",
+      "shortDesc": "Ein Fest, bei dem jeder mitraten kann",
+      "fullDesc": "Zeichne Karten mit Feldern und schreibe Winterwörter hinein: Schnee, Kakao, Schal, Tannenbaum. Der Spielleiter nennt ein Wort oder zeigt ein Bild, die Spieler streichen es durch. Wer zuerst eine volle Reihe hat, ruft „Bingo!“."
+    },
+    "fr": {
+      "title": "Bingo des mots d'hiver",
+      "shortDesc": "Une fête où chacun peut deviner",
+      "fullDesc": "Dessinez des cartes avec des cases et écrivez-y des mots d'hiver : neige, chocolat chaud, écharpe, sapin. Le meneur annonce un mot ou montre une image, les joueurs le barrent. Le premier à compléter une ligne s'écrie « Bingo ! »."
+    }
+  },
+  "image": "ideas/binho-zymovykh-sliv.jpg",
+  "photo": {
+    "id": "XgPf6yNdppI",
+    "author": "Fox & Hyde",
+    "url": "https://unsplash.com/photos/XgPf6yNdppI"
+  }
+}

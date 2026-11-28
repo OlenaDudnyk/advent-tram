@@ -1,0 +1,67 @@
+{
+  "id": "task_124",
+  "slug": "rizdvyane-fondyu",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family",
+    "adults"
+  ],
+  "tags": [
+    "kitchen",
+    "cozy"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Шоколадний фондан — Євген Клопотенко (інший шоколадний десерт для порівняння)",
+        "url": "https://klopotenko.com/shokoladnyi-fondan/"
+      },
+      {
+        "text": "Easy chocolate truffles — BBC Good Food (для шоколадної маси)",
+        "url": "https://www.bbcgoodfood.com/recipes/easy-chocolate-truffles"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Різдвяне фондю",
+      "shortDesc": "Шоколад чи сир, у який занурюють шматочки смаколиків",
+      "fullDesc": "Розтопіть шоколад із вершками на водяній бані й перелийте в маленьку каструльку чи фондюшницю. Нарізайте фрукти, печиво й маршмелоу та занурюйте шпажками по черзі. Дорослі стежать за гарячою масою, діти вибирають, що занурити першим."
+    },
+    "en": {
+      "title": "Christmas Fondue",
+      "shortDesc": "Chocolate or cheese to dip tasty morsels into",
+      "fullDesc": "Melt chocolate with cream in a double boiler and pour into a small pot or fondue set. Slice fruit, biscuits and marshmallows and dip them on skewers in turn. Grown-ups keep an eye on the hot mixture, and children choose what to dip first."
+    },
+    "pl": {
+      "title": "Świąteczne fondue",
+      "shortDesc": "Czekolada lub ser, w które zanurza się smakołyki",
+      "fullDesc": "Rozpuśćcie czekoladę ze śmietanką w kąpieli wodnej i przelejcie do małego garnuszka lub naczynia do fondue. Pokrójcie owoce, ciasteczka i pianki i zanurzajcie na szpikulcach po kolei. Dorośli pilnują gorącej masy, a dzieci wybierają, co zanurzyć najpierw."
+    },
+    "es": {
+      "title": "Fondue navideña",
+      "shortDesc": "Chocolate o queso en el que mojar trocitos ricos",
+      "fullDesc": "Derretid chocolate con nata al baño maría y pasadlo a una cacerolita o a un fondue. Cortad fruta, galletas y nubes y mojadlos con pinchos por turnos. Los adultos vigilan la masa caliente y los niños eligen qué mojar primero."
+    },
+    "de": {
+      "title": "Weihnachtsfondue",
+      "shortDesc": "Schokolade oder Käse zum Eintauchen leckerer Stückchen",
+      "fullDesc": "Schmelze Schokolade mit Sahne im Wasserbad und gieße sie in einen kleinen Topf oder ein Fondue-Set. Schneide Obst, Kekse und Marshmallows und tunke sie abwechselnd mit Spießen ein. Die Erwachsenen achten auf die heiße Masse, die Kinder wählen, was zuerst getunkt wird."
+    },
+    "fr": {
+      "title": "Fondue de Noël",
+      "shortDesc": "Du chocolat ou du fromage pour y tremper de bons petits morceaux",
+      "fullDesc": "Faites fondre du chocolat avec de la crème au bain-marie et versez-le dans une petite casserole ou un caquelon. Coupez des fruits, des biscuits et des guimauves et trempez-les à tour de rôle avec des piques. Les adultes surveillent la masse chaude, les enfants choisissent ce qu'ils trempent en premier."
+    }
+  },
+  "image": "ideas/rizdvyane-fondyu.jpg",
+  "photo": {
+    "id": "LF-UXzCFH-o",
+    "author": "Jovan Vasiljevic",
+    "url": "https://unsplash.com/photos/LF-UXzCFH-o"
+  }
+}

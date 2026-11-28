@@ -42,7 +42,7 @@ describe('HomePage', () => {
     const html = fixture.nativeElement as HTMLElement;
 
     expect(html.querySelector('.saved-link .badge')?.textContent?.trim()).toBe('2');
-    expect(html.querySelector('.empty-state')?.textContent).toContain('Your memories');
+    expect(html.querySelector('.empty-memories h3')?.textContent).toContain('Your memories');
     expect(html.querySelectorAll('.memory-card')).toHaveLength(0);
     expect(html.querySelector('.saved-link')?.getAttribute('href')).toContain('/saved');
   });

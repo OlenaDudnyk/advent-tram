@@ -1,0 +1,55 @@
+{
+  "id": "task_081",
+  "slug": "zymovyy-buket-iz-hilok",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "nature",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Зимовий букет із гілок",
+      "shortDesc": "Зберіть гілочки та ягоди для букета в вазу",
+      "fullDesc": "Прогуляйтеся й назбирайте опалих гілочок, шишок, сухих трав і ягід. Не ламайте живі дерева, беріть лише те, що лежить на землі. Удома поставте букет у вазу чи банку: він прикрасить оселю на весь грудень."
+    },
+    "en": {
+      "title": "Winter Twig Bouquet",
+      "shortDesc": "Gather twigs and berries for a vase",
+      "fullDesc": "Take a walk and collect fallen twigs, pine cones, dry grasses and berries. Do not break living trees: take only what lies on the ground. At home, put the bouquet in a vase or jar, and it will brighten your home all December."
+    },
+    "pl": {
+      "title": "Zimowy bukiet z gałązek",
+      "shortDesc": "Zbierzcie gałązki i jagody na bukiet do wazonu",
+      "fullDesc": "Przejdźcie się i zbierzcie opadłe gałązki, szyszki, suche trawy i jagody. Nie łamcie żywych drzew, bierzcie tylko to, co leży na ziemi. W domu włóżcie bukiet do wazonu lub słoika, a ozdobi wasz dom na cały grudzień."
+    },
+    "es": {
+      "title": "Ramo de invierno con ramas",
+      "shortDesc": "Reunid ramitas y bayas para un ramo en un jarrón",
+      "fullDesc": "Pasead y recoged ramitas caídas, piñas, hierbas secas y bayas. No rompáis árboles vivos: coged solo lo que está en el suelo. En casa poned el ramo en un jarrón o un tarro: adornará el hogar todo diciembre."
+    },
+    "de": {
+      "title": "Winterstrauß aus Zweigen",
+      "shortDesc": "Sammelt Zweige und Beeren für einen Strauß in der Vase",
+      "fullDesc": "Geh spazieren und sammle heruntergefallene Zweige, Zapfen, trockene Gräser und Beeren. Brich keine lebenden Bäume ab, nimm nur, was auf dem Boden liegt. Stelle den Strauß zu Hause in eine Vase oder ein Glas: Er schmückt das Zuhause den ganzen Dezember."
+    },
+    "fr": {
+      "title": "Bouquet d'hiver de branches",
+      "shortDesc": "Ramassez des brindilles et des baies pour un bouquet dans un vase",
+      "fullDesc": "Promenez-vous et ramassez des brindilles tombées, des pommes de pin, des herbes sèches et des baies. Ne cassez pas d'arbres vivants : prenez seulement ce qui est à terre. À la maison, mettez le bouquet dans un vase ou un bocal : il embellira la maison tout le mois de décembre."
+    }
+  },
+  "image": "ideas/zymovyy-buket-iz-hilok.jpg",
+  "photo": {
+    "id": "puDwWJwexoE",
+    "author": "pure julia",
+    "url": "https://unsplash.com/photos/brown-leafless-tree-branch-in-close-up-photography-puDwWJwexoE"
+  }
+}

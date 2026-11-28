@@ -14,8 +14,8 @@
   "image": "ideas/make-a-memory-scrapbook.jpg",
   "tags": [],
   "inspiration": {
-    "url": "https://en.wikipedia.org/wiki/Scrapbooking",
-    "type": "link"
+    "url": "https://www.pinterest.com/search/pins/?q=scrapbook%20ideas%20for%20kids",
+    "type": "pinterest"
   },
   "text": {
     "en": {
@@ -53,5 +53,6 @@
     "id": "MUf7Ly04sOI",
     "author": "Estée Janssens",
     "url": "https://unsplash.com/photos/journal-with-collage-art-and-supplies-MUf7Ly04sOI"
-  }
+  },
+  "topic": "craft"
 }

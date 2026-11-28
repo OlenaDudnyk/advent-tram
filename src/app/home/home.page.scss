@@ -69,7 +69,7 @@ button:disabled { opacity: 1; cursor: default; }
   &::before { left: -6px; }
   &::after { right: -6px; }
 
-  img { position: absolute; top: 4px; right: 4px; width: 52%; max-width: 86px; border-radius: 20px; }
+  img { position: absolute; top: 8px; right: 8px; width: 46%; max-width: 78px; filter: drop-shadow(0 4px 4px rgba(60, 30, 20, .22)); }
   > span:not(.saved-count) { position: relative; z-index: 1; }
 }
 .new-idea { cursor: pointer; }
@@ -112,7 +112,11 @@ button:disabled { opacity: 1; cursor: default; }
   gap: 8px;
   span { color: $wine; font-size: 11px; font-weight: 600; white-space: nowrap; }
 }
-.empty-state { margin: 16px 0; color: $muted; font-size: 12px; }
+.empty-memories { display: grid; justify-items: center; gap: 10px; margin: 18px 0 8px; padding: 22px 20px 24px; border-radius: 26px; background: #ebe2dc; text-align: center; }
+.empty-memories img { width: 168px; height: 126px; margin-bottom: 6px; border-radius: 22px; object-fit: cover; box-shadow: 0 6px 16px rgba(92, 48, 38, .16); }
+.empty-memories h3 { margin: 4px 0 0; color: #1b4332; }
+.empty-memories p { max-width: 280px; margin: 0; color: #6b5f58; font-size: 14px; line-height: 1.5; }
+.empty-memories .btn { width: auto; min-width: 200px; margin-top: 10px; }
 .timeline { position: relative; margin: 12px 8px 0 9px; padding-left: 16px; border-left: 2px dashed #d4c5bd; }
 .memory-card {
   position: relative;
@@ -135,35 +139,22 @@ button:disabled { opacity: 1; cursor: default; }
 .memory-main { border-radius: 14px; cursor: pointer; &:focus-visible { outline: 2px solid $wine; outline-offset: 2px; } &:active { opacity: .85; } }
 .memory-share { position: absolute; right: 6px; bottom: 6px; }
 
-// Tablet / wide
+// Tablet and up: the top menu already links to Find Ideas and the Calendar, so the tiles are hidden
+// and the memories take the whole card.
 @media (min-width: 600px) {
-  .home-shell { padding: 28px; }
-  .idea-card { height: 168px; font-size: 22px; }
-  .memory-photo { max-height: 240px; }
+  .home-header, .idea-grid { display: none; }
+  .home-shell { padding: 30px; }
+  .memories { margin-top: 8px; }
+  .timeline { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px 20px; margin: 18px 0 0; padding-left: 0; border-left: 0; }
+  .memory-card { margin: 0; }
+  .memory-card::before { display: none; }
+  .empty-memories { max-width: 520px; margin: 28px auto 8px; padding: 34px 28px 36px; }
+  .empty-memories img { width: 240px; height: 180px; }
 }
 @media (min-width: 1024px) {
-  .home-shell { display: grid; grid-template-columns: minmax(300px, 380px) minmax(0, 1fr); column-gap: 40px; align-items: start; align-content: start; }
-  .home-header { grid-column: 1 / -1; }
-  .idea-grid { grid-template-columns: 1fr; margin-top: 0; }
-  .memories { margin-top: 0; }
+  .timeline { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
-@media (min-width: 600px) {
-  .idea-card img { max-width: 128px; }
-}
-
-@media (min-width: 1024px) {
-  .header-actions { display: none; }
-}
-
 @media (hover: hover) {
   .idea-card:hover { transform: translateY(-2px); }
   .memory-main:hover { opacity: .92; }
-}
-
-@media (min-width: 600px) {
-  .home-header { display: none; }
-  .home-shell { padding: 30px; }
-}
-@media (min-width: 1024px) {
-  .home-shell > app-frame-nav, .home-shell > app-frame-footer { grid-column: 1 / -1; }
 }

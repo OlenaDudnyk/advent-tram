@@ -11,6 +11,7 @@ import { DEFAULT_SETTINGS, LOCALES, illustrationFor } from '../../core/models';
 import { CalendarService, StorageService, TasksService, isCalendarDate, parseCalendarDate } from '../../core/services';
 import { BackButtonComponent } from '../../shared/back-button/back-button.component';
 import { FrameFooterComponent, FrameNavComponent } from '../../shared/frame/frame.component';
+import { IdeaListComponent } from '../../shared/idea-list/idea-list.component';
 import { InspirationLinkComponent } from '../../shared/inspiration-link/inspiration-link.component';
 
 const AGE_LABELS: Record<Task['ageGroups'][number], TranslationKey> = {
@@ -22,7 +23,7 @@ const AGE_LABELS: Record<Task['ageGroups'][number], TranslationKey> = {
 
 @Component({
   selector: 'app-swipe-deck',
-  imports: [FrameNavComponent, FrameFooterComponent, IonContent, TranslatePipe, BackButtonComponent, InspirationLinkComponent],
+  imports: [FrameNavComponent, FrameFooterComponent, IonContent, TranslatePipe, BackButtonComponent, InspirationLinkComponent, IdeaListComponent],
   templateUrl: './swipe-deck.page.html',
   styleUrls: ['./swipe-deck.page.scss'],
 })

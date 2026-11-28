@@ -1,0 +1,70 @@
+{
+  "id": "task_107",
+  "slug": "pitsa-yalynka-snihovyk-chy-zirka",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "kitchen",
+    "baking"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/130885932917680087/",
+    "type": "pinterest"
+  },
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Піца-маргарита — Євген Клопотенко",
+        "url": "https://klopotenko.com/yak-v-neapoli-italijska-picza-margaryta-vid-yevgena-klopotenka/"
+      },
+      {
+        "text": "Піца на сковороді — Євген Клопотенко",
+        "url": "https://klopotenko.com/pitsa-na-skovorodi/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Піца-ялинка, сніговик чи зірка",
+      "shortDesc": "Піца у святкових формах: ялинка, сніговик, зірка",
+      "fullDesc": "Розкачайте тісто й надайте йому святкової форми: ялинки, сніговика, зірки чи різдвяного вінка. Прикрасьте оливками, перцем і сиром так, щоб форма впізнавалась. Це про видовище, а не про начинки: головне, щоб піца виглядала святково."
+    },
+    "en": {
+      "title": "Pizza Tree, Snowman or Star",
+      "shortDesc": "Festive-shaped pizza: tree, snowman, star",
+      "fullDesc": "Roll out the dough and shape it festively: a tree, snowman, star or Christmas wreath. Decorate with olives, peppers and cheese so the shape is recognisable. It is about the look rather than the toppings: what matters is that the pizza looks festive."
+    },
+    "pl": {
+      "title": "Pizza-choinka, bałwan lub gwiazda",
+      "shortDesc": "Pizza w świątecznych kształtach: choinka, bałwan, gwiazda",
+      "fullDesc": "Rozwałkujcie ciasto i nadajcie mu świąteczny kształt: choinki, bałwana, gwiazdy lub bożonarodzeniowego wieńca. Ozdóbcie oliwkami, papryką i serem tak, by kształt był rozpoznawalny. Chodzi o efekt, nie o dodatki: ważne, żeby pizza wyglądała świątecznie."
+    },
+    "es": {
+      "title": "Pizza en forma de árbol, muñeco de nieve o estrella",
+      "shortDesc": "Pizza en formas festivas: árbol, muñeco de nieve, estrella",
+      "fullDesc": "Extended la masa y dadle una forma festiva: árbol, muñeco de nieve, estrella o corona navideña. Decorad con aceitunas, pimiento y queso para que la forma se reconozca. Se trata del espectáculo, no de los ingredientes: lo importante es que la pizza se vea festiva."
+    },
+    "de": {
+      "title": "Pizza als Tannenbaum, Schneemann oder Stern",
+      "shortDesc": "Pizza in festlichen Formen: Tannenbaum, Schneemann, Stern",
+      "fullDesc": "Rolle den Teig aus und forme ihn festlich: Tannenbaum, Schneemann, Stern oder Weihnachtskranz. Belege ihn mit Oliven, Paprika und Käse, sodass die Form erkennbar bleibt. Es geht um den Anblick, nicht um den Belag: Hauptsache, die Pizza sieht festlich aus."
+    },
+    "fr": {
+      "title": "Pizza sapin, bonhomme de neige ou étoile",
+      "shortDesc": "Une pizza aux formes de fête : sapin, bonhomme de neige, étoile",
+      "fullDesc": "Étalez la pâte et donnez-lui une forme de fête : sapin, bonhomme de neige, étoile ou couronne de Noël. Décorez avec des olives, du poivron et du fromage pour que la forme soit reconnaissable. C'est une question de spectacle, pas de garniture : l'essentiel est que la pizza ait un air de fête."
+    }
+  },
+  "image": "ideas/pitsa-yalynka-snihovyk-chy-zirka.jpg",
+  "photo": {
+    "id": "9RMgnELqgJQ",
+    "author": "Jametlene Reskp",
+    "url": "https://unsplash.com/photos/9RMgnELqgJQ"
+  }
+}

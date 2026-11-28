@@ -1,0 +1,63 @@
+{
+  "id": "task_033",
+  "slug": "prykrasy-z-tista-dlya-vyrizannya",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Імбирні пряники — Євген Клопотенко (тісто для вирізання форм)",
+        "url": "https://klopotenko.com/rizdvyani-imbyrni-pryanyky-vid-yevgena-klopotenka/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Прикраси з тіста для вирізання",
+      "shortDesc": "Вирізайте форми з тіста й прикрашайте ними ялинку",
+      "fullDesc": "Замісіть тісто (їстівне — як на пряники, або з борошна, солі й води для прикрас, які не їдять), розкачайте й вирізайте формочками зірки, ялинки та ангелів. Зробіть отвір для стрічки. Підсушіть або випічте, потім розфарбуйте й повісьте на ялинку."
+    },
+    "en": {
+      "title": "Cut-Out Dough Ornaments",
+      "shortDesc": "Cut shapes from dough and decorate the tree with them",
+      "fullDesc": "Make a dough (an edible one as for gingerbread, or from flour, salt and water for non-edible ornaments), roll it out and cut stars, trees and angels with cutters. Make a hole for a ribbon. Dry or bake, then paint and hang on the tree."
+    },
+    "pl": {
+      "title": "Ozdoby z ciasta do wykrawania",
+      "shortDesc": "Wykrawajcie kształty z ciasta i ozdabiajcie nimi choinkę",
+      "fullDesc": "Zagniećcie ciasto (jadalne, jak na pierniki, albo z mąki, soli i wody na ozdoby niejadalne), rozwałkujcie i wykrawajcie foremkami gwiazdki, choinki i aniołki. Zróbcie dziurkę na wstążkę. Wysuszcie lub upieczcie, a potem pomalujcie i powieście na choince."
+    },
+    "es": {
+      "title": "Adornos de masa para recortar",
+      "shortDesc": "Cortad formas de masa y decorad el árbol",
+      "fullDesc": "Preparad la masa (comestible, como la de las galletas de jengibre, o de harina, sal y agua para adornos no comestibles), extendedla y cortad con moldes estrellas, abetos y ángeles. Haced un agujero para la cinta. Dejad secar u hornead, luego pintad y colgad en el árbol."
+    },
+    "de": {
+      "title": "Ausstechfiguren aus Teig als Schmuck",
+      "shortDesc": "Stecht Formen aus Teig aus und schmückt damit den Baum",
+      "fullDesc": "Knete einen Teig (essbar wie für Lebkuchen, oder aus Mehl, Salz und Wasser für Schmuck, der nicht gegessen wird), rolle ihn aus und steche mit Förmchen Sterne, Tannenbäume und Engel aus. Mach ein Loch für das Band. Lass sie trocknen oder backe sie, dann bemale sie und häng sie an den Baum."
+    },
+    "fr": {
+      "title": "Décorations en pâte à découper",
+      "shortDesc": "Découpez des formes dans la pâte et décorez-en le sapin",
+      "fullDesc": "Préparez une pâte (comestible, comme pour le pain d'épices, ou de farine, de sel et d'eau pour des décorations non comestibles), étalez-la et découpez à l'emporte-pièce des étoiles, des sapins et des anges. Faites un trou pour le ruban. Laissez sécher ou faites cuire, puis peignez et accrochez au sapin."
+    }
+  },
+  "image": "ideas/prykrasy-z-tista-dlya-vyrizannya.jpg",
+  "photo": {
+    "id": "Kdio_Qt7PM4",
+    "author": "Arvid Skywalker",
+    "url": "https://unsplash.com/photos/Kdio_Qt7PM4"
+  }
+}

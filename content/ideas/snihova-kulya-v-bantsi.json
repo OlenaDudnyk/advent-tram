@@ -1,0 +1,54 @@
+{
+  "id": "task_040",
+  "slug": "snihova-kulya-v-bantsi",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Снігова куля в банці",
+      "shortDesc": "Власна снігова куля з блискітками",
+      "fullDesc": "Наповніть банку водою з краплею гліцерину, додайте блискітки й маленьку фігурку, приклеєну до кришки. Щільно закрийте та потрусіть: засніжить усе всередині. Кришку краще закрити дорослому, щоб банка не протікала."
+    },
+    "en": {
+      "title": "Snow Globe in a Jar",
+      "shortDesc": "Your own snow globe with glitter",
+      "fullDesc": "Fill a jar with water and a drop of glycerine, add glitter and a small figurine glued to the lid. Close it tightly and shake: it will snow all over inside. A grown-up should close the lid so the jar does not leak."
+    },
+    "pl": {
+      "title": "Śnieżna kula ze słoika",
+      "shortDesc": "Własna śnieżna kula z brokatem",
+      "fullDesc": "Napełnijcie słoik wodą z kroplą gliceryny, dodajcie brokat i małą figurkę przyklejoną do wieczka. Zakręćcie mocno i potrząśnijcie: w środku zacznie padać śnieg. Wieczko najlepiej zakręci dorosły, żeby słoik nie przeciekał."
+    },
+    "es": {
+      "title": "Bola de nieve en un tarro",
+      "shortDesc": "Vuestra propia bola de nieve con purpurina",
+      "fullDesc": "Llenad un tarro con agua y una gota de glicerina, añadid purpurina y una figurita pegada a la tapa. Cerradlo bien y agitad: nevará por todo el interior. Es mejor que un adulto cierre la tapa para que no gotee."
+    },
+    "de": {
+      "title": "Schneekugel im Glas",
+      "shortDesc": "Deine eigene Schneekugel mit Glitzer",
+      "fullDesc": "Fülle ein Glas mit Wasser und einem Tropfen Glycerin, gib Glitzer und eine kleine Figur dazu, die am Deckel festgeklebt ist. Schließe es fest und schüttle: Drinnen schneit es überall. Den Deckel schließt am besten ein Erwachsener, damit das Glas nicht undicht wird."
+    },
+    "fr": {
+      "title": "Boule à neige dans un bocal",
+      "shortDesc": "Votre propre boule à neige pailletée",
+      "fullDesc": "Remplissez un bocal d'eau avec une goutte de glycérine, ajoutez des paillettes et une petite figurine collée sous le couvercle. Fermez bien et secouez : il neigera partout à l'intérieur. Mieux vaut qu'un adulte ferme le couvercle pour que le bocal ne fuie pas."
+    }
+  },
+  "image": "ideas/snihova-kulya-v-bantsi.jpg",
+  "photo": {
+    "id": "M6jH1LbG4F0",
+    "author": "Georg Eiermann",
+    "url": "https://unsplash.com/photos/M6jH1LbG4F0"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "task_105",
+  "slug": "prybyrayemo-dvir-razom",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "neighbors",
+    "kindness",
+    "winter"
+  ],
+  "text": {
+    "ua": {
+      "title": "Прибираємо двір разом",
+      "shortDesc": "Зберіть сміття у дворі чи на ігровому майданчику",
+      "fullDesc": "Візьміть рукавички, пакети й невеличкі граблі. Обійдіть двір чи майданчик і зберіть сміття, а дітям розкажіть про безпеку: нічого гострого не чіпають руками. Заручіться допомогою сусідів, і потім разом випийте чаю на лавці."
+    },
+    "en": {
+      "title": "Tidy the Yard Together",
+      "shortDesc": "Collect litter in your yard or on the playground",
+      "fullDesc": "Take gloves, bags and a small rake. Walk around the yard or playground and pick up litter, and remind the children about safety: nothing sharp is touched with bare hands. Get the neighbours to help, then share tea together on a bench."
+    },
+    "pl": {
+      "title": "Sprzątamy podwórko razem",
+      "shortDesc": "Zbierzcie śmieci na podwórku lub placu zabaw",
+      "fullDesc": "Weźcie rękawiczki, worki i małe grabie. Obejdźcie podwórko lub plac zabaw i zbierzcie śmieci, a dzieciom przypomnijcie o bezpieczeństwie: niczego ostrego nie dotyka się gołymi rękami. Zachęćcie sąsiadów do pomocy, a potem razem wypijcie herbatę na ławce."
+    },
+    "es": {
+      "title": "Limpiamos el patio juntos",
+      "shortDesc": "Recoged la basura del patio o del parque infantil",
+      "fullDesc": "Coged guantes, bolsas y un pequeño rastrillo. Recorred el patio o el parque y recoged la basura, y explicad a los niños las normas de seguridad: nada punzante se toca con las manos. Pedid ayuda a los vecinos y luego tomad té juntos en un banco."
+    },
+    "de": {
+      "title": "Wir räumen den Hof gemeinsam auf",
+      "shortDesc": "Sammelt Müll im Hof oder auf dem Spielplatz",
+      "fullDesc": "Nimm Handschuhe, Tüten und einen kleinen Rechen mit. Geh durch den Hof oder über den Spielplatz und sammle den Müll ein, und erkläre den Kindern die Sicherheitsregeln: Nichts Spitzes mit den Händen anfassen. Hol die Nachbarn zur Hilfe und trinkt danach gemeinsam Tee auf der Bank."
+    },
+    "fr": {
+      "title": "Nettoyons la cour ensemble",
+      "shortDesc": "Ramassez les déchets dans la cour ou sur l'aire de jeux",
+      "fullDesc": "Prenez des gants, des sacs et un petit râteau. Faites le tour de la cour ou de l'aire de jeux et ramassez les déchets, en expliquant aux enfants les consignes de sécurité : on ne touche rien de coupant à mains nues. Demandez de l'aide aux voisins, puis buvez un thé ensemble sur un banc."
+    }
+  },
+  "image": "ideas/prybyrayemo-dvir-razom.jpg",
+  "photo": {
+    "id": "qRHTK8TBx_E",
+    "author": "Erik Mclean",
+    "url": "https://unsplash.com/photos/qRHTK8TBx_E"
+  }
+}

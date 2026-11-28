@@ -1,0 +1,67 @@
+{
+  "id": "task_026",
+  "slug": "khlib-kosychka-do-vecheri",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "baking",
+    "kitchen"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Домашній хліб — Євген Клопотенко",
+        "url": "https://klopotenko.com/domashniy-hlib/"
+      },
+      {
+        "text": "Простий рецепт домашнього хліба з травами",
+        "url": "https://klopotenko.com/prostyj-reczept-domashnogo-hliba-palyanyczya-z-travamy-vid-yevgena-klopotenka/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Хліб-косичка до вечері",
+      "shortDesc": "Місимо, плетемо й чекаємо, поки підніметься тісто",
+      "fullDesc": "Замісіть тісто за простим рецептом, поділіть на три однакові джгути й сплетіть косичку. Змастіть яйцем і випікайте до золотистого кольору. Вся родина може допомагати: діти місять, плетуть і прикрашають насінням."
+    },
+    "en": {
+      "title": "Braided Bread for Dinner",
+      "shortDesc": "Knead, braid and wait for the dough to rise",
+      "fullDesc": "Make a dough from a simple recipe, divide it into three equal ropes and braid them. Brush with egg and bake until golden. The whole family can help: children knead, braid and decorate with seeds."
+    },
+    "pl": {
+      "title": "Chleb warkocz do kolacji",
+      "shortDesc": "Wyrabiamy, plecemy i czekamy, aż ciasto wyrośnie",
+      "fullDesc": "Zagniećcie ciasto według prostego przepisu, podzielcie na trzy równe wałeczki i zaplećcie warkocz. Posmarujcie jajkiem i pieczcie na złoto. Cała rodzina może pomagać: dzieci wyrabiają, plotą i dekorują ziarnami."
+    },
+    "es": {
+      "title": "Pan trenzado para la cena",
+      "shortDesc": "Amasamos, trenzamos y esperamos a que suba la masa",
+      "fullDesc": "Amasad la masa con una receta sencilla, divididla en tres tiras iguales y haced una trenza. Pintadla con huevo y hornead hasta que esté dorada. Toda la familia puede ayudar: los niños amasan, trenzan y decoran con semillas."
+    },
+    "de": {
+      "title": "Zopfbrot zum Abendessen",
+      "shortDesc": "Wir kneten, flechten und warten, bis der Teig aufgeht",
+      "fullDesc": "Knete den Teig nach einem einfachen Rezept, teile ihn in drei gleiche Stränge und flechte einen Zopf. Bestreiche ihn mit Ei und backe ihn goldbraun. Die ganze Familie kann helfen: Die Kinder kneten, flechten und verzieren mit Samen."
+    },
+    "fr": {
+      "title": "Pain tressé pour le dîner",
+      "shortDesc": "On pétrit, on tresse et on attend que la pâte lève",
+      "fullDesc": "Préparez la pâte avec une recette simple, divisez-la en trois boudins égaux et tressez-les. Badigeonnez d'œuf et faites cuire jusqu'à ce que le pain soit doré. Toute la famille peut aider : les enfants pétrissent, tressent et décorent avec des graines."
+    }
+  },
+  "image": "ideas/khlib-kosychka-do-vecheri.jpg",
+  "photo": {
+    "id": "oQpvta3hD2g",
+    "author": "Megan Allen",
+    "url": "https://unsplash.com/photos/oQpvta3hD2g"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "task_038",
+  "slug": "namysto-z-makaroniv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12"
+  ],
+  "tags": [
+    "craft",
+    "gift"
+  ],
+  "text": {
+    "ua": {
+      "title": "Намисто з макаронів",
+      "shortDesc": "Яскраві намистини для найменших майстрів",
+      "fullDesc": "Пофарбуйте сухі макаронні трубочки в кілька кольорів, висушіть і нанижіть на шнурок, чергуючи за візерунком. Вийде намисто чи браслет, який можна подарувати мамі, бабусі чи улюбленій іграшці. Тренує пальчики й терпіння."
+    },
+    "en": {
+      "title": "Pasta Necklace",
+      "shortDesc": "Bright beads for the youngest crafters",
+      "fullDesc": "Colour dry tube pasta in several shades, let it dry and thread it onto a string in a pattern. You get a necklace or bracelet to give to mum, grandma or a favourite toy. It trains little fingers and patience."
+    },
+    "pl": {
+      "title": "Naszyjnik z makaronu",
+      "shortDesc": "Kolorowe koraliki dla najmłodszych majsterkowiczów",
+      "fullDesc": "Pofarbujcie suchy makaron rurki na kilka kolorów, wysuszcie i nawleczcie na sznurek, układając wzór. Powstanie naszyjnik albo bransoletka, które możecie podarować mamie, babci lub ulubionej zabawce. Ćwiczy paluszki i cierpliwość."
+    },
+    "es": {
+      "title": "Collar de macarrones",
+      "shortDesc": "Cuentas de colores para los más pequeños artistas",
+      "fullDesc": "Pintad macarrones secos en forma de tubo de varios colores, dejadlos secar y ensartadlos en un cordón alternando según un patrón. Saldrá un collar o una pulsera para regalar a mamá, a la abuela o a un juguete favorito. Entrena los deditos y la paciencia."
+    },
+    "de": {
+      "title": "Nudelkette",
+      "shortDesc": "Bunte Perlen für die kleinsten Bastler",
+      "fullDesc": "Färbe trockene Röhrennudeln in mehreren Farben ein, lass sie trocknen und fädle sie nach einem Muster auf eine Schnur. So entsteht eine Kette oder ein Armband, das du Mama, Oma oder deinem Lieblingsspielzeug schenken kannst. Das trainiert die Finger und die Geduld."
+    },
+    "fr": {
+      "title": "Collier de macaronis",
+      "shortDesc": "De jolies perles colorées pour les tout-petits artistes",
+      "fullDesc": "Peignez des macaronis secs en tube de plusieurs couleurs, laissez sécher et enfilez-les sur un cordon en alternant selon un motif. Vous obtiendrez un collier ou un bracelet à offrir à maman, à mamie ou à un jouet préféré. Cela entraîne les petits doigts et la patience."
+    }
+  },
+  "image": "ideas/namysto-z-makaroniv.jpg",
+  "photo": {
+    "id": "P494BMmoqBw",
+    "author": "Meg Jenson",
+    "url": "https://unsplash.com/photos/P494BMmoqBw"
+  }
+}

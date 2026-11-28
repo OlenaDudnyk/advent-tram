@@ -1,0 +1,54 @@
+{
+  "id": "task_130",
+  "slug": "khto-ya-heroyi-z-kazok",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Хто я? Герої з казок",
+      "shortDesc": "Вгадайте, яким казковим героєм ви стали",
+      "fullDesc": "Напишіть на папірцях імена казкових і мультиплікаційних героїв. Приклейте папірець на лоб кожному гравцеві, щоб він його не бачив. По черзі ставте запитання, на які можна відповісти лише «так» чи «ні», аж поки не вгадаєте, хто ви."
+    },
+    "en": {
+      "title": "Who Am I? Fairy Tale Heroes",
+      "shortDesc": "Guess which storybook hero you have become",
+      "fullDesc": "Write the names of fairy-tale and cartoon heroes on slips of paper. Stick one on each player's forehead so they cannot see it. Take turns asking questions that can only be answered with \"yes\" or \"no\" until you work out who you are."
+    },
+    "pl": {
+      "title": "Kim jestem? Bohaterowie bajek",
+      "shortDesc": "Odgadnijcie, jakim bajkowym bohaterem się staliście",
+      "fullDesc": "Napiszcie na karteczkach imiona bohaterów bajek i kreskówek. Przyklejcie każdemu graczowi karteczkę na czoło tak, by jej nie widział. Zadawajcie po kolei pytania, na które można odpowiedzieć tylko „tak\" lub „nie\", aż odgadniecie, kim jesteście."
+    },
+    "es": {
+      "title": "¿Quién soy? Personajes de cuentos",
+      "shortDesc": "Adivina qué personaje de cuento eres",
+      "fullDesc": "Escribid en papelitos nombres de personajes de cuentos y dibujos animados. Pegad un papel en la frente de cada jugador sin que lo vea. Haced preguntas por turnos que solo se puedan responder con «sí» o «no», hasta adivinar quién sois."
+    },
+    "de": {
+      "title": "Wer bin ich? Märchenfiguren",
+      "shortDesc": "Errate, welche Märchenfigur du geworden bist",
+      "fullDesc": "Schreibt die Namen von Märchen- und Trickfilmfiguren auf Zettel. Klebe jedem Spieler einen Zettel auf die Stirn, ohne dass er ihn sieht. Stellt abwechselnd Fragen, die nur mit „ja“ oder „nein“ beantwortet werden, bis ihr herausfindet, wer ihr seid."
+    },
+    "fr": {
+      "title": "Qui suis-je ? Héros de contes",
+      "shortDesc": "Devinez quel héros de conte vous êtes devenu",
+      "fullDesc": "Écrivez sur des papiers des noms de personnages de contes et de dessins animés. Collez un papier sur le front de chaque joueur sans qu'il le voie. Posez à tour de rôle des questions auxquelles on ne peut répondre que par « oui » ou « non », jusqu'à deviner qui vous êtes."
+    }
+  },
+  "image": "ideas/khto-ya-heroyi-z-kazok.jpg",
+  "photo": {
+    "id": "x69K221AGHw",
+    "author": "Natalia Y.",
+    "url": "https://unsplash.com/photos/x69K221AGHw"
+  }
+}

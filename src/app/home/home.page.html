@@ -43,7 +43,12 @@
         <span>{{ entries().length.toString().padStart(2, '0') }} {{ 'home.memories' | translate: language() }}</span>
       </div>
       @if (entries().length === 0) {
-        <p class="empty-state">{{ 'home.empty' | translate: language() }}</p>
+        <div class="empty-memories">
+          <img src="assets/tram.svg" alt="" draggable="false" />
+          <h3 class="title-card">{{ 'home.empty' | translate: language() }}</h3>
+          <p>{{ 'home.emptyHint' | translate: language() }}</p>
+          <a class="btn btn-primary" routerLink="/adventure">{{ 'home.newIdea' | translate: language() }}</a>
+        </div>
       } @else {
         <div class="timeline">
           @for (entry of entries(); track entry.id) {

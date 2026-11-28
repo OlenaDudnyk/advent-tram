@@ -1,0 +1,55 @@
+{
+  "id": "task_076",
+  "slug": "lisovyy-cholovichok",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "nature",
+    "walk"
+  ],
+  "text": {
+    "ua": {
+      "title": "Лісовий чоловічок",
+      "shortDesc": "Зробіть казкову фігурку з гілочок, шишок і листя",
+      "fullDesc": "Зберіть на прогулянці гілочки, шишки, жолуді та листя. Знайдіть рівне місце й викладіть із них чоловічка чи звірятко просто на землі. Вдома можна розповісти про нього казку, а наступного дня навідатися й перевірити, чи він цілий."
+    },
+    "en": {
+      "title": "Forest Man",
+      "shortDesc": "Make a fairy-tale figure from twigs, cones and leaves",
+      "fullDesc": "On a walk, gather twigs, pine cones, acorns and leaves. Find a flat spot and arrange them into a little man or an animal right on the ground. At home, tell a story about him, and the next day go back to see whether he is still in one piece."
+    },
+    "pl": {
+      "title": "Leśny ludzik",
+      "shortDesc": "Zróbcie bajkową figurkę z gałązek, szyszek i liści",
+      "fullDesc": "Podczas spaceru zbierzcie gałązki, szyszki, żołędzie i liście. Znajdźcie równe miejsce i ułóżcie z nich ludzika lub zwierzątko prosto na ziemi. W domu opowiedzcie o nim bajkę, a następnego dnia wróćcie i sprawdźcie, czy jest cały."
+    },
+    "es": {
+      "title": "Muñeco del bosque",
+      "shortDesc": "Haced una figura de cuento con ramitas, piñas y hojas",
+      "fullDesc": "Recoged en el paseo ramitas, piñas, bellotas y hojas. Buscad un lugar plano y formad con ellas un muñeco o un animalito en el suelo. En casa podéis contar un cuento sobre él y al día siguiente volver a ver si sigue intacto."
+    },
+    "de": {
+      "title": "Waldmännchen",
+      "shortDesc": "Lege aus Zweigen, Zapfen und Blättern eine Märchenfigur",
+      "fullDesc": "Sammle auf dem Spaziergang Zweige, Zapfen, Eicheln und Blätter. Such einen ebenen Platz und lege daraus ein Männchen oder Tierchen direkt auf den Boden. Zu Hause kannst du eine Geschichte über es erzählen und am nächsten Tag nachsehen, ob es noch heil ist."
+    },
+    "fr": {
+      "title": "Petit bonhomme de la forêt",
+      "shortDesc": "Créez une figurine de conte avec des brindilles, des pommes de pin et des feuilles",
+      "fullDesc": "Ramassez pendant la promenade des brindilles, des pommes de pin, des glands et des feuilles. Trouvez un endroit plat et composez-y un bonhomme ou un petit animal directement sur le sol. À la maison, racontez-en une histoire, et le lendemain, allez voir s'il est resté intact."
+    }
+  },
+  "image": "ideas/lisovyy-cholovichok.jpg",
+  "photo": {
+    "id": "K55PkHE_3GY",
+    "author": "Clayton Chase",
+    "url": "https://unsplash.com/photos/K55PkHE_3GY"
+  }
+}

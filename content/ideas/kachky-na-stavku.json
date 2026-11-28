@@ -1,0 +1,55 @@
+{
+  "id": "task_084",
+  "slug": "kachky-na-stavku",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "birds",
+    "nature"
+  ],
+  "text": {
+    "ua": {
+      "title": "Качки на ставку",
+      "shortDesc": "Підгодуйте качок зерном і поспостерігайте за ними",
+      "fullDesc": "Візьміть із собою трохи вівса, пшона чи подрібненої кукурудзи, але не хліб, бо він шкодить птахам. Підійдіть до ставка й тихо розсипте зерно, спостерігаючи, як качки пливуть і сперечаються за частування."
+    },
+    "en": {
+      "title": "Ducks at the Pond",
+      "shortDesc": "Feed the ducks some grain and watch them",
+      "fullDesc": "Bring a little oats, millet or crushed corn, but no bread, as it harms birds. Walk to the pond and quietly scatter the grain, watching the ducks swim over and squabble for the treat."
+    },
+    "pl": {
+      "title": "Kaczki na stawie",
+      "shortDesc": "Poczęstujcie kaczki ziarnem i popatrzcie na nie",
+      "fullDesc": "Zabierzcie trochę owsa, prosa lub pokruszonej kukurydzy, ale nie chleb, bo szkodzi ptakom. Podejdźcie do stawu i cicho rozsypcie ziarno, patrząc, jak kaczki podpływają i sprzeczają się o poczęstunek."
+    },
+    "es": {
+      "title": "Patos en el estanque",
+      "shortDesc": "Dad de comer grano a los patos y observadlos",
+      "fullDesc": "Llevad un poco de avena, mijo o maíz triturado, pero no pan, porque daña a las aves. Acercaos al estanque y esparcid el grano en silencio, mirando cómo nadan los patos y se disputan el manjar."
+    },
+    "de": {
+      "title": "Enten am Teich",
+      "shortDesc": "Füttere die Enten mit Körnern und schau ihnen zu",
+      "fullDesc": "Nimm etwas Hafer, Hirse oder geschroteten Mais mit, aber kein Brot, denn das schadet den Vögeln. Geh zum Teich und streue die Körner leise aus. Sieh zu, wie die Enten herbeischwimmen und um die Leckerei streiten."
+    },
+    "fr": {
+      "title": "Les canards de l'étang",
+      "shortDesc": "Donnez des graines aux canards et observez-les",
+      "fullDesc": "Emportez un peu d'avoine, de millet ou de maïs concassé, mais pas de pain, car il fait du mal aux oiseaux. Approchez-vous de l'étang et répandez doucement les graines en regardant les canards nager et se disputer la friandise."
+    }
+  },
+  "image": "ideas/kachky-na-stavku.jpg",
+  "photo": {
+    "id": "eYKSk66iLxY",
+    "author": "Mykyta Kondratov",
+    "url": "https://unsplash.com/photos/eYKSk66iLxY"
+  }
+}

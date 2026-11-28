@@ -1,0 +1,57 @@
+{
+  "id": "task_098",
+  "slug": "podyakuyte-kuryeru",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "gift"
+  ],
+  "text": {
+    "ua": {
+      "title": "Подякуйте кур’єру",
+      "shortDesc": "Залиште вдячну записку чи тепле слово для людей праці",
+      "fullDesc": "Напишіть коротку подяку кур’єру, листоноші, двірнику чи продавцю і залиште біля дверей або вручіть особисто. Можна додати маленьке частування, наприклад печиво чи мандарин. Люди, що працюють у холод, дуже цінують таку увагу."
+    },
+    "en": {
+      "title": "Thank the Courier",
+      "shortDesc": "Leave a note or a warm word for hard-working people",
+      "fullDesc": "Write a short thank-you to a courier, postman, caretaker or shop assistant and leave it by the door or hand it over in person. You can add a small treat such as a cookie or a tangerine. People who work in the cold really appreciate such attention."
+    },
+    "pl": {
+      "title": "Podziękujcie kurierowi",
+      "shortDesc": "Zostawcie liścik lub ciepłe słowo dla ludzi pracy",
+      "fullDesc": "Napiszcie krótkie podziękowanie dla kuriera, listonosza, dozorcy lub sprzedawcy i zostawcie pod drzwiami albo wręczcie osobiście. Możecie dodać mały poczęstunek, na przykład ciasteczko lub mandarynkę. Ludzie pracujący na mrozie bardzo cenią taką uwagę."
+    },
+    "es": {
+      "title": "Dad las gracias al repartidor",
+      "shortDesc": "Dejad una nota de agradecimiento o unas palabras cálidas a quienes trabajan",
+      "fullDesc": "Escribid un breve agradecimiento al repartidor, al cartero, al barrendero o a la dependienta y dejadlo junto a la puerta o entregadlo en persona. Podéis añadir un pequeño detalle, como una galleta o una mandarina. Quienes trabajan con frío valoran mucho esa atención."
+    },
+    "de": {
+      "title": "Danke an den Paketboten",
+      "shortDesc": "Hinterlasse einen Dankeszettel oder ein liebes Wort für Menschen, die arbeiten",
+      "fullDesc": "Schreibe dem Paketboten, dem Briefträger, dem Hausmeister oder der Verkäuferin ein kurzes Dankeschön und lege es an die Tür oder übergib es persönlich. Du kannst eine Kleinigkeit dazulegen, zum Beispiel einen Keks oder eine Mandarine. Wer bei Kälte arbeitet, schätzt solche Aufmerksamkeit sehr."
+    },
+    "fr": {
+      "title": "Remerciez le livreur",
+      "shortDesc": "Laissez un mot de remerciement ou une parole chaleureuse à ceux qui travaillent",
+      "fullDesc": "Écrivez un court remerciement au livreur, au facteur, à l'agent d'entretien ou à la vendeuse et laissez-le devant la porte ou remettez-le en main propre. Vous pouvez ajouter une petite douceur, comme un biscuit ou une mandarine. Ceux qui travaillent par temps froid apprécient beaucoup cette attention."
+    }
+  },
+  "image": "ideas/podyakuyte-kuryeru.jpg",
+  "photo": {
+    "id": "rCNn08PrHk8",
+    "author": "Lara John",
+    "url": "https://unsplash.com/photos/rCNn08PrHk8"
+  }
+}

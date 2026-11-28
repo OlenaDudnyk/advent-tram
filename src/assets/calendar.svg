@@ -1,29 +1,22 @@
 <svg width="86" height="86" viewBox="0 0 86 86" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EDE4DD"/><stop offset="1" stop-color="#E4D9D1"/></linearGradient>
     <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFCF9"/><stop offset="1" stop-color="#E4D9D2"/></linearGradient>
     <linearGradient id="head" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A12335"/><stop offset="1" stop-color="#7A1C2E"/></linearGradient>
     <linearGradient id="ring" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F2CF6A"/><stop offset="1" stop-color="#C9962B"/></linearGradient>
   </defs>
-  <rect width="86" height="86" rx="20" fill="url(#tile)"/>
-  <g transform="translate(43 45) scale(.62) rotate(-4) translate(-43 -43)">
-    <rect x="9" y="17" width="68" height="62" rx="13" fill="#000" opacity=".14" transform="translate(0 3)"/>
-    <rect x="9" y="14" width="68" height="62" rx="13" fill="url(#body)"/>
-    <path d="M9 27c0-7.2 5.8-13 13-13h42c7.200 0 13 5.800 13 13v7H9v-7Z" fill="url(#head)"/>
-    <rect x="9" y="33" width="68" height="2.500" fill="#000" opacity=".18"/>
-    <rect x="22" y="7" width="7" height="17" rx="3.500" fill="url(#ring)"/>
-    <rect x="57" y="7" width="7" height="17" rx="3.500" fill="url(#ring)"/>
-    <g>
-      <rect x="21" y="41" width="12" height="11" rx="3" fill="#1B4332"/>
-      <rect x="37" y="41" width="12" height="11" rx="3" fill="#1B4332"/>
-      <rect x="53" y="41" width="12" height="11" rx="3" fill="#7A1C2E"/>
-      <rect x="21" y="56" width="12" height="11" rx="3" fill="#1B4332"/>
-      <rect x="37" y="56" width="12" height="11" rx="3" fill="#7A1C2E"/>
-      <rect x="53" y="56" width="12" height="11" rx="3" fill="#1B4332"/>
-    </g>
-    <g fill="#fff" opacity=".22">
-      <rect x="21" y="41" width="12" height="3" rx="1.500"/><rect x="37" y="41" width="12" height="3" rx="1.500"/><rect x="53" y="41" width="12" height="3" rx="1.500"/>
-      <rect x="21" y="56" width="12" height="3" rx="1.500"/><rect x="37" y="56" width="12" height="3" rx="1.500"/><rect x="53" y="56" width="12" height="3" rx="1.500"/>
-    </g>
+  <g transform="rotate(-5 43 46) translate(0 1)">
+    <rect x="7" y="17" width="72" height="64" rx="14" fill="#7A1C2E" opacity=".16" transform="translate(0 3)"/>
+    <rect x="7" y="14" width="72" height="64" rx="14" fill="url(#body)"/>
+    <path d="M7 28c0-7.700 6.300-14 14-14h44c7.700 0 14 6.300 14 14v7H7v-7Z" fill="url(#head)"/>
+    <rect x="7" y="34" width="72" height="2.500" fill="#000" opacity=".18"/>
+    <rect x="21" y="6" width="7.500" height="18" rx="3.700" fill="url(#ring)"/>
+    <rect x="57.500" y="6" width="7.500" height="18" rx="3.700" fill="url(#ring)"/>
+    <rect x="19" y="42" width="13" height="11.500" rx="3.200" fill="#1B4332"/>
+    <rect x="36.500" y="42" width="13" height="11.500" rx="3.200" fill="#1B4332"/>
+    <rect x="54" y="42" width="13" height="11.500" rx="3.200" fill="#7A1C2E"/>
+    <rect x="19" y="58" width="13" height="11.500" rx="3.200" fill="#1B4332"/>
+    <rect x="36.500" y="58" width="13" height="11.500" rx="3.200" fill="#7A1C2E"/>
+    <rect x="54" y="58" width="13" height="11.500" rx="3.200" fill="#1B4332"/>
+    <g fill="#fff" opacity=".22"><rect x="19" y="42" width="13" height="3" rx="1.500"/><rect x="36.500" y="42" width="13" height="3" rx="1.500"/><rect x="54" y="42" width="13" height="3" rx="1.500"/><rect x="19" y="58" width="13" height="3" rx="1.500"/><rect x="36.500" y="58" width="13" height="3" rx="1.500"/><rect x="54" y="58" width="13" height="3" rx="1.500"/></g>
   </g>
 </svg>

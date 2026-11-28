@@ -1,0 +1,71 @@
+{
+  "id": "task_025",
+  "slug": "zapecheni-yabluka-z-korytseyu",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "baking",
+    "kitchen"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Запечені яблука з сиром і горіхами — Євген Клопотенко",
+        "url": "https://klopotenko.com/zapecheni-yabluka-z-sirom-zgushhenim-molokom-i-gorihami/"
+      },
+      {
+        "text": "Запечені яблука з волоськими горіхами",
+        "url": "https://klopotenko.com/yak-zapekty-yabluka-v-duhovczi-z-syrom-ta-gorihamy-prosti-porady/"
+      },
+      {
+        "text": "Baked apples — BBC Good Food",
+        "url": "https://www.bbcgoodfood.com/recipes/baked-apples"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Запечені яблука з корицею",
+      "shortDesc": "Дім наповниться запахом меду, горіхів і кориці",
+      "fullDesc": "Разом із дорослим приберіть із яблук серцевину, наповніть їх медом, горіхами та корицею й запечіть у духовці. Поки яблука м’якшають, на кухні стає тепло й пахне святом. Подавайте ще гарячими, з ложкою йогурту."
+    },
+    "en": {
+      "title": "Baked Cinnamon Apples",
+      "shortDesc": "The house will smell of honey, nuts and cinnamon",
+      "fullDesc": "With a grown-up, core the apples, fill them with honey, nuts and cinnamon and bake them in the oven. While the apples soften, the kitchen turns warm and smells of celebration. Serve them still hot, with a spoonful of yogurt."
+    },
+    "pl": {
+      "title": "Pieczone jabłka z cynamonem",
+      "shortDesc": "Dom wypełni się zapachem miodu, orzechów i cynamonu",
+      "fullDesc": "Razem z dorosłym wydrążcie jabłka, napełnijcie je miodem, orzechami i cynamonem i upieczcie w piekarniku. Gdy jabłka miękną, w kuchni robi się ciepło i pachnie świętem. Podawajcie jeszcze gorące, z łyżką jogurtu."
+    },
+    "es": {
+      "title": "Manzanas asadas con canela",
+      "shortDesc": "La casa se llenará de aroma a miel, nueces y canela",
+      "fullDesc": "Con un adulto, quitad el corazón a las manzanas, rellenadlas con miel, nueces y canela y hornead. Mientras las manzanas se ablandan, la cocina se llena de calor y aroma a fiesta. Servidlas aún calientes, con una cucharada de yogur."
+    },
+    "de": {
+      "title": "Bratäpfel mit Zimt",
+      "shortDesc": "Das Haus duftet nach Honig, Nüssen und Zimt",
+      "fullDesc": "Entkerne die Äpfel zusammen mit einem Erwachsenen, fülle sie mit Honig, Nüssen und Zimt und backe sie im Ofen. Während die Äpfel weich werden, wird es in der Küche warm und duftet nach Fest. Serviere sie noch heiß, mit einem Löffel Joghurt."
+    },
+    "fr": {
+      "title": "Pommes au four à la cannelle",
+      "shortDesc": "La maison se remplira d'un parfum de miel, de noix et de cannelle",
+      "fullDesc": "Avec un adulte, évidez les pommes, remplissez-les de miel, de noix et de cannelle et faites-les cuire au four. Pendant que les pommes ramollissent, la cuisine se réchauffe et sent la fête. Servez-les encore chaudes, avec une cuillère de yaourt."
+    }
+  },
+  "image": "ideas/zapecheni-yabluka-z-korytseyu.jpg",
+  "photo": {
+    "id": "DfRKrTQUcnU",
+    "author": "Olimpia Davies",
+    "url": "https://unsplash.com/photos/a-table-topped-with-bowls-of-apples-and-spices-DfRKrTQUcnU"
+  }
+}

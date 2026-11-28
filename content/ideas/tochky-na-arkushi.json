@@ -1,0 +1,59 @@
+{
+  "id": "task_111",
+  "slug": "tochky-na-arkushi",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "cozy"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/422282902582960872/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Точки на аркуші",
+      "shortDesc": "Одне велике поле, кубик і спільне обведення",
+      "fullDesc": "Намалюйте на великому аркуші багато крапочок чи клітинок. Кидайте кубик по черзі й обводьте на спільному полі стільки крапочок, скільки випало, кожен своїм кольором. Не змагайтеся: вам важливо провести час разом і подивитись, який візерунок вийде в кінці."
+    },
+    "en": {
+      "title": "Dots on a Sheet",
+      "shortDesc": "One big field, a die and a shared outline",
+      "fullDesc": "Draw lots of dots or squares on a big sheet. Take turns rolling the die and outline as many dots on the shared field as you rolled, each in your own colour. Do not compete: what matters is spending time together and seeing what pattern emerges at the end."
+    },
+    "pl": {
+      "title": "Kropki na kartce",
+      "shortDesc": "Jedno wielkie pole, kostka i wspólne obrysowywanie",
+      "fullDesc": "Narysujcie na dużej kartce mnóstwo kropek lub kratek. Rzucajcie kostką po kolei i obrysowujcie na wspólnym polu tyle kropek, ile wypadło, każdy swoim kolorem. Nie rywalizujcie: ważne, by spędzić razem czas i zobaczyć, jaki wzór powstanie na końcu."
+    },
+    "es": {
+      "title": "Puntos en una hoja",
+      "shortDesc": "Un gran campo, un dado y un trazo compartido",
+      "fullDesc": "Dibujad en una hoja grande muchos puntitos o casillas. Tirad el dado por turnos y rodead en el campo común tantos puntos como indique, cada uno con su color. No compitáis: lo importante es pasar el rato juntos y ver qué dibujo sale al final."
+    },
+    "de": {
+      "title": "Punkte auf dem Blatt",
+      "shortDesc": "Ein großes Feld, ein Würfel und gemeinsames Umranden",
+      "fullDesc": "Zeichne auf ein großes Blatt viele Punkte oder Kästchen. Würfelt abwechselnd und umrande auf dem gemeinsamen Feld so viele Punkte, wie gefallen sind, jeder in seiner Farbe. Es geht nicht um den Wettbewerb: Wichtig ist, Zeit miteinander zu verbringen und zu sehen, welches Muster am Ende entsteht."
+    },
+    "fr": {
+      "title": "Points sur une feuille",
+      "shortDesc": "Un grand terrain, un dé et des contours à partager",
+      "fullDesc": "Dessinez sur une grande feuille beaucoup de petits points ou de cases. Lancez le dé à tour de rôle et entourez sur le terrain commun autant de points qu'il en indique, chacun avec sa couleur. Ne cherchez pas à gagner : l'important est de passer du temps ensemble et de voir quel motif apparaît à la fin."
+    }
+  },
+  "image": "ideas/tochky-na-arkushi.jpg",
+  "photo": {
+    "id": "IZj7vckPGiw",
+    "author": "engin akyurt",
+    "url": "https://unsplash.com/photos/notebook-and-pen-on-white-IZj7vckPGiw"
+  }
+}

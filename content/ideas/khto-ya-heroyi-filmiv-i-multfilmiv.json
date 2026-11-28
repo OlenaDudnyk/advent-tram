@@ -1,0 +1,55 @@
+{
+  "id": "task_132",
+  "slug": "khto-ya-heroyi-filmiv-i-multfilmiv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "film"
+  ],
+  "text": {
+    "ua": {
+      "title": "Хто я? Герої фільмів і мультфільмів",
+      "shortDesc": "Вгадайте героя з улюбленого фільму",
+      "fullDesc": "Виберіть героїв різдвяних фільмів чи мультфільмів, напишіть їхні імена на папірцях і по черзі вгадуйте за відповідями «так» чи «ні». Можна додати правило: кожен гравець має 10 запитань, і якщо не вгадав, показує пантоміму."
+    },
+    "en": {
+      "title": "Who Am I? Movie and Cartoon Characters",
+      "shortDesc": "Guess a character from a favourite film",
+      "fullDesc": "Choose characters from Christmas films or cartoons, write their names on slips of paper and take turns guessing with yes-or-no answers. You can add a rule: each player gets 10 questions, and if they do not guess, they act it out as a mime."
+    },
+    "pl": {
+      "title": "Kim jestem? Bohaterowie filmów i bajek",
+      "shortDesc": "Odgadnijcie bohatera ulubionego filmu",
+      "fullDesc": "Wybierzcie bohaterów świątecznych filmów lub bajek, wpiszcie ich imiona na karteczkach i zgadujcie po kolei, pytając o „tak\" lub „nie\". Można dodać zasadę: każdy gracz ma 10 pytań, a jeśli nie odgadnie, pokazuje postać pantomimą."
+    },
+    "es": {
+      "title": "¿Quién soy? Personajes de películas y dibujos",
+      "shortDesc": "Adivinad el personaje de vuestra peli favorita",
+      "fullDesc": "Elegid personajes de películas o dibujos navideños, escribid sus nombres en papelitos y adivinad por turnos con respuestas de «sí» o «no». Se puede añadir una regla: cada jugador tiene 10 preguntas y, si no acierta, hace una mímica."
+    },
+    "de": {
+      "title": "Wer bin ich? Helden aus Filmen und Trickfilmen",
+      "shortDesc": "Errate die Figur aus deinem Lieblingsfilm",
+      "fullDesc": "Wählt Figuren aus Weihnachtsfilmen oder Trickfilmen, schreibt ihre Namen auf Zettel und ratet abwechselnd mit Antworten wie „ja“ oder „nein“. Du kannst eine Regel ergänzen: Jeder Spieler hat 10 Fragen, und wer es nicht errät, spielt pantomimisch etwas vor."
+    },
+    "fr": {
+      "title": "Qui suis-je ? Héros de films et de dessins animés",
+      "shortDesc": "Devinez le héros de votre film préféré",
+      "fullDesc": "Choisissez des personnages de films ou de dessins animés de Noël, écrivez leurs noms sur des papiers et devinez à tour de rôle avec des réponses « oui » ou « non ». Vous pouvez ajouter une règle : chaque joueur a 10 questions, et s'il ne devine pas, il fait une pantomime."
+    }
+  },
+  "image": "ideas/khto-ya-heroyi-filmiv-i-multfilmiv.jpg",
+  "photo": {
+    "id": "wzAf9AAtVSI",
+    "author": "Jonathan Majam",
+    "url": "https://unsplash.com/photos/wzAf9AAtVSI"
+  }
+}

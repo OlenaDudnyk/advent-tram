@@ -1,0 +1,55 @@
+{
+  "id": "task_077",
+  "slug": "vechir-iz-likhtarykom",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "walk",
+    "lights"
+  ],
+  "text": {
+    "ua": {
+      "title": "Вечір із ліхтариком",
+      "shortDesc": "Прогуляйтеся двором із ліхтариком і шукайте дива",
+      "fullDesc": "Візьміть кишенькові ліхтарики й вийдіть у вечірній двір чи парк. Скеровуйте світло на кору, гілки та землю: що ховається в темряві? Вечірня прогулянка має зовсім інший настрій, особливо якщо іти пліч-о-пліч."
+    },
+    "en": {
+      "title": "Flashlight Evening",
+      "shortDesc": "Walk around the yard with a flashlight and look for wonders",
+      "fullDesc": "Take pocket flashlights and go out into the evening yard or park. Shine the light on bark, branches and the ground: what is hiding in the dark? An evening walk has a completely different mood, especially when you walk side by side."
+    },
+    "pl": {
+      "title": "Wieczór z latarką",
+      "shortDesc": "Przejdźcie się po podwórku z latarką i szukajcie cudów",
+      "fullDesc": "Weźcie kieszonkowe latarki i wyjdźcie na wieczorne podwórko lub do parku. Kierujcie światło na korę, gałęzie i ziemię: co kryje się w ciemności? Wieczorny spacer ma zupełnie inny nastrój, zwłaszcza gdy idziecie ramię w ramię."
+    },
+    "es": {
+      "title": "Tarde con linterna",
+      "shortDesc": "Pasead por el patio con una linterna y buscad maravillas",
+      "fullDesc": "Coged linternas de bolsillo y salid al patio o al parque al anochecer. Dirigid la luz a la corteza, las ramas y el suelo: ¿qué se esconde en la oscuridad? Un paseo nocturno tiene un ambiente completamente distinto, sobre todo si vais codo con codo."
+    },
+    "de": {
+      "title": "Abend mit Taschenlampe",
+      "shortDesc": "Geh mit einer Taschenlampe durch den Hof und suche Wunder",
+      "fullDesc": "Nehmt Taschenlampen mit und geht abends in den Hof oder Park. Richte das Licht auf Rinde, Äste und Boden: Was versteckt sich im Dunkeln? Ein Abendspaziergang hat eine ganz andere Stimmung, besonders Seite an Seite."
+    },
+    "fr": {
+      "title": "Soirée à la lampe torche",
+      "shortDesc": "Promenez-vous dans la cour avec une lampe torche et cherchez des merveilles",
+      "fullDesc": "Prenez des lampes de poche et sortez le soir dans la cour ou le parc. Dirigez la lumière sur l'écorce, les branches et le sol : que se cache-t-il dans le noir ? Une promenade du soir a une tout autre ambiance, surtout côte à côte."
+    }
+  },
+  "image": "ideas/vechir-iz-likhtarykom.jpg",
+  "photo": {
+    "id": "bmVoD4zqKJk",
+    "author": "Roman Poberezhnik",
+    "url": "https://unsplash.com/photos/person-holding-red-and-black-lantern-bmVoD4zqKJk"
+  }
+}

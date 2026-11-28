@@ -1,0 +1,58 @@
+{
+  "id": "task_101",
+  "slug": "tayemnyy-podarunok",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "gift",
+    "kindness",
+    "neighbors"
+  ],
+  "text": {
+    "ua": {
+      "title": "Таємний подарунок",
+      "shortDesc": "Підготуйте маленький анонімний сюрприз для когось",
+      "fullDesc": "Оберіть людину, яку хочете порадувати: сусіда, вчителя, колегу. Складіть невеликий подарунок: цукерки, малюнок, саморобну листівку. Залиште тихо, без підпису й спостерігайте з усмішкою, як хтось знайде радість від невідомого друга."
+    },
+    "en": {
+      "title": "Secret Gift",
+      "shortDesc": "Prepare a small anonymous surprise for someone",
+      "fullDesc": "Choose someone you want to cheer up: a neighbour, a teacher, a colleague. Put together a small gift: sweets, a drawing, a handmade card. Leave it quietly, unsigned, and watch with a smile as someone finds joy from an unknown friend."
+    },
+    "pl": {
+      "title": "Tajemniczy prezent",
+      "shortDesc": "Przygotujcie dla kogoś mały anonimowy podarunek",
+      "fullDesc": "Wybierzcie osobę, którą chcecie ucieszyć: sąsiada, nauczyciela, kolegę z pracy. Przygotujcie mały upominek: cukierki, rysunek, własnoręcznie zrobioną kartkę. Zostawcie po cichu, bez podpisu, i z uśmiechem obserwujcie, jak ktoś znajduje radość od nieznanego przyjaciela."
+    },
+    "es": {
+      "title": "Regalo secreto",
+      "shortDesc": "Preparad una pequeña sorpresa anónima para alguien",
+      "fullDesc": "Elegid a quien queréis alegrar: un vecino, un maestro, un colega. Preparad un pequeño regalo: caramelos, un dibujo, una postal casera. Dejadlo en silencio, sin firma, y observad con una sonrisa cómo alguien encuentra la alegría de un amigo desconocido."
+    },
+    "de": {
+      "title": "Geheimes Geschenk",
+      "shortDesc": "Bereite eine kleine anonyme Überraschung für jemanden vor",
+      "fullDesc": "Such dir jemanden aus, dem du eine Freude machen willst: einen Nachbarn, eine Lehrerin, einen Kollegen. Stelle ein kleines Geschenk zusammen: Bonbons, ein Bild, eine selbstgemachte Karte. Leg es leise und ohne Unterschrift hin und sieh mit einem Lächeln zu, wie jemand die Freude von einem unbekannten Freund findet."
+    },
+    "fr": {
+      "title": "Cadeau secret",
+      "shortDesc": "Préparez une petite surprise anonyme pour quelqu'un",
+      "fullDesc": "Choisissez la personne que vous voulez réjouir : un voisin, un enseignant, un collègue. Composez un petit cadeau : des bonbons, un dessin, une carte faite maison. Déposez-le discrètement, sans signature, et observez avec le sourire quelqu'un qui trouve la joie d'un ami inconnu."
+    }
+  },
+  "image": "ideas/tayemnyy-podarunok.jpg",
+  "photo": {
+    "id": "PxM8aeJbzvk",
+    "author": "freestocks",
+    "url": "https://unsplash.com/photos/gift-boxes-PxM8aeJbzvk"
+  }
+}

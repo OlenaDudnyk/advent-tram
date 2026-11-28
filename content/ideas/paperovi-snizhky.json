@@ -1,0 +1,53 @@
+{
+  "id": "task_053",
+  "slug": "paperovi-snizhky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Паперові сніжки",
+      "shortDesc": "П’ять хвилин веселої битви без жодної шкоди",
+      "fullDesc": "Зімніть багато аркушів паперу в м’які кульки та розділіться на дві команди. Ховайтеся за подушками й закидайте суперників. Потім разом прибирайте, змагаючись, хто швидше збере сніжки в кошик."
+    },
+    "en": {
+      "title": "Paper Snowballs",
+      "shortDesc": "Five minutes of a fun battle with no harm done",
+      "fullDesc": "Crumple lots of sheets of paper into soft balls and split into two teams. Hide behind pillows and pelt your opponents. Then tidy up together, racing to see who gathers the snowballs into the basket fastest."
+    },
+    "pl": {
+      "title": "Papierowe śnieżki",
+      "shortDesc": "Pięć minut zabawnej bitwy bez żadnej szkody",
+      "fullDesc": "Pozwijajcie mnóstwo kartek w miękkie kulki i podzielcie się na dwie drużyny. Chowajcie się za poduszkami i obrzucajcie przeciwników. Potem razem posprzątajcie, ścigając się, kto szybciej zbierze śnieżki do koszyka."
+    },
+    "es": {
+      "title": "Bolas de nieve de papel",
+      "shortDesc": "Cinco minutos de batalla divertida sin hacer daño",
+      "fullDesc": "Arrugad muchas hojas de papel en bolas suaves y dividíos en dos equipos. Esconded tras los cojines y lanzad a los rivales. Luego recoged todo juntos, compitiendo por ver quién mete antes las bolas en la cesta."
+    },
+    "de": {
+      "title": "Papierschneebälle",
+      "shortDesc": "Fünf Minuten lustige Schlacht, bei der niemand zu Schaden kommt",
+      "fullDesc": "Knülle viele Blätter Papier zu weichen Kugeln und teilt euch in zwei Teams. Versteckt euch hinter Kissen und bewerft die Gegner. Danach räumt ihr gemeinsam auf und wetteifert, wer die Schneebälle schneller in den Korb sammelt."
+    },
+    "fr": {
+      "title": "Boules de neige en papier",
+      "shortDesc": "Cinq minutes de bataille amusante sans aucun dégât",
+      "fullDesc": "Froissez beaucoup de feuilles de papier en boules douces et séparez-vous en deux équipes. Cachez-vous derrière des coussins et lancez sur vos adversaires. Ensuite, rangez ensemble en faisant la course à qui ramassera le plus vite les boules dans le panier."
+    }
+  },
+  "image": "ideas/paperovi-snizhky.jpg",
+  "photo": {
+    "id": "LFOGQrcK2jI",
+    "author": "Kelly Sikkema",
+    "url": "https://unsplash.com/photos/LFOGQrcK2jI"
+  }
+}

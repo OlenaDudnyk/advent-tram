@@ -1,0 +1,55 @@
+{
+  "id": "task_078",
+  "slug": "zoryana-karta",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "stars",
+    "winter"
+  ],
+  "text": {
+    "ua": {
+      "title": "Зоряна карта",
+      "shortDesc": "Знайдіть сузір’я з картою неба в телефоні",
+      "fullDesc": "Оберіть ясний вечір і місце, де видно небо. Відкрийте безкоштовний застосунок із картою зірок і знайдіть хоча б одне сузір’я, наприклад Великого Воза. Розкажіть одне одному, що вам нагадує його форма."
+    },
+    "en": {
+      "title": "Star Map",
+      "shortDesc": "Find constellations with a sky map on your phone",
+      "fullDesc": "Pick a clear evening and a spot where you can see the sky. Open a free star map app and find at least one constellation, such as the Big Dipper. Tell each other what its shape reminds you of."
+    },
+    "pl": {
+      "title": "Mapa gwiazd",
+      "shortDesc": "Znajdźcie gwiazdozbiory z mapą nieba w telefonie",
+      "fullDesc": "Wybierzcie pogodny wieczór i miejsce, z którego widać niebo. Otwórzcie darmową aplikację z mapą gwiazd i znajdźcie choć jeden gwiazdozbiór, na przykład Wielki Wóz. Opowiedzcie sobie, co przypomina wam jego kształt."
+    },
+    "es": {
+      "title": "Mapa de estrellas",
+      "shortDesc": "Encontrad constelaciones con un mapa del cielo en el móvil",
+      "fullDesc": "Elegid una tarde despejada y un lugar donde se vea el cielo. Abrid una aplicación gratuita con mapa de estrellas y encontrad al menos una constelación, por ejemplo la Osa Mayor. Contaos qué os recuerda su forma."
+    },
+    "de": {
+      "title": "Sternenkarte",
+      "shortDesc": "Finde Sternbilder mit einer Himmelskarte auf dem Handy",
+      "fullDesc": "Such dir einen klaren Abend und einen Ort mit freier Sicht auf den Himmel. Öffne eine kostenlose Sternkarten-App und finde mindestens ein Sternbild, zum Beispiel den Großen Wagen. Erzählt einander, woran euch seine Form erinnert."
+    },
+    "fr": {
+      "title": "La carte des étoiles",
+      "shortDesc": "Trouvez des constellations avec une carte du ciel sur le téléphone",
+      "fullDesc": "Choisissez une soirée dégagée et un endroit d'où l'on voit le ciel. Ouvrez une application gratuite de carte des étoiles et trouvez au moins une constellation, par exemple la Grande Ourse. Dites-vous à quoi sa forme vous fait penser."
+    }
+  },
+  "image": "ideas/zoryana-karta.jpg",
+  "photo": {
+    "id": "fwWj5Y1IgQg",
+    "author": "Alessandro Viaro",
+    "url": "https://unsplash.com/photos/pine-trees-covered-with-snow-under-starry-sky-fwWj5Y1IgQg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "task_067",
+  "slug": "zapysky-z-teplymy-slovamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "gift"
+  ],
+  "text": {
+    "ua": {
+      "title": "Записки з теплими словами",
+      "shortDesc": "Сховайте приємні слова для рідних",
+      "fullDesc": "Напишіть кожному члену родини коротку записку про те, за що ви його цінуєте, і сховайте в кишеню куртки, під подушку чи в шухляду зі шкарпетками. Знайти таке посеред буднів особливо приємно."
+    },
+    "en": {
+      "title": "Notes with Warm Words",
+      "shortDesc": "Hide kind words for your loved ones",
+      "fullDesc": "Write each family member a short note about what you value in them and hide it in a jacket pocket, under a pillow or in the sock drawer. Finding one in the middle of an ordinary day is especially lovely."
+    },
+    "pl": {
+      "title": "Liściki z ciepłymi słowami",
+      "shortDesc": "Schowajcie miłe słowa dla bliskich",
+      "fullDesc": "Napiszcie każdemu członkowi rodziny krótki liścik o tym, za co go cenicie, i schowajcie w kieszeni kurtki, pod poduszką lub w szufladzie ze skarpetkami. Znaleźć taki w środku szarego dnia jest szczególnie miło."
+    },
+    "es": {
+      "title": "Notitas con palabras cálidas",
+      "shortDesc": "Esconded palabras bonitas para los vuestros",
+      "fullDesc": "Escribid a cada miembro de la familia una notita breve sobre por qué lo valoráis y escondedla en el bolsillo de su chaqueta, bajo la almohada o en el cajón de los calcetines. Encontrar algo así en mitad de la semana es especialmente agradable."
+    },
+    "de": {
+      "title": "Zettel mit warmen Worten",
+      "shortDesc": "Versteckt liebe Worte für eure Liebsten",
+      "fullDesc": "Schreibe jedem Familienmitglied einen kurzen Zettel darüber, wofür du es schätzt, und verstecke ihn in der Jackentasche, unter dem Kissen oder in der Sockenschublade. So etwas mitten im Alltag zu finden ist besonders schön."
+    },
+    "fr": {
+      "title": "Petits mots chaleureux",
+      "shortDesc": "Cachez de jolis mots pour vos proches",
+      "fullDesc": "Écrivez à chaque membre de la famille un court mot sur ce que vous appréciez chez lui et cachez-le dans la poche de sa veste, sous l'oreiller ou dans le tiroir à chaussettes. Trouver cela en plein milieu de la semaine fait particulièrement plaisir."
+    }
+  },
+  "image": "ideas/zapysky-z-teplymy-slovamy.jpg",
+  "photo": {
+    "id": "PLEEhwLkax4",
+    "author": "Ernesto Boraccesi",
+    "url": "https://unsplash.com/photos/a-blank-card-hangs-on-a-christmas-tree-PLEEhwLkax4"
+  }
+}

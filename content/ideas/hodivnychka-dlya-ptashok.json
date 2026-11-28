@@ -1,0 +1,54 @@
+{
+  "id": "task_044",
+  "slug": "hodivnychka-dlya-ptashok",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "kindness"
+  ],
+  "text": {
+    "ua": {
+      "title": "Годівничка для пташок",
+      "shortDesc": "Маленька їдальня для зимових гостей",
+      "fullDesc": "Змішайте насіння, трохи топленого жиру та вівсянку, набийте в формочку чи шишку й підвісьте на нитці. Потім повісьте на гілку за вікном чи на балконі. Спостерігати, як прилітають пташки, дуже заспокоює."
+    },
+    "en": {
+      "title": "Bird Treat Feeder",
+      "shortDesc": "A tiny dining room for winter visitors",
+      "fullDesc": "Mix seeds, a little melted fat and oats, pack the mixture into a mould or a pine cone and hang it from a string. Then hang it on a branch outside the window or on the balcony. Watching the birds arrive is wonderfully calming."
+    },
+    "pl": {
+      "title": "Kula tłuszczowa dla ptaszków",
+      "shortDesc": "Mała jadalnia dla zimowych gości",
+      "fullDesc": "Wymieszajcie ziarna, odrobinę roztopionego tłuszczu i płatki owsiane, wypełnijcie masą foremkę lub szyszkę i zawieście na sznurku. Potem powieście na gałęzi za oknem albo na balkonie. Obserwowanie, jak przylatują ptaszki, jest bardzo uspokajające."
+    },
+    "es": {
+      "title": "Comedero para pajaritos",
+      "shortDesc": "Un pequeño comedor para los visitantes del invierno",
+      "fullDesc": "Mezclad semillas, un poco de grasa derretida y avena, rellenad un molde o una piña y colgadlo de un hilo. Luego colgadlo de una rama junto a la ventana o en el balcón. Ver llegar a los pajaritos es muy relajante."
+    },
+    "de": {
+      "title": "Vogelfutterstation",
+      "shortDesc": "Eine kleine Kantine für die Wintergäste",
+      "fullDesc": "Mische Samen, etwas geschmolzenes Fett und Haferflocken, fülle alles in eine Form oder einen Zapfen und hänge ihn an einem Faden auf. Häng ihn dann an einen Ast vor dem Fenster oder auf den Balkon. Den Vögeln beim Kommen zuzusehen beruhigt sehr."
+    },
+    "fr": {
+      "title": "Mangeoire pour les petits oiseaux",
+      "shortDesc": "Une petite cantine pour les visiteurs de l'hiver",
+      "fullDesc": "Mélangez des graines, un peu de graisse fondue et des flocons d'avoine, remplissez un moule ou une pomme de pin et suspendez-le à un fil. Accrochez-le ensuite à une branche devant la fenêtre ou au balcon. Regarder les oiseaux arriver est très apaisant."
+    }
+  },
+  "image": "ideas/hodivnychka-dlya-ptashok.jpg",
+  "photo": {
+    "id": "6o5Okc2bIaE",
+    "author": "Lidia Stawinska",
+    "url": "https://unsplash.com/photos/6o5Okc2bIaE"
+  }
+}

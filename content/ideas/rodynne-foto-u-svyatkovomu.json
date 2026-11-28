@@ -1,0 +1,53 @@
+{
+  "id": "task_065",
+  "slug": "rodynne-foto-u-svyatkovomu",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "memory",
+    "tradition"
+  ],
+  "text": {
+    "ua": {
+      "title": "Родинне фото у святковому",
+      "shortDesc": "Один кадр, який згадуватимете",
+      "fullDesc": "Одягніть улюблені светри, шапки чи кумедні окуляри й зробіть кілька спільних фото на таймері. Оберіть найкраще, роздрукуйте й поставте в рамку. Щороку повторюйте, щоб бачити, як змінюєтеся."
+    },
+    "en": {
+      "title": "Festive Family Photo",
+      "shortDesc": "One shot you will remember",
+      "fullDesc": "Put on your favourite sweaters, hats or funny glasses and take a few group photos with a timer. Pick the best one, print it and put it in a frame. Repeat every year to see how you change."
+    },
+    "pl": {
+      "title": "Rodzinne zdjęcie w świątecznych strojach",
+      "shortDesc": "Jedno ujęcie, które będziecie wspominać",
+      "fullDesc": "Włóżcie ulubione swetry, czapki albo zabawne okulary i zróbcie kilka wspólnych zdjęć z samowyzwalaczem. Wybierzcie najlepsze, wydrukujcie i włóżcie w ramkę. Powtarzajcie co roku, by zobaczyć, jak się zmieniacie."
+    },
+    "es": {
+      "title": "Foto familiar de fiesta",
+      "shortDesc": "Una imagen para recordar",
+      "fullDesc": "Poneos vuestros jerséis favoritos, gorros o unas gafas divertidas y haceos varias fotos juntos con el temporizador. Elegid la mejor, imprimidla y ponedla en un marco. Repetidlo cada año para ver cómo vais cambiando."
+    },
+    "de": {
+      "title": "Familienfoto im Festtagsoutfit",
+      "shortDesc": "Ein Bild, an das ihr euch erinnern werdet",
+      "fullDesc": "Zieht eure Lieblingspullover, Mützen oder lustige Brillen an und macht mit dem Selbstauslöser einige gemeinsame Fotos. Sucht das beste aus, druckt es aus und stellt es in einen Rahmen. Wiederholt das jedes Jahr, um zu sehen, wie ihr euch verändert."
+    },
+    "fr": {
+      "title": "Photo de famille en tenue de fête",
+      "shortDesc": "Une image pour vous en souvenir",
+      "fullDesc": "Enfilez vos pulls préférés, des bonnets ou de drôles de lunettes et prenez quelques photos ensemble avec le minuteur. Choisissez la meilleure, imprimez-la et mettez-la dans un cadre. Recommencez chaque année pour voir comme vous changez."
+    }
+  },
+  "image": "ideas/rodynne-foto-u-svyatkovomu.jpg",
+  "photo": {
+    "id": "BEJ-xR-SBfA",
+    "author": "BBiDDac",
+    "url": "https://unsplash.com/photos/BEJ-xR-SBfA"
+  }
+}

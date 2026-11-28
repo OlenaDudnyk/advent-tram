@@ -1,0 +1,56 @@
+{
+  "id": "task_085",
+  "slug": "do-poshtovoyi-skrynky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "walk",
+    "tradition",
+    "kindness"
+  ],
+  "text": {
+    "ua": {
+      "title": "До поштової скриньки",
+      "shortDesc": "Разом віднесіть листівку до скриньки чи пошти",
+      "fullDesc": "Напишіть листівку комусь далекій чи близькій людині і разом пройдіться до найближчої поштової скриньки чи відділення. Дитина сама кидає лист у скриньку. Така неспішна прогулянка з метою додає листу особливого значення."
+    },
+    "en": {
+      "title": "To the Mailbox",
+      "shortDesc": "Walk a postcard to the mailbox or post office together",
+      "fullDesc": "Write a postcard to someone far away or close by, then walk together to the nearest mailbox or post office. Let your child drop the letter in. A slow walk with a purpose makes the letter feel extra special."
+    },
+    "pl": {
+      "title": "Do skrzynki pocztowej",
+      "shortDesc": "Zanieście razem kartkę do skrzynki lub na pocztę",
+      "fullDesc": "Napiszcie kartkę do kogoś bliskiego lub dalekiego i razem przejdźcie się do najbliższej skrzynki pocztowej albo urzędu pocztowego. Dziecko samo wrzuca list do skrzynki. Taki niespieszny spacer z celem nadaje listowi wyjątkowego znaczenia."
+    },
+    "es": {
+      "title": "Hasta el buzón",
+      "shortDesc": "Llevad juntos una postal al buzón o a correos",
+      "fullDesc": "Escribid una postal a alguien, lejano o cercano, y pasead juntos hasta el buzón o la oficina de correos más próxima. Que el niño eche la carta él mismo. Un paseo tranquilo con un propósito da un significado especial a la carta."
+    },
+    "de": {
+      "title": "Zum Briefkasten",
+      "shortDesc": "Bringt eine Postkarte gemeinsam zum Briefkasten oder zur Post",
+      "fullDesc": "Schreibe jemandem, der nah oder fern ist, eine Postkarte und geht gemeinsam zum nächsten Briefkasten oder zur Post. Das Kind wirft den Brief selbst ein. Ein gemütlicher Spaziergang mit einem Ziel gibt dem Brief eine besondere Bedeutung."
+    },
+    "fr": {
+      "title": "Jusqu'à la boîte aux lettres",
+      "shortDesc": "Allez poster ensemble une carte à la boîte ou au bureau de poste",
+      "fullDesc": "Écrivez une carte à une personne proche ou lointaine et allez ensemble jusqu'à la boîte aux lettres ou au bureau de poste le plus proche. C'est l'enfant qui glisse la lettre dans la boîte. Une promenade tranquille avec un but donne à la lettre une valeur particulière."
+    }
+  },
+  "image": "ideas/do-poshtovoyi-skrynky.jpg",
+  "photo": {
+    "id": "y8eJ0__Rfic",
+    "author": "mark wang",
+    "url": "https://unsplash.com/photos/y8eJ0__Rfic"
+  }
+}

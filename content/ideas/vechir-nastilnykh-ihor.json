@@ -1,0 +1,54 @@
+{
+  "id": "task_052",
+  "slug": "vechir-nastilnykh-ihor",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Вечір настільних ігор",
+      "shortDesc": "Улюблена гра, чай і нікуди не поспішати",
+      "fullDesc": "Дістаньте з полиці гру, у яку давно не грали, розкладіть на великому столі та приготуйте чай і перекуски. Не женіться за перемогою: головне посміятися та побути поруч. Якщо хочеться, вибирайте гру по черзі."
+    },
+    "en": {
+      "title": "Board Game Night",
+      "shortDesc": "Favourite game, tea and nowhere to rush",
+      "fullDesc": "Take down a game you have not played in a long time, lay it out on a big table and prepare tea and snacks. Do not chase the win: what matters is laughing and being close. If you like, pick the game in turns."
+    },
+    "pl": {
+      "title": "Wieczór gier planszowych",
+      "shortDesc": "Ulubiona gra, herbata i żadnego pośpiechu",
+      "fullDesc": "Wyciągnijcie z półki grę, w którą dawno nie graliście, rozłóżcie ją na dużym stole i przygotujcie herbatę oraz przekąski. Nie gońcie za zwycięstwem: ważne, by się pośmiać i pobyć razem. Jeśli macie ochotę, wybierajcie grę na zmianę."
+    },
+    "es": {
+      "title": "Tarde de juegos de mesa",
+      "shortDesc": "Vuestro juego favorito, té y sin prisa",
+      "fullDesc": "Sacad de la estantería un juego al que hace tiempo que no jugáis, desplegadlo en una mesa grande y preparad té y algo de picar. No busquéis la victoria: lo importante es reír y estar juntos. Si queréis, elegid el juego por turnos."
+    },
+    "de": {
+      "title": "Brettspielabend",
+      "shortDesc": "Dein Lieblingsspiel, Tee und keine Eile",
+      "fullDesc": "Hol ein Spiel aus dem Regal, das ihr lange nicht gespielt habt, breite es auf einem großen Tisch aus und stell Tee und Knabbereien bereit. Jag nicht dem Sieg hinterher: Hauptsache, ihr lacht und seid zusammen. Wenn ihr wollt, wählt das Spiel abwechselnd aus."
+    },
+    "fr": {
+      "title": "Soirée jeux de société",
+      "shortDesc": "Votre jeu préféré, du thé et rien ne presse",
+      "fullDesc": "Sortez de l'étagère un jeu auquel vous n'avez pas joué depuis longtemps, installez-le sur une grande table et préparez du thé et de quoi grignoter. Ne courez pas après la victoire : l'essentiel est de rire et d'être ensemble. Si vous le souhaitez, choisissez le jeu à tour de rôle."
+    }
+  },
+  "image": "ideas/vechir-nastilnykh-ihor.jpg",
+  "photo": {
+    "id": "XgPf6yNdppI",
+    "author": "Fox & Hyde",
+    "url": "https://unsplash.com/photos/a-group-of-objects-on-a-table-XgPf6yNdppI"
+  }
+}

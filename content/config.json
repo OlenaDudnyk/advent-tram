@@ -1,8 +1,28 @@
 {
-  "languages": ["en", "ua", "pl", "es", "de", "fr"],
-  "durations": [5, 15, 30, 60],
-  "ageGroups": ["kids_3_6", "kids_7_12", "adults", "family"],
-  "categories": ["activity", "heart_deed"],
+  "languages": [
+    "en",
+    "ua",
+    "pl",
+    "es",
+    "de",
+    "fr"
+  ],
+  "durations": [
+    5,
+    15,
+    30,
+    60
+  ],
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "categories": [
+    "activity",
+    "heart_deed"
+  ],
   "limits": {
     "title": 60,
     "shortDesc": 90,
@@ -13,8 +33,20 @@
     "pinterest.com",
     "youtube.com",
     "youtu.be",
-    "wikipedia.org",
-    "bbcgoodfood.com"
+    "bbcgoodfood.com",
+    "secretsanta.in.ua",
+    "postcrossing.com",
+    "klopotenko.com",
+    "standardebooks.org",
+    "wikisource.org"
   ],
-  "pageSize": 24
+  "pageSize": 24,
+  "topics": [
+    "cook",
+    "craft",
+    "game",
+    "cozy",
+    "kind",
+    "outdoor"
+  ]
 }

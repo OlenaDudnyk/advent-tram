@@ -1,0 +1,55 @@
+{
+  "id": "task_083",
+  "slug": "skarb-za-malyunkom",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "walk",
+    "nature"
+  ],
+  "text": {
+    "ua": {
+      "title": "Скарб за малюнком",
+      "shortDesc": "Сховайте маленький скарб і намалюйте до нього карту",
+      "fullDesc": "Один із вас ховає в парку чи дворі маленький скарб, наприклад цукерку або листівку, та малює просту карту з орієнтирами. Інші йдуть за картою й шукають. Потім міняйтеся ролями."
+    },
+    "en": {
+      "title": "Treasure Map",
+      "shortDesc": "Hide a little treasure and draw a map to it",
+      "fullDesc": "One of you hides a little treasure in a park or yard, such as a sweet or a postcard, and draws a simple map with landmarks. The others follow the map and search. Then swap roles."
+    },
+    "pl": {
+      "title": "Skarb z mapą",
+      "shortDesc": "Ukryjcie mały skarb i narysujcie do niego mapę",
+      "fullDesc": "Jedno z was chowa w parku lub na podwórku mały skarb, na przykład cukierek albo pocztówkę, i rysuje prostą mapę z charakterystycznymi punktami. Pozostali idą za mapą i szukają. Potem zamieńcie się rolami."
+    },
+    "es": {
+      "title": "Tesoro con mapa",
+      "shortDesc": "Esconded un pequeño tesoro y dibujad el mapa",
+      "fullDesc": "Uno de vosotros esconde en el parque o el patio un pequeño tesoro, como un caramelo o una postal, y dibuja un mapa sencillo con referencias. Los demás siguen el mapa y buscan. Luego cambiad los papeles."
+    },
+    "de": {
+      "title": "Schatz mit Karte",
+      "shortDesc": "Versteckt einen kleinen Schatz und zeichnet eine Karte dazu",
+      "fullDesc": "Einer von euch versteckt im Park oder Hof einen kleinen Schatz, zum Beispiel ein Bonbon oder eine Karte, und zeichnet eine einfache Karte mit Orientierungspunkten. Die anderen folgen der Karte und suchen. Danach tauscht ihr die Rollen."
+    },
+    "fr": {
+      "title": "Trésor avec une carte",
+      "shortDesc": "Cachez un petit trésor et dessinez la carte",
+      "fullDesc": "L'un de vous cache dans le parc ou la cour un petit trésor, par exemple un bonbon ou une carte, et dessine une carte simple avec des repères. Les autres suivent la carte et cherchent. Ensuite, changez de rôles."
+    }
+  },
+  "image": "ideas/skarb-za-malyunkom.jpg",
+  "photo": {
+    "id": "RFId0_7kep4",
+    "author": "Natalie",
+    "url": "https://unsplash.com/photos/RFId0_7kep4"
+  }
+}

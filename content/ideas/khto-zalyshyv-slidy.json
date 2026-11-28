@@ -1,0 +1,55 @@
+{
+  "id": "task_073",
+  "slug": "khto-zalyshyv-slidy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "nature",
+    "walk"
+  ],
+  "text": {
+    "ua": {
+      "title": "Хто залишив сліди",
+      "shortDesc": "Знайдіть сліди на землі та вгадайте, чиї вони",
+      "fullDesc": "Прогуляйтеся двором чи парком і придивляйтеся до землі: у снігу, грязюці чи на інеї можуть бути сліди птахів, котів, собак. Присядьте, порівняйте розмір і вигадайте історію про того, хто тут пройшов."
+    },
+    "en": {
+      "title": "Who Left the Tracks?",
+      "shortDesc": "Find tracks on the ground and guess whose they are",
+      "fullDesc": "Stroll around the yard or park and look closely at the ground: in snow, mud or frost there may be tracks of birds, cats and dogs. Crouch down, compare the sizes and invent a story about whoever passed by."
+    },
+    "pl": {
+      "title": "Czyje to ślady?",
+      "shortDesc": "Znajdźcie ślady na ziemi i zgadnijcie, do kogo należą",
+      "fullDesc": "Przejdźcie się po podwórku lub parku i przyglądajcie się ziemi: na śniegu, w błocie czy na szronie mogą być ślady ptaków, kotów i psów. Przykucnijcie, porównajcie rozmiary i wymyślcie historię o tym, kto tędy przeszedł."
+    },
+    "es": {
+      "title": "¿Quién dejó las huellas?",
+      "shortDesc": "Buscad huellas en el suelo y adivinad de quién son",
+      "fullDesc": "Pasead por el patio o el parque y mirad bien al suelo: en la nieve, el barro o la escarcha puede haber huellas de pájaros, gatos o perros. Agachaos, comparad el tamaño e inventad una historia sobre quien pasó por aquí."
+    },
+    "de": {
+      "title": "Wer hat die Spuren hinterlassen?",
+      "shortDesc": "Findet Spuren am Boden und ratet, wessen sie sind",
+      "fullDesc": "Spaziere durch den Hof oder Park und schau genau auf den Boden: Im Schnee, im Matsch oder auf Raureif können Spuren von Vögeln, Katzen oder Hunden sein. Geh in die Hocke, vergleicht die Größe und erfindet eine Geschichte über den, der hier vorbeikam."
+    },
+    "fr": {
+      "title": "Qui a laissé ces traces ?",
+      "shortDesc": "Trouvez des traces au sol et devinez à qui elles sont",
+      "fullDesc": "Promenez-vous dans la cour ou le parc et observez bien le sol : dans la neige, la boue ou le givre, il peut y avoir des traces d'oiseaux, de chats ou de chiens. Accroupissez-vous, comparez la taille et inventez une histoire sur celui qui est passé par là."
+    }
+  },
+  "image": "ideas/khto-zalyshyv-slidy.jpg",
+  "photo": {
+    "id": "vJxmMgyjufs",
+    "author": "Tatiana Rudneva",
+    "url": "https://unsplash.com/photos/vJxmMgyjufs"
+  }
+}

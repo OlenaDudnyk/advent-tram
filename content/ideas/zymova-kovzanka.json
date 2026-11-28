@@ -1,0 +1,55 @@
+{
+  "id": "task_086",
+  "slug": "zymova-kovzanka",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "winter",
+    "walk"
+  ],
+  "text": {
+    "ua": {
+      "title": "Зимова ковзанка",
+      "shortDesc": "Покатайтеся на ковзанах і зігрійтеся після цього",
+      "fullDesc": "Вирушайте на місцеву ковзанку: можна на штучний лід чи замерзле озеро в безпечному місці за відповідною погодою. Катайтеся, тримаючись за руки, падайте зі сміхом, а потім погрійтеся гарячим чаєм. Не змагання, а радість руху."
+    },
+    "en": {
+      "title": "Winter Ice Rink",
+      "shortDesc": "Go skating and warm up afterwards",
+      "fullDesc": "Head to a local ice rink: an artificial one, or a frozen lake in a safe place when the weather allows. Skate holding hands, fall down laughing, then warm up with hot tea. Not a competition, but the joy of moving."
+    },
+    "pl": {
+      "title": "Zimowe lodowisko",
+      "shortDesc": "Pojeździjcie na łyżwach i ogrzejcie się potem",
+      "fullDesc": "Wybierzcie się na lokalne lodowisko: sztuczne albo zamarznięte jezioro w bezpiecznym miejscu, jeśli pozwala na to pogoda. Jeźdźcie, trzymając się za ręce, przewracajcie się ze śmiechem, a potem rozgrzejcie się gorącą herbatą. To nie zawody, tylko radość z ruchu."
+    },
+    "es": {
+      "title": "Pista de patinaje de invierno",
+      "shortDesc": "Patinad sobre hielo y entrad en calor después",
+      "fullDesc": "Id a la pista de patinaje de vuestra zona: puede ser hielo artificial o un lago helado en un lugar seguro y con el tiempo adecuado. Patinad de la mano, caeos entre risas y luego calentaos con un té caliente. No es una competición, sino la alegría de moverse."
+    },
+    "de": {
+      "title": "Winterliche Eisbahn",
+      "shortDesc": "Lauft Schlittschuh und wärmt euch danach auf",
+      "fullDesc": "Geht zur örtlichen Eisbahn: Das kann Kunsteis sein oder ein zugefrorener See an einem sicheren Ort bei passendem Wetter. Lauft Hand in Hand, fallt lachend hin und wärmt euch danach mit heißem Tee auf. Kein Wettbewerb, sondern die Freude an der Bewegung."
+    },
+    "fr": {
+      "title": "Patinoire d'hiver",
+      "shortDesc": "Patinez sur la glace puis réchauffez-vous",
+      "fullDesc": "Rendez-vous à la patinoire de votre région : ce peut être de la glace artificielle ou un lac gelé dans un endroit sûr, par temps adapté. Patinez en vous tenant la main, tombez en riant, puis réchauffez-vous avec un thé chaud. Pas de compétition, juste la joie de bouger."
+    }
+  },
+  "image": "ideas/zymova-kovzanka.jpg",
+  "photo": {
+    "id": "ky3fP3nphrM",
+    "author": "Valentin",
+    "url": "https://unsplash.com/photos/people-ice-skating-at-night-with-string-lights-ky3fP3nphrM"
+  }
+}

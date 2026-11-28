@@ -1,0 +1,56 @@
+{
+  "id": "task_072",
+  "slug": "misyats-nad-dakhamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "stars",
+    "winter"
+  ],
+  "text": {
+    "ua": {
+      "title": "Місяць над дахами",
+      "shortDesc": "Знайдіть місяць і подивіться, який він сьогодні",
+      "fullDesc": "Вийдіть надвір і пошукайте на небі місяць. Придивіться: він повний, схожий на тоненький серпик чи ховається за хмарами? Розкажіть одне одному, що він вам нагадує, і загадайте тихе бажання на завтра."
+    },
+    "en": {
+      "title": "Moon over the Rooftops",
+      "shortDesc": "Find the moon and see how it looks tonight",
+      "fullDesc": "Go outside and look for the moon in the sky. Take a good look: is it full, a thin crescent, or hiding behind clouds? Tell each other what it reminds you of and make a quiet wish for tomorrow."
+    },
+    "pl": {
+      "title": "Księżyc nad dachami",
+      "shortDesc": "Znajdźcie księżyc i zobaczcie, jaki jest dziś",
+      "fullDesc": "Wyjdźcie na dwór i poszukajcie na niebie księżyca. Przyjrzyjcie się: czy jest w pełni, czy to cienki rożek, czy chowa się za chmurami? Opowiedzcie sobie, co wam przypomina, i pomyślcie ciche życzenie na jutro."
+    },
+    "es": {
+      "title": "La luna sobre los tejados",
+      "shortDesc": "Buscad la luna y mirad cómo es hoy",
+      "fullDesc": "Salid fuera y buscad la luna en el cielo. Fijaos: ¿está llena, parece una fina hoz o se esconde tras las nubes? Contaos qué os recuerda y pedid un deseo tranquilo para mañana."
+    },
+    "de": {
+      "title": "Mond über den Dächern",
+      "shortDesc": "Such den Mond und schau, wie er heute aussieht",
+      "fullDesc": "Geh nach draußen und such den Mond am Himmel. Schau genau hin: Ist er voll, sieht er wie eine dünne Sichel aus oder versteckt er sich hinter Wolken? Erzählt einander, woran er euch erinnert, und wünscht euch still etwas für morgen."
+    },
+    "fr": {
+      "title": "La lune au-dessus des toits",
+      "shortDesc": "Cherchez la lune et regardez comment elle est ce soir",
+      "fullDesc": "Sortez et cherchez la lune dans le ciel. Observez : est-elle pleine, ressemble-t-elle à un fin croissant ou se cache-t-elle derrière les nuages ? Dites-vous à quoi elle vous fait penser et faites un vœu tranquille pour demain."
+    }
+  },
+  "image": "ideas/misyats-nad-dakhamy.jpg",
+  "photo": {
+    "id": "thdQT7OgAbc",
+    "author": "Luke Headland",
+    "url": "https://unsplash.com/photos/thdQT7OgAbc"
+  }
+}

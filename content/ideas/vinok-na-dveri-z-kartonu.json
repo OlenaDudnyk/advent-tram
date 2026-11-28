@@ -1,0 +1,54 @@
+{
+  "id": "task_041",
+  "slug": "vinok-na-dveri-z-kartonu",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Вінок на двері з картону",
+      "shortDesc": "Зелений круг, що вітатиме гостей",
+      "fullDesc": "Виріжте з картону кільце, а з зеленого паперу чи тканини багато листочків. Наклейте їх шарами, а ще можна приклеїти справжні гілочки хвої. Додайте червоні ягідки з паперу й стрічку. Вінок зустрічатиме кожного, хто приходить до вас."
+    },
+    "en": {
+      "title": "Cardboard Door Wreath",
+      "shortDesc": "A green circle to welcome guests",
+      "fullDesc": "Cut a ring from cardboard and lots of leaves from green paper or fabric. Glue them on in layers, and you can add real fir sprigs too. Add red paper berries and a ribbon. The wreath will greet everyone who comes to your door."
+    },
+    "pl": {
+      "title": "Wieniec na drzwi z kartonu",
+      "shortDesc": "Zielony krąg, który powita gości",
+      "fullDesc": "Wytnijcie z kartonu kółko, a z zielonego papieru lub materiału mnóstwo listków. Naklejajcie je warstwami, można też dokleić prawdziwe gałązki świerku. Dodajcie czerwone papierowe jagódki i wstążkę. Wieniec powita każdego, kto do was przyjdzie."
+    },
+    "es": {
+      "title": "Corona de cartón para la puerta",
+      "shortDesc": "Un círculo verde que dará la bienvenida a los invitados",
+      "fullDesc": "Recortad un anillo de cartón y muchas hojitas de papel o tela verde. Pegadlas en capas, y podéis pegar también ramitas de abeto de verdad. Añadid bayas rojas de papel y una cinta. La corona recibirá a todo el que venga a vuestra casa."
+    },
+    "de": {
+      "title": "Türkranz aus Karton",
+      "shortDesc": "Ein grüner Kreis, der Gäste willkommen heißt",
+      "fullDesc": "Schneide aus Karton einen Ring und aus grünem Papier oder Stoff viele Blättchen aus. Klebe sie in Schichten auf, und du kannst auch echte Tannenzweige ankleben. Ergänze rote Beeren aus Papier und ein Band. Der Kranz begrüßt jeden, der zu euch kommt."
+    },
+    "fr": {
+      "title": "Couronne de porte en carton",
+      "shortDesc": "Un cercle vert qui accueillera vos invités",
+      "fullDesc": "Découpez un anneau dans du carton et beaucoup de petites feuilles dans du papier ou du tissu vert. Collez-les en couches, et vous pouvez aussi coller de vraies branches de sapin. Ajoutez des baies rouges en papier et un ruban. La couronne accueillera tous ceux qui viennent chez vous."
+    }
+  },
+  "image": "ideas/vinok-na-dveri-z-kartonu.jpg",
+  "photo": {
+    "id": "e9jV1ZyrOmg",
+    "author": "Erwan Hesry",
+    "url": "https://unsplash.com/photos/green-and-brown-christmas-wreath-e9jV1ZyrOmg"
+  }
+}

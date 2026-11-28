@@ -1,0 +1,66 @@
+{
+  "id": "task_031",
+  "slug": "domashniy-chay-zi-spetsiyamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "kitchen",
+    "cozy"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Чай масала зі спеціями — Євген Клопотенко",
+        "url": "https://klopotenko.com/smachnyj-ta-aromatnyj-reczept-zigrivayuchogo-chayu-masala/"
+      },
+      {
+        "text": "Безалкогольний глінтвейн — Євген Клопотенко",
+        "url": "https://klopotenko.com/bezalkogolnyj-glintvejn/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Домашній чай зі спеціями",
+      "shortDesc": "Складіть власну суміш і заваріть кухоль тепла",
+      "fullDesc": "Покладіть у банку шматочки сушеного яблука, апельсинову цедру, корицю й гвоздику, а потім заваріть по ложці в кухлях. Спробуйте, чим пахне суміш, і вигадайте їй назву. Решту залиште на інші зимові вечори."
+    },
+    "en": {
+      "title": "Homemade Spiced Tea",
+      "shortDesc": "Blend your own mix and brew a mug of warmth",
+      "fullDesc": "Put pieces of dried apple, orange zest, cinnamon and cloves into a jar, then brew a spoonful in each mug. Notice what the blend smells like and invent a name for it. Save the rest for other winter evenings."
+    },
+    "pl": {
+      "title": "Domowa herbata z przyprawami",
+      "shortDesc": "Skomponujcie własną mieszankę i zaparzcie kubek ciepła",
+      "fullDesc": "Włóżcie do słoika kawałki suszonego jabłka, skórkę pomarańczy, cynamon i goździki, a potem zaparzcie po łyżce w kubkach. Powąchajcie, czym pachnie mieszanka, i wymyślcie jej nazwę. Resztę zostawcie na inne zimowe wieczory."
+    },
+    "es": {
+      "title": "Té casero con especias",
+      "shortDesc": "Preparad vuestra mezcla y tomad una taza de calidez",
+      "fullDesc": "Poned en un tarro trocitos de manzana seca, cáscara de naranja, canela y clavo, y luego preparad una cucharada en cada taza. Probad a qué huele la mezcla e inventadle un nombre. Guardad el resto para otras tardes de invierno."
+    },
+    "de": {
+      "title": "Hausgemachter Gewürztee",
+      "shortDesc": "Mische deine eigene Sorte und brühe eine Tasse Wärme auf",
+      "fullDesc": "Gib Stücke von getrocknetem Apfel, Orangenschale, Zimt und Nelken in ein Glas und brühe dann je einen Löffel in den Tassen auf. Riech, wie die Mischung duftet, und denk dir einen Namen für sie aus. Den Rest hebst du für andere Winterabende auf."
+    },
+    "fr": {
+      "title": "Thé maison aux épices",
+      "shortDesc": "Composez votre mélange et préparez une tasse de chaleur",
+      "fullDesc": "Mettez dans un bocal des morceaux de pomme séchée, du zeste d'orange, de la cannelle et du clou de girofle, puis infusez une cuillère dans chaque tasse. Sentez le parfum du mélange et trouvez-lui un nom. Gardez le reste pour d'autres soirées d'hiver."
+    }
+  },
+  "image": "ideas/domashniy-chay-zi-spetsiyamy.jpg",
+  "photo": {
+    "id": "7AWTCfzqPrw",
+    "author": "Serhii Kalyn",
+    "url": "https://unsplash.com/photos/7AWTCfzqPrw"
+  }
+}

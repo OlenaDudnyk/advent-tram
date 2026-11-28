@@ -11,6 +11,7 @@ import type {
   TaskText,
 } from '../models';
 
+import { dailySeed, interleaveByTopic } from './interleave';
 import { StorageService } from './storage.service';
 
 @Injectable({
@@ -19,6 +20,9 @@ import { StorageService } from './storage.service';
 export class TasksService {
   private http = inject(HttpClient);
   private storageService = inject(StorageService);
+
+  /** Seed for the deck order (changes daily). Set to null to keep the file order. */
+  orderSeed: string | null = dailySeed();
 
   private allTasks = signal<Task[]>([]);
   private isLoaded = signal(false);
@@ -138,9 +142,10 @@ export class TasksService {
     }
 
     const isSaved = (task: Task): boolean => this.storageService.isTaskSaved(task.id);
+    // different kinds of ideas alternate (no recipe after recipe, no craft after craft); saved ones come last
     return [
-      ...filtered.filter((task) => !isSaved(task)),
-      ...filtered.filter(isSaved),
+      ...interleaveByTopic(filtered.filter((task) => !isSaved(task)), this.orderSeed),
+      ...interleaveByTopic(filtered.filter(isSaved), this.orderSeed),
     ].map((task) => this.localize(task));
   }
 

@@ -1,0 +1,59 @@
+{
+  "id": "task_114",
+  "slug": "yalynka-z-vidbytka-ruky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "memory"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/905505068861082647/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Ялинка з відбитка руки",
+      "shortDesc": "Сімейна пам’ятка з долоньок, пальчиків чи ніжок",
+      "fullDesc": "Відбийте фарбою на картоні долоньки чи ніжки зеленим, щоб вийшла ялинка, а зверху додайте зірку. Пальчикові відбитки стануть кулями. Підпишіть імена та дату й збережіть як пам’ять на довгі роки."
+    },
+    "en": {
+      "title": "Handprint Tree",
+      "shortDesc": "A family keepsake from palms, fingers or feet",
+      "fullDesc": "Press palms or feet in green paint on cardboard to make a tree, and add a star on top. Fingerprints become baubles. Write the names and date and keep it as a memory for many years."
+    },
+    "pl": {
+      "title": "Choinka z odbitych rączek",
+      "shortDesc": "Rodzinna pamiątka z dłoni, paluszków lub stópek",
+      "fullDesc": "Odbijcie farbą na kartonie dłonie lub stopy w kolorze zielonym, aby powstała choinka, a na czubku dodajcie gwiazdkę. Odciski palców staną się bombkami. Podpiszcie imiona i datę i zachowajcie jako pamiątkę na długie lata."
+    },
+    "es": {
+      "title": "Árbol con huellas de manos",
+      "shortDesc": "Un recuerdo familiar con manitas, deditos o piececitos",
+      "fullDesc": "Estampad con pintura verde manitas o piececitos sobre cartulina para formar un árbol y añadid una estrella arriba. Las huellas de dedos serán las bolas. Escribid los nombres y la fecha y guardadlo como recuerdo para muchos años."
+    },
+    "de": {
+      "title": "Tannenbaum aus Handabdrücken",
+      "shortDesc": "Ein Familienandenken aus Händchen, Fingerchen oder Füßchen",
+      "fullDesc": "Drucke mit grüner Farbe Händchen oder Füßchen auf Karton, sodass ein Tannenbaum entsteht, und füge oben einen Stern hinzu. Fingerabdrücke werden zu Kugeln. Schreibe Namen und Datum dazu und bewahre es als Erinnerung für viele Jahre auf."
+    },
+    "fr": {
+      "title": "Sapin en empreintes de mains",
+      "shortDesc": "Un souvenir de famille avec des mains, des doigts ou des pieds",
+      "fullDesc": "Imprimez à la peinture verte des mains ou des pieds sur du carton pour former un sapin et ajoutez une étoile au sommet. Les empreintes de doigts deviendront les boules. Écrivez les prénoms et la date et gardez-le comme souvenir pour de longues années."
+    }
+  },
+  "image": "ideas/yalynka-z-vidbytka-ruky.jpg",
+  "photo": {
+    "id": "7yi4zptXB_s",
+    "author": "Brandon Prajogo",
+    "url": "https://unsplash.com/photos/colorful-handprints-on-white-paper-with-a-hand-pressing-down-7yi4zptXB_s"
+  }
+}

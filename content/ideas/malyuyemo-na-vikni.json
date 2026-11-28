@@ -1,0 +1,64 @@
+{
+  "id": "task_039",
+  "slug": "malyuyemo-na-vikni",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "list": {
+    "kind": "links",
+    "items": [
+      "Фарби для вікон — яскраві й легко змиваються",
+      "Густа гуаш із краплею мила — підійде для малюків",
+      "Піна для гоління — «сніг» на склі, можна малювати пальцем",
+      "Спрей-«сніг» і трафарет із паперу",
+      "Губка чи ватна паличка — відбитки та крапки"
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Малюємо на вікні",
+      "shortDesc": "Зимові візерунки, які легко змити",
+      "fullDesc": "Малюйте на склі фарбами для вікон, густою гуашшю з краплею мила, пінкою для гоління або фарбою-спреєм зі сніжним ефектом. Можна обвести шаблон, наколоти візерунок губкою чи пальцями або зробити трафарет із паперу. Намалюйте сніжинки, будиночки, зірки й оленів. Усе змивається водою."
+    },
+    "en": {
+      "title": "Window Painting",
+      "shortDesc": "Winter patterns that wash off easily",
+      "fullDesc": "Paint on the glass with window paints, thick gouache with a drop of soap, shaving foam or snow-effect spray. You can trace a template, dab a pattern with a sponge or fingers, or make a paper stencil. Draw snowflakes, little houses, stars and reindeer. It all washes off with water."
+    },
+    "pl": {
+      "title": "Malowanie na oknie",
+      "shortDesc": "Zimowe wzory, które łatwo zmyć",
+      "fullDesc": "Malujcie na szkle farbami do okien, gęstą gwaszą z kroplą mydła, pianką do golenia albo sprayem o efekcie śniegu. Możecie obrysować szablon, odbić wzór gąbką lub palcami albo zrobić papierowy szablon. Narysujcie płatki śniegu, domki, gwiazdki i renifery. Wszystko zmywa się wodą."
+    },
+    "es": {
+      "title": "Dibujamos en la ventana",
+      "shortDesc": "Dibujos de invierno fáciles de quitar",
+      "fullDesc": "Pintad en el cristal con pinturas para ventanas, gouache espeso con una gota de jabón, espuma de afeitar o pintura en spray efecto nieve. Podéis seguir una plantilla, estampar un dibujo con esponja o con los dedos, o hacer una plantilla de papel. Dibujad copos, casitas, estrellas y renos. Todo se quita con agua."
+    },
+    "de": {
+      "title": "Fensterbilder malen",
+      "shortDesc": "Winterliche Muster, die sich leicht abwaschen lassen",
+      "fullDesc": "Male mit Fensterfarben, dickem Gouache mit einem Tropfen Seife, Rasierschaum oder Schneespray auf Glas. Du kannst eine Vorlage nachziehen, ein Muster mit Schwamm oder Fingern tupfen oder eine Schablone aus Papier machen. Male Schneeflocken, Häuschen, Sterne und Rentiere. Alles lässt sich mit Wasser abwaschen."
+    },
+    "fr": {
+      "title": "On dessine sur la vitre",
+      "shortDesc": "Des motifs d'hiver faciles à effacer",
+      "fullDesc": "Dessinez sur la vitre avec de la peinture pour fenêtres, de la gouache épaisse avec une goutte de savon, de la mousse à raser ou de la peinture en spray effet neige. Vous pouvez suivre un modèle, tamponner un motif à l'éponge ou aux doigts, ou faire un pochoir en papier. Dessinez des flocons, des maisons, des étoiles et des rennes. Tout s'enlève à l'eau."
+    }
+  },
+  "image": "ideas/malyuyemo-na-vikni.jpg",
+  "photo": {
+    "id": "hSPVuakrJqs",
+    "author": "Kelly Sikkema",
+    "url": "https://unsplash.com/photos/hSPVuakrJqs"
+  }
+}

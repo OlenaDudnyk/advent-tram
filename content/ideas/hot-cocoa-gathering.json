@@ -12,7 +12,10 @@
     "family"
   ],
   "image": "ideas/hot-cocoa-gathering.jpg",
-  "tags": [],
+  "tags": [
+    "kitchen",
+    "cozy"
+  ],
   "text": {
     "en": {
       "title": "Hot cocoa gathering",
@@ -49,5 +52,19 @@
     "id": "z4RgJD-UQSc",
     "author": "Sixteen Miles Out",
     "url": "https://unsplash.com/photos/a-cup-of-hot-chocolate-and-marshmallows-on-a-cutting-board-z4RgJD-UQSc"
+  },
+  "topic": "cook",
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Easy chocolate truffles — BBC Good Food (до какао)",
+        "url": "https://www.bbcgoodfood.com/recipes/easy-chocolate-truffles"
+      },
+      {
+        "text": "Чай масала — Євген Клопотенко (теплий напій зі спеціями)",
+        "url": "https://klopotenko.com/smachnyj-ta-aromatnyj-reczept-zigrivayuchogo-chayu-masala/"
+      }
+    ]
   }
 }

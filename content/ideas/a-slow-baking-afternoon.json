@@ -12,7 +12,10 @@
     "family"
   ],
   "image": "ideas/a-slow-baking-afternoon.jpg",
-  "tags": [],
+  "tags": [
+    "baking",
+    "kitchen"
+  ],
   "inspiration": {
     "url": "https://www.youtube.com/results?search_query=easy+christmas+baking+recipes"
   },
@@ -52,5 +55,19 @@
     "id": "cZaUWl1Lse4",
     "author": "Diliara Garifullina",
     "url": "https://unsplash.com/photos/cZaUWl1Lse4"
+  },
+  "topic": "cook",
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Булочки з корицею — Євген Клопотенко",
+        "url": "https://klopotenko.com/drizhdzhovi-bulochky-z-koryczeyu-za-reczeptom-yevgena-klopotenka/"
+      },
+      {
+        "text": "Домашній хліб — Євген Клопотенко",
+        "url": "https://klopotenko.com/domashniy-hlib/"
+      }
+    ]
   }
 }

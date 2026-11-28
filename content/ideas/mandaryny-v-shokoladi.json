@@ -1,0 +1,63 @@
+{
+  "id": "task_032",
+  "slug": "mandaryny-v-shokoladi",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "kitchen",
+    "gift"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Easy chocolate truffles — BBC Good Food (для техніки розтоплення шоколаду)",
+        "url": "https://www.bbcgoodfood.com/recipes/easy-chocolate-truffles"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Мандарини в шоколаді",
+      "shortDesc": "Солодка кислинка під тонким шоколадним шаром",
+      "fullDesc": "Розтопіть на водяній бані шоколад, очистіть мандарини й розділіть на часточки та підсушіть їх серветкою. Занурте часточки в шоколад до половини й викладіть на пергамент. Дайте застигнути в холодильнику. Дорослі розтоплюють шоколад, діти занурюють і прикрашають кокосовою стружкою чи горіхами."
+    },
+    "en": {
+      "title": "Chocolate Tangerines",
+      "shortDesc": "Sweet tang under a thin layer of chocolate",
+      "fullDesc": "Melt chocolate in a double boiler, peel the tangerines, split them into segments and pat them dry with a napkin. Dip the segments halfway into the chocolate and place on parchment. Let them set in the fridge. Grown-ups melt the chocolate, children dip and decorate with coconut or nuts."
+    },
+    "pl": {
+      "title": "Mandarynki w czekoladzie",
+      "shortDesc": "Słodka kwaskowatość pod cienką warstwą czekolady",
+      "fullDesc": "Rozpuśćcie czekoladę w kąpieli wodnej, obierzcie mandarynki, podzielcie na cząstki i osuszcie je serwetką. Zanurzcie cząstki do połowy w czekoladzie i połóżcie na papierze do pieczenia. Dajcie stężeć w lodówce. Dorośli rozpuszczają czekoladę, a dzieci zanurzają i dekorują wiórkami kokosowymi lub orzechami."
+    },
+    "es": {
+      "title": "Mandarinas con chocolate",
+      "shortDesc": "Dulce acidez bajo una fina capa de chocolate",
+      "fullDesc": "Derretid chocolate al baño maría, pelad las mandarinas, separad los gajos y secadlos con una servilleta. Sumergid los gajos hasta la mitad en el chocolate y colocadlos sobre papel de horno. Dejad que cuajen en la nevera. Los adultos derriten el chocolate; los niños sumergen y decoran con coco rallado o frutos secos."
+    },
+    "de": {
+      "title": "Mandarinen in Schokolade",
+      "shortDesc": "Süße Säure unter einer dünnen Schokoladenschicht",
+      "fullDesc": "Schmelze Schokolade im Wasserbad, schäle Mandarinen, teile sie in Segmente und tupfe sie mit einer Serviette trocken. Tauche die Segmente zur Hälfte in die Schokolade und lege sie auf Backpapier. Lass sie im Kühlschrank fest werden. Erwachsene schmelzen die Schokolade, Kinder tauchen und verzieren mit Kokosraspeln oder Nüssen."
+    },
+    "fr": {
+      "title": "Mandarines au chocolat",
+      "shortDesc": "Une douce acidité sous une fine couche de chocolat",
+      "fullDesc": "Faites fondre du chocolat au bain-marie, épluchez les mandarines, séparez les quartiers et séchez-les avec une serviette. Trempez les quartiers à moitié dans le chocolat et posez-les sur du papier cuisson. Laissez durcir au réfrigérateur. Les adultes font fondre le chocolat, les enfants trempent et décorent avec de la noix de coco râpée ou des noix."
+    }
+  },
+  "image": "ideas/mandaryny-v-shokoladi.jpg",
+  "photo": {
+    "id": "AMnyEZx66E0",
+    "author": "Andrea Riezzo",
+    "url": "https://unsplash.com/photos/AMnyEZx66E0"
+  }
+}

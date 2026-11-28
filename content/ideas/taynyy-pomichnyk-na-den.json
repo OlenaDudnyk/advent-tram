@@ -1,0 +1,53 @@
+{
+  "id": "task_068",
+  "slug": "taynyy-pomichnyk-na-den",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness"
+  ],
+  "text": {
+    "ua": {
+      "title": "Тайний помічник на день",
+      "shortDesc": "Кожен знає, кому сьогодні потай робить приємне",
+      "fullDesc": "Уранці кожен тягне записку з іменем члена родини. Протягом дня зробіть для цієї людини щось приємне, не розкриваючи себе: застеліть ліжко, помийте посуд, залиште записку чи приготуйте чай. Увечері вгадайте, хто був вашим помічником."
+    },
+    "en": {
+      "title": "Secret Helper for a Day",
+      "shortDesc": "Everyone secretly does something nice for one person",
+      "fullDesc": "In the morning, everyone draws a slip with a family member's name. During the day, do something nice for that person without revealing yourself: make their bed, wash the dishes, leave a note or make tea. In the evening, guess who your helper was."
+    },
+    "pl": {
+      "title": "Tajny pomocnik na jeden dzień",
+      "shortDesc": "Każdy po cichu robi komuś miłą rzecz",
+      "fullDesc": "Rano każdy losuje karteczkę z imieniem członka rodziny. W ciągu dnia zróbcie dla tej osoby coś miłego, nie zdradzając się: pościelcie łóżko, pozmywajcie, zostawcie liścik albo zaparzcie herbatę. Wieczorem odgadnijcie, kto był waszym pomocnikiem."
+    },
+    "es": {
+      "title": "Ayudante secreto del día",
+      "shortDesc": "Cada uno sabe a quién hará un favor en secreto hoy",
+      "fullDesc": "Por la mañana cada uno saca una nota con el nombre de un miembro de la familia. Durante el día haced algo agradable por esa persona sin descubriros: hacer la cama, fregar los platos, dejar una nota o preparar un té. Por la noche adivinad quién fue vuestro ayudante."
+    },
+    "de": {
+      "title": "Heimlicher Helfer für einen Tag",
+      "shortDesc": "Jeder weiß, wem er heute heimlich etwas Gutes tut",
+      "fullDesc": "Am Morgen zieht jeder einen Zettel mit dem Namen eines Familienmitglieds. Tu im Laufe des Tages etwas Nettes für diese Person, ohne dich zu verraten: das Bett machen, abwaschen, eine Notiz hinterlassen oder Tee kochen. Am Abend ratet ihr, wer euer Helfer war."
+    },
+    "fr": {
+      "title": "Aide secret du jour",
+      "shortDesc": "Chacun sait à qui il fait aujourd'hui une gentillesse en cachette",
+      "fullDesc": "Le matin, chacun tire un papier avec le nom d'un membre de la famille. Dans la journée, faites quelque chose de gentil pour cette personne sans vous dévoiler : faire le lit, laver la vaisselle, laisser un mot ou préparer un thé. Le soir, devinez qui était votre aide."
+    }
+  },
+  "image": "ideas/taynyy-pomichnyk-na-den.jpg",
+  "photo": {
+    "id": "Ar9xZN7yF8Q",
+    "author": "Olesia Buiar",
+    "url": "https://unsplash.com/photos/four-brown-boxes-Ar9xZN7yF8Q"
+  }
+}

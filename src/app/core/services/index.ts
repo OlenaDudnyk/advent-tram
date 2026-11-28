@@ -8,3 +8,4 @@ export * from './seo.service';
 export * from './app-update.service';
 export * from './layout.service';
 export * from './install.service';
+export * from './interleave';

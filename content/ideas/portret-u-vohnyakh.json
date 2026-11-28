@@ -1,0 +1,55 @@
+{
+  "id": "task_080",
+  "slug": "portret-u-vohnyakh",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "photo",
+    "lights"
+  ],
+  "text": {
+    "ua": {
+      "title": "Портрет у вогнях",
+      "shortDesc": "Сфотографуйте одне одного на тлі святкових вогнів",
+      "fullDesc": "Знайдіть місце з гірляндами чи вогнями вітрин. Станьте так, щоб вогні були позаду, і по черзі фотографуйте одне одного. Розмиті яскраві плями на фото виглядають чарівно, навіть без складної техніки."
+    },
+    "en": {
+      "title": "Portrait in Lights",
+      "shortDesc": "Photograph each other against the festive lights",
+      "fullDesc": "Find a spot with string lights or shop-window lights. Stand with the lights behind you and take turns photographing each other. The blurry bright blobs in the photo look magical, even without any fancy gear."
+    },
+    "pl": {
+      "title": "Portret w światełkach",
+      "shortDesc": "Zróbcie sobie zdjęcia na tle świątecznych świateł",
+      "fullDesc": "Znajdźcie miejsce z lampkami albo światłami wystaw. Stańcie tak, by światełka były za wami, i fotografujcie się nawzajem po kolei. Rozmyte jasne plamy na zdjęciu wyglądają czarująco, nawet bez skomplikowanego sprzętu."
+    },
+    "es": {
+      "title": "Retrato entre luces",
+      "shortDesc": "Fotografiaos con las luces de las fiestas de fondo",
+      "fullDesc": "Buscad un lugar con guirnaldas o con las luces de los escaparates. Colocaos con las luces detrás y fotografiaos por turnos. Las manchas de luz borrosas y brillantes quedan mágicas en la foto, incluso sin técnica complicada."
+    },
+    "de": {
+      "title": "Porträt im Lichterglanz",
+      "shortDesc": "Fotografiert einander vor festlichen Lichtern",
+      "fullDesc": "Such einen Ort mit Lichterketten oder beleuchteten Schaufenstern. Stellt euch so hin, dass die Lichter hinter euch sind, und fotografiert einander abwechselnd. Die verschwommenen, leuchtenden Flecken sehen auf dem Foto zauberhaft aus, auch ohne komplizierte Technik."
+    },
+    "fr": {
+      "title": "Portrait dans les lumières",
+      "shortDesc": "Photographiez-vous devant les lumières de fête",
+      "fullDesc": "Trouvez un endroit avec des guirlandes ou des vitrines illuminées. Placez-vous de façon que les lumières soient derrière vous et photographiez-vous à tour de rôle. Les taches lumineuses floues sur la photo sont magiques, même sans technique compliquée."
+    }
+  },
+  "image": "ideas/portret-u-vohnyakh.jpg",
+  "photo": {
+    "id": "lHu6SF2Uar0",
+    "author": "Thalia Ruiz",
+    "url": "https://unsplash.com/photos/lHu6SF2Uar0"
+  }
+}

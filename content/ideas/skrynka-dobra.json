@@ -1,0 +1,54 @@
+{
+  "id": "task_070",
+  "slug": "skrynka-dobra",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "gift"
+  ],
+  "text": {
+    "ua": {
+      "title": "Скринька добра",
+      "shortDesc": "Зберіть речі, які можна подарувати іншим",
+      "fullDesc": "Разом перегляньте іграшки, книжки й теплі речі, якими ви вже не користуєтеся. Акуратно відберіть те, що ще може служити, та складіть у коробку для тих, кому це потрібно. Діти вчаться ділитися без жалю."
+    },
+    "en": {
+      "title": "Box of Kindness",
+      "shortDesc": "Gather things you can give to others",
+      "fullDesc": "Go through toys, books and warm clothes you no longer use. Carefully pick out what can still be of use and pack it in a box for those who need it. Children learn to share without regret."
+    },
+    "pl": {
+      "title": "Pudełko dobra",
+      "shortDesc": "Zbierzcie rzeczy, które można podarować innym",
+      "fullDesc": "Przejrzyjcie razem zabawki, książki i ciepłe ubrania, z których już nie korzystacie. Starannie wybierzcie to, co jeszcze może służyć, i zapakujcie do pudła dla tych, którzy tego potrzebują. Dzieci uczą się dzielić bez żalu."
+    },
+    "es": {
+      "title": "Caja de la bondad",
+      "shortDesc": "Reunid cosas que se pueden regalar a otros",
+      "fullDesc": "Revisad juntos los juguetes, libros y ropa de abrigo que ya no usáis. Elegid con cuidado lo que todavía puede servir y colocadlo en una caja para quienes lo necesitan. Los niños aprenden a compartir sin pena."
+    },
+    "de": {
+      "title": "Kiste der Güte",
+      "shortDesc": "Sammelt Dinge, die ihr anderen schenken könnt",
+      "fullDesc": "Seht gemeinsam Spielzeug, Bücher und warme Sachen durch, die ihr nicht mehr benutzt. Such sorgfältig aus, was noch nützlich sein kann, und leg es in eine Kiste für die, die es brauchen. Kinder lernen, ohne Bedauern zu teilen."
+    },
+    "fr": {
+      "title": "La boîte de bonté",
+      "shortDesc": "Rassemblez des choses que vous pouvez donner à d'autres",
+      "fullDesc": "Passez en revue ensemble les jouets, les livres et les vêtements chauds que vous n'utilisez plus. Choisissez soigneusement ce qui peut encore servir et rangez-le dans une boîte pour ceux qui en ont besoin. Les enfants apprennent à partager sans regret."
+    }
+  },
+  "image": "ideas/skrynka-dobra.jpg",
+  "photo": {
+    "id": "mIWS6na7Wrc",
+    "author": "Michael Wyatt",
+    "url": "https://unsplash.com/photos/mIWS6na7Wrc"
+  }
+}

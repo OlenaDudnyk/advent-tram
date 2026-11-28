@@ -43,7 +43,9 @@
           <div class="card-faces" [class.flipped]="flipped()">
             <div class="card-face card-front" [attr.aria-hidden]="flipped()">
               <div class="face-inner">
-                <img [src]="artFor(card)" alt="" draggable="false" />
+                @for (art of [artFor(card)]; track art) {
+                  <img class="art" [src]="art" alt="" draggable="false" />
+                }
                 <div class="face-text">
                 <p class="card-eyebrow">{{ (card.location === 'in' ? 'deck.eyebrowIn' : 'deck.eyebrowOut') | translate: language() }}</p>
                 <h2>{{ card.title }}</h2>
@@ -56,6 +58,7 @@
               <div class="face-inner">
                 <h2>{{ card.title }}</h2>
                 <p id="card-back-description">{{ card.fullDesc }}</p>
+                <app-idea-list [list]="card.list" [language]="language()" />
                 <app-inspiration-link [task]="card" [language]="language()" [tabbable]="flipped()" />
               </div>
             </div>

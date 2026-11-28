@@ -1,0 +1,57 @@
+{
+  "id": "task_103",
+  "slug": "korm-dlya-bezprytulnykh-tvaryn",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "volunteering",
+    "nature"
+  ],
+  "text": {
+    "ua": {
+      "title": "Корм для безпритульних тварин",
+      "shortDesc": "Зберіть корм для притулку чи для вуличних котів",
+      "fullDesc": "Дізнайтеся, чи потрібен корм місцевому притулку. Купіть чи зберіть сухий корм, ковдри та старі рушники й передайте відповідальним людям. Для дітей це гарна нагода відчути, що турбота про тих, хто не вміє просити, дуже потрібна."
+    },
+    "en": {
+      "title": "Food for Stray Animals",
+      "shortDesc": "Collect food for a shelter or street cats",
+      "fullDesc": "Find out whether your local shelter needs food. Buy or gather dry food, blankets and old towels, and hand them over to the people in charge. It is a good chance for children to feel how much care for those who cannot ask is needed."
+    },
+    "pl": {
+      "title": "Karma dla bezdomnych zwierząt",
+      "shortDesc": "Zbierzcie karmę dla schroniska lub dla ulicznych kotów",
+      "fullDesc": "Dowiedzcie się, czy miejscowe schronisko potrzebuje karmy. Kupcie lub zbierzcie suchą karmę, koce i stare ręczniki i przekażcie odpowiednim osobom. Dla dzieci to dobra okazja, by poczuć, jak potrzebna jest troska o tych, którzy nie potrafią o nią poprosić."
+    },
+    "es": {
+      "title": "Comida para animales sin hogar",
+      "shortDesc": "Reunid comida para un refugio o para los gatos callejeros",
+      "fullDesc": "Averiguad si el refugio de vuestra zona necesita comida. Comprad o reunid pienso seco, mantas y toallas viejas y entregadlos a las personas responsables. Para los niños es una buena ocasión de sentir que cuidar de quienes no pueden pedir ayuda es muy necesario."
+    },
+    "de": {
+      "title": "Futter für heimatlose Tiere",
+      "shortDesc": "Sammelt Futter für ein Tierheim oder für Straßenkatzen",
+      "fullDesc": "Finde heraus, ob das örtliche Tierheim Futter braucht. Kaufe oder sammle Trockenfutter, Decken und alte Handtücher und gib sie den Verantwortlichen. Für Kinder ist das eine gute Gelegenheit zu spüren, wie wichtig die Fürsorge für die ist, die nicht um Hilfe bitten können."
+    },
+    "fr": {
+      "title": "De la nourriture pour les animaux sans abri",
+      "shortDesc": "Rassemblez des croquettes pour un refuge ou des chats errants",
+      "fullDesc": "Renseignez-vous pour savoir si le refuge local a besoin de nourriture. Achetez ou rassemblez des croquettes, des couvertures et de vieilles serviettes, puis remettez-les aux responsables. C'est pour les enfants une belle occasion de sentir combien il est important de s'occuper de ceux qui ne savent pas demander."
+    }
+  },
+  "image": "ideas/korm-dlya-bezprytulnykh-tvaryn.jpg",
+  "photo": {
+    "id": "uEf8sr7njWY",
+    "author": "Matthew Ball",
+    "url": "https://unsplash.com/photos/uEf8sr7njWY"
+  }
+}

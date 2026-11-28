@@ -1,0 +1,53 @@
+{
+  "id": "task_064",
+  "slug": "banka-dobrykh-spohadiv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "memory",
+    "tradition"
+  ],
+  "text": {
+    "ua": {
+      "title": "Банка добрих спогадів",
+      "shortDesc": "Збирайте щасливі миті в одній банці",
+      "fullDesc": "Візьміть банку й папірці. Кожен записує один радісний момент цього року й кладе в банку. Прочитайте кілька вголос, решту залиште для інших днів. Поповнюйте банку весь грудень і відкрийте наприкінці року."
+    },
+    "en": {
+      "title": "Jar of Happy Memories",
+      "shortDesc": "Collect happy moments in one jar",
+      "fullDesc": "Take a jar and some slips of paper. Each person writes down one joyful moment from this year and drops it in the jar. Read a few aloud and save the rest for other days. Keep adding all December long and open the jar at the end of the year."
+    },
+    "pl": {
+      "title": "Słoik dobrych wspomnień",
+      "shortDesc": "Zbierajcie szczęśliwe chwile w jednym słoiku",
+      "fullDesc": "Weźcie słoik i karteczki. Każdy zapisuje jedną radosną chwilę z tego roku i wrzuca ją do słoika. Przeczytajcie kilka na głos, resztę zostawcie na inne dni. Dokładajcie karteczki przez cały grudzień i otwórzcie słoik na koniec roku."
+    },
+    "es": {
+      "title": "Tarro de buenos recuerdos",
+      "shortDesc": "Reunid los momentos felices en un tarro",
+      "fullDesc": "Coged un tarro y unos papelitos. Cada uno escribe un momento alegre de este año y lo mete en el tarro. Leed algunos en voz alta y guardad el resto para otros días. Seguid llenando el tarro todo diciembre y abridlo a final de año."
+    },
+    "de": {
+      "title": "Glas der guten Erinnerungen",
+      "shortDesc": "Sammelt glückliche Momente in einem Glas",
+      "fullDesc": "Nehmt ein Glas und Zettel. Jeder schreibt einen fröhlichen Moment dieses Jahres auf und legt ihn ins Glas. Lest ein paar laut vor, den Rest hebt ihr für andere Tage auf. Füllt das Glas den ganzen Dezember und öffnet es am Jahresende."
+    },
+    "fr": {
+      "title": "Le bocal des bons souvenirs",
+      "shortDesc": "Rassemblez vos moments heureux dans un bocal",
+      "fullDesc": "Prenez un bocal et des petits papiers. Chacun note un moment joyeux de cette année et le glisse dans le bocal. Lisez-en quelques-uns à voix haute et gardez les autres pour d'autres jours. Remplissez le bocal tout le mois de décembre et ouvrez-le à la fin de l'année."
+    }
+  },
+  "image": "ideas/banka-dobrykh-spohadiv.jpg",
+  "photo": {
+    "id": "wheU6ybZL74",
+    "author": "Tymek Niciak",
+    "url": "https://unsplash.com/photos/wheU6ybZL74"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "task_115",
+  "slug": "advent-kalendar-dlya-spohadiv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "memory",
+    "decor"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/195695546304449441/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Адвент-календар для спогадів",
+      "shortDesc": "Календар, у якому оселяться ваші фото й записки",
+      "fullDesc": "Зробіть разом календар із кишеньок, конвертів чи коробочок на 24 дні. Щодня кладіть у нього фото, малюнок чи коротку записку про приємну мить. У кінці грудня розгорніть усе й перегляньте разом."
+    },
+    "en": {
+      "title": "Memory Advent Calendar",
+      "shortDesc": "A calendar to hold your photos and little notes",
+      "fullDesc": "Make a 24-day calendar together from pockets, envelopes or small boxes. Each day, tuck in a photo, a drawing or a short note about a lovely moment. At the end of December, open everything and look through it together."
+    },
+    "pl": {
+      "title": "Adwentowy kalendarz wspomnień",
+      "shortDesc": "Kalendarz, w którym zamieszkają wasze zdjęcia i notatki",
+      "fullDesc": "Zróbcie razem kalendarz z kieszonek, kopert albo pudełeczek na 24 dni. Każdego dnia wkładajcie do niego zdjęcie, rysunek lub krótką notatkę o miłej chwili. Pod koniec grudnia rozpakujcie wszystko i obejrzyjcie razem."
+    },
+    "es": {
+      "title": "Calendario de adviento de recuerdos",
+      "shortDesc": "Un calendario para vuestras fotos y notitas",
+      "fullDesc": "Haced juntos un calendario de bolsillitos, sobres o cajitas para 24 días. Cada día guardad en él una foto, un dibujo o una notita sobre un momento bonito. A finales de diciembre desplegadlo todo y repasadlo en familia."
+    },
+    "de": {
+      "title": "Erinnerungs-Adventskalender",
+      "shortDesc": "Ein Kalender für eure Fotos und kleinen Notizen",
+      "fullDesc": "Bastelt gemeinsam einen Kalender aus Täschchen, Umschlägen oder Schächtelchen für 24 Tage. Legt jeden Tag ein Foto, ein Bild oder einen kurzen Zettel über einen schönen Moment hinein. Ende Dezember packt ihr alles aus und schaut es euch zusammen an."
+    },
+    "fr": {
+      "title": "Calendrier de l'Avent des souvenirs",
+      "shortDesc": "Un calendrier pour vos photos et vos petits mots",
+      "fullDesc": "Fabriquez ensemble un calendrier de pochettes, d'enveloppes ou de petites boîtes pour 24 jours. Chaque jour, glissez-y une photo, un dessin ou un petit mot sur un joli moment. À la fin décembre, dépliez tout et regardez-le ensemble."
+    }
+  },
+  "image": "ideas/advent-kalendar-dlya-spohadiv.jpg",
+  "photo": {
+    "id": "ZQR6tUBPAxw",
+    "author": "Bianca Ackermann",
+    "url": "https://unsplash.com/photos/ZQR6tUBPAxw"
+  }
+}

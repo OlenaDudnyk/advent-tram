@@ -1,0 +1,53 @@
+{
+  "id": "task_129",
+  "slug": "naykrashche-rizdvo-u-moyemu-zhytti",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "memory",
+    "tradition"
+  ],
+  "text": {
+    "ua": {
+      "title": "Найкраще Різдво у моєму житті",
+      "shortDesc": "Поділіться історіями про свої найкращі свята",
+      "fullDesc": "Сядьте разом і розкажіть одне одному про найкраще Різдво, яке ви пам’ятаєте: де ви були, хто був поруч, що смакувало й що вас розсмішило. Нехай бабусі й дідусі, батьки й діти розкажуть по одній історії. Запишіть кілька фраз, щоб не загубились."
+    },
+    "en": {
+      "title": "The Best Christmas of My Life",
+      "shortDesc": "Share stories of your best celebrations",
+      "fullDesc": "Sit down together and tell each other about the best Christmas you remember: where you were, who was beside you, what tasted good and what made you laugh. Let grandparents, parents and children each share one story. Jot down a few lines so they do not get lost."
+    },
+    "pl": {
+      "title": "Najlepsze Boże Narodzenie w moim życiu",
+      "shortDesc": "Podzielcie się historiami o swoich najlepszych świętach",
+      "fullDesc": "Usiądźcie razem i opowiedzcie sobie o najlepszym Bożym Narodzeniu, jakie pamiętacie: gdzie byliście, kto był obok, co smakowało i co was rozśmieszyło. Niech babcie i dziadkowie, rodzice i dzieci opowiedzą po jednej historii. Zapiszcie kilka zdań, żeby nie przepadły."
+    },
+    "es": {
+      "title": "La mejor Navidad de mi vida",
+      "shortDesc": "Compartid historias de vuestras mejores fiestas",
+      "fullDesc": "Sentaos juntos y contaos la mejor Navidad que recordáis: dónde estabais, quién estaba a vuestro lado, qué sabía rico y qué os hizo reír. Que abuelos, padres e hijos cuenten una historia cada uno. Anotad unas frases para que no se pierdan."
+    },
+    "de": {
+      "title": "Das schönste Weihnachten meines Lebens",
+      "shortDesc": "Erzählt euch Geschichten von euren schönsten Festen",
+      "fullDesc": "Setzt euch zusammen und erzählt einander vom schönsten Weihnachten, an das ihr euch erinnert: wo ihr wart, wer bei euch war, was gut schmeckte und was euch zum Lachen brachte. Großeltern, Eltern und Kinder erzählen je eine Geschichte. Schreibt ein paar Sätze auf, damit sie nicht verloren gehen."
+    },
+    "fr": {
+      "title": "Le plus beau Noël de ma vie",
+      "shortDesc": "Partagez des histoires de vos plus belles fêtes",
+      "fullDesc": "Asseyez-vous ensemble et racontez-vous le plus beau Noël dont vous vous souvenez : où vous étiez, qui était près de vous, ce qui était bon et ce qui vous a fait rire. Que grands-parents, parents et enfants racontent chacun une histoire. Notez quelques phrases pour qu'elles ne se perdent pas."
+    }
+  },
+  "image": "ideas/naykrashche-rizdvo-u-moyemu-zhytti.jpg",
+  "photo": {
+    "id": "erkM6z0PU1M",
+    "author": "Eugenia Pan'kiv",
+    "url": "https://unsplash.com/photos/erkM6z0PU1M"
+  }
+}

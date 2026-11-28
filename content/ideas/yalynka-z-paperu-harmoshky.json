@@ -1,0 +1,54 @@
+{
+  "id": "task_043",
+  "slug": "yalynka-z-paperu-harmoshky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Ялинка з паперу-гармошки",
+      "shortDesc": "Об’ємна ялинка на столі за п’ятнадцять хвилин",
+      "fullDesc": "Складіть зелену смужку паперу гармошкою, зігніть навпіл і склейте краї віялом, що утворить ялинку. Прикрасьте зірочкою зверху та бісерними кульками. Зробіть кілька різного розміру й виставте цілий ліс."
+    },
+    "en": {
+      "title": "Accordion Paper Tree",
+      "shortDesc": "A 3D tree for your table in fifteen minutes",
+      "fullDesc": "Fold a green strip of paper like an accordion, bend it in half and glue the edges into a fan, which forms the tree. Top it with a little star and add bead baubles. Make several in different sizes and set out a whole forest."
+    },
+    "pl": {
+      "title": "Choinka z papierowej harmonijki",
+      "shortDesc": "Przestrzenna choinka na stół w kwadrans",
+      "fullDesc": "Złóżcie zielony pasek papieru jak harmonijkę, zegnijcie na pół i sklejcie brzegi w wachlarz, który utworzy choinkę. Ozdóbcie gwiazdką na czubku i koralikowymi bombkami. Zróbcie kilka w różnych rozmiarach i ustawcie cały las."
+    },
+    "es": {
+      "title": "Árbol de papel acordeón",
+      "shortDesc": "Un árbol en relieve para la mesa en quince minutos",
+      "fullDesc": "Doblad una tira de papel verde en acordeón, plegadla por la mitad y pegad los bordes en abanico para formar un árbol. Decorad con una estrellita arriba y cuentas. Haced varios de distinto tamaño y colocad un bosque entero."
+    },
+    "de": {
+      "title": "Tannenbaum aus Faltpapier",
+      "shortDesc": "Ein plastischer Baum für den Tisch in fünfzehn Minuten",
+      "fullDesc": "Falte einen grünen Papierstreifen wie eine Ziehharmonika, knicke ihn in der Mitte und klebe die Ränder fächerförmig zusammen, sodass ein Tannenbaum entsteht. Schmücke ihn mit einem Sternchen oben und Perlen. Mach mehrere in verschiedenen Größen und stell einen ganzen Wald auf."
+    },
+    "fr": {
+      "title": "Sapin en papier accordéon",
+      "shortDesc": "Un sapin en relief pour la table en quinze minutes",
+      "fullDesc": "Pliez une bande de papier vert en accordéon, repliez-la en deux et collez les bords en éventail pour former un sapin. Décorez d'une petite étoile au sommet et de perles. Faites-en plusieurs de tailles différentes et installez toute une forêt."
+    }
+  },
+  "image": "ideas/yalynka-z-paperu-harmoshky.jpg",
+  "photo": {
+    "id": "vYI8Oeo9xb4",
+    "author": "Kelly Sikkema",
+    "url": "https://unsplash.com/photos/a-green-origami-christmas-tree-sitting-on-top-of-a-table-vYI8Oeo9xb4"
+  }
+}

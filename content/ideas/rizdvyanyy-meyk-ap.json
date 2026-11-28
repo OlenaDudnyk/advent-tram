@@ -1,0 +1,55 @@
+{
+  "id": "task_123",
+  "slug": "rizdvyanyy-meyk-ap",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "craft"
+  ],
+  "text": {
+    "ua": {
+      "title": "Різдвяний мейк-ап",
+      "shortDesc": "Розмалюйте обличчя, ніби ви головні фанати Різдва",
+      "fullDesc": "Розмалюйте одне одному щоки сніжинками, зірками, червоним носом оленя чи вусами Санти. Для дітей підійдуть безпечні фарби для обличчя. Сфотографуйтеся й вирушайте на прогулянку чи просто підніміть настрій удома."
+    },
+    "en": {
+      "title": "Christmas Face Paint",
+      "shortDesc": "Paint your faces like Christmas's biggest fans",
+      "fullDesc": "Paint snowflakes and stars on each other's cheeks, a red reindeer nose or a Santa moustache. Safe face paints are best for children. Take photos and head out for a walk, or just lift the mood at home."
+    },
+    "pl": {
+      "title": "Świąteczny makijaż",
+      "shortDesc": "Pomalujcie twarze, jakbyście byli największymi fanami świąt",
+      "fullDesc": "Pomalujcie sobie nawzajem policzki w śnieżynki, gwiazdki, czerwony nos renifera albo wąsy Mikołaja. Dla dzieci najlepsze są bezpieczne farby do twarzy. Zróbcie zdjęcia i ruszajcie na spacer albo po prostu poprawcie sobie humor w domu."
+    },
+    "es": {
+      "title": "Maquillaje navideño",
+      "shortDesc": "Pintaos la cara como los mayores fans de la Navidad",
+      "fullDesc": "Pintaos en las mejillas copos de nieve, estrellas, la nariz roja del reno o el bigote de Papá Noel. Para los niños sirven pinturas de cara seguras. Haceos fotos y salid a pasear, o simplemente animad el ambiente en casa."
+    },
+    "de": {
+      "title": "Weihnachts-Make-up",
+      "shortDesc": "Bemalt euch die Gesichter wie die größten Weihnachtsfans",
+      "fullDesc": "Male einander Schneeflocken, Sterne, die rote Rentiernase oder den Bart des Weihnachtsmanns auf die Wangen. Für Kinder eignen sich ungefährliche Gesichtsfarben. Macht Fotos und geht spazieren oder bringt einfach zu Hause Stimmung auf."
+    },
+    "fr": {
+      "title": "Maquillage de Noël",
+      "shortDesc": "Peignez-vous le visage comme les plus grands fans de Noël",
+      "fullDesc": "Dessinez-vous sur les joues des flocons, des étoiles, le nez rouge du renne ou la moustache du Père Noël. Pour les enfants, utilisez des peintures pour le visage sans danger. Prenez des photos et partez en promenade, ou égayez simplement l'ambiance à la maison."
+    }
+  },
+  "image": "ideas/rizdvyanyy-meyk-ap.jpg",
+  "photo": {
+    "id": "g6fIetYRCCc",
+    "author": "William Shu",
+    "url": "https://unsplash.com/photos/g6fIetYRCCc"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "task_104",
+  "slug": "vidvidyny-litnoyi-lyudyny",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "neighbors",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Відвідини літньої людини",
+      "shortDesc": "Завітайте до літньої родички чи сусідки на чай",
+      "fullDesc": "Домовтеся про візит заздалегідь і принесіть щось смачне до чаю. Посидьте, послухайте історії, допоможіть із дрібною справою: полити квіти чи повісити гірлянду. Для літньої людини ваша присутність — найціннішіший подарунок."
+    },
+    "en": {
+      "title": "Visit an Elderly Person",
+      "shortDesc": "Drop in on an elderly relative or neighbour for tea",
+      "fullDesc": "Arrange the visit in advance and bring something tasty for tea. Sit a while, listen to stories and help with a small chore: watering the flowers or hanging up a garland. For an older person, your presence is the most precious gift."
+    },
+    "pl": {
+      "title": "Wizyta u starszej osoby",
+      "shortDesc": "Odwiedźcie starszą krewną lub sąsiada na herbatę",
+      "fullDesc": "Umówcie się na wizytę z wyprzedzeniem i przynieście coś smacznego do herbaty. Posiedźcie, posłuchajcie opowieści, pomóżcie w drobnej sprawie: podlejcie kwiaty albo powieście girlandę. Dla starszej osoby wasza obecność jest najcenniejszym prezentem."
+    },
+    "es": {
+      "title": "Visita a una persona mayor",
+      "shortDesc": "Id a tomar té con una pariente o vecina mayor",
+      "fullDesc": "Acordad la visita con antelación y llevad algo rico para el té. Sentaos, escuchad sus historias y ayudad con alguna tarea pequeña: regar las flores o colgar una guirnalda. Para una persona mayor, vuestra presencia es el regalo más valioso."
+    },
+    "de": {
+      "title": "Besuch bei einem älteren Menschen",
+      "shortDesc": "Besuche eine ältere Verwandte oder Nachbarin zum Tee",
+      "fullDesc": "Verabredet den Besuch vorher und bring etwas Leckeres zum Tee mit. Setz dich, hör ihre Geschichten an und hilf bei einer Kleinigkeit: Blumen gießen oder eine Lichterkette aufhängen. Für einen älteren Menschen ist deine Anwesenheit das wertvollste Geschenk."
+    },
+    "fr": {
+      "title": "Visite à une personne âgée",
+      "shortDesc": "Allez prendre le thé chez une parente ou une voisine âgée",
+      "fullDesc": "Convenez de la visite à l'avance et apportez quelque chose de bon pour le thé. Asseyez-vous, écoutez ses histoires et aidez pour une petite tâche : arroser les fleurs ou accrocher une guirlande. Pour une personne âgée, votre présence est le cadeau le plus précieux."
+    }
+  },
+  "image": "ideas/vidvidyny-litnoyi-lyudyny.jpg",
+  "photo": {
+    "id": "L30rgHYSyuU",
+    "author": "Claudia Love",
+    "url": "https://unsplash.com/photos/person-holding-white-ceramic-teacup-L30rgHYSyuU"
+  }
+}

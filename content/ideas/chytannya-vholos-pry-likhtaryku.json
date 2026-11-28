@@ -1,0 +1,55 @@
+{
+  "id": "task_054",
+  "slug": "chytannya-vholos-pry-likhtaryku",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "reading",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Читання вголос при ліхтарику",
+      "shortDesc": "Улюблена історія в напівтемряві",
+      "fullDesc": "Вимкніть світло, влаштуйтеся під ковдрами й читайте вголос по черзі при ліхтарику. Підійде будь-яка казка чи історія, яку любить родина. Голоси героїв, паузи й шепіт зробять звичайну книжку особливою."
+    },
+    "en": {
+      "title": "Flashlight Reading Aloud",
+      "shortDesc": "A favourite story in the half-dark",
+      "fullDesc": "Turn off the lights, snuggle under the blankets and take turns reading aloud by flashlight. Any fairy tale or story your family loves will do. Voices for the characters, pauses and whispers turn an ordinary book into something special."
+    },
+    "pl": {
+      "title": "Czytanie na głos przy latarce",
+      "shortDesc": "Ulubiona historia w półmroku",
+      "fullDesc": "Zgaście światło, wskoczcie pod koce i czytajcie na głos na zmianę przy latarce. Nadaje się każda bajka lub historia, którą kocha wasza rodzina. Głosy bohaterów, pauzy i szepty sprawią, że zwykła książka stanie się wyjątkowa."
+    },
+    "es": {
+      "title": "Lectura en voz alta con linterna",
+      "shortDesc": "Vuestra historia favorita en la penumbra",
+      "fullDesc": "Apagad la luz, acomodaos bajo las mantas y leed en voz alta por turnos con una linterna. Sirve cualquier cuento o historia que guste a la familia. Las voces de los personajes, las pausas y los susurros harán especial un libro cualquiera."
+    },
+    "de": {
+      "title": "Vorlesen im Taschenlampenlicht",
+      "shortDesc": "Eure Lieblingsgeschichte im Halbdunkel",
+      "fullDesc": "Mach das Licht aus, kuschelt euch unter die Decken und lest abwechselnd laut vor, mit einer Taschenlampe. Jedes Märchen oder jede Geschichte, die eure Familie mag, passt. Stimmen der Figuren, Pausen und Flüstern machen ein ganz normales Buch besonders."
+    },
+    "fr": {
+      "title": "Lecture à voix haute à la lampe torche",
+      "shortDesc": "Votre histoire préférée dans la pénombre",
+      "fullDesc": "Éteignez la lumière, installez-vous sous les couvertures et lisez à voix haute à tour de rôle à la lampe torche. N'importe quel conte ou histoire aimée de la famille convient. Les voix des personnages, les pauses et les chuchotements rendront un livre ordinaire tout à fait spécial."
+    }
+  },
+  "image": "ideas/chytannya-vholos-pry-likhtaryku.jpg",
+  "photo": {
+    "id": "P4KX6qSaBcY",
+    "author": "Abinash Jothimani",
+    "url": "https://unsplash.com/photos/P4KX6qSaBcY"
+  }
+}

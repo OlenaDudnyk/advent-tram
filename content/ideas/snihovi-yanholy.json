@@ -1,0 +1,55 @@
+{
+  "id": "task_082",
+  "slug": "snihovi-yanholy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "winter",
+    "walk"
+  ],
+  "text": {
+    "ua": {
+      "title": "Снігові янголи",
+      "shortDesc": "Ляжте в сніг і залиште свій відбиток",
+      "fullDesc": "Коли випаде свіжий сніг, знайдіть чисте місце й по черзі лягайте на спину, рухаючи руками й ногами. Підведіться обережно, і на землі залишиться янгол. Цілий ряд таких янголів вийде дуже кумедним."
+    },
+    "en": {
+      "title": "Snow Angels",
+      "shortDesc": "Lie down in the snow and leave your imprint",
+      "fullDesc": "When fresh snow falls, find a clean spot and take turns lying on your back, moving your arms and legs. Get up carefully and an angel is left on the ground. A whole row of them looks very funny."
+    },
+    "pl": {
+      "title": "Aniołki na śniegu",
+      "shortDesc": "Połóżcie się w śniegu i zostawcie swój odcisk",
+      "fullDesc": "Gdy spadnie świeży śnieg, znajdźcie czyste miejsce i kładźcie się na zmianę na plecach, poruszając rękami i nogami. Wstańcie ostrożnie, a na ziemi zostanie aniołek. Cały rząd takich aniołków wygląda bardzo zabawnie."
+    },
+    "es": {
+      "title": "Ángeles de nieve",
+      "shortDesc": "Tumbaos en la nieve y dejad vuestra huella",
+      "fullDesc": "Cuando caiga nieve fresca, buscad un sitio limpio y tumbaos boca arriba por turnos, moviendo brazos y piernas. Levantaos con cuidado y en el suelo quedará un ángel. Una fila entera de ángeles queda muy graciosa."
+    },
+    "de": {
+      "title": "Schneeengel",
+      "shortDesc": "Leg dich in den Schnee und hinterlasse deinen Abdruck",
+      "fullDesc": "Wenn frischer Schnee gefallen ist, such einen sauberen Platz und legt euch abwechselnd auf den Rücken, mit Armen und Beinen in Bewegung. Steht vorsichtig auf, und auf dem Boden bleibt ein Engel zurück. Eine ganze Reihe solcher Engel sieht sehr lustig aus."
+    },
+    "fr": {
+      "title": "Anges de neige",
+      "shortDesc": "Allongez-vous dans la neige et laissez votre empreinte",
+      "fullDesc": "Quand il tombe de la neige fraîche, trouvez un endroit propre et allongez-vous à tour de rôle sur le dos en bougeant bras et jambes. Relevez-vous prudemment et un ange restera sur le sol. Toute une rangée de ces anges est très drôle."
+    }
+  },
+  "image": "ideas/snihovi-yanholy.jpg",
+  "photo": {
+    "id": "ooZPQ_BxhzQ",
+    "author": "Bart van Griensven",
+    "url": "https://unsplash.com/photos/ooZPQ_BxhzQ"
+  }
+}

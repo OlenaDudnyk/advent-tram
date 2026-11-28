@@ -2,7 +2,7 @@
   "name": "Advent Tram",
   "short_name": "Advent Tram",
   "display": "standalone",
-  "background_color": "#8b1e24",
+  "background_color": "#4a4a50",
   "theme_color": "#8b1e24",
   "scope": "./",
   "start_url": "./",

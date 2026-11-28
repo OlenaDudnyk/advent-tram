@@ -1,0 +1,57 @@
+{
+  "id": "task_102",
+  "slug": "pechyvo-dlya-susidiv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "neighbors",
+    "gift",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Печиво для сусідів",
+      "shortDesc": "Спечіть печиво й роздайте сусідам у під’їзді",
+      "fullDesc": "Спечіть просте печиво чи кекси та складіть у маленькі пакетики з бантиком. Пройдіться по сусідах, посміхніться й вручіть частування, побажавши гарного грудня. Знайомства навколо себе роблять дім теплішим, ніж найкраща гірлянда."
+    },
+    "en": {
+      "title": "Cookies for the Neighbours",
+      "shortDesc": "Bake cookies and hand them out in your building",
+      "fullDesc": "Bake simple cookies or muffins and pack them into little bags with a bow. Go round to your neighbours, smile and hand over the treats with wishes for a lovely December. Getting to know the people around you makes a home warmer than the best string of lights."
+    },
+    "pl": {
+      "title": "Ciasteczka dla sąsiadów",
+      "shortDesc": "Upieczcie ciasteczka i rozdajcie sąsiadom w bloku",
+      "fullDesc": "Upieczcie proste ciasteczka lub babeczki i zapakujcie je w małe torebeczki z kokardką. Obejdźcie sąsiadów, uśmiechnijcie się i wręczcie poczęstunek z życzeniami miłego grudnia. Znajomości wokół nas dodają domowi więcej ciepła niż najpiękniejsza girlanda."
+    },
+    "es": {
+      "title": "Galletas para los vecinos",
+      "shortDesc": "Hornead galletas y repartidlas por el portal",
+      "fullDesc": "Haced unas galletas sencillas o magdalenas y colocadlas en bolsitas con un lazo. Pasad por casa de los vecinos, sonreíd y entregad el detalle deseándoles un buen diciembre. Conocer a quienes nos rodean calienta el hogar más que la mejor guirnalda."
+    },
+    "de": {
+      "title": "Kekse für die Nachbarn",
+      "shortDesc": "Backe Kekse und verteile sie im Haus",
+      "fullDesc": "Backe einfache Kekse oder Muffins und verpacke sie in kleine Tüten mit Schleife. Geh bei den Nachbarn vorbei, lächle und überreiche die Leckerei mit den besten Wünschen für den Dezember. Die Menschen um uns herum zu kennen macht ein Zuhause wärmer als die schönste Lichterkette."
+    },
+    "fr": {
+      "title": "Biscuits pour les voisins",
+      "shortDesc": "Préparez des biscuits et distribuez-les dans l'immeuble",
+      "fullDesc": "Faites des biscuits simples ou des muffins et mettez-les dans de petits sachets avec un ruban. Passez chez les voisins, souriez et offrez la douceur en leur souhaitant un beau mois de décembre. Connaître ceux qui nous entourent réchauffe la maison plus que la plus belle guirlande."
+    }
+  },
+  "image": "ideas/pechyvo-dlya-susidiv.jpg",
+  "photo": {
+    "id": "tnaDPBOi0ls",
+    "author": "Karina Kungla",
+    "url": "https://unsplash.com/photos/tnaDPBOi0ls"
+  }
+}

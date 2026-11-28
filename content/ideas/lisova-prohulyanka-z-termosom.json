@@ -1,0 +1,56 @@
+{
+  "id": "task_087",
+  "slug": "lisova-prohulyanka-z-termosom",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "walk",
+    "nature",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Лісова прогулянка з термосом",
+      "shortDesc": "Прогуляйтеся лісом чи парком і випийте чаю на лавці",
+      "fullDesc": "Налийте у термос чаю чи компоту, візьміть печиво й вирушайте в найтихіший куточок парку чи лісу. Ідіть без поспіху, слухайте дерева, а на лавці зробіть спільну паузу з чашкою в руках."
+    },
+    "en": {
+      "title": "Forest Walk with a Flask",
+      "shortDesc": "Walk through a forest or park and have tea on a bench",
+      "fullDesc": "Fill a flask with tea or fruit compote, pack some biscuits and head to the quietest corner of a park or forest. Walk without hurry, listen to the trees, and take a shared pause on a bench with a cup in your hands."
+    },
+    "pl": {
+      "title": "Leśny spacer z termosem",
+      "shortDesc": "Przejdźcie się po lesie lub parku i wypijcie herbatę na ławce",
+      "fullDesc": "Nalejcie do termosu herbaty lub kompotu, weźcie ciasteczka i ruszajcie w najcichszy zakątek parku albo lasu. Idźcie bez pośpiechu, słuchajcie drzew, a na ławce zróbcie wspólną przerwę z kubkiem w dłoniach."
+    },
+    "es": {
+      "title": "Paseo por el bosque con termo",
+      "shortDesc": "Caminad por el bosque o el parque y tomad té en un banco",
+      "fullDesc": "Llenad un termo de té o compota, coged galletas e id al rincón más tranquilo del parque o del bosque. Caminad sin prisa, escuchad los árboles y, en un banco, haced una pausa juntos con la taza entre las manos."
+    },
+    "de": {
+      "title": "Waldspaziergang mit Thermoskanne",
+      "shortDesc": "Geh durch Wald oder Park und trink Tee auf einer Bank",
+      "fullDesc": "Fülle Tee oder Kompott in eine Thermoskanne, nimm Kekse mit und geh in die ruhigste Ecke des Parks oder Waldes. Lauft ohne Eile, lauscht den Bäumen und macht auf einer Bank gemeinsam Pause, die Tasse in den Händen."
+    },
+    "fr": {
+      "title": "Balade en forêt avec un thermos",
+      "shortDesc": "Marchez dans la forêt ou le parc et buvez du thé sur un banc",
+      "fullDesc": "Remplissez un thermos de thé ou de compote, prenez des biscuits et rendez-vous dans le coin le plus calme du parc ou de la forêt. Marchez sans vous presser, écoutez les arbres et, sur un banc, faites une pause ensemble, la tasse entre les mains."
+    }
+  },
+  "image": "ideas/lisova-prohulyanka-z-termosom.jpg",
+  "photo": {
+    "id": "pNEaZ7TftgI",
+    "author": "Veronica Mihaylovskaya",
+    "url": "https://unsplash.com/photos/pNEaZ7TftgI"
+  }
+}

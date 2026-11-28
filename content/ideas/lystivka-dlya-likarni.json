@@ -1,0 +1,57 @@
+{
+  "id": "task_099",
+  "slug": "lystivka-dlya-likarni",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "volunteering",
+    "gift"
+  ],
+  "text": {
+    "ua": {
+      "title": "Листівка для лікарні",
+      "shortDesc": "Зробіть листівку для тих, хто зараз лікується",
+      "fullDesc": "Намалюйте листівку з побажаннями здоров’я та світлим малюнком. Домовтеся з місцевою лікарнею чи волонтерами, які збирають такі привітання, і передайте їх. Для людини, що лежить у палаті, уважність незнайомців дуже багато значить."
+    },
+    "en": {
+      "title": "Card for the Hospital",
+      "shortDesc": "Make a card for those who are being treated",
+      "fullDesc": "Draw a card with wishes for good health and a bright picture. Arrange it with a local hospital or volunteers who collect such greetings, and hand it over. For someone lying in a hospital ward, the thoughtfulness of strangers means a great deal."
+    },
+    "pl": {
+      "title": "Kartka dla szpitala",
+      "shortDesc": "Zróbcie kartkę dla tych, którzy teraz się leczą",
+      "fullDesc": "Narysujcie kartkę z życzeniami zdrowia i pogodnym obrazkiem. Umówcie się z miejscowym szpitalem lub wolontariuszami, którzy zbierają takie pozdrowienia, i przekażcie ją. Dla osoby leżącej na szpitalnej sali troska nieznajomych znaczy bardzo wiele."
+    },
+    "es": {
+      "title": "Postal para el hospital",
+      "shortDesc": "Haced una postal para quienes están en tratamiento",
+      "fullDesc": "Dibujad una postal con deseos de salud y un dibujo luminoso. Poneos de acuerdo con un hospital local o con voluntarios que recojan estos saludos y entregadlos. Para quien está en una habitación, la atención de desconocidos significa muchísimo."
+    },
+    "de": {
+      "title": "Karte für das Krankenhaus",
+      "shortDesc": "Gestalte eine Karte für alle, die gerade in Behandlung sind",
+      "fullDesc": "Male eine Karte mit Genesungswünschen und einem hellen Bild. Sprich mit einem örtlichen Krankenhaus oder mit Freiwilligen, die solche Grüße sammeln, und gib sie ab. Für jemanden im Krankenzimmer bedeutet die Aufmerksamkeit Fremder sehr viel."
+    },
+    "fr": {
+      "title": "Carte pour l'hôpital",
+      "shortDesc": "Faites une carte pour ceux qui sont actuellement soignés",
+      "fullDesc": "Dessinez une carte avec des vœux de santé et une image lumineuse. Mettez-vous d'accord avec un hôpital local ou avec des bénévoles qui collectent ces messages, puis remettez-les. Pour une personne alitée, l'attention d'inconnus compte énormément."
+    }
+  },
+  "image": "ideas/lystivka-dlya-likarni.jpg",
+  "photo": {
+    "id": "ROOapgvoT9M",
+    "author": "Jess Bailey",
+    "url": "https://unsplash.com/photos/ROOapgvoT9M"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "task_037",
+  "slug": "zymovi-shyshky-z-blyskitkamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Зимові шишки з блискітками",
+      "shortDesc": "Лісові знахідки у святковому вбранні",
+      "fullDesc": "Пофарбуйте шишки білою фарбою, а поки не висохли, посипте блискітками чи манкою. Складіть їх у миску або повісьте на стрічки. Це гарний спосіб подовжити прогулянку: принесіть шишки з парку, а вдома оживіть."
+    },
+    "en": {
+      "title": "Wintry Glitter Pine Cones",
+      "shortDesc": "Forest finds in festive dress",
+      "fullDesc": "Paint pine cones white and, while the paint is wet, sprinkle with glitter or semolina. Put them in a bowl or hang them on ribbons. It is a nice way to extend a walk: bring cones from the park and bring them to life at home."
+    },
+    "pl": {
+      "title": "Zimowe szyszki z brokatem",
+      "shortDesc": "Leśne znaleziska w świątecznym wydaniu",
+      "fullDesc": "Pomalujcie szyszki białą farbą i zanim wyschną, posypcie brokatem albo kaszą manną. Ułóżcie je w misce lub powieście na wstążkach. To fajny sposób, by przedłużyć spacer: przynieście szyszki z parku, a w domu ożywcie je."
+    },
+    "es": {
+      "title": "Piñas de invierno con purpurina",
+      "shortDesc": "Hallazgos del bosque con ropaje festivo",
+      "fullDesc": "Pintad las piñas de blanco y, antes de que se sequen, espolvoread purpurina o sémola. Ponedlas en un cuenco o colgadlas con cintas. Es una buena manera de alargar el paseo: traed piñas del parque y dadles vida en casa."
+    },
+    "de": {
+      "title": "Winterzapfen mit Glitzer",
+      "shortDesc": "Waldfunde im festlichen Gewand",
+      "fullDesc": "Bemale Zapfen mit weißer Farbe und streue Glitzer oder Grieß darüber, solange sie noch nass sind. Leg sie in eine Schale oder häng sie an Bändern auf. Eine schöne Art, den Spaziergang zu verlängern: Bring Zapfen aus dem Park mit und erwecke sie zu Hause zum Leben."
+    },
+    "fr": {
+      "title": "Pommes de pin d'hiver pailletées",
+      "shortDesc": "Des trouvailles de la forêt en tenue de fête",
+      "fullDesc": "Peignez les pommes de pin en blanc et, avant qu'elles ne sèchent, saupoudrez de paillettes ou de semoule. Mettez-les dans un bol ou suspendez-les avec des rubans. C'est une belle façon de prolonger la promenade : rapportez des pommes de pin du parc et redonnez-leur vie à la maison."
+    }
+  },
+  "image": "ideas/zymovi-shyshky-z-blyskitkamy.jpg",
+  "photo": {
+    "id": "T31gDdD9lOA",
+    "author": "Javier Balseiro",
+    "url": "https://unsplash.com/photos/gold-pine-cones-on-decorative-mesh-T31gDdD9lOA"
+  }
+}

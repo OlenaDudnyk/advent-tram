@@ -1,0 +1,56 @@
+{
+  "id": "task_091",
+  "slug": "zori-pid-pledamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "stars",
+    "cozy",
+    "winter"
+  ],
+  "text": {
+    "ua": {
+      "title": "Зорі під пледами",
+      "shortDesc": "Візьміть пледи та поспостерігайте за небом",
+      "fullDesc": "Оберіть темніше місце: двір, поле чи край парку. Розстеліть пледи, візьміть термос і довго дивіться на небо: шукайте супутники, зорі, що падають, і сузір’я. Тихі розмови під зорями запам’ятовуються надовго."
+    },
+    "en": {
+      "title": "Stars Under Blankets",
+      "shortDesc": "Take blankets and watch the sky",
+      "fullDesc": "Pick a darker spot: a yard, a field or the edge of a park. Spread out blankets, bring a flask and gaze at the sky for a long while: look for satellites, shooting stars and constellations. Quiet talks under the stars are remembered for a long time."
+    },
+    "pl": {
+      "title": "Gwiazdy pod kocami",
+      "shortDesc": "Weźcie koce i poobserwujcie niebo",
+      "fullDesc": "Wybierzcie ciemniejsze miejsce: podwórko, pole albo skraj parku. Rozłóżcie koce, weźcie termos i długo patrzcie w niebo: szukajcie satelitów, spadających gwiazd i gwiazdozbiorów. Ciche rozmowy pod gwiazdami zapamiętuje się na długo."
+    },
+    "es": {
+      "title": "Estrellas bajo las mantas",
+      "shortDesc": "Coged mantas y observad el cielo",
+      "fullDesc": "Elegid un lugar más oscuro: el patio, el campo o el borde de un parque. Extended las mantas, llevad un termo y mirad el cielo largo rato: buscad satélites, estrellas fugaces y constelaciones. Las charlas tranquilas bajo las estrellas se recuerdan mucho tiempo."
+    },
+    "de": {
+      "title": "Sterne unter Decken",
+      "shortDesc": "Nehmt Decken mit und beobachtet den Himmel",
+      "fullDesc": "Such einen dunkleren Ort: den Hof, ein Feld oder den Rand eines Parks. Breitet die Decken aus, nehmt eine Thermoskanne mit und schaut lange in den Himmel: Sucht Satelliten, Sternschnuppen und Sternbilder. Ruhige Gespräche unter den Sternen bleiben lange in Erinnerung."
+    },
+    "fr": {
+      "title": "Les étoiles sous les plaids",
+      "shortDesc": "Prenez des plaids et observez le ciel",
+      "fullDesc": "Choisissez un endroit plus sombre : la cour, un champ ou le bord d'un parc. Étendez les plaids, prenez un thermos et regardez longuement le ciel : cherchez des satellites, des étoiles filantes et des constellations. Les conversations tranquilles sous les étoiles se gardent longtemps en mémoire."
+    }
+  },
+  "image": "ideas/zori-pid-pledamy.jpg",
+  "photo": {
+    "id": "iSq1GgbSuto",
+    "author": "Theo Eilertsen Photography",
+    "url": "https://unsplash.com/photos/snow-covered-field-and-trees-under-starry-night-iSq1GgbSuto"
+  }
+}

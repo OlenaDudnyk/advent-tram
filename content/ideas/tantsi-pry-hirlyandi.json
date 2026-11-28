@@ -1,0 +1,55 @@
+{
+  "id": "task_049",
+  "slug": "tantsi-pry-hirlyandi",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "music"
+  ],
+  "text": {
+    "ua": {
+      "title": "Танці при гірлянді",
+      "shortDesc": "П’ять хвилин руху під улюблену музику",
+      "fullDesc": "Вимкніть верхнє світло, залиште лише гірлянду й увімкніть гучну веселу музику. Танцюйте як умієте, робіть смішні рухи й зупиняйтеся, коли музика змовкне. Найкращий спосіб струсити втому наприкінці дня."
+    },
+    "en": {
+      "title": "Dancing by the Fairy Lights",
+      "shortDesc": "Five minutes of moving to your favourite music",
+      "fullDesc": "Turn off the main light, leave only the fairy lights and put on loud, cheerful music. Dance however you can, make silly moves and freeze when the music stops. The best way to shake off the tiredness at the end of the day."
+    },
+    "pl": {
+      "title": "Tańce przy lampkach",
+      "shortDesc": "Pięć minut ruchu przy ulubionej muzyce",
+      "fullDesc": "Zgaście górne światło, zostawcie tylko lampki choinkowe i włączcie głośną, wesołą muzykę. Tańczcie, jak potraficie, wymyślajcie śmieszne ruchy i zastygajcie, gdy muzyka ucichnie. Najlepszy sposób, by strząsnąć zmęczenie na koniec dnia."
+    },
+    "es": {
+      "title": "Baile con la guirnalda",
+      "shortDesc": "Cinco minutos de movimiento con vuestra música favorita",
+      "fullDesc": "Apagad la luz principal, dejad solo la guirnalda y poned música alegre y fuerte. Bailad como sepáis, haced movimientos graciosos y parad cuando la música se detenga. La mejor forma de sacudirse el cansancio al final del día."
+    },
+    "de": {
+      "title": "Tanzen im Lichterkettenschein",
+      "shortDesc": "Fünf Minuten Bewegung zu deiner Lieblingsmusik",
+      "fullDesc": "Mach das Deckenlicht aus, lass nur die Lichterkette an und spiel laute, fröhliche Musik. Tanzt, so gut ihr könnt, macht lustige Bewegungen und bleibt stehen, wenn die Musik verstummt. Der beste Weg, die Müdigkeit am Tagesende abzuschütteln."
+    },
+    "fr": {
+      "title": "Danse sous la guirlande",
+      "shortDesc": "Cinq minutes de mouvement sur votre musique préférée",
+      "fullDesc": "Éteignez la lumière principale, ne laissez que la guirlande et mettez une musique joyeuse et forte. Dansez comme vous pouvez, faites des mouvements rigolos et arrêtez-vous quand la musique se tait. La meilleure façon de chasser la fatigue en fin de journée."
+    }
+  },
+  "image": "ideas/tantsi-pry-hirlyandi.jpg",
+  "photo": {
+    "id": "zzXuFfUk1_Q",
+    "author": "Nong",
+    "url": "https://unsplash.com/photos/silhouette-person-holding-string-lights-zzXuFfUk1_Q"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "task_095",
+  "slug": "malenkyy-donat",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "adults",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "kindness",
+    "volunteering"
+  ],
+  "text": {
+    "ua": {
+      "title": "Маленький донат",
+      "shortDesc": "Разом обміркуйте та підтримайте перевірений збір",
+      "fullDesc": "Разом знайдіть перевірений збір, який вам близький: для захисників, тварин чи людей, які потребують допомоги. Обговоріть, чому це важливо, і внесіть посильну суму. Навіть невеликий внесок має значення, а дітям корисно побачити добро в дії."
+    },
+    "en": {
+      "title": "A Small Donation",
+      "shortDesc": "Think it over together and support a trusted fundraiser",
+      "fullDesc": "Together, find a trusted fundraiser close to your heart: for defenders, animals or people in need. Talk about why it matters and give an amount you can afford. Even a small gift counts, and it is good for children to see kindness in action."
+    },
+    "pl": {
+      "title": "Mała darowizna",
+      "shortDesc": "Przemyślcie razem i wesprzyjcie sprawdzoną zbiórkę",
+      "fullDesc": "Znajdźcie razem sprawdzoną zbiórkę, która jest wam bliska: dla obrońców, zwierząt lub ludzi w potrzebie. Porozmawiajcie o tym, dlaczego jest ważna, i wpłaćcie kwotę na miarę waszych możliwości. Nawet niewielki datek ma znaczenie, a dzieciom warto pokazać dobro w działaniu."
+    },
+    "es": {
+      "title": "Un pequeño donativo",
+      "shortDesc": "Pensad juntos y apoyad una recaudación fiable",
+      "fullDesc": "Buscad juntos una recaudación de confianza que os sea cercana: para defensores, animales o personas que necesitan ayuda. Hablad de por qué es importante y aportad lo que podáis. Incluso una pequeña aportación cuenta, y a los niños les hace bien ver el bien en acción."
+    },
+    "de": {
+      "title": "Eine kleine Spende",
+      "shortDesc": "Überlegt gemeinsam und unterstützt eine verlässliche Spendenaktion",
+      "fullDesc": "Sucht gemeinsam eine verlässliche Spendenaktion, die euch am Herzen liegt: für Verteidiger, Tiere oder Menschen in Not. Sprecht darüber, warum das wichtig ist, und gebt, was ihr könnt. Schon ein kleiner Beitrag zählt, und für Kinder ist es gut, Gutes in Aktion zu sehen."
+    },
+    "fr": {
+      "title": "Un petit don",
+      "shortDesc": "Réfléchissez ensemble et soutenez une collecte de confiance",
+      "fullDesc": "Cherchez ensemble une collecte fiable qui vous tient à cœur : pour des défenseurs, des animaux ou des personnes dans le besoin. Parlez de son importance et donnez ce que vous pouvez. Même une petite contribution compte, et il est bon pour les enfants de voir le bien en action."
+    }
+  },
+  "image": "ideas/malenkyy-donat.jpg",
+  "photo": {
+    "id": "TBHOuN6URGU",
+    "author": "Annie Spratt",
+    "url": "https://unsplash.com/photos/TBHOuN6URGU"
+  }
+}

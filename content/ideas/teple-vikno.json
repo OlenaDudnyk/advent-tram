@@ -1,0 +1,55 @@
+{
+  "id": "task_071",
+  "slug": "teple-vikno",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 5,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "lights",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Тепле вікно",
+      "shortDesc": "Знайдіть найзатишніше світло у вікнах навпроти",
+      "fullDesc": "Вийдіть надвір увечері й роздивіться вікна будинків навколо. Оберіть те, де світло здається найтеплішим, і вигадайте, хто там живе та що смакує на вечерю. Просто мить, щоб відчути, як багато затишку навколо."
+    },
+    "en": {
+      "title": "The Warm Window",
+      "shortDesc": "Find the cosiest light in the windows opposite",
+      "fullDesc": "Go outside in the evening and look at the windows of the surrounding houses. Pick the one where the light looks warmest and imagine who lives there and what they are having for dinner. A simple moment to feel how much cosiness there is around you."
+    },
+    "pl": {
+      "title": "Ciepłe okno",
+      "shortDesc": "Znajdźcie najprzytulniejsze światło w oknach naprzeciwko",
+      "fullDesc": "Wyjdźcie wieczorem na dwór i popatrzcie na okna okolicznych domów. Wybierzcie to, w którym światło wydaje się najcieplejsze, i wyobraźcie sobie, kto tam mieszka i co je na kolację. Zwykła chwila, by poczuć, ile wokół jest przytulności."
+    },
+    "es": {
+      "title": "La ventana cálida",
+      "shortDesc": "Encontrad la luz más acogedora en las ventanas de enfrente",
+      "fullDesc": "Salid por la tarde y mirad las ventanas de las casas de alrededor. Elegid aquella cuya luz parezca más cálida e imaginad quién vive allí y qué cenará. Es solo un instante para sentir cuánta calidez hay a nuestro alrededor."
+    },
+    "de": {
+      "title": "Das warme Fenster",
+      "shortDesc": "Findet das gemütlichste Licht in den Fenstern gegenüber",
+      "fullDesc": "Geh am Abend nach draußen und schau dir die Fenster der Häuser ringsum an. Such das aus, dessen Licht am wärmsten wirkt, und überlegt, wer dort wohnt und was es zum Abendessen gibt. Nur ein Moment, um zu spüren, wie viel Gemütlichkeit uns umgibt."
+    },
+    "fr": {
+      "title": "La fenêtre chaleureuse",
+      "shortDesc": "Trouvez la lumière la plus douillette aux fenêtres d'en face",
+      "fullDesc": "Sortez le soir et regardez les fenêtres des maisons alentour. Choisissez celle dont la lumière semble la plus chaleureuse et imaginez qui y habite et ce qu'on y mange pour dîner. Juste un instant pour sentir combien de douceur nous entoure."
+    }
+  },
+  "image": "ideas/teple-vikno.jpg",
+  "photo": {
+    "id": "h6UEwROOo4I",
+    "author": "simon",
+    "url": "https://unsplash.com/photos/a-window-with-a-plant-in-it-in-the-snow-h6UEwROOo4I"
+  }
+}

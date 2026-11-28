@@ -1,0 +1,60 @@
+{
+  "id": "task_134",
+  "slug": "podarunky-v-kraftovomu-paperi-z-budynochkamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "gift",
+    "decor"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/324329610687211557/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Подарунки в крафтовому папері з будиночками",
+      "shortDesc": "Запакуйте подарунки в крафт і намалюйте білим фломастером будиночки",
+      "fullDesc": "Запакуйте подарунки чи шоколадки в крафтовий папір і білим фломастером намалюйте на ньому будиночки з вікнами, димарями й засніженими дахами. Додайте гілочку хвої, шнурок чи сушений апельсин. Такі подарунки виглядають затишно й по-домашньому."
+    },
+    "en": {
+      "title": "Kraft Gift Wrap with Little Houses",
+      "shortDesc": "Wrap gifts in kraft paper and draw houses with a white pen",
+      "fullDesc": "Wrap gifts or chocolates in kraft paper and draw little houses on it with a white marker: windows, chimneys and snowy roofs. Add a sprig of fir, a string or a dried orange slice. Gifts like these look cosy and homemade."
+    },
+    "pl": {
+      "title": "Prezenty w papierze pakowym z domkami",
+      "shortDesc": "Zapakujcie prezenty w papier pakowy i narysujcie białym pisakiem domki",
+      "fullDesc": "Zapakujcie prezenty lub czekoladki w papier pakowy i białym pisakiem narysujcie na nim domki z oknami, kominami i zaśnieżonymi dachami. Dodajcie gałązkę świerku, sznurek albo suszoną pomarańczę. Takie prezenty wyglądają przytulnie i swojsko."
+    },
+    "es": {
+      "title": "Regalos en papel kraft con casitas",
+      "shortDesc": "Envolved los regalos en kraft y dibujad casitas con rotulador blanco",
+      "fullDesc": "Envolved los regalos o las chocolatinas en papel kraft y dibujad encima con un rotulador blanco casitas con ventanas, chimeneas y tejados nevados. Añadid una ramita de abeto, un cordel o una naranja seca. Estos regalos tienen un aire acogedor y casero."
+    },
+    "de": {
+      "title": "Geschenke in Kraftpapier mit Häuschen",
+      "shortDesc": "Verpacke Geschenke in Kraftpapier und male mit weißem Stift Häuschen",
+      "fullDesc": "Verpacke Geschenke oder Schokolade in Kraftpapier und male mit einem weißen Stift Häuschen mit Fenstern, Schornsteinen und verschneiten Dächern darauf. Ergänze einen Tannenzweig, eine Schnur oder eine getrocknete Orange. Solche Geschenke wirken gemütlich und selbstgemacht."
+    },
+    "fr": {
+      "title": "Cadeaux en papier kraft avec des petites maisons",
+      "shortDesc": "Emballez les cadeaux dans du kraft et dessinez des maisons au feutre blanc",
+      "fullDesc": "Emballez les cadeaux ou les chocolats dans du papier kraft et dessinez dessus au feutre blanc des maisons avec fenêtres, cheminées et toits enneigés. Ajoutez une branche de sapin, une ficelle ou une orange séchée. Ces cadeaux ont un air douillet et fait maison."
+    }
+  },
+  "image": "ideas/podarunky-v-kraftovomu-paperi-z-budynochkamy.jpg",
+  "photo": {
+    "id": "72J7m5LM7bE",
+    "author": "Cemrecan Yurtman",
+    "url": "https://unsplash.com/photos/72J7m5LM7bE"
+  }
+}

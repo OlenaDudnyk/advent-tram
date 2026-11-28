@@ -180,10 +180,9 @@
                 }
               </div>
               <p class="item-meta">{{ task.duration }} {{ 'filter.minutes' | translate: language() }} · {{ (task.location === 'in' ? 'filter.atHome' : 'filter.outdoors') | translate: language() }} · {{ ageLabelKey() | translate: language() }}</p>
-              @if (task.category === 'sunday_silence') {
-                <p class="description">{{ taskDescription(task) }}</p>
-                @if (reflection(task); as text) { <p class="reflection-text">♡ {{ text }}</p> }
-              }
+              <p class="description">{{ taskDescription(task) }}</p>
+              @if (reflection(task); as text) { <p class="reflection-text">♡ {{ text }}</p> }
+              <app-idea-list [list]="task.list" [language]="language()" />
               <app-inspiration-link [task]="task" [language]="language()" />
               @if (isCompleted(task)) {
                 <button type="button" class="btn btn-surface" (click)="openMemory(task)">{{ (hasMemory(task) ? 'memory.edit' : 'route.addMemory') | translate: language() }}</button>

@@ -1,0 +1,59 @@
+{
+  "id": "task_136",
+  "slug": "rizdvyane-polyuvannya",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "tradition"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/1100215384006557202/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Різдвяне полювання",
+      "shortDesc": "Знайдіть усі різдвяні речі зі списку",
+      "fullDesc": "Складіть список різдвяних речей: зірка, ялинка, свічка, дзвіночок, олень, подарунок, сніжинка. Грайте разом чи командами: хто знайде й сфотографує їх удома чи надворі, ставить позначку. Хто першим закрив усе, обирає кіно на вечір."
+    },
+    "en": {
+      "title": "Christmas Scavenger Hunt",
+      "shortDesc": "Find all the Christmas things on the list",
+      "fullDesc": "Make a list of Christmas things: a star, a tree, a candle, a bell, a reindeer, a gift, a snowflake. Play together or in teams: whoever finds and photographs them at home or outdoors ticks them off. Whoever finishes first picks the film for the evening."
+    },
+    "pl": {
+      "title": "Świąteczne łowy",
+      "shortDesc": "Znajdźcie wszystkie świąteczne rzeczy z listy",
+      "fullDesc": "Zróbcie listę świątecznych rzeczy: gwiazdka, choinka, świeczka, dzwoneczek, renifer, prezent, śnieżynka. Grajcie razem lub w drużynach: kto znajdzie i sfotografuje je w domu albo na dworze, zaznacza je na liście. Kto pierwszy odhaczy wszystko, wybiera film na wieczór."
+    },
+    "es": {
+      "title": "Búsqueda navideña",
+      "shortDesc": "Encontrad todas las cosas navideñas de la lista",
+      "fullDesc": "Haced una lista de cosas navideñas: estrella, árbol, vela, campanilla, reno, regalo, copo de nieve. Jugad juntos o por equipos: quien las encuentra y las fotografía en casa o fuera, las marca. Quien primero lo complete elige la película de la noche."
+    },
+    "de": {
+      "title": "Weihnachtsjagd",
+      "shortDesc": "Findet alle Weihnachtsdinge von der Liste",
+      "fullDesc": "Schreibe eine Liste mit Weihnachtsdingen: Stern, Tannenbaum, Kerze, Glöckchen, Rentier, Geschenk, Schneeflocke. Spielt zusammen oder in Teams: Wer sie zu Hause oder draußen findet und fotografiert, hakt sie ab. Wer zuerst alles hat, sucht den Film für den Abend aus."
+    },
+    "fr": {
+      "title": "Chasse aux trésors de Noël",
+      "shortDesc": "Trouvez tous les objets de Noël de la liste",
+      "fullDesc": "Dressez une liste d'objets de Noël : étoile, sapin, bougie, clochette, renne, cadeau, flocon de neige. Jouez ensemble ou en équipes : celui qui les trouve et les photographie à la maison ou dehors les coche. Le premier à tout avoir choisit le film du soir."
+    }
+  },
+  "image": "ideas/rizdvyane-polyuvannya.jpg",
+  "photo": {
+    "id": "QNwa5eqKfNU",
+    "author": "Marina Zvada",
+    "url": "https://unsplash.com/photos/QNwa5eqKfNU"
+  }
+}

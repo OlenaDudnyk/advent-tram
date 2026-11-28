@@ -1,0 +1,71 @@
+{
+  "id": "task_128",
+  "slug": "bananovi-chypsy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "kitchen",
+    "baking"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/1111544751860633952/",
+    "type": "pinterest"
+  },
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Яблучні чипси в духовці — Євген Клопотенко (та сама техніка сушіння)",
+        "url": "https://klopotenko.com/yabluchni-chupsu/"
+      },
+      {
+        "text": "Бананові мафіни — Євген Клопотенко (якщо банани залишилися)",
+        "url": "https://klopotenko.com/bananovi-mafiny-vid-yevgena-klopotenka/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Бананові чипси",
+      "shortDesc": "Хрумкі домашні чипси з бананів у духовці",
+      "fullDesc": "Наріжте стиглі банани тонкими кружальцями, викладіть на деко з пергаментом і запікайте при 100–120 °C приблизно годину, перевертаючи раз. Остудіть, і чипси стануть хрусткими. Для різдвяного аромату посипте корицею. Техніку сушіння дивіться в рецепті яблучних чипсів."
+    },
+    "en": {
+      "title": "Banana Chips",
+      "shortDesc": "Crunchy homemade banana chips from the oven",
+      "fullDesc": "Slice ripe bananas into thin rounds, lay them on a baking tray lined with parchment and bake at 100–120 °C for about an hour, turning once. Let them cool and the chips turn crisp. Sprinkle with cinnamon for a Christmassy scent. For the drying technique, see the apple chips recipe."
+    },
+    "pl": {
+      "title": "Chipsy bananowe",
+      "shortDesc": "Chrupiące domowe chipsy bananowe z piekarnika",
+      "fullDesc": "Pokrójcie dojrzałe banany w cienkie plasterki, połóżcie na blasze z papierem do pieczenia i pieczcie w 100–120 °C około godziny, raz obracając. Ostudźcie, a chipsy staną się chrupiące. Dla świątecznego aromatu posypcie cynamonem. Technikę suszenia znajdziecie w przepisie na chipsy jabłkowe."
+    },
+    "es": {
+      "title": "Chips de plátano",
+      "shortDesc": "Chips caseros de plátano crujientes al horno",
+      "fullDesc": "Cortad plátanos maduros en rodajas finas, colocadlas en una bandeja con papel de horno y hornead a 100–120 °C durante una hora, dándoles la vuelta una vez. Dejad enfriar y quedarán crujientes. Para un aroma navideño, espolvoread canela. La técnica de secado está en la receta de chips de manzana."
+    },
+    "de": {
+      "title": "Bananenchips",
+      "shortDesc": "Knusprige Bananenchips selbst gemacht im Ofen",
+      "fullDesc": "Schneide reife Bananen in dünne Scheiben, lege sie auf ein Blech mit Backpapier und backe sie etwa eine Stunde bei 100–120 °C, einmal wenden. Abkühlen lassen, dann werden die Chips knusprig. Für Weihnachtsduft mit Zimt bestreuen. Die Trocknungstechnik findest du im Rezept für Apfelchips."
+    },
+    "fr": {
+      "title": "Chips de banane",
+      "shortDesc": "Des chips de banane croustillantes cuites au four",
+      "fullDesc": "Coupez des bananes mûres en fines rondelles, disposez-les sur une plaque recouverte de papier cuisson et enfournez environ une heure à 100–120 °C en les retournant une fois. Laissez refroidir : les chips deviendront croustillantes. Pour une touche de Noël, saupoudrez de cannelle. La technique de séchage est dans la recette des chips de pomme."
+    }
+  },
+  "image": "ideas/bananovi-chypsy.jpg",
+  "photo": {
+    "id": "El7BbLDQ2SY",
+    "author": "Jorge Campos",
+    "url": "https://unsplash.com/photos/El7BbLDQ2SY"
+  }
+}

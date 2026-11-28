@@ -1,0 +1,55 @@
+{
+  "id": "task_131",
+  "slug": "khto-ya-rizdvyani-symvoly",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "tradition"
+  ],
+  "text": {
+    "ua": {
+      "title": "Хто я? Різдвяні символи",
+      "shortDesc": "Гра для тих, хто любить різдвяні загадки",
+      "fullDesc": "Підготуйте картки з різдвяними символами: ялинка, зірка, дзвіночок, санки, пряник, олень. Гравець тримає картку біля лоба так, щоб бачили всі, крім нього, і ставить запитання «так»/«ні». Коли вгадає, ходить наступний гравець."
+    },
+    "en": {
+      "title": "Who Am I? Christmas Symbols",
+      "shortDesc": "A game for fans of Christmas riddles",
+      "fullDesc": "Prepare cards with Christmas symbols: a tree, a star, a bell, a sleigh, gingerbread, a reindeer. A player holds a card to their forehead so everyone sees it except them, and asks yes-or-no questions. When they guess, the next player takes a turn."
+    },
+    "pl": {
+      "title": "Kim jestem? Świąteczne symbole",
+      "shortDesc": "Gra dla miłośników świątecznych zagadek",
+      "fullDesc": "Przygotujcie karty ze świątecznymi symbolami: choinka, gwiazdka, dzwoneczek, sanki, piernik, renifer. Gracz trzyma kartę przy czole tak, by widzieli ją wszyscy oprócz niego, i zadaje pytania na „tak\" lub „nie\". Gdy odgadnie, kolej na następnego gracza."
+    },
+    "es": {
+      "title": "¿Quién soy? Símbolos navideños",
+      "shortDesc": "Un juego para quienes aman los acertijos navideños",
+      "fullDesc": "Preparad tarjetas con símbolos navideños: árbol, estrella, campanilla, trineo, galleta de jengibre, reno. El jugador sostiene una tarjeta junto a la frente para que todos la vean menos él, y hace preguntas de «sí» o «no». Al acertar, le toca al siguiente."
+    },
+    "de": {
+      "title": "Wer bin ich? Weihnachtssymbole",
+      "shortDesc": "Ein Spiel für alle, die Weihnachtsrätsel lieben",
+      "fullDesc": "Bereite Karten mit Weihnachtssymbolen vor: Tannenbaum, Stern, Glöckchen, Schlitten, Lebkuchen, Rentier. Ein Spieler hält eine Karte an die Stirn, sodass alle sie sehen außer ihm, und stellt Ja-Nein-Fragen. Wer es errät, übergibt an den Nächsten."
+    },
+    "fr": {
+      "title": "Qui suis-je ? Symboles de Noël",
+      "shortDesc": "Un jeu pour ceux qui aiment les devinettes de Noël",
+      "fullDesc": "Préparez des cartes avec des symboles de Noël : sapin, étoile, clochette, traîneau, pain d'épices, renne. Le joueur tient une carte près de son front pour que tous la voient sauf lui, et pose des questions en « oui » ou « non ». Quand il devine, c'est au tour du suivant."
+    }
+  },
+  "image": "ideas/khto-ya-rizdvyani-symvoly.jpg",
+  "photo": {
+    "id": "7oYPGbvbxu0",
+    "author": "Tuaans",
+    "url": "https://unsplash.com/photos/7oYPGbvbxu0"
+  }
+}

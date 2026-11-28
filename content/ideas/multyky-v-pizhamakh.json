@@ -1,0 +1,55 @@
+{
+  "id": "task_058",
+  "slug": "multyky-v-pizhamakh",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "film",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Мультики в піжамах",
+      "shortDesc": "Короткий сеанс для всієї родини",
+      "fullDesc": "Одягніть піжами, візьміть подушки й оберіть кілька коротких мультфільмів чи один зимовий. Попкорн і какао додадуть настрою. Дорослі також дивляться з задоволенням, бо вечір створений для спільного сміху."
+    },
+    "en": {
+      "title": "Cartoons in Pyjamas",
+      "shortDesc": "A short movie session for the whole family",
+      "fullDesc": "Put on your pyjamas, grab pillows and pick a few short cartoons or one winter film. Popcorn and cocoa add to the mood. Grown-ups enjoy it too, because the evening is made for laughing together."
+    },
+    "pl": {
+      "title": "Bajki w piżamach",
+      "shortDesc": "Krótki seans dla całej rodziny",
+      "fullDesc": "Włóżcie piżamy, weźcie poduszki i wybierzcie kilka krótkich bajek albo jedną zimową. Popcorn i kakao dodadzą nastroju. Dorośli również chętnie oglądają, bo ten wieczór jest stworzony do wspólnego śmiechu."
+    },
+    "es": {
+      "title": "Dibujos animados en pijama",
+      "shortDesc": "Una sesión corta para toda la familia",
+      "fullDesc": "Ponéos los pijamas, coged cojines y elegid unos dibujos animados cortos o uno de invierno. Palomitas y cacao darán ambiente. Los adultos también disfrutan, porque la tarde está hecha para reír juntos."
+    },
+    "de": {
+      "title": "Trickfilme im Schlafanzug",
+      "shortDesc": "Ein kurzer Filmabend für die ganze Familie",
+      "fullDesc": "Zieht eure Schlafanzüge an, schnappt euch Kissen und wählt ein paar kurze Trickfilme oder einen Winterfilm aus. Popcorn und Kakao sorgen für Stimmung. Auch die Erwachsenen schauen gern mit, denn der Abend ist zum gemeinsamen Lachen da."
+    },
+    "fr": {
+      "title": "Dessins animés en pyjama",
+      "shortDesc": "Une courte séance pour toute la famille",
+      "fullDesc": "Enfilez vos pyjamas, prenez des coussins et choisissez quelques dessins animés courts ou un film d'hiver. Pop-corn et chocolat chaud mettront l'ambiance. Les adultes regardent aussi avec plaisir, car cette soirée est faite pour rire ensemble."
+    }
+  },
+  "image": "ideas/multyky-v-pizhamakh.jpg",
+  "photo": {
+    "id": "t2bNLh0mZR8",
+    "author": "The Design Lady",
+    "url": "https://unsplash.com/photos/t2bNLh0mZR8"
+  }
+}

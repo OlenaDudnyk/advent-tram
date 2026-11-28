@@ -1,0 +1,53 @@
+{
+  "id": "task_063",
+  "slug": "lyst-sobi-nastupnoho-hrudnya",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "memory",
+    "tradition"
+  ],
+  "text": {
+    "ua": {
+      "title": "Лист собі наступного грудня",
+      "shortDesc": "Капсула часу для всієї родини",
+      "fullDesc": "Кожен пише коротку записку: чим радіє цієї зими, про що мріє, що хоче сказати майбутньому собі. Складіть листи в конверти, підпишіть і сховіть у надійне місце. Наступного грудня прочитаєте їх разом."
+    },
+    "en": {
+      "title": "Letter to Yourself Next December",
+      "shortDesc": "A time capsule for the whole family",
+      "fullDesc": "Everyone writes a short note: what makes them happy this winter, what they dream of, what they want to tell their future self. Put the letters in envelopes, sign them and tuck them away somewhere safe. Next December, read them together."
+    },
+    "pl": {
+      "title": "List do siebie na przyszły grudzień",
+      "shortDesc": "Kapsuła czasu dla całej rodziny",
+      "fullDesc": "Każdy pisze krótką notatkę: z czego cieszy się tej zimy, o czym marzy, co chce powiedzieć sobie z przyszłości. Włóżcie listy do kopert, podpiszcie i schowajcie w bezpiecznym miejscu. W przyszłym grudniu przeczytacie je razem."
+    },
+    "es": {
+      "title": "Carta para el próximo diciembre",
+      "shortDesc": "Una cápsula del tiempo para toda la familia",
+      "fullDesc": "Cada uno escribe una notita corta: qué le alegra este invierno, con qué sueña y qué quiere decirle a su yo del futuro. Meted las cartas en sobres, firmadlas y guardadlas en un lugar seguro. El próximo diciembre las leeréis juntos."
+    },
+    "de": {
+      "title": "Brief an mich im nächsten Dezember",
+      "shortDesc": "Eine Zeitkapsel für die ganze Familie",
+      "fullDesc": "Jeder schreibt einen kurzen Zettel: worüber er sich diesen Winter freut, wovon er träumt und was er seinem zukünftigen Ich sagen möchte. Steckt die Briefe in Umschläge, unterschreibt sie und versteckt sie an einem sicheren Ort. Im nächsten Dezember lest ihr sie gemeinsam."
+    },
+    "fr": {
+      "title": "Lettre à soi-même pour le prochain décembre",
+      "shortDesc": "Une capsule temporelle pour toute la famille",
+      "fullDesc": "Chacun écrit un petit mot : ce qui le réjouit cet hiver, ce dont il rêve, ce qu'il veut dire à son moi du futur. Glissez les lettres dans des enveloppes, signez-les et rangez-les dans un endroit sûr. Le décembre prochain, vous les lirez ensemble."
+    }
+  },
+  "image": "ideas/lyst-sobi-nastupnoho-hrudnya.jpg",
+  "photo": {
+    "id": "N9zqoNzASgA",
+    "author": "Eileen Martin",
+    "url": "https://unsplash.com/photos/N9zqoNzASgA"
+  }
+}

@@ -1,27 +1,25 @@
 import type { OnInit } from '@angular/core';
 import { Component, computed, inject, signal } from '@angular/core';
-import { Router, RouterLink } from '@angular/router';
-import { IonContent, IonModal } from '@ionic/angular';
+import { RouterLink } from '@angular/router';
+import { IonContent } from '@ionic/angular';
 
 import type { TranslationKey } from '../../core/i18n/en';
 import { TranslatePipe } from '../../core/i18n/translate.pipe';
 import type { AdventStyle, AgeGroup, AppSettings, Language } from '../../core/models';
 import { DEFAULT_SETTINGS, LANGUAGE_NAMES } from '../../core/models';
-import { InstallService, StorageService } from '../../core/services';
+import { StorageService } from '../../core/services';
 import { BackButtonComponent } from '../../shared/back-button/back-button.component';
 import { FrameFooterComponent, FrameNavComponent } from '../../shared/frame/frame.component';
 import { LanguageSwitcherComponent } from '../../shared/language-switcher/language-switcher.component';
 
 @Component({
   selector: 'app-settings',
-  imports: [FrameNavComponent, FrameFooterComponent, IonContent, IonModal, RouterLink, TranslatePipe, BackButtonComponent, LanguageSwitcherComponent],
+  imports: [FrameNavComponent, FrameFooterComponent, IonContent, RouterLink, TranslatePipe, BackButtonComponent, LanguageSwitcherComponent],
   templateUrl: './settings.page.html',
   styleUrls: ['./settings.page.scss'],
 })
 export class SettingsPage implements OnInit {
   private readonly storage = inject(StorageService);
-  private readonly router = inject(Router);
-  readonly installer = inject(InstallService);
 
   readonly language = signal<Language>(DEFAULT_SETTINGS.language);
   readonly languageName = computed(() => LANGUAGE_NAMES[this.language()]);
@@ -31,7 +29,6 @@ export class SettingsPage implements OnInit {
     { id: 'church', titleKey: 'settings.adventChurch', hintKey: 'settings.adventChurchHint' },
     { id: 'classic', titleKey: 'settings.adventClassic', hintKey: 'settings.adventClassicHint' },
   ];
-  readonly confirmDelete = signal(false);
   readonly message = signal<TranslationKey | null>(null);
   readonly isError = signal(false);
 
@@ -83,38 +80,6 @@ export class SettingsPage implements OnInit {
     const previous = this.adventStyle();
     this.adventStyle.set(style);
     if (!(await this.persist())) this.adventStyle.set(previous);
-  }
-
-  /** Saves a JSON copy of everything stored on this device. */
-  async exportData(): Promise<void> {
-    try {
-      const blob = new Blob([await this.storage.exportAll()], { type: 'application/json' });
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement('a');
-      link.href = url;
-      link.download = `advent-tram-backup-${new Date().toISOString().slice(0, 10)}.json`;
-      link.click();
-      setTimeout(() => URL.revokeObjectURL(url), 1000);
-      this.isError.set(false);
-      this.message.set('settings.saved');
-    } catch (error) {
-      console.error('Unable to export data:', error);
-      this.isError.set(true);
-      this.message.set('settings.saveError');
-    }
-  }
-
-  /** Erases all saved data from this device and starts over with onboarding. */
-  async deleteAll(): Promise<void> {
-    this.confirmDelete.set(false);
-    try {
-      await this.storage.clearAllData();
-      await this.router.navigate(['/onboarding'], { replaceUrl: true });
-    } catch (error) {
-      console.error('Unable to delete data:', error);
-      this.isError.set(true);
-      this.message.set('settings.saveError');
-    }
   }
 
   /** Everything is saved as you change it; this confirms it (the tablet / web design has a Save button). */

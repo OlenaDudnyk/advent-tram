@@ -34,6 +34,19 @@ export function loadIdeas() {
   }).sort((a, b) => String(a.data?.id ?? a.file).localeCompare(String(b.data?.id ?? b.file)));
 }
 
+/** Topic used to alternate ideas in the deck. Explicit `topic` wins; otherwise it is derived from tags and place. */
+export function topicOf(data) {
+  if (data.topic) return data.topic;
+  const tags = new Set(data.tags ?? []);
+  const has = (...t) => t.some((x) => tags.has(x));
+  if (data.category === 'heart_deed' || has('kindness', 'volunteering', 'neighbors')) return 'kind';
+  if (has('kitchen', 'baking')) return 'cook';
+  if (has('craft', 'decor')) return 'craft';
+  if (has('games')) return 'game';
+  if (data.location === 'out') return 'outdoor';
+  return 'cozy';
+}
+
 export const isPublished = (idea) => (idea.data.status ?? 'published') === 'published';
 
 /** True when the language has all three text fields for the idea. */
@@ -70,6 +83,26 @@ export function validate(ideas = loadIdeas()) {
     if (data.category !== undefined && !config.categories.includes(data.category)) errors.push(at(`"category" must be one of ${config.categories.join(', ')}`));
     if (data.tags !== undefined && (!Array.isArray(data.tags) || data.tags.some((t) => typeof t !== 'string' || !SLUG_RE.test(t)))) errors.push(at('"tags" must be lowercase-with-dashes strings'));
     if (data.image !== undefined && !existsSync(join(ASSETS_DIR, data.image))) errors.push(at(`"image" ${data.image} not found in src/assets`));
+    if (data.list !== undefined) {
+      const l = data.list;
+      if (!l || !['music', 'film', 'book', 'links', 'recipe'].includes(l.kind)) errors.push(at('list.kind must be music, film, book, recipe or links'));
+      if (!l || !Array.isArray(l.items) || !l.items.length || l.items.length > 20) errors.push(at('list.items must have 1-20 entries'));
+      else {
+        for (const item of l.items) {
+          const text = typeof item === 'string' ? item : item?.text;
+          if (typeof text !== 'string' || !text.trim() || text.length > 200) errors.push(at(`list item needs text up to 200 chars (${JSON.stringify(item)})`));
+          if (item && typeof item === 'object') {
+            try {
+              const url = new URL(item.url);
+              const ok = config.allowedInspirationHosts.some((h) => url.hostname === h || url.hostname.endsWith(`.${h}`));
+              if (url.protocol !== 'https:') errors.push(at(`list link must be https (${item.url})`));
+              if (!ok) errors.push(at(`list link host ${url.hostname} is not in allowedInspirationHosts`));
+            } catch { errors.push(at(`list link is not a valid URL (${item.url})`)); }
+          }
+        }
+      }
+    }
+    if (data.topic !== undefined && !config.topics.includes(data.topic)) errors.push(at(`"topic" must be one of ${config.topics.join(', ')}`));
     if (data.photo !== undefined) {
       const ph = data.photo;
       if (!ph || typeof ph.id !== 'string' || typeof ph.author !== 'string' || !ph.author.trim()) errors.push(at('photo needs "id" and "author"'));
@@ -100,7 +133,9 @@ export function validate(ideas = loadIdeas()) {
         if (/\s{2,}|^\s|\s$/.test(v)) warnings.push(at(`text.${lang}.${f} has extra whitespace`));
       }
     }
-    if (!text.en) errors.push(at('text.en (source language) is required'));
+    // English is the source text of published ideas; a draft may start in another language.
+    if (!text.en && (data.status ?? 'published') === 'published') errors.push(at('text.en (source language) is required'));
+    if (!text.en && !Object.keys(text).length) errors.push(at('text needs at least one language'));
   }
 
   const published = ideas.filter((i) => i.data && isPublished(i));
@@ -125,7 +160,9 @@ export function buildData(ideas = loadIdeas()) {
     ageGroups: data.ageGroups,
     ...(data.image ? { image: data.image } : {}),
     ...(data.category ? { category: data.category } : {}),
+    topic: topicOf(data),
     ...(data.tags?.length ? { tags: data.tags } : {}),
+    ...(data.list ? { list: data.list } : {}),
     ...(data.inspiration ? { inspirationUrl: data.inspiration.url, ...(data.inspiration.type ? { inspirationType: data.inspiration.type } : {}) } : {}),
   }));
   mkdirSync(DATA_DIR, { recursive: true });

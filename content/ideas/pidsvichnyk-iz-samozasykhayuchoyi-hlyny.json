@@ -1,0 +1,59 @@
+{
+  "id": "task_126",
+  "slug": "pidsvichnyk-iz-samozasykhayuchoyi-hlyny",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/883972233111693942/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Підсвічник із самозасихаючої глини",
+      "shortDesc": "Ліпимо підсвічник, який засохне без печі",
+      "fullDesc": "Розкачайте самозасихаючу глину, вирізьте основу й ліпіть стінки чи зірочки, залишивши отвір для свічки. Прикрасьте відбитками гілочок чи шишок. Засихає на повітрі за добу, потім розфарбуйте. Використовуйте лише свічки на батарейках або чайні свічки під наглядом дорослих."
+    },
+    "en": {
+      "title": "Air-Dry Clay Candle Holder",
+      "shortDesc": "Sculpt a candle holder that dries without an oven",
+      "fullDesc": "Roll out air-dry clay, cut a base and shape walls or little stars, leaving a hole for the candle. Decorate with prints of twigs or pine cones. It dries in the air within a day, then you can paint it. Use only battery candles or tea lights under adult supervision."
+    },
+    "pl": {
+      "title": "Świecznik z samoutwardzalnej masy",
+      "shortDesc": "Lepimy świecznik, który wyschnie bez piekarnika",
+      "fullDesc": "Rozwałkujcie samoutwardzalną masę, wytnijcie podstawę i ulepcie ścianki lub gwiazdki, zostawiając otwór na świeczkę. Ozdóbcie odciskami gałązek lub szyszek. Schnie na powietrzu w dobę, potem można pomalować. Używajcie tylko świeczek na baterie albo tealightów pod opieką dorosłych."
+    },
+    "es": {
+      "title": "Candelero de arcilla autosecante",
+      "shortDesc": "Modelad un candelero que se seca sin horno",
+      "fullDesc": "Extended la arcilla autosecante, recortad la base y modelad las paredes o estrellitas dejando un hueco para la vela. Decorad con huellas de ramitas o piñas. Se seca al aire en un día y luego se pinta. Usad solo velas de pilas o velitas de té con supervisión de un adulto."
+    },
+    "de": {
+      "title": "Kerzenhalter aus selbsttrocknendem Ton",
+      "shortDesc": "Forme einen Kerzenhalter, der ohne Ofen trocknet",
+      "fullDesc": "Rolle selbsttrocknenden Ton aus, schneide den Boden zu und forme Wände oder Sternchen, mit einer Öffnung für die Kerze. Verziere mit Abdrücken von Zweigen oder Zapfen. Der Ton trocknet an der Luft in einem Tag, danach wird bemalt. Nimm nur Kerzen mit Batterie oder Teelichter unter Aufsicht von Erwachsenen."
+    },
+    "fr": {
+      "title": "Bougeoir en argile autodurcissante",
+      "shortDesc": "Modelez un bougeoir qui sèche sans four",
+      "fullDesc": "Étalez l'argile autodurcissante, découpez la base et modelez les parois ou des petites étoiles en laissant un creux pour la bougie. Décorez avec des empreintes de brindilles ou de pommes de pin. Elle sèche à l'air en un jour, puis on peint. Utilisez uniquement des bougies à piles ou des bougies chauffe-plat sous la surveillance d'un adulte."
+    }
+  },
+  "image": "ideas/pidsvichnyk-iz-samozasykhayuchoyi-hlyny.jpg",
+  "photo": {
+    "id": "q8AW8yFFUsI",
+    "author": "Nataliia Hordiiuk",
+    "url": "https://unsplash.com/photos/q8AW8yFFUsI"
+  }
+}

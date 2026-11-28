@@ -1,0 +1,54 @@
+{
+  "id": "task_135",
+  "slug": "znaydy-shvydshe",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Знайди швидше",
+      "shortDesc": "Ведучий називає завдання, виграє той, хто знайде першим",
+      "fullDesc": "Один гравець — ведучий. Він каже: «Знайдіть щось зелене», «знайдіть предмет на літеру К» чи «знайдіть щось м’яке». Усі шукають, а хто першим приніс і показав, отримує очко й стає наступним ведучим. Для малюків давайте прості кольори й форми."
+    },
+    "en": {
+      "title": "Find It Fast",
+      "shortDesc": "The host names a task, first to find it wins",
+      "fullDesc": "One player is the host. They say: \"Find something green\", \"find something starting with K\" or \"find something soft\". Everyone searches, and whoever brings it back and shows it first gets a point and becomes the next host. For little ones, give simple colours and shapes."
+    },
+    "pl": {
+      "title": "Znajdź szybciej",
+      "shortDesc": "Prowadzący podaje zadanie, wygrywa ten, kto znajdzie pierwszy",
+      "fullDesc": "Jeden gracz jest prowadzącym. Mówi: „Znajdźcie coś zielonego\", „znajdźcie przedmiot na literę K\" albo „znajdźcie coś miękkiego\". Wszyscy szukają, a kto pierwszy przyniesie i pokaże, dostaje punkt i zostaje kolejnym prowadzącym. Dla maluchów podawajcie proste kolory i kształty."
+    },
+    "es": {
+      "title": "Encuentra más rápido",
+      "shortDesc": "El presentador dice la tarea y gana quien lo encuentre primero",
+      "fullDesc": "Un jugador es el presentador. Dice: «Encontrad algo verde», «encontrad un objeto que empiece por C» o «encontrad algo suave». Todos buscan, y quien primero lo trae y lo muestra gana un punto y es el próximo presentador. Para los pequeños, dad colores y formas sencillos."
+    },
+    "de": {
+      "title": "Wer findet es zuerst?",
+      "shortDesc": "Der Spielleiter nennt die Aufgabe, wer es zuerst findet, gewinnt",
+      "fullDesc": "Ein Spieler ist der Spielleiter. Er sagt: „Findet etwas Grünes“, „findet einen Gegenstand mit K“ oder „findet etwas Weiches“. Alle suchen, und wer es zuerst bringt und zeigt, bekommt einen Punkt und ist der nächste Spielleiter. Für Kleine nennt einfache Farben und Formen."
+    },
+    "fr": {
+      "title": "Trouve plus vite",
+      "shortDesc": "Le meneur annonce la tâche, le premier qui trouve gagne",
+      "fullDesc": "Un joueur est le meneur. Il dit : « Trouvez quelque chose de vert », « trouvez un objet commençant par la lettre C » ou « trouvez quelque chose de doux ». Tout le monde cherche, et le premier qui l'apporte et le montre gagne un point et devient le meneur suivant. Pour les petits, donnez des couleurs et des formes simples."
+    }
+  },
+  "image": "ideas/znaydy-shvydshe.jpg",
+  "photo": {
+    "id": "ZSBFoikEu_Q",
+    "author": "Jon Tyson",
+    "url": "https://unsplash.com/photos/black-framed-magnifying-glass-ZSBFoikEu_Q"
+  }
+}

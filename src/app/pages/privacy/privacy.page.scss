@@ -16,7 +16,7 @@ section { margin-bottom: 22px; padding: 16px 18px; border-radius: 24px; backgrou
 section h2 { margin-bottom: 8px; color: #1b4332; }
 section p { margin: 0; color: #5b4f48; font-size: 14px; line-height: 1.6; }
 
-@media (min-width: 600px) { .privacy-shell { padding: 28px; } }
+@media (min-width: 600px) { .privacy-shell { padding: 30px; } }
 // The page card has the same width as every other page; the text sits in readable columns.
 @media (min-width: 600px) {
   .intro { max-width: 720px; }

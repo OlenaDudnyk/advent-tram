@@ -13,6 +13,7 @@ import {
 } from '../../core/services';
 import { BackButtonComponent } from '../../shared/back-button/back-button.component';
 import { FrameFooterComponent, FrameNavComponent } from '../../shared/frame/frame.component';
+import { IdeaListComponent } from '../../shared/idea-list/idea-list.component';
 import { InspirationLinkComponent } from '../../shared/inspiration-link/inspiration-link.component';
 import { MemoryFormComponent } from '../memory-form/memory-form.component';
 
@@ -49,7 +50,7 @@ export interface CalendarCell {
 
 @Component({
   selector: 'app-tram-route',
-  imports: [FrameNavComponent, FrameFooterComponent, NgTemplateOutlet, IonContent, IonModal, TranslatePipe, MemoryFormComponent, BackButtonComponent, InspirationLinkComponent],
+  imports: [FrameNavComponent, FrameFooterComponent, NgTemplateOutlet, IonContent, IonModal, TranslatePipe, MemoryFormComponent, BackButtonComponent, InspirationLinkComponent, IdeaListComponent],
   templateUrl: './tram-route.page.html',
   styleUrls: ['./tram-route.page.scss'],
 })
@@ -124,11 +125,12 @@ export class TramRoutePage {
   readonly viewMonth = signal(11);
   readonly canPrev = computed(() => this.months().indexOf(this.viewMonth()) > 0);
   readonly canNext = computed(() => this.months().indexOf(this.viewMonth()) < this.months().length - 1);
-  /** Tablet and up show a Monday-first month grid; phones keep the compact Advent grid. */
+  /** Tablet and up show a Sunday-first month grid; phones keep the compact Advent grid. */
   readonly tablet = inject(LayoutService).tablet;
   readonly monthWeekdays = computed(() => {
     const formatter = new Intl.DateTimeFormat(LOCALES[this.language()], { weekday: 'short' });
-    return Array.from({ length: 7 }, (_, i) => formatter.format(new Date(2024, 0, 1 + i, 12)).replace(/\.$/, '').toUpperCase());
+    // 2023-01-01 is a Sunday
+    return Array.from({ length: 7 }, (_, i) => formatter.format(new Date(2023, 0, 1 + i, 12)).replace(/\.$/, '').toUpperCase());
   });
 
   private buildCell(day: string, today: string, muted: boolean): CalendarCell {
@@ -156,10 +158,15 @@ export class TramRoutePage {
     const year = this.year();
     const month = this.viewMonth();
     const [from, to] = this.range();
-    const lead = (new Date(year, month, 1, 12).getDay() + 6) % 7;
+    const lead = new Date(year, month, 1, 12).getDay();
     const count = new Date(year, month + 1, 0, 12).getDate();
     const cells: CalendarCell[] = [];
-    for (let i = lead; i > 0; i--) cells.push(this.buildCell(calendarDate(new Date(year, month, 1 - i, 12)), today, true));
+    // days of the neighbouring month in the first row stay active when they belong to the Advent range
+    // (church Advent: Nov 29-30 are shown as real days next to December)
+    for (let i = lead; i > 0; i--) {
+      const day = calendarDate(new Date(year, month, 1 - i, 12));
+      cells.push(this.buildCell(day, today, day < from || day > to));
+    }
     for (let d = 1; d <= count; d++) {
       const day = calendarDate(new Date(year, month, d, 12));
       cells.push(this.buildCell(day, today, day < from || day > to));

@@ -1,0 +1,70 @@
+{
+  "id": "task_057",
+  "slug": "vechir-rizdvyanoho-kino",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "film",
+    "cozy"
+  ],
+  "list": {
+    "kind": "film",
+    "items": [
+      "Home Alone (1990)",
+      "The Polar Express (2004)",
+      "Elf (2003)",
+      "Klaus (2019)",
+      "The Grinch (2018)",
+      "Arthur Christmas (2011)",
+      "A Charlie Brown Christmas (1965)",
+      "Ніч перед Різдвом (1951)",
+      {
+        "text": "Добірка різдвяних фільмів — Pinterest",
+        "url": "https://www.pinterest.com/pin/41025046597438651/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Вечір різдвяного кіно",
+      "shortDesc": "Світло приглушене, попкорн готовий",
+      "fullDesc": "Разом оберіть святковий фільм, у якому є тепло й добрий настрій. Принесіть ковдри, подушки, попкорн і гарячі напої. Влаштуйтеся зручно й не дивіться в телефони. Після титрів обговоріть улюблені моменти."
+    },
+    "en": {
+      "title": "Christmas Movie Night",
+      "shortDesc": "Lights dimmed, popcorn ready",
+      "fullDesc": "Choose a festive film together, one full of warmth and good cheer. Bring blankets, pillows, popcorn and hot drinks. Get comfortable and keep your phones away. After the credits, talk about your favourite moments."
+    },
+    "pl": {
+      "title": "Wieczór ze świątecznym filmem",
+      "shortDesc": "Przyciemnione światło, popcorn gotowy",
+      "fullDesc": "Wybierzcie razem świąteczny film pełen ciepła i dobrego nastroju. Przynieście koce, poduszki, popcorn i gorące napoje. Usadowcie się wygodnie i odłóżcie telefony. Po napisach porozmawiajcie o ulubionych momentach."
+    },
+    "es": {
+      "title": "Noche de cine navideño",
+      "shortDesc": "Luz tenue y palomitas listas",
+      "fullDesc": "Elegid juntos una película festiva con calidez y buen ánimo. Traed mantas, cojines, palomitas y bebidas calientes. Acomodaos sin mirar el móvil. Tras los créditos comentad vuestros momentos favoritos."
+    },
+    "de": {
+      "title": "Weihnachtsfilmabend",
+      "shortDesc": "Gedimmtes Licht, Popcorn steht bereit",
+      "fullDesc": "Wählt gemeinsam einen festlichen Film mit Wärme und guter Stimmung aus. Bringt Decken, Kissen, Popcorn und heiße Getränke mit. Macht es euch bequem und schaut nicht aufs Handy. Nach dem Abspann sprecht ihr über eure Lieblingsmomente."
+    },
+    "fr": {
+      "title": "Soirée cinéma de Noël",
+      "shortDesc": "Lumière tamisée, pop-corn prêt",
+      "fullDesc": "Choisissez ensemble un film de fête plein de chaleur et de bonne humeur. Apportez des couvertures, des coussins, du pop-corn et des boissons chaudes. Installez-vous confortablement sans regarder vos téléphones. Après le générique, parlez de vos moments préférés."
+    }
+  },
+  "image": "ideas/vechir-rizdvyanoho-kino.jpg",
+  "photo": {
+    "id": "PU7Zq1LyuEA",
+    "author": "Zoe",
+    "url": "https://unsplash.com/photos/a-book-sitting-on-a-blanket-in-front-of-a-christmas-tree-PU7Zq1LyuEA"
+  }
+}

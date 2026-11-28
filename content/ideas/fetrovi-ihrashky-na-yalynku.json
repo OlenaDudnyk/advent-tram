@@ -1,0 +1,55 @@
+{
+  "id": "task_045",
+  "slug": "fetrovi-ihrashky-na-yalynku",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Фетрові іграшки на ялинку",
+      "shortDesc": "Тихе рукоділля для довгого вечора",
+      "fullDesc": "Виріжте з фетру прості форми: зірки, чобітки, ґудзики-кульки. З’єднайте їх невеликими стібками й набийте ватою. Дітям допоможуть дорослі з голкою. Така іграшка стане частиною ялинки на довгі роки."
+    },
+    "en": {
+      "title": "Felt Tree Ornaments",
+      "shortDesc": "Quiet crafting for a long evening",
+      "fullDesc": "Cut simple shapes from felt: stars, little boots, round baubles. Join them with small stitches and stuff with cotton wool. Grown-ups can help children with the needle. Such an ornament becomes part of your tree for many years."
+    },
+    "pl": {
+      "title": "Filcowe ozdoby na choinkę",
+      "shortDesc": "Ciche rękodzieło na długi wieczór",
+      "fullDesc": "Wytnijcie z filcu proste kształty: gwiazdki, butki i kuleczki. Zszyjcie je małymi ściegami i wypchajcie watą. Dzieciom z igłą pomogą dorośli. Taka ozdoba stanie się częścią waszej choinki na długie lata."
+    },
+    "es": {
+      "title": "Adornos de fieltro para el árbol",
+      "shortDesc": "Manualidad tranquila para una tarde larga",
+      "fullDesc": "Recortad en fieltro formas sencillas: estrellas, botitas, bolitas. Unidlas con puntadas pequeñas y rellenad con algodón. Los adultos ayudan a los niños con la aguja. Un adorno así formará parte del árbol durante muchos años."
+    },
+    "de": {
+      "title": "Filzschmuck für den Tannenbaum",
+      "shortDesc": "Stilles Basteln für einen langen Abend",
+      "fullDesc": "Schneide aus Filz einfache Formen aus: Sterne, Stiefelchen, Kugeln. Verbinde sie mit kleinen Stichen und stopfe sie mit Watte aus. Erwachsene helfen den Kindern mit der Nadel. So ein Schmuckstück gehört viele Jahre zum Baum."
+    },
+    "fr": {
+      "title": "Décorations en feutrine pour le sapin",
+      "shortDesc": "Un loisir créatif tranquille pour une longue soirée",
+      "fullDesc": "Découpez dans du feutre des formes simples : étoiles, petites bottes, boules. Assemblez-les avec de petits points et rembourrez de ouate. Les adultes aident les enfants avec l'aiguille. Une telle décoration fera partie du sapin pendant de longues années."
+    }
+  },
+  "image": "ideas/fetrovi-ihrashky-na-yalynku.jpg",
+  "photo": {
+    "id": "dHKVMfZhmDk",
+    "author": "Bernardine Cantwell",
+    "url": "https://unsplash.com/photos/dHKVMfZhmDk"
+  }
+}

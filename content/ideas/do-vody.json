@@ -1,0 +1,56 @@
+{
+  "id": "task_092",
+  "slug": "do-vody",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "nature",
+    "walk",
+    "birds"
+  ],
+  "text": {
+    "ua": {
+      "title": "До води",
+      "shortDesc": "Прогуляйтеся до річки чи озера й поспостерігайте",
+      "fullDesc": "Вирушайте до найближчої води: річки, озера, ставка чи моря. Подивіться, як змінилася вона взимку, пошукайте птахів, лід, цікаві камінці. Повертайтеся неспішно та занотуйте, що найбільше здивувало."
+    },
+    "en": {
+      "title": "To the Water",
+      "shortDesc": "Walk to a river or lake and watch",
+      "fullDesc": "Head to the nearest water: a river, lake, pond or the sea. See how it looks in winter, and look for birds, ice and interesting pebbles. Walk back slowly and jot down what surprised you most."
+    },
+    "pl": {
+      "title": "Nad wodę",
+      "shortDesc": "Wybierzcie się nad rzekę lub jezioro i poobserwujcie",
+      "fullDesc": "Ruszajcie do najbliższej wody: rzeki, jeziora, stawu albo morza. Zobaczcie, jak zmieniła się zimą, poszukajcie ptaków, lodu i ciekawych kamyków. Wracajcie niespiesznie i zapiszcie, co zdziwiło was najbardziej."
+    },
+    "es": {
+      "title": "Hasta el agua",
+      "shortDesc": "Pasead hasta un río o un lago y observad",
+      "fullDesc": "Id hasta el agua más cercana: un río, un lago, un estanque o el mar. Mirad cómo ha cambiado en invierno y buscad pájaros, hielo y piedrecitas curiosas. Volved sin prisa y anotad qué fue lo que más os sorprendió."
+    },
+    "de": {
+      "title": "Ans Wasser",
+      "shortDesc": "Spaziert zu einem Fluss oder See und beobachtet",
+      "fullDesc": "Geht zum nächsten Gewässer: Fluss, See, Teich oder Meer. Schau, wie es sich im Winter verändert hat, und suche Vögel, Eis und besondere Steinchen. Geht ohne Eile zurück und notiere, was dich am meisten überrascht hat."
+    },
+    "fr": {
+      "title": "Au bord de l'eau",
+      "shortDesc": "Promenez-vous jusqu'à une rivière ou un lac et observez",
+      "fullDesc": "Rendez-vous au point d'eau le plus proche : rivière, lac, étang ou mer. Regardez comment il a changé en hiver, cherchez des oiseaux, de la glace, de jolis cailloux. Rentrez sans vous presser et notez ce qui vous a le plus surpris."
+    }
+  },
+  "image": "ideas/do-vody.jpg",
+  "photo": {
+    "id": "U7WNSaF8QqU",
+    "author": "Gregory Brainard",
+    "url": "https://unsplash.com/photos/U7WNSaF8QqU"
+  }
+}

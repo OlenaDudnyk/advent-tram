@@ -1,0 +1,68 @@
+{
+  "id": "task_029",
+  "slug": "pitsa-vechir-kozhen-skladaye-svoyu",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "kitchen",
+    "cozy"
+  ],
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Піца-маргарита — Євген Клопотенко",
+        "url": "https://klopotenko.com/yak-v-neapoli-italijska-picza-margaryta-vid-yevgena-klopotenka/"
+      },
+      {
+        "text": "Піца на сковороді — Євген Клопотенко",
+        "url": "https://klopotenko.com/pitsa-na-skovorodi/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Піца-вечір: кожен складає свою",
+      "shortDesc": "Мисочки з начинками й багато смішних комбінацій",
+      "fullDesc": "Приготуйте основу, соус і начинки в мисочках: сир, шинку, овочі, зелень, ананас, оливки. Кожен збирає власну піцу за власним смаком, а потім обмінюйтесь шматочками й голосуйте за найкращу комбінацію. Дорослі допомагають із духовкою."
+    },
+    "en": {
+      "title": "Pizza Night: Everyone Builds Their Own",
+      "shortDesc": "Bowls of toppings and plenty of funny combinations",
+      "fullDesc": "Prepare the base, sauce and toppings in bowls: cheese, ham, vegetables, herbs, pineapple, olives. Everyone builds their own pizza to their taste, then swap slices and vote for the best combination. Grown-ups help with the oven."
+    },
+    "pl": {
+      "title": "Wieczór pizzy: każdy układa swoją",
+      "shortDesc": "Miseczki z dodatkami i mnóstwo zabawnych połączeń",
+      "fullDesc": "Przygotujcie spód, sos i dodatki w miseczkach: ser, szynkę, warzywa, zioła, ananasa, oliwki. Każdy układa własną pizzę według gustu, a potem wymieniajcie się kawałkami i głosujcie na najlepsze połączenie. Dorośli pomagają przy piekarniku."
+    },
+    "es": {
+      "title": "Noche de pizza: cada uno la suya",
+      "shortDesc": "Cuencos con ingredientes y muchas combinaciones divertidas",
+      "fullDesc": "Preparad la masa, la salsa y los ingredientes en cuencos: queso, jamón, verduras, hierbas, piña, aceitunas. Cada uno monta su pizza a su gusto, y luego intercambiad trozos y votad la mejor combinación. Los adultos ayudan con el horno."
+    },
+    "de": {
+      "title": "Pizzaabend: jeder belegt seine eigene",
+      "shortDesc": "Schälchen mit Belägen und viele lustige Kombinationen",
+      "fullDesc": "Bereite Teigboden, Soße und Beläge in Schälchen vor: Käse, Schinken, Gemüse, Kräuter, Ananas, Oliven. Jeder belegt seine eigene Pizza nach Geschmack, dann tauscht ihr Stücke und stimmt über die beste Kombination ab. Die Erwachsenen helfen mit dem Ofen."
+    },
+    "fr": {
+      "title": "Soirée pizza : chacun la sienne",
+      "shortDesc": "Des bols de garnitures et plein de combinaisons amusantes",
+      "fullDesc": "Préparez la pâte, la sauce et les garnitures dans des bols : fromage, jambon, légumes, herbes, ananas, olives. Chacun compose sa pizza à son goût, puis échangez des parts et votez pour la meilleure combinaison. Les adultes aident pour le four."
+    }
+  },
+  "image": "ideas/pitsa-vechir-kozhen-skladaye-svoyu.jpg",
+  "photo": {
+    "id": "A3WXQtxRuVY",
+    "author": "Genet Schneider",
+    "url": "https://unsplash.com/photos/A3WXQtxRuVY"
+  }
+}

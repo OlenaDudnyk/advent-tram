@@ -1,0 +1,55 @@
+{
+  "id": "task_036",
+  "slug": "vata-snizhky-na-nytochkakh",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Вата-сніжки на ниточках",
+      "shortDesc": "Легкий мобіль, що колишеться від подиху",
+      "fullDesc": "Сформуйте з вати маленькі грудочки, приклейте їх до ниток різної довжини та закріпіть на гілці чи обручі. Повісьте біля вікна, і у вашій кімнаті падатиме сніг навіть без морозу. Підійде навіть малюкам."
+    },
+    "en": {
+      "title": "Cotton Snowballs on Strings",
+      "shortDesc": "A light mobile that sways with your breath",
+      "fullDesc": "Shape small balls from cotton wool, glue them to threads of different lengths and attach them to a branch or hoop. Hang it by the window, and it will snow in your room even without frost. Even toddlers can join in."
+    },
+    "pl": {
+      "title": "Watowe śnieżki na nitkach",
+      "shortDesc": "Lekki mobil, który kołysze się od oddechu",
+      "fullDesc": "Uformujcie z waty małe kulki, przyklejcie je do nitek różnej długości i przymocujcie do gałązki lub obręczy. Powieście przy oknie, a w waszym pokoju będzie padać śnieg nawet bez mrozu. Nadaje się nawet dla maluchów."
+    },
+    "es": {
+      "title": "Copos de algodón en hilos",
+      "shortDesc": "Un móvil ligero que se mece con el soplo",
+      "fullDesc": "Formad bolitas pequeñas de algodón, pegadlas a hilos de distinta longitud y atadlos a una rama o a un aro. Colgadlo junto a la ventana y en la habitación nevará aunque no haga frío. Sirve incluso para los más pequeños."
+    },
+    "de": {
+      "title": "Watteschneeflocken an Fäden",
+      "shortDesc": "Ein leichtes Mobile, das sich im Atemhauch bewegt",
+      "fullDesc": "Forme aus Watte kleine Bällchen, klebe sie an Fäden unterschiedlicher Länge und befestige sie an einem Zweig oder Reifen. Häng es ans Fenster, und in eurem Zimmer schneit es auch ohne Frost. Passt sogar für Kleinkinder."
+    },
+    "fr": {
+      "title": "Flocons de coton sur des fils",
+      "shortDesc": "Un mobile léger qui se balance au moindre souffle",
+      "fullDesc": "Formez de petites boules de coton, collez-les à des fils de longueurs différentes et fixez-les à une branche ou à un cerceau. Suspendez-le près de la fenêtre et il neigera dans votre pièce même sans gel. Convient même aux tout-petits."
+    }
+  },
+  "image": "ideas/vata-snizhky-na-nytochkakh.jpg",
+  "photo": {
+    "id": "3XRCnnPwMgY",
+    "author": "Purl Avenue",
+    "url": "https://unsplash.com/photos/a-group-of-balls-of-yarn-sitting-on-top-of-a-wooden-table-3XRCnnPwMgY"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "task_096",
+  "slug": "malyunok-dlya-zakhysnyka",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "category": "heart_deed",
+  "tags": [
+    "volunteering",
+    "kindness"
+  ],
+  "text": {
+    "ua": {
+      "title": "Малюнок для захисника",
+      "shortDesc": "Намалюйте картинку для військового чи військової",
+      "fullDesc": "Візьміть аркуш і малюйте щось світле: сонце, рідний дім, кота, подяку. Підпишіть кілька теплих слів. Малюнок можна передати через знайомих чи перевірених волонтерів, які збирають листівки. Для того, хто його отримає, це справжній промінчик."
+    },
+    "en": {
+      "title": "Drawing for a Defender",
+      "shortDesc": "Draw a picture for a soldier",
+      "fullDesc": "Take a sheet of paper and draw something bright: the sun, your home, a cat, a thank-you. Add a few warm words. The drawing can be passed on through acquaintances or trusted volunteers who collect cards. For whoever receives it, it is a true ray of light."
+    },
+    "pl": {
+      "title": "Rysunek dla obrońcy",
+      "shortDesc": "Narysujcie obrazek dla żołnierza lub żołnierki",
+      "fullDesc": "Weźcie kartkę i narysujcie coś jasnego: słońce, rodzinny dom, kota, podziękowanie. Dopiszcie kilka ciepłych słów. Rysunek można przekazać przez znajomych albo sprawdzonych wolontariuszy, którzy zbierają kartki. Dla osoby, która go dostanie, to prawdziwy promyk słońca."
+    },
+    "es": {
+      "title": "Dibujo para un defensor",
+      "shortDesc": "Dibujad un cuadro para un militar",
+      "fullDesc": "Coged una hoja y dibujad algo luminoso: el sol, vuestro hogar, un gato, un agradecimiento. Escribid unas palabras cálidas. El dibujo se puede entregar a través de conocidos o de voluntarios de confianza que recogen postales. Para quien lo reciba, será un verdadero rayito de luz."
+    },
+    "de": {
+      "title": "Bild für einen Verteidiger",
+      "shortDesc": "Male ein Bild für einen Soldaten oder eine Soldatin",
+      "fullDesc": "Nimm ein Blatt und male etwas Helles: die Sonne, dein Zuhause, eine Katze, ein Dankeschön. Schreibe ein paar warme Worte dazu. Das Bild kannst du über Bekannte oder verlässliche Freiwillige abgeben, die Karten sammeln. Für den, der es bekommt, ist es ein echter Sonnenstrahl."
+    },
+    "fr": {
+      "title": "Un dessin pour un défenseur",
+      "shortDesc": "Dessinez une image pour un militaire",
+      "fullDesc": "Prenez une feuille et dessinez quelque chose de lumineux : le soleil, la maison, un chat, un merci. Ajoutez quelques mots chaleureux. Le dessin peut être transmis par des connaissances ou des bénévoles de confiance qui collectent des cartes. Pour celui qui le recevra, ce sera un vrai rayon de soleil."
+    }
+  },
+  "image": "ideas/malyunok-dlya-zakhysnyka.jpg",
+  "photo": {
+    "id": "sJuDgtkUyYs",
+    "author": "Lucas Alexander",
+    "url": "https://unsplash.com/photos/sJuDgtkUyYs"
+  }
+}

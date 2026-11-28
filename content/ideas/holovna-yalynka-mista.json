@@ -1,0 +1,57 @@
+{
+  "id": "task_079",
+  "slug": "holovna-yalynka-mista",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "lights",
+    "tradition",
+    "photo"
+  ],
+  "text": {
+    "ua": {
+      "title": "Головна ялинка міста",
+      "shortDesc": "Зустріньтеся біля святкової ялинки на площі",
+      "fullDesc": "Вирушайте до центральної ялинки у вашому місті чи містечку. Розгляньте прикраси, зробіть спільне фото та вигадайте, які іграшки повісили б ви. Простий маленький ритуал, що повертається щороку."
+    },
+    "en": {
+      "title": "The City's Main Tree",
+      "shortDesc": "Meet at the festive tree in the square",
+      "fullDesc": "Head to the central Christmas tree in your city or town. Look at the decorations, take a group photo and think of which ornaments you would hang. A simple little ritual that comes back every year."
+    },
+    "pl": {
+      "title": "Główna choinka miasta",
+      "shortDesc": "Spotkajcie się przy świątecznej choince na rynku",
+      "fullDesc": "Wybierzcie się do głównej choinki w waszym mieście lub miasteczku. Obejrzyjcie ozdoby, zróbcie wspólne zdjęcie i wymyślcie, jakie bombki wy byście powiesili. Prosty, mały rytuał, który wraca co roku."
+    },
+    "es": {
+      "title": "El árbol principal de la ciudad",
+      "shortDesc": "Quedad junto al árbol de Navidad de la plaza",
+      "fullDesc": "Id hasta el árbol central de vuestra ciudad o pueblo. Mirad los adornos, haceos una foto juntos e imaginad qué bolas colgaríais vosotros. Un pequeño ritual sencillo que vuelve cada año."
+    },
+    "de": {
+      "title": "Der große Weihnachtsbaum der Stadt",
+      "shortDesc": "Trefft euch am festlichen Baum auf dem Platz",
+      "fullDesc": "Geht zum zentralen Weihnachtsbaum in eurer Stadt oder eurem Ort. Schaut euch den Schmuck an, macht ein gemeinsames Foto und überlegt, welche Kugeln ihr aufhängen würdet. Ein kleines, einfaches Ritual, das jedes Jahr wiederkehrt."
+    },
+    "fr": {
+      "title": "Le grand sapin de la ville",
+      "shortDesc": "Retrouvez-vous près du sapin de fête sur la place",
+      "fullDesc": "Allez voir le sapin central de votre ville ou de votre village. Regardez les décorations, prenez une photo ensemble et imaginez quelles boules vous y accrocheriez. Un petit rituel tout simple qui revient chaque année."
+    }
+  },
+  "image": "ideas/holovna-yalynka-mista.jpg",
+  "photo": {
+    "id": "wslHiDslHKQ",
+    "author": "Carnet de Voyage d'Alex",
+    "url": "https://unsplash.com/photos/wslHiDslHKQ"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "task_075",
+  "slug": "rizdvyana-vitryna",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "lights",
+    "walk"
+  ],
+  "text": {
+    "ua": {
+      "title": "Різдвяна вітрина",
+      "shortDesc": "Оберіть найкращу святкову вітрину на вашій вулиці",
+      "fullDesc": "Пройдіться вулицею й зупиняйтеся біля вітрин, прикрашених до свят. Кожен обирає свою улюблену й розповідає, чому саме вона. Можна пошепки загадати, що хотілося б поставити у власну вітрину удома."
+    },
+    "en": {
+      "title": "Christmas Shop Window",
+      "shortDesc": "Pick the best festive window on your street",
+      "fullDesc": "Walk down your street and stop at windows decorated for the holidays. Everyone chooses a favourite and says why. You can also whisper what you would like to put in a window of your own at home."
+    },
+    "pl": {
+      "title": "Świąteczna wystawa",
+      "shortDesc": "Wybierzcie najpiękniejszą świąteczną wystawę na waszej ulicy",
+      "fullDesc": "Przejdźcie się ulicą i zatrzymujcie się przy wystawach udekorowanych na święta. Każdy wybiera swoją ulubioną i mówi, dlaczego właśnie ją. Możecie też szeptem zdradzić, co chcielibyście postawić we własnym oknie w domu."
+    },
+    "es": {
+      "title": "Vitrina navideña",
+      "shortDesc": "Elegid el mejor escaparate festivo de vuestra calle",
+      "fullDesc": "Recorred la calle y parad ante los escaparates decorados para las fiestas. Cada uno elige su favorito y cuenta por qué. Podéis susurrar qué os gustaría poner en vuestro propio escaparate en casa."
+    },
+    "de": {
+      "title": "Weihnachtsschaufenster",
+      "shortDesc": "Wählt das schönste festliche Schaufenster in eurer Straße",
+      "fullDesc": "Geh die Straße entlang und bleibt vor den festlich geschmückten Schaufenstern stehen. Jeder sucht sich sein liebstes aus und erzählt, warum gerade dieses. Du kannst flüstern, was du gern in dein eigenes Schaufenster zu Hause stellen würdest."
+    },
+    "fr": {
+      "title": "La vitrine de Noël",
+      "shortDesc": "Choisissez la plus belle vitrine de fête de votre rue",
+      "fullDesc": "Promenez-vous dans la rue et arrêtez-vous devant les vitrines décorées pour les fêtes. Chacun choisit sa préférée et explique pourquoi. Vous pouvez chuchoter ce que vous aimeriez mettre dans votre propre vitrine à la maison."
+    }
+  },
+  "image": "ideas/rizdvyana-vitryna.jpg",
+  "photo": {
+    "id": "5Vewg-WkzUo",
+    "author": "Alexandra",
+    "url": "https://unsplash.com/photos/5Vewg-WkzUo"
+  }
+}

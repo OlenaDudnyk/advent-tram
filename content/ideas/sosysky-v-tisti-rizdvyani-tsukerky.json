@@ -1,0 +1,71 @@
+{
+  "id": "task_108",
+  "slug": "sosysky-v-tisti-rizdvyani-tsukerky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "kitchen",
+    "baking"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/65231894599633344/",
+    "type": "pinterest"
+  },
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Сосиски в тісті — Євген Клопотенко",
+        "url": "https://klopotenko.com/sosysky-v-tisti-za-reczeptom-yevgena-klopotenka/"
+      },
+      {
+        "text": "Сосиски в листковому тісті",
+        "url": "https://klopotenko.com/hrustki-zzovni-ta-nizhni-vseredyni-sosysky-v-tisti-z-lystkovogo-tista-za-reczeptom-yevgena-klopotenka/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Сосиски в тісті — різдвяні цукерки",
+      "shortDesc": "Смачні «цукерки» для святкового столу",
+      "fullDesc": "Загорніть сосиски в тонкі смужки тіста, залишивши кінці, ніби обгортку цукерки. Змастіть жовтком і випікайте до золотистого кольору. Подавайте на святковій тарілці. Приклад — за посиланням."
+    },
+    "en": {
+      "title": "Sausage Rolls: Christmas Candies",
+      "shortDesc": "Tasty \"candies\" for the festive table",
+      "fullDesc": "Wrap sausages in thin strips of dough, leaving the ends like a candy wrapper. Brush with egg yolk and bake until golden. Serve on a festive platter. See the link for an example."
+    },
+    "pl": {
+      "title": "Kiełbaski w cieście: świąteczne cukierki",
+      "shortDesc": "Smaczne „cukierki\" na świąteczny stół",
+      "fullDesc": "Owińcie kiełbaski cienkimi paskami ciasta, zostawiając końcówki jak opakowanie cukierka. Posmarujcie żółtkiem i pieczcie na złoto. Podawajcie na świątecznym talerzu. Przykład znajdziecie pod linkiem."
+    },
+    "es": {
+      "title": "Salchichas en hojaldre: caramelos navideños",
+      "shortDesc": "Ricos «caramelos» para la mesa de fiesta",
+      "fullDesc": "Envolved las salchichas en tiras finas de masa, dejando los extremos como el envoltorio de un caramelo. Pintad con yema y hornead hasta que se doren. Servidlas en un plato festivo. Hay un ejemplo en el enlace."
+    },
+    "de": {
+      "title": "Würstchen im Teig als Weihnachtsbonbons",
+      "shortDesc": "Leckere „Bonbons“ für den festlichen Tisch",
+      "fullDesc": "Wickle Würstchen in dünne Teigstreifen und lass die Enden wie bei einer Bonbonverpackung überstehen. Bestreiche sie mit Eigelb und backe sie goldbraun. Serviere sie auf einem festlichen Teller. Ein Beispiel findest du über den Link."
+    },
+    "fr": {
+      "title": "Saucisses en pâte, bonbons de Noël",
+      "shortDesc": "De délicieux « bonbons » pour la table de fête",
+      "fullDesc": "Enroulez les saucisses dans de fines bandes de pâte en laissant dépasser les bouts, comme l'emballage d'un bonbon. Badigeonnez de jaune d'œuf et faites cuire jusqu'à ce que ce soit doré. Servez sur une assiette de fête. Un exemple se trouve via le lien."
+    }
+  },
+  "image": "ideas/sosysky-v-tisti-rizdvyani-tsukerky.jpg",
+  "photo": {
+    "id": "DG8xZTSLz8g",
+    "author": "Alexandra Dobrin",
+    "url": "https://unsplash.com/photos/DG8xZTSLz8g"
+  }
+}

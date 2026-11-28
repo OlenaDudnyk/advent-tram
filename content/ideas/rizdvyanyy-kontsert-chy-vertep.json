@@ -1,0 +1,56 @@
+{
+  "id": "task_090",
+  "slug": "rizdvyanyy-kontsert-chy-vertep",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "tradition",
+    "market"
+  ],
+  "text": {
+    "ua": {
+      "title": "Різдвяний концерт чи вертеп",
+      "shortDesc": "Сходіть на місцеве святкове дійство разом",
+      "fullDesc": "Дізнайтеся, чи є поблизу святковий концерт, вертеп чи колядування, і сходіть разом. Послухайте співи, постійте серед людей і відчуйте, як приємно ділити свято з містом. Далі за бажанням можна самим проспівати щось по дорозі додому."
+    },
+    "en": {
+      "title": "Christmas Concert or Nativity Play",
+      "shortDesc": "Go to a local festive event together",
+      "fullDesc": "Find out whether there is a festive concert, nativity play or carolling nearby and go together. Listen to the singing, stand among the crowd and feel how nice it is to share the holiday with your town. On the way home, you can sing something yourselves if you like."
+    },
+    "pl": {
+      "title": "Koncert świąteczny lub jasełka",
+      "shortDesc": "Wybierzcie się razem na lokalne świąteczne wydarzenie",
+      "fullDesc": "Dowiedzcie się, czy w pobliżu odbywa się koncert świąteczny, jasełka albo kolędowanie, i wybierzcie się razem. Posłuchajcie śpiewu, postójcie wśród ludzi i poczujcie, jak miło dzielić święto z całym miastem. W drodze do domu możecie sami coś zaśpiewać, jeśli macie ochotę."
+    },
+    "es": {
+      "title": "Concierto navideño o belén viviente",
+      "shortDesc": "Id juntos a un acto festivo local",
+      "fullDesc": "Averiguad si hay cerca un concierto festivo, un belén viviente o villancicos, e id juntos. Escuchad los cantos, quedaos entre la gente y sentid lo agradable que es compartir la fiesta con la ciudad. Si queréis, de vuelta a casa podéis cantar algo vosotros."
+    },
+    "de": {
+      "title": "Weihnachtskonzert oder Krippenspiel",
+      "shortDesc": "Geht gemeinsam zu einer festlichen Veranstaltung in der Nähe",
+      "fullDesc": "Finde heraus, ob es in der Nähe ein Weihnachtskonzert, ein Krippenspiel oder Weihnachtssingen gibt, und geht zusammen hin. Hört den Liedern zu, steht unter den Leuten und spürt, wie schön es ist, das Fest mit der Stadt zu teilen. Auf dem Heimweg könnt ihr auf Wunsch selbst etwas singen."
+    },
+    "fr": {
+      "title": "Concert de Noël ou crèche vivante",
+      "shortDesc": "Allez ensemble à une fête locale",
+      "fullDesc": "Renseignez-vous pour savoir s'il y a près de chez vous un concert de fête, une crèche vivante ou des chants de Noël, et allez-y ensemble. Écoutez les chants, restez au milieu des gens et sentez combien il est agréable de partager la fête avec la ville. Si vous le souhaitez, vous pouvez chanter vous-mêmes en rentrant."
+    }
+  },
+  "image": "ideas/rizdvyanyy-kontsert-chy-vertep.jpg",
+  "photo": {
+    "id": "LmcPCp92KFo",
+    "author": "Quilia",
+    "url": "https://unsplash.com/photos/LmcPCp92KFo"
+  }
+}

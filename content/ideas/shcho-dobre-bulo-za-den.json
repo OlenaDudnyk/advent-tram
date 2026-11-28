@@ -1,0 +1,53 @@
+{
+  "id": "task_066",
+  "slug": "shcho-dobre-bulo-za-den",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 5,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "tradition",
+    "memory"
+  ],
+  "text": {
+    "ua": {
+      "title": "Що добре було за день",
+      "shortDesc": "П’ять хвилин вдячності перед сном",
+      "fullDesc": "Сядьте разом наприкінці дня й поділіться, що було приємного: тепла розмова, смачна страва, смішний випадок. Дозвольте кожному сказати по кілька слів і не перебивайте. Проста звичка робить вечори спокійнішими."
+    },
+    "en": {
+      "title": "What Was Good Today",
+      "shortDesc": "Five minutes of gratitude before bed",
+      "fullDesc": "Sit together at the end of the day and share what was nice: a warm conversation, a tasty dish, a funny moment. Let everyone say a few words and do not interrupt. This simple habit makes evenings calmer."
+    },
+    "pl": {
+      "title": "Co dobrego było dziś",
+      "shortDesc": "Pięć minut wdzięczności przed snem",
+      "fullDesc": "Usiądźcie razem pod koniec dnia i podzielcie się tym, co było miłe: ciepłą rozmową, smaczną potrawą, zabawnym zdarzeniem. Pozwólcie każdemu powiedzieć kilka słów i nie przerywajcie. Ten prosty zwyczaj sprawia, że wieczory stają się spokojniejsze."
+    },
+    "es": {
+      "title": "Lo bueno del día",
+      "shortDesc": "Cinco minutos de gratitud antes de dormir",
+      "fullDesc": "Sentaos juntos al final del día y compartid lo que fue agradable: una charla cálida, una comida rica, algo gracioso. Dejad que cada uno diga unas palabras sin interrumpir. Esta sencilla costumbre hace las noches más tranquilas."
+    },
+    "de": {
+      "title": "Was heute gut war",
+      "shortDesc": "Fünf Minuten Dankbarkeit vor dem Schlafen",
+      "fullDesc": "Setzt euch am Ende des Tages zusammen und erzählt, was schön war: ein warmes Gespräch, ein leckeres Essen, ein lustiger Moment. Lass jeden ein paar Worte sagen und unterbrich nicht. Diese einfache Gewohnheit macht die Abende ruhiger."
+    },
+    "fr": {
+      "title": "Ce qui était bien aujourd'hui",
+      "shortDesc": "Cinq minutes de gratitude avant de dormir",
+      "fullDesc": "Asseyez-vous ensemble en fin de journée et partagez ce qui a été agréable : une conversation chaleureuse, un bon plat, un moment drôle. Laissez chacun dire quelques mots sans l'interrompre. Cette habitude simple rend les soirées plus paisibles."
+    }
+  },
+  "image": "ideas/shcho-dobre-bulo-za-den.jpg",
+  "photo": {
+    "id": "CUoyo6Pz0pU",
+    "author": "Natali Martynova",
+    "url": "https://unsplash.com/photos/CUoyo6Pz0pU"
+  }
+}

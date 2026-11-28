@@ -1,0 +1,53 @@
+{
+  "id": "task_046",
+  "slug": "khto-ya-rodyna-y-druzi",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Хто я? Родина й друзі",
+      "shortDesc": "Вгадайте, кого загадали з ваших рідних і друзів",
+      "fullDesc": "Один гравець загадує когось із родини, друзів чи улюблених героїв родинних історій. Інші ставлять запитання, на які можна відповісти лише «так» чи «ні»: «Він високий?», «Вона живе далеко?». Хто вгадав, загадує наступним."
+    },
+    "en": {
+      "title": "Who Am I? Family and Friends",
+      "shortDesc": "Guess which of your loved ones was picked",
+      "fullDesc": "One player thinks of someone from the family, friends or favourite characters from family stories. The others ask questions that can only be answered \"yes\" or \"no\": \"Is he tall?\", \"Does she live far away?\" Whoever guesses picks next."
+    },
+    "pl": {
+      "title": "Kim jestem? Rodzina i przyjaciele",
+      "shortDesc": "Odgadnijcie, kogo z bliskich i przyjaciół wybrano",
+      "fullDesc": "Jeden gracz wymyśla kogoś z rodziny, przyjaciół lub ulubionych bohaterów rodzinnych opowieści. Pozostali zadają pytania, na które można odpowiedzieć tylko „tak\" lub „nie\": „Czy jest wysoki?\", „Czy mieszka daleko?\". Kto odgadnie, wymyśla następną osobę."
+    },
+    "es": {
+      "title": "¿Quién soy? Familia y amigos",
+      "shortDesc": "Adivinad a qué familiar o amigo han elegido",
+      "fullDesc": "Un jugador piensa en alguien de la familia, amigos o personajes queridos de las historias familiares. Los demás hacen preguntas que solo se pueden responder con «sí» o «no»: «¿Es alto?», «¿Vive lejos?». Quien acierta elige al siguiente."
+    },
+    "de": {
+      "title": "Wer bin ich? Familie und Freunde",
+      "shortDesc": "Errate, an wen aus Familie und Freundeskreis gedacht wurde",
+      "fullDesc": "Ein Spieler denkt sich jemanden aus der Familie, den Freunden oder liebe Figuren aus Familiengeschichten aus. Die anderen stellen Fragen, die nur mit „ja“ oder „nein“ beantwortet werden: „Ist er groß?“, „Wohnt sie weit weg?“. Wer es errät, denkt sich den Nächsten aus."
+    },
+    "fr": {
+      "title": "Qui suis-je ? Famille et amis",
+      "shortDesc": "Devinez qui de vos proches et amis a été choisi",
+      "fullDesc": "Un joueur pense à quelqu'un de la famille, des amis ou des héros chéris des histoires familiales. Les autres posent des questions auxquelles on ne peut répondre que par « oui » ou « non » : « Est-il grand ? », « Habite-t-elle loin ? ». Celui qui devine choisit la personne suivante."
+    }
+  },
+  "image": "ideas/khto-ya-rodyna-y-druzi.jpg",
+  "photo": {
+    "id": "K8XYGbw4Ahg",
+    "author": "Priscilla Du Preez",
+    "url": "https://unsplash.com/photos/K8XYGbw4Ahg"
+  }
+}

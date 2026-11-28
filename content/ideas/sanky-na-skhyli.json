@@ -1,0 +1,55 @@
+{
+  "id": "task_088",
+  "slug": "sanky-na-skhyli",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "winter",
+    "walk"
+  ],
+  "text": {
+    "ua": {
+      "title": "Санки на схилі",
+      "shortDesc": "Скотіться зі схилу й посмійтеся разом",
+      "fullDesc": "Коли нападає сніг, візьміть санки чи просто пакет і знайдіть безпечний пологий схил без дороги внизу. Катайтеся по черзі, влаштовуйте перегони, а потім випийте чогось гарячого. Дорослим теж можна з’їхати."
+    },
+    "en": {
+      "title": "Sledding Down the Hill",
+      "shortDesc": "Slide down a slope and laugh together",
+      "fullDesc": "When the snow falls, take a sled or just a plastic bag and find a safe, gentle slope with no road at the bottom. Take turns, race each other, then have something hot to drink. Grown-ups can slide down too."
+    },
+    "pl": {
+      "title": "Sanki na stoku",
+      "shortDesc": "Zjedźcie ze stoku i pośmiejcie się razem",
+      "fullDesc": "Gdy spadnie śnieg, weźcie sanki albo po prostu worek foliowy i znajdźcie bezpieczny, łagodny stok bez drogi u podnóża. Zjeżdżajcie na zmianę, urządzajcie wyścigi, a potem napijcie się czegoś gorącego. Dorośli też mogą zjechać."
+    },
+    "es": {
+      "title": "Trineo en la cuesta",
+      "shortDesc": "Deslizaos por la ladera y reíd juntos",
+      "fullDesc": "Cuando caiga nieve, coged un trineo o simplemente una bolsa y buscad una ladera suave y segura, sin carretera abajo. Deslizaos por turnos, haced carreras y luego tomad algo caliente. Los adultos también pueden bajar."
+    },
+    "de": {
+      "title": "Schlitten am Hang",
+      "shortDesc": "Rutscht den Hang hinunter und lacht gemeinsam",
+      "fullDesc": "Wenn Schnee fällt, nimm einen Schlitten oder einfach eine Tüte und such einen sicheren, sanften Hang ohne Straße am Ende. Fahrt abwechselnd, macht Wettrennen und trinkt danach etwas Warmes. Auch Erwachsene dürfen runterrutschen."
+    },
+    "fr": {
+      "title": "Luge sur la pente",
+      "shortDesc": "Dévalez la pente et riez ensemble",
+      "fullDesc": "Quand la neige tombe, prenez une luge ou simplement un sac plastique et trouvez une pente douce et sûre, sans route en bas. Glissez à tour de rôle, faites des courses, puis buvez quelque chose de chaud. Les adultes peuvent aussi descendre."
+    }
+  },
+  "image": "ideas/sanky-na-skhyli.jpg",
+  "photo": {
+    "id": "8rlnMNMUB8s",
+    "author": "Bill Alexy",
+    "url": "https://unsplash.com/photos/8rlnMNMUB8s"
+  }
+}

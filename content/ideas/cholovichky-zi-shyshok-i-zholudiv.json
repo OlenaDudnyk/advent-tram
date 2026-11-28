@@ -1,0 +1,54 @@
+{
+  "id": "task_042",
+  "slug": "cholovichky-zi-shyshok-i-zholudiv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "text": {
+    "ua": {
+      "title": "Чоловічки зі шишок і жолудів",
+      "shortDesc": "Лісові жителі для підвіконня",
+      "fullDesc": "З шишок, жолудів, нитки та клаптиків тканини зліпіть смішних лісових мешканців. Очі з пластиліну, шарфики з фетру. Розставте їх на підвіконні та вигадайте кожному імʼя й коротку історію про зиму в лісі."
+    },
+    "en": {
+      "title": "Pine Cone and Acorn People",
+      "shortDesc": "Little forest folk for the windowsill",
+      "fullDesc": "Make funny forest creatures from pine cones, acorns, thread and scraps of fabric. Give them plasticine eyes and felt scarves. Line them up on the windowsill and invent a name and a short winter story for each one."
+    },
+    "pl": {
+      "title": "Ludziki z szyszek i żołędzi",
+      "shortDesc": "Leśni mieszkańcy na parapet",
+      "fullDesc": "Z szyszek, żołędzi, nitki i skrawków materiału zróbcie zabawnych leśnych mieszkańców. Oczy z plasteliny, szaliczki z filcu. Ustawcie ich na parapecie i wymyślcie każdemu imię oraz krótką opowieść o zimie w lesie."
+    },
+    "es": {
+      "title": "Muñequitos de piñas y bellotas",
+      "shortDesc": "Habitantes del bosque para la ventana",
+      "fullDesc": "Con piñas, bellotas, hilo y retales de tela, haced divertidos habitantes del bosque. Ojos de plastilina, bufandas de fieltro. Colocadlos en el alféizar e inventad para cada uno un nombre y una breve historia sobre el invierno en el bosque."
+    },
+    "de": {
+      "title": "Zapfen- und Eichelmännchen",
+      "shortDesc": "Waldbewohner für die Fensterbank",
+      "fullDesc": "Bastle aus Zapfen, Eicheln, Faden und Stoffresten lustige Waldbewohner. Augen aus Knete, Schals aus Filz. Stellt sie auf die Fensterbank und erfindet für jeden einen Namen und eine kurze Geschichte vom Winter im Wald."
+    },
+    "fr": {
+      "title": "Petits personnages en pommes de pin et glands",
+      "shortDesc": "Des habitants de la forêt pour le rebord de fenêtre",
+      "fullDesc": "Avec des pommes de pin, des glands, du fil et des chutes de tissu, fabriquez de drôles d'habitants de la forêt. Yeux en pâte à modeler, écharpes en feutrine. Installez-les sur le rebord de la fenêtre et inventez à chacun un nom et une petite histoire sur l'hiver en forêt."
+    }
+  },
+  "image": "ideas/cholovichky-zi-shyshok-i-zholudiv.jpg",
+  "photo": {
+    "id": "QXHr5GEJaJQ",
+    "author": "John Robinson",
+    "url": "https://unsplash.com/photos/QXHr5GEJaJQ"
+  }
+}

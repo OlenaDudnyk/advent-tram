@@ -1,0 +1,72 @@
+{
+  "id": "task_110",
+  "slug": "yalynky-svoyimy-rukamy",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "decor"
+  ],
+  "list": {
+    "kind": "links",
+    "items": [
+      {
+        "text": "Ялинка з паперу — приклад 1",
+        "url": "https://www.pinterest.com/pin/706572629084029288/"
+      },
+      {
+        "text": "Ялинка — приклад 2",
+        "url": "https://www.pinterest.com/pin/1096415471824757947/"
+      },
+      {
+        "text": "Ялинка — приклад 3",
+        "url": "https://www.pinterest.com/pin/1113233601682350662/"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Ялинки своїми руками",
+      "shortDesc": "Зробіть ялинки з підручних матеріалів",
+      "fullDesc": "Оберіть із прикладів нижче ялинку, яку захочете зробити, і зберіть потрібні матеріали. Працюйте разом: діти вигадують прикраси, дорослі допомагають із ножицями й клеєм. Розставте готові ялинки на столі чи підвіконні або подаруйте одну комусь із рідних."
+    },
+    "en": {
+      "title": "DIY Christmas Trees",
+      "shortDesc": "Make trees from everyday materials",
+      "fullDesc": "Pick a tree from the examples below that you would like to make and gather the materials. Work together: children dream up the decorations, grown-ups help with scissors and glue. Arrange the finished trees on a table or windowsill, or give one to a relative."
+    },
+    "pl": {
+      "title": "Choinki własnoręcznie",
+      "shortDesc": "Zróbcie choinki z rzeczy, które macie pod ręką",
+      "fullDesc": "Wybierzcie z poniższych przykładów choinkę, którą chcecie zrobić, i zbierzcie potrzebne materiały. Pracujcie razem: dzieci wymyślają ozdoby, dorośli pomagają z nożyczkami i klejem. Ustawcie gotowe choinki na stole lub parapecie albo podarujcie jedną komuś bliskiemu."
+    },
+    "es": {
+      "title": "Árboles de Navidad hechos a mano",
+      "shortDesc": "Haced árboles con materiales que tengáis a mano",
+      "fullDesc": "Elegid de los ejemplos de abajo el árbol que queréis hacer y reunid los materiales necesarios. Trabajad juntos: los niños inventan los adornos y los adultos ayudan con las tijeras y el pegamento. Colocad los árboles terminados en la mesa o el alféizar, o regalad uno a alguien de la familia."
+    },
+    "de": {
+      "title": "Tannenbäume selbstgemacht",
+      "shortDesc": "Bastle Tannenbäume aus Dingen, die du zu Hause hast",
+      "fullDesc": "Such dir aus den Beispielen unten einen Tannenbaum aus, den du basteln möchtest, und sammle die nötigen Materialien. Arbeitet zusammen: Die Kinder erfinden den Schmuck, die Erwachsenen helfen mit Schere und Kleber. Stellt die fertigen Bäume auf den Tisch oder die Fensterbank oder schenkt einen jemandem aus der Familie."
+    },
+    "fr": {
+      "title": "Sapins faits maison",
+      "shortDesc": "Fabriquez des sapins avec ce que vous avez sous la main",
+      "fullDesc": "Choisissez parmi les exemples ci-dessous le sapin que vous voulez faire et rassemblez le matériel nécessaire. Travaillez ensemble : les enfants inventent les décorations, les adultes aident avec les ciseaux et la colle. Installez les sapins terminés sur la table ou le rebord de la fenêtre, ou offrez-en un à un proche."
+    }
+  },
+  "image": "ideas/yalynky-svoyimy-rukamy.jpg",
+  "photo": {
+    "id": "OObpcf27zz8",
+    "author": "Kelly Sikkema",
+    "url": "https://unsplash.com/photos/a-green-origami-christmas-tree-sitting-on-top-of-a-table-OObpcf27zz8"
+  }
+}

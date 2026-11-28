@@ -12,7 +12,10 @@
     "family"
   ],
   "image": "ideas/a-little-mess-a-lot-of-joy.jpg",
-  "tags": [],
+  "tags": [
+    "baking",
+    "kitchen"
+  ],
   "inspiration": {
     "url": "https://www.youtube.com/results?search_query=gingerbread+cookies+decorating+tutorial"
   },
@@ -52,5 +55,23 @@
     "id": "9e5dfq_v6Sw",
     "author": "Roma Durkin",
     "url": "https://unsplash.com/photos/9e5dfq_v6Sw"
+  },
+  "topic": "cook",
+  "list": {
+    "kind": "recipe",
+    "items": [
+      {
+        "text": "Імбирне печиво до свят — Євген Клопотенко",
+        "url": "https://klopotenko.com/smachne-imbyrne-pechyvo-do-svyat-prostyj-reczept/"
+      },
+      {
+        "text": "Різдвяні імбирні пряники — Євген Клопотенко",
+        "url": "https://klopotenko.com/rizdvyani-imbyrni-pryanyky-vid-yevgena-klopotenka/"
+      },
+      {
+        "text": "Gingerbread — BBC Good Food",
+        "url": "https://www.bbcgoodfood.com/recipes/gingerbread-people"
+      }
+    ]
   }
 }

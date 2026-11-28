@@ -1,0 +1,55 @@
+{
+  "id": "task_118",
+  "slug": "lyst-mykolayu-chy-santi",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "tradition",
+    "gift"
+  ],
+  "text": {
+    "ua": {
+      "title": "Лист Миколаю чи Санті",
+      "shortDesc": "Напишіть листа з бажаннями й подяками",
+      "fullDesc": "Візьміть гарний папір і напишіть листа святому Миколаю чи Санті. Розкажіть, що було добре цього року, за що ви вдячні й про що мрієте. Намалюйте малюнок, вкладіть у конверт і віднесіть до пошти чи покладіть під подушку."
+    },
+    "en": {
+      "title": "Letter to Santa",
+      "shortDesc": "Write a letter of wishes and thanks",
+      "fullDesc": "Take some nice paper and write a letter to Saint Nicholas or Santa. Tell him what went well this year, what you are grateful for and what you dream about. Draw a picture, put it in an envelope and take it to the post office or place it under your pillow."
+    },
+    "pl": {
+      "title": "List do Mikołaja",
+      "shortDesc": "Napiszcie list z życzeniami i podziękowaniami",
+      "fullDesc": "Weźcie ładny papier i napiszcie list do świętego Mikołaja. Opowiedzcie, co było dobre w tym roku, za co jesteście wdzięczni i o czym marzycie. Narysujcie obrazek, włóżcie do koperty i zanieście na pocztę albo połóżcie pod poduszką."
+    },
+    "es": {
+      "title": "Carta a Papá Noel",
+      "shortDesc": "Escribid una carta con deseos y agradecimientos",
+      "fullDesc": "Coged un papel bonito y escribid una carta a San Nicolás o a Papá Noel. Contad qué fue bueno este año, por qué estáis agradecidos y qué soñáis. Dibujad algo, metedlo en un sobre y llevadlo a correos o ponedlo bajo la almohada."
+    },
+    "de": {
+      "title": "Brief an den Nikolaus oder Weihnachtsmann",
+      "shortDesc": "Schreibe einen Brief mit Wünschen und Dank",
+      "fullDesc": "Nimm schönes Papier und schreibe einen Brief an den Nikolaus oder den Weihnachtsmann. Erzähle, was in diesem Jahr gut war, wofür du dankbar bist und wovon du träumst. Male ein Bild dazu, leg es in einen Umschlag und bring ihn zur Post oder leg ihn unter das Kopfkissen."
+    },
+    "fr": {
+      "title": "Lettre au Père Noël",
+      "shortDesc": "Écrivez une lettre de souhaits et de remerciements",
+      "fullDesc": "Prenez un joli papier et écrivez une lettre à saint Nicolas ou au Père Noël. Racontez ce qui a été bien cette année, ce dont vous êtes reconnaissant et ce dont vous rêvez. Faites un dessin, glissez-le dans une enveloppe et portez-la à la poste ou posez-la sous l'oreiller."
+    }
+  },
+  "image": "ideas/lyst-mykolayu-chy-santi.jpg",
+  "photo": {
+    "id": "F69TdIcN7hs",
+    "author": "CardMapr.nl",
+    "url": "https://unsplash.com/photos/F69TdIcN7hs"
+  }
+}

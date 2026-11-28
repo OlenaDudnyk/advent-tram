@@ -1,0 +1,66 @@
+{
+  "id": "task_055",
+  "slug": "rizdvyanyy-pleylyst",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "music",
+    "tradition"
+  ],
+  "list": {
+    "kind": "music",
+    "items": [
+      "All I Want for Christmas Is You — Mariah Carey",
+      "Last Christmas — Wham!",
+      "White Christmas — Bing Crosby",
+      "Have Yourself a Merry Little Christmas — Judy Garland",
+      "Let It Snow! — Dean Martin",
+      "Jingle Bell Rock — Bobby Helms",
+      "Щедрик — Микола Леонтович",
+      "Тиха ніч — Silent Night"
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Різдвяний плейлист",
+      "shortDesc": "Спільно складіть добірку для зимових вечорів",
+      "fullDesc": "Нехай кожен запропонує дві-три композиції, що асоціюються з зимою та святом, і додайте їх в один список. Послухайте разом і розкажіть, чому ви їх обрали. Потім вмикайте цей плейлист під час куховарства чи прикрашання."
+    },
+    "en": {
+      "title": "Christmas Playlist",
+      "shortDesc": "Build a collection for winter evenings together",
+      "fullDesc": "Let everyone suggest two or three songs that remind them of winter and the holidays, and add them to one list. Listen together and say why you picked them. Then play the playlist while cooking or decorating."
+    },
+    "pl": {
+      "title": "Świąteczna playlista",
+      "shortDesc": "Skomponujcie razem zestaw piosenek na zimowe wieczory",
+      "fullDesc": "Niech każdy zaproponuje dwa lub trzy utwory kojarzące się z zimą i świętami, a potem dodajcie je do jednej listy. Posłuchajcie razem i opowiedzcie, dlaczego je wybraliście. Potem włączajcie playlistę podczas gotowania lub ubierania choinki."
+    },
+    "es": {
+      "title": "Lista de reproducción navideña",
+      "shortDesc": "Haced juntos una selección para las tardes de invierno",
+      "fullDesc": "Que cada uno proponga dos o tres canciones que le recuerden al invierno y a la fiesta, y añadidlas a una sola lista. Escuchadla juntos y contad por qué las elegisteis. Luego ponedla mientras cocináis o decoráis."
+    },
+    "de": {
+      "title": "Weihnachts-Playlist",
+      "shortDesc": "Stellt gemeinsam eine Auswahl für Winterabende zusammen",
+      "fullDesc": "Jeder schlägt zwei oder drei Lieder vor, die ihn an Winter und Fest erinnern, und ihr fügt sie in einer Liste zusammen. Hört sie gemeinsam an und erzählt, warum ihr sie gewählt habt. Danach spielt ihr diese Playlist beim Kochen oder Schmücken ab."
+    },
+    "fr": {
+      "title": "Playlist de Noël",
+      "shortDesc": "Composez ensemble une sélection pour les soirées d'hiver",
+      "fullDesc": "Que chacun propose deux ou trois morceaux qui lui évoquent l'hiver et la fête, et ajoutez-les dans une seule liste. Écoutez-les ensemble et dites pourquoi vous les avez choisis. Ensuite, lancez cette playlist pendant que vous cuisinez ou décorez."
+    }
+  },
+  "image": "ideas/rizdvyanyy-pleylyst.jpg",
+  "photo": {
+    "id": "HwwQZZdQHtc",
+    "author": "C D-X",
+    "url": "https://unsplash.com/photos/HwwQZZdQHtc"
+  }
+}

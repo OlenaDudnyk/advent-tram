@@ -49,5 +49,27 @@
     "id": "Rfp1oIfFzwI",
     "author": "Eugenia Pan'kiv",
     "url": "https://unsplash.com/photos/white-and-red-throw-pillow-on-white-bed-Rfp1oIfFzwI"
-  }
+  },
+  "list": {
+    "kind": "film",
+    "items": [
+      "Home Alone (1990)",
+      "The Polar Express (2004)",
+      "Elf (2003)",
+      "Klaus (2019)",
+      "The Grinch (2018)",
+      "Arthur Christmas (2011)",
+      "A Charlie Brown Christmas (1965)",
+      "Rudolph the Red-Nosed Reindeer (1964)",
+      "The Nightmare Before Christmas (1993)",
+      "Miracle on 34th Street (1947)",
+      "It's a Wonderful Life (1946)",
+      "Ніч перед Різдвом (1951)",
+      {
+        "text": "Добірка різдвяних фільмів — Pinterest",
+        "url": "https://www.pinterest.com/pin/41025046597438651/"
+      }
+    ]
+  },
+  "topic": "cozy"
 }

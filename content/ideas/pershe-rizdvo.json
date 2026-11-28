@@ -1,0 +1,67 @@
+{
+  "id": "task_121",
+  "slug": "pershe-rizdvo",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "tradition"
+  ],
+  "inspiration": {
+    "url": "https://www.youtube.com/watch?v=Z2bjqTXNn2k",
+    "type": "youtube"
+  },
+  "list": {
+    "kind": "links",
+    "items": [
+      {
+        "text": "Що таке Різдво? Історія й традиції для дітей (відео)",
+        "url": "https://www.youtube.com/watch?v=Z2bjqTXNn2k"
+      }
+    ]
+  },
+  "text": {
+    "ua": {
+      "title": "Перше Різдво",
+      "shortDesc": "Згадайте історію, з якої починається свято",
+      "fullDesc": "Подивіться разом коротке відео про те, що таке Різдво, і поговоріть із дітьми, чому ми святкуємо цей день. Можна побувати в церкві чи просто послухати колядки. Кожна родина вкладає в це своє: поважайте вибір одне одного."
+    },
+    "en": {
+      "title": "The First Christmas",
+      "shortDesc": "Remember the story the holiday began with",
+      "fullDesc": "Watch a short video together about what Christmas is and talk with the children about why we celebrate this day. You can visit a church or simply listen to carols. Every family brings its own meaning to it: respect each other's choices."
+    },
+    "pl": {
+      "title": "Pierwsze Boże Narodzenie",
+      "shortDesc": "Przypomnijcie sobie historię, od której zaczyna się święto",
+      "fullDesc": "Obejrzyjcie razem krótki film o tym, czym są święta Bożego Narodzenia, i porozmawiajcie z dziećmi o tym, dlaczego obchodzimy ten dzień. Możecie odwiedzić kościół albo po prostu posłuchać kolęd. Każda rodzina wkłada w to coś własnego: szanujcie swoje wybory."
+    },
+    "es": {
+      "title": "La primera Navidad",
+      "shortDesc": "Recordad la historia con la que empieza la fiesta",
+      "fullDesc": "Mirad juntos un vídeo corto sobre qué es la Navidad y hablad con los niños de por qué celebramos este día. Podéis visitar una iglesia o simplemente escuchar villancicos. Cada familia le da su propio sentido: respetad la elección de cada uno."
+    },
+    "de": {
+      "title": "Das erste Weihnachten",
+      "shortDesc": "Erinnert euch an die Geschichte, mit der das Fest beginnt",
+      "fullDesc": "Schaut gemeinsam ein kurzes Video darüber, was Weihnachten ist, und sprecht mit den Kindern darüber, warum wir diesen Tag feiern. Ihr könnt eine Kirche besuchen oder einfach Weihnachtslieder hören. Jede Familie legt ihr Eigenes hinein: Respektiert die Entscheidung der anderen."
+    },
+    "fr": {
+      "title": "Le premier Noël",
+      "shortDesc": "Retrouvez l'histoire d'où vient la fête",
+      "fullDesc": "Regardez ensemble une courte vidéo sur ce qu'est Noël et parlez avec les enfants de la raison pour laquelle nous célébrons ce jour. Vous pouvez aller à l'église ou simplement écouter des chants de Noël. Chaque famille y met du sien : respectez le choix de chacun."
+    }
+  },
+  "image": "ideas/pershe-rizdvo.jpg",
+  "photo": {
+    "id": "-lnNl7GTsmw",
+    "author": "DESIGNECOLOGIST",
+    "url": "https://unsplash.com/photos/-lnNl7GTsmw"
+  }
+}

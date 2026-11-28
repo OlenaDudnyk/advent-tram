@@ -1,0 +1,56 @@
+{
+  "id": "task_089",
+  "slug": "kryzhani-likhtaryky",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "out",
+  "duration": 60,
+  "ageGroups": [
+    "kids_7_12",
+    "adults",
+    "family"
+  ],
+  "tags": [
+    "winter",
+    "lights",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Крижані ліхтарики",
+      "shortDesc": "Заморозьте воду з листям і поставте свічку",
+      "fullDesc": "Налийте воду у відро чи миску, додайте гілочки, ягоди й листя та залиште на морозі, поки замерзне стінка. Витягніть лід із порожниною посередині й поставте всередину свічку. Вечірній ліхтарик на ґанку виглядає чарівно, якщо вистачить морозу."
+    },
+    "en": {
+      "title": "Ice Lanterns",
+      "shortDesc": "Freeze water with leaves and add a candle",
+      "fullDesc": "Pour water into a bucket or bowl, add twigs, berries and leaves, and leave it in the frost until the walls freeze. Lift out the ice with a hollow in the middle and place a candle inside. An evening lantern on the porch looks magical, if the frost is strong enough."
+    },
+    "pl": {
+      "title": "Lodowe lampiony",
+      "shortDesc": "Zamróźcie wodę z liśćmi i postawcie świeczkę",
+      "fullDesc": "Nalejcie wodę do wiadra lub miski, dodajcie gałązki, jagody i liście i zostawcie na mrozie, aż zamarzną ścianki. Wyjmijcie lód z pustą przestrzenią w środku i postawcie w nim świeczkę. Wieczorny lampion na ganku wygląda czarująco, jeśli tylko mróz da radę."
+    },
+    "es": {
+      "title": "Farolillos de hielo",
+      "shortDesc": "Congelad agua con hojas y poned una vela",
+      "fullDesc": "Llenad de agua un cubo o un cuenco, añadid ramitas, bayas y hojas, y dejadlo a la helada hasta que se congele la pared. Sacad el hielo con el hueco en el centro y poned dentro una vela. Un farolillo en el porche por la tarde queda mágico, si hay suficiente helada."
+    },
+    "de": {
+      "title": "Eislaternen",
+      "shortDesc": "Friere Wasser mit Blättern ein und stelle eine Kerze hinein",
+      "fullDesc": "Gieße Wasser in einen Eimer oder eine Schüssel, gib Zweige, Beeren und Blätter dazu und lass es im Frost stehen, bis die Wand gefroren ist. Nimm das Eis mit dem Hohlraum in der Mitte heraus und stelle eine Kerze hinein. Eine Laterne am Abend auf der Veranda wirkt zauberhaft, wenn es kalt genug ist."
+    },
+    "fr": {
+      "title": "Lanternes de glace",
+      "shortDesc": "Faites geler de l'eau avec des feuilles et ajoutez une bougie",
+      "fullDesc": "Versez de l'eau dans un seau ou un bol, ajoutez des brindilles, des baies et des feuilles, puis laissez au gel jusqu'à ce que la paroi soit gelée. Sortez la glace avec la cavité au milieu et placez-y une bougie. Une lanterne sur le perron le soir est magique, s'il gèle assez."
+    }
+  },
+  "image": "ideas/kryzhani-likhtaryky.jpg",
+  "photo": {
+    "id": "5ZtPwduBFTw",
+    "author": "Robert Thiemann",
+    "url": "https://unsplash.com/photos/5ZtPwduBFTw"
+  }
+}

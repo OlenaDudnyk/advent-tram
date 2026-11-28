@@ -1,0 +1,55 @@
+{
+  "id": "task_047",
+  "slug": "teatr-tiney",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games",
+    "cozy"
+  ],
+  "text": {
+    "ua": {
+      "title": "Театр тіней",
+      "shortDesc": "Казка на стіні від ліхтарика та долонь",
+      "fullDesc": "Вимкніть світло, увімкніть ліхтарик і покажіть на стіні тіней зайчиків, птахів і ялинки руками чи вирізаними з картону фігурками. Вигадайте коротку історію. Невеличка вистава завжди збирає родину разом."
+    },
+    "en": {
+      "title": "Shadow Theatre",
+      "shortDesc": "A story on the wall from a flashlight and your hands",
+      "fullDesc": "Turn off the lights, switch on a flashlight and show bunnies, birds and trees on the wall, using your hands or cardboard cut-outs. Make up a short story. A little show like this always brings the family together."
+    },
+    "pl": {
+      "title": "Teatr cieni",
+      "shortDesc": "Bajka na ścianie z latarki i dłoni",
+      "fullDesc": "Zgaście światło, włączcie latarkę i pokażcie na ścianie cienie zajączków, ptaków i choinek, używając rąk lub wyciętych z kartonu figurek. Wymyślcie krótką historię. Takie małe przedstawienie zawsze zbliża rodzinę."
+    },
+    "es": {
+      "title": "Teatro de sombras",
+      "shortDesc": "Un cuento en la pared con una linterna y las manos",
+      "fullDesc": "Apagad la luz, encended una linterna y mostrad en la pared sombras de conejitos, pájaros y abetos con las manos o con figuras recortadas en cartón. Inventad una historia corta. Una pequeña función siempre reúne a la familia."
+    },
+    "de": {
+      "title": "Schattentheater",
+      "shortDesc": "Ein Märchen an der Wand mit Taschenlampe und Händen",
+      "fullDesc": "Mach das Licht aus, schalte eine Taschenlampe an und zeige an der Wand Schatten von Häschen, Vögeln und Tannenbäumen, mit den Händen oder mit ausgeschnittenen Kartonfiguren. Erfindet eine kurze Geschichte. Eine kleine Aufführung bringt die Familie immer zusammen."
+    },
+    "fr": {
+      "title": "Théâtre d'ombres",
+      "shortDesc": "Un conte sur le mur avec une lampe torche et vos mains",
+      "fullDesc": "Éteignez la lumière, allumez une lampe torche et montrez sur le mur des ombres de lapins, d'oiseaux et de sapins avec les mains ou avec des figurines découpées dans du carton. Inventez une courte histoire. Un petit spectacle réunit toujours la famille."
+    }
+  },
+  "image": "ideas/teatr-tiney.jpg",
+  "photo": {
+    "id": "aXx1I-BGrso",
+    "author": "Seljan Salim",
+    "url": "https://unsplash.com/photos/hands-casting-shadows-on-a-textured-wall-aXx1I-BGrso"
+  }
+}

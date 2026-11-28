@@ -1,7 +1,7 @@
 import { Component, inject } from '@angular/core';
 import { IonApp, IonRouterOutlet } from '@ionic/angular';
 
-import { AppUpdateService, InstallService, NavigationHistoryService, SeoService, StorageService } from './core/services';
+import { AppUpdateService, InstallService, LayoutService, NavigationHistoryService, SeoService, StorageService } from './core/services';
 import { SnowBackdropComponent } from './shared/snow-backdrop/snow-backdrop.component';
 
 @Component({
@@ -10,6 +10,9 @@ import { SnowBackdropComponent } from './shared/snow-backdrop/snow-backdrop.comp
   imports: [IonApp, IonRouterOutlet, SnowBackdropComponent],
 })
 export class AppComponent {
+  /** Tablet and up: the card and its header stay put while pages change, so the page slide is off. */
+  readonly tablet = inject(LayoutService).tablet;
+
   // Instantiate early so the in-app history is tracked from the first navigation.
   constructor() {
     inject(NavigationHistoryService);

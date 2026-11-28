@@ -1,0 +1,55 @@
+{
+  "id": "task_056",
+  "slug": "domashniy-kontsert",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "music",
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Домашній концерт",
+      "shortDesc": "Співаємо, граємо й аплодуємо одне одному",
+      "fullDesc": "Кожен готує невеликий виступ: пісню, вірш, мелодію на будь-якому інструменті, навіть ложках і баночках. Влаштуйте сцену з ковдр, афішу й квитки. Глядачі гучно аплодують, а потім усі дякують за вечір."
+    },
+    "en": {
+      "title": "Home Concert",
+      "shortDesc": "Sing, play and applaud each other",
+      "fullDesc": "Everyone prepares a small performance: a song, a poem, a tune on any instrument, even spoons and jars. Build a stage from blankets, and make a poster and tickets. The audience applauds loudly, and then everyone thanks each other for the evening."
+    },
+    "pl": {
+      "title": "Domowy koncert",
+      "shortDesc": "Śpiewamy, gramy i klaszczemy sobie nawzajem",
+      "fullDesc": "Każdy przygotowuje krótki występ: piosenkę, wierszyk, melodię na dowolnym instrumencie, nawet na łyżkach i słoikach. Zbudujcie scenę z koców, zróbcie plakat i bilety. Widzowie głośno biją brawo, a na koniec wszyscy dziękują za wieczór."
+    },
+    "es": {
+      "title": "Concierto en casa",
+      "shortDesc": "Cantamos, tocamos y nos aplaudimos",
+      "fullDesc": "Cada uno prepara una pequeña actuación: una canción, un poema, una melodía con cualquier instrumento, incluso con cucharas y tarritos. Montad un escenario con mantas, un cartel y entradas. El público aplaude con ganas y al final todos dan las gracias por la velada."
+    },
+    "de": {
+      "title": "Hauskonzert",
+      "shortDesc": "Wir singen, spielen und klatschen füreinander",
+      "fullDesc": "Jeder bereitet einen kleinen Auftritt vor: ein Lied, ein Gedicht, eine Melodie auf irgendeinem Instrument, sogar auf Löffeln und Gläschen. Baut eine Bühne aus Decken, ein Plakat und Eintrittskarten. Das Publikum klatscht laut, und am Ende bedanken sich alle für den Abend."
+    },
+    "fr": {
+      "title": "Concert à la maison",
+      "shortDesc": "On chante, on joue et on s'applaudit",
+      "fullDesc": "Chacun prépare une petite prestation : une chanson, un poème, une mélodie sur n'importe quel instrument, même des cuillères et des petits pots. Installez une scène avec des couvertures, une affiche et des billets. Le public applaudit bien fort, puis tout le monde remercie pour la soirée."
+    }
+  },
+  "image": "ideas/domashniy-kontsert.jpg",
+  "photo": {
+    "id": "zJbERq3g2T0",
+    "author": "Flaviu Costin",
+    "url": "https://unsplash.com/photos/zJbERq3g2T0"
+  }
+}

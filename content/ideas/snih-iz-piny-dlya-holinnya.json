@@ -1,0 +1,59 @@
+{
+  "id": "task_112",
+  "slug": "snih-iz-piny-dlya-holinnya",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "craft",
+    "cozy"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/411375747236607900/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Сніг із піни для гоління",
+      "shortDesc": "Холодний і м’який «сніг» для творчої гри",
+      "fullDesc": "Змішайте піну для гоління з кукурудзяним крохмалем, доки не вийде м’яка маса, схожа на сніг. Ліпіть із неї сніговиків і малюйте пальцями на таці. Тільки під наглядом дорослих і не для тих, хто тягне все до рота."
+    },
+    "en": {
+      "title": "Shaving Foam Snow",
+      "shortDesc": "Cold, soft \"snow\" for creative play",
+      "fullDesc": "Mix shaving foam with cornflour until you get a soft, snow-like mass. Sculpt little snowmen from it and draw with your fingers on a tray. Only with adult supervision, and not for children who put everything in their mouths."
+    },
+    "pl": {
+      "title": "Śnieg z pianki do golenia",
+      "shortDesc": "Zimny i miękki „śnieg\" do kreatywnej zabawy",
+      "fullDesc": "Wymieszajcie piankę do golenia ze skrobią kukurydzianą, aż powstanie miękka masa przypominająca śnieg. Lepcie z niej bałwanki i rysujcie palcami na tacy. Tylko pod okiem dorosłych i nie dla dzieci, które wkładają wszystko do buzi."
+    },
+    "es": {
+      "title": "Nieve de espuma de afeitar",
+      "shortDesc": "«Nieve» fría y suave para jugar y crear",
+      "fullDesc": "Mezclad espuma de afeitar con maicena hasta obtener una masa suave parecida a la nieve. Modelad muñecos de nieve y dibujad con los dedos en una bandeja. Solo con supervisión de un adulto y no para quienes se lo llevan todo a la boca."
+    },
+    "de": {
+      "title": "Schnee aus Rasierschaum",
+      "shortDesc": "Kalter, weicher „Schnee“ zum kreativen Spielen",
+      "fullDesc": "Mische Rasierschaum mit Speisestärke, bis eine weiche, schneeähnliche Masse entsteht. Forme daraus Schneemänner und male mit den Fingern auf einem Tablett. Nur unter Aufsicht von Erwachsenen und nicht für Kinder, die alles in den Mund stecken."
+    },
+    "fr": {
+      "title": "Neige en mousse à raser",
+      "shortDesc": "Une « neige » froide et douce pour jouer et créer",
+      "fullDesc": "Mélangez de la mousse à raser avec de la fécule de maïs jusqu'à obtenir une pâte douce qui ressemble à de la neige. Modelez des bonshommes de neige et dessinez avec les doigts sur un plateau. Uniquement sous la surveillance d'un adulte et pas pour ceux qui mettent tout à la bouche."
+    }
+  },
+  "image": "ideas/snih-iz-piny-dlya-holinnya.jpg",
+  "photo": {
+    "id": "9AT0IdQPaEc",
+    "author": "Ryunosuke Kikuno",
+    "url": "https://unsplash.com/photos/9AT0IdQPaEc"
+  }
+}

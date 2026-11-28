@@ -48,9 +48,10 @@ const TABS: Tab[] = [
     .brand { display: grid; gap: 4px; color: #2f2622; text-decoration: none; }
     .name { font: 700 32px/1.1 var(--font-display); letter-spacing: -.5px; }
     .tagline { color: #6b5f58; font-size: 14px; }
-    ul { display: flex; justify-content: space-between; gap: 4px; margin: 0; padding: 0; list-style: none; }
+    nav { min-width: 0; }
+    ul { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 4px; margin: 0; padding: 0; list-style: none; }
     li a {
-      display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 0 22px; border-radius: 24px;
+      display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 0 clamp(10px, 2.2vw, 22px); border-radius: 24px;
       color: #7a1c2e; font: 700 15px 'Inter Variable', sans-serif; text-decoration: none; white-space: nowrap; transition: background .15s, color .15s;
     }
     li a.active { background: #1b4332; color: #fff; }
@@ -59,8 +60,9 @@ const TABS: Tab[] = [
     .frame-rule { height: 2px; margin: 14px 0 0; border: 0; background: #e3d9d2; }
     @media (min-width: 1024px) {
       .frame-head { flex-direction: row; align-items: center; justify-content: space-between; gap: 24px; }
-      ul { gap: 6px; }
-      li a { min-height: 44px; padding: 0 20px; font-size: 14px; }
+      nav { flex: 1; }
+      ul { justify-content: flex-end; gap: 6px; flex-wrap: nowrap; }
+      li a { min-height: 44px; padding: 0 clamp(10px, 1.4vw, 20px); font-size: 14px; }
     }
   `,
 })

@@ -11,8 +11,11 @@ export class InstallService {
   private deferred: BeforeInstallPromptEvent | null = null;
   readonly canInstall = signal(false);
 
+  /** The install button is switched off for now; flip to true to bring back the Settings section. */
+  static readonly ENABLED = false;
+
   constructor() {
-    if (typeof window === 'undefined') return;
+    if (typeof window === 'undefined' || !InstallService.ENABLED) return;
     window.addEventListener('beforeinstallprompt', (event) => {
       event.preventDefault();
       this.deferred = event as BeforeInstallPromptEvent;

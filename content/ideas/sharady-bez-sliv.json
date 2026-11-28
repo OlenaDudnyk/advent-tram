@@ -1,0 +1,53 @@
+{
+  "id": "task_051",
+  "slug": "sharady-bez-sliv",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games"
+  ],
+  "text": {
+    "ua": {
+      "title": "Шаради без слів",
+      "shortDesc": "Показуйте, а не говоріть",
+      "fullDesc": "Загадайте слово чи фразу про зиму й покажіть його лише жестами та мімікою. Решта вгадує, поки час не вийшов. Для менших дітей підійдуть прості тварини й дії, для старших фільми чи пісні."
+    },
+    "en": {
+      "title": "Charades",
+      "shortDesc": "Show, do not tell",
+      "fullDesc": "Think of a winter word or phrase and act it out using only gestures and expressions. The rest guess before time runs out. Simple animals and actions suit younger children, and films or songs suit older ones."
+    },
+    "pl": {
+      "title": "Kalambury",
+      "shortDesc": "Pokazujcie, a nie mówcie",
+      "fullDesc": "Wymyślcie zimowe słowo lub zwrot i pokażcie je tylko gestami i mimiką. Pozostali zgadują, zanim skończy się czas. Dla młodszych dzieci nadadzą się proste zwierzęta i czynności, dla starszych filmy lub piosenki."
+    },
+    "es": {
+      "title": "Charadas sin palabras",
+      "shortDesc": "Mostrad, no habléis",
+      "fullDesc": "Pensad una palabra o frase sobre el invierno y representadla solo con gestos y mímica. Los demás adivinan antes de que acabe el tiempo. Para los más pequeños sirven animales y acciones sencillas, para los mayores películas o canciones."
+    },
+    "de": {
+      "title": "Scharade ohne Worte",
+      "shortDesc": "Zeigt es, sprecht nicht",
+      "fullDesc": "Denk dir ein Wort oder einen Satz über den Winter aus und stelle ihn nur mit Gesten und Mimik dar. Die anderen raten, bis die Zeit abgelaufen ist. Für kleinere Kinder passen einfache Tiere und Tätigkeiten, für ältere Filme oder Lieder."
+    },
+    "fr": {
+      "title": "Mimes sans paroles",
+      "shortDesc": "Montrez, ne parlez pas",
+      "fullDesc": "Pensez à un mot ou à une phrase sur l'hiver et montrez-le seulement avec des gestes et des mimiques. Les autres devinent avant la fin du temps. Pour les plus petits, des animaux et des actions simples conviennent ; pour les plus grands, des films ou des chansons."
+    }
+  },
+  "image": "ideas/sharady-bez-sliv.jpg",
+  "photo": {
+    "id": "qhlYtYlYVQA",
+    "author": "Roman",
+    "url": "https://unsplash.com/photos/qhlYtYlYVQA"
+  }
+}

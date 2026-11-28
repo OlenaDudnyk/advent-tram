@@ -1,0 +1,58 @@
+{
+  "id": "task_127",
+  "slug": "hra-na-uvazhnist",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 15,
+  "ageGroups": [
+    "kids_3_6",
+    "kids_7_12",
+    "family"
+  ],
+  "tags": [
+    "games"
+  ],
+  "inspiration": {
+    "url": "https://www.pinterest.com/pin/653303489750329766/",
+    "type": "pinterest"
+  },
+  "text": {
+    "ua": {
+      "title": "Гра на уважність",
+      "shortDesc": "Пограйте в гру, яка тренує увагу й швидкість",
+      "fullDesc": "Приготуйте картки чи предмети й запропонуйте дітям знайти відмінності, відгадати, чого не вистачає, або швидко знайти пару. Хто уважніший, той виграє. Підійде для тихого вечора."
+    },
+    "en": {
+      "title": "Attention Game",
+      "shortDesc": "Play a game that trains focus and speed",
+      "fullDesc": "Prepare cards or objects and invite the children to spot the differences, guess what is missing, or quickly find a matching pair. Whoever is more observant wins. Great for a quiet evening."
+    },
+    "pl": {
+      "title": "Gra na uważność",
+      "shortDesc": "Zagrajcie w grę, która ćwiczy uwagę i szybkość",
+      "fullDesc": "Przygotujcie karty lub przedmioty i zaproponujcie dzieciom, by znalazły różnice, odgadły, czego brakuje, albo szybko znalazły parę. Wygrywa ten, kto jest bardziej uważny. Sprawdzi się na spokojny wieczór."
+    },
+    "es": {
+      "title": "Juego de atención",
+      "shortDesc": "Jugad a un juego que entrena la atención y la rapidez",
+      "fullDesc": "Preparad tarjetas u objetos y proponed a los niños encontrar diferencias, adivinar qué falta o encontrar rápido la pareja. Gana el más atento. Es ideal para una tarde tranquila."
+    },
+    "de": {
+      "title": "Aufmerksamkeitsspiel",
+      "shortDesc": "Spielt ein Spiel, das Aufmerksamkeit und Tempo trainiert",
+      "fullDesc": "Bereite Karten oder Gegenstände vor und lass die Kinder Unterschiede finden, erraten, was fehlt, oder schnell ein Paar finden. Wer aufmerksamer ist, gewinnt. Passt gut zu einem ruhigen Abend."
+    },
+    "fr": {
+      "title": "Jeu d'attention",
+      "shortDesc": "Jouez à un jeu qui entraîne l'attention et la rapidité",
+      "fullDesc": "Préparez des cartes ou des objets et proposez aux enfants de trouver les différences, de deviner ce qui manque ou de retrouver vite une paire. Le plus attentif gagne. C'est idéal pour une soirée tranquille."
+    }
+  },
+  "image": "ideas/hra-na-uvazhnist.jpg",
+  "photo": {
+    "id": "MkoTQg_5xjw",
+    "author": "Kathy Marsh",
+    "url": "https://unsplash.com/photos/MkoTQg_5xjw"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "task_062",
+  "slug": "perehlyad-starykh-foto",
+  "status": "published",
+  "addedAt": "2026-11-28",
+  "location": "in",
+  "duration": 30,
+  "ageGroups": [
+    "family"
+  ],
+  "tags": [
+    "memory",
+    "tradition"
+  ],
+  "text": {
+    "ua": {
+      "title": "Перегляд старих фото",
+      "shortDesc": "Переглядайте знімки й розповідайте історії",
+      "fullDesc": "Дістаньте альбоми чи відкрийте архів фото на комп’ютері й гортайте разом. Пригадайте, де були, що їли, чого боялися. Діти полюбляють слухати, якими були в дитинстві, а дорослі згадують забуті дрібниці."
+    },
+    "en": {
+      "title": "Looking at Old Photos",
+      "shortDesc": "Browse pictures and tell stories",
+      "fullDesc": "Get out the albums or open the photo archive on the computer and flip through together. Remember where you were, what you ate and what scared you. Children love hearing what they were like when little, and grown-ups recall forgotten details."
+    },
+    "pl": {
+      "title": "Oglądanie starych zdjęć",
+      "shortDesc": "Przeglądajcie zdjęcia i opowiadajcie historie",
+      "fullDesc": "Wyciągnijcie albumy albo otwórzcie archiwum zdjęć na komputerze i przeglądajcie razem. Przypomnijcie sobie, gdzie byliście, co jedliście i czego się baliście. Dzieci uwielbiają słuchać, jakie były w dzieciństwie, a dorośli przypominają sobie zapomniane drobiazgi."
+    },
+    "es": {
+      "title": "Ver fotos antiguas",
+      "shortDesc": "Mirad las fotos y contad historias",
+      "fullDesc": "Sacad los álbumes o abrid el archivo de fotos del ordenador y pasadlas juntos. Recordad dónde estuvisteis, qué comisteis y a qué teníais miedo. A los niños les gusta oír cómo eran de pequeños, y los adultos recuerdan detalles olvidados."
+    },
+    "de": {
+      "title": "Alte Fotos ansehen",
+      "shortDesc": "Schaut euch Bilder an und erzählt Geschichten",
+      "fullDesc": "Hol die Alben hervor oder öffne das Fotoarchiv am Computer und blättert gemeinsam durch. Erinnert euch, wo ihr wart, was ihr gegessen habt und wovor ihr Angst hattet. Kinder hören gern, wie sie als Baby waren, und Erwachsene erinnern sich an vergessene Kleinigkeiten."
+    },
+    "fr": {
+      "title": "Regarder de vieilles photos",
+      "shortDesc": "Parcourez les images et racontez des histoires",
+      "fullDesc": "Sortez les albums ou ouvrez les archives de photos sur l'ordinateur et feuilletez-les ensemble. Rappelez-vous où vous étiez, ce que vous mangiez, ce qui vous faisait peur. Les enfants aiment écouter comment ils étaient petits, et les adultes retrouvent des détails oubliés."
+    }
+  },
+  "image": "ideas/perehlyad-starykh-foto.jpg",
+  "photo": {
+    "id": "7sPg5OLfExc",
+    "author": "Roman Kraft",
+    "url": "https://unsplash.com/photos/7sPg5OLfExc"
+  }
+}

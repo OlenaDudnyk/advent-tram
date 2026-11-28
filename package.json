@@ -25,7 +25,8 @@
     "idea:new": "node scripts/content.mjs new",
     "prestart": "node scripts/content.mjs build",
     "prebuild": "node scripts/content.mjs build",
-    "pretest:unit": "node scripts/content.mjs build"
+    "pretest:unit": "node scripts/content.mjs build",
+    "content:drafts": "node scripts/import-drafts.mjs"
   },
   "private": true,
   "dependencies": {
