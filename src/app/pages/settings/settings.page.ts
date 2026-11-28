@@ -23,7 +23,8 @@ export class SettingsPage implements OnInit {
 
   readonly language = signal<Language>(DEFAULT_SETTINGS.language);
   readonly languageName = computed(() => LANGUAGE_NAMES[this.language()]);
-  readonly ageGroups = signal<AgeGroup[]>([...DEFAULT_SETTINGS.ageGroups]);
+  readonly ageGroups = signal<AgeGroup[]>([this.getInitialAgeGroup(DEFAULT_SETTINGS.ageGroups)]);
+  readonly selectedAgeGroup = computed<AgeGroup>(() => this.ageGroups()[0] ?? this.getInitialAgeGroup(DEFAULT_SETTINGS.ageGroups));
   readonly adventStyle = signal<AdventStyle>('church');
   readonly adventOptions: { id: AdventStyle; titleKey: TranslationKey; hintKey: TranslationKey }[] = [
     { id: 'church', titleKey: 'settings.adventChurch', hintKey: 'settings.adventChurchHint' },
@@ -51,7 +52,7 @@ export class SettingsPage implements OnInit {
     const settings = await this.storage.loadSettings();
     this.language.set(settings.language);
     this.adventStyle.set(settings.adventStyle ?? DEFAULT_SETTINGS.adventStyle ?? 'church');
-    this.ageGroups.set(settings.ageGroups?.length ? [...settings.ageGroups] : [...DEFAULT_SETTINGS.ageGroups]);
+    this.ageGroups.set([this.getInitialAgeGroup(settings.ageGroups)]);
   }
 
   async setLanguage(language: Language): Promise<void> {
@@ -61,18 +62,13 @@ export class SettingsPage implements OnInit {
     if (!(await this.persist())) this.language.set(previous);
   }
 
+  async selectAgeGroup(group: AgeGroup): Promise<void> {
+    if (this.selectedAgeGroup() === group) return;
+    await this.updateAgeGroups([group]);
+  }
+
   async toggleAgeGroup(group: AgeGroup): Promise<void> {
-    const current = this.ageGroups();
-    if (current.includes(group)) {
-      if (current.length === 1) {
-        this.isError.set(false);
-        this.message.set('settings.keepOne');
-        return;
-      }
-      await this.updateAgeGroups(current.filter((g) => g !== group));
-    } else {
-      await this.updateAgeGroups([...current, group]);
-    }
+    await this.selectAgeGroup(group);
   }
 
   async setAdventStyle(style: AdventStyle): Promise<void> {
@@ -88,17 +84,26 @@ export class SettingsPage implements OnInit {
   }
 
   isSelected(group: AgeGroup): boolean {
-    return this.ageGroups().includes(group);
+    return this.selectedAgeGroup() === group;
+  }
+
+  private getInitialAgeGroup(groups?: AgeGroup[]): AgeGroup {
+    return groups?.[0] ?? DEFAULT_SETTINGS.ageGroups[0] ?? 'family';
   }
 
   private async updateAgeGroups(groups: AgeGroup[]): Promise<void> {
+    const singleGroup: AgeGroup[] = [this.getInitialAgeGroup(groups)];
     const previous = this.ageGroups();
-    this.ageGroups.set(groups);
+    this.ageGroups.set(singleGroup);
     if (!(await this.persist())) this.ageGroups.set(previous);
   }
 
   private async persist(): Promise<boolean> {
-    const settings: AppSettings = { language: this.language(), ageGroups: this.ageGroups(), adventStyle: this.adventStyle() };
+    const settings: AppSettings = {
+      language: this.language(),
+      ageGroups: [this.selectedAgeGroup()],
+      adventStyle: this.adventStyle(),
+    };
     try {
       await this.storage.saveSettings(settings);
       this.isError.set(false);
